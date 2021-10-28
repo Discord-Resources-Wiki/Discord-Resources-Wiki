@@ -4,7 +4,7 @@
 
 ## [Resources](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources)
 ### [The Basics!](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#the-basics)
-### [Official Servers](Resources#official-servers)
+### [Official Servers](./Resources#official-servers)
 ### [Official Forms](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#official-forms)
 ### [Other Important Links](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#other-important-links)
 ### [Official Discord PDFs](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#official-discord-pdfs)
