@@ -27,9 +27,9 @@ __Link:__ [Discord Help Center](https://support.discord.com)
 __Link:__ [Discord Clients](https://discordapp.com/download)
 
 
-## **Official Servers**
+# <a name="official_servers" ></a>**Official Servers**
 
-### **Discord Testers** 
+## **Discord Testers** 
 > __Description:__ The official place to report Discord Bugs! Help find bugs, chat with others and be a part of the testers community! \
 __Link:__ [Discord Testers](https://discord.gg/discord-testers)
 
