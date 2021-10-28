@@ -1,28 +1,28 @@
 # Wiki Navigation 
 
-## [About](https://github.com/rydixulous/Discord-Resources-n-More/wiki/About)
+## [About](About)
 
-## [Resources](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources)
-### [The Basics!](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#the-basics)
-### [Official Servers](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#official-servers)
-### [Official Forms](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#official-forms)
-### [Other Important Links](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#other-important-links)
-### [Official Discord PDFs](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#official-discord-pdfs)
-### [Moderation](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#moderation)
-### [Programs](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#programs)
-### [Unofficial Servers](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#unofficial-servers)
-### [Unofficial Resources](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#unofficial-resources)
-### [Bots: Information & Lists](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#bots-information--lists)
-### [Best Discord Bots](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#best-discord-bots)
-[Moderation](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#moderation-1) \
-[ModMail](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#modmail) \
-[Utility Bots](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#modmail) 
-### [Useful Utilities](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#useful-utilities)
-[Other](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#useful-utilities) \
-[Phishing Related](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#phishing-related) \
-[Converters](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#converters) 
-### [Fun Links](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Resources#fun-links)
+## [Resources](Resources)
+### [The Basics!](Resources#the-basics)
+### [Official Servers](Resources#official-servers)
+### [Official Forms](Resources#official-forms)
+### [Other Important Links](Resources#other-important-links)
+### [Official Discord PDFs](Resources#official-discord-pdfs)
+### [Moderation](Resources#moderation)
+### [Programs](Resources#programs)
+### [Unofficial Servers](Resources#unofficial-servers)
+### [Unofficial Resources](Resources#unofficial-resources)
+### [Bots: Information & Lists](Resources#bots-information--lists)
+### [Best Discord Bots](Resources#best-discord-bots)
+[Moderation](Resources#moderation-1) \
+[ModMail](Resources#modmail) \
+[Utility Bots](Resources#utility-bots) 
+### [Useful Utilities](Resources#useful-utilities)
+[Other](Resources#useful-utilities) \
+[Phishing Related](Resources#phishing-related) \
+[Converters](Resources#converters) 
+### [Fun Links](Resources#fun-links)
 
-## [Contributors & Contribution](https://github.com/rydixulous/Discord-Resources-n-More/wiki/Contributors-&-Contribution)
+## [Contributors & Contribution](Contributors-&-Contribution)
 
 ---
