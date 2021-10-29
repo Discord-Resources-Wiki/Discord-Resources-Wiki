@@ -219,7 +219,7 @@ __Credit:__ Discord Bots’ server team (owned by meew0#9811 | 66237334693085184
 __Link:__ [Discord Networking](https://discord.gg/networking) (Access request required) \
 __Credit:__ Discord Networking team (owned by NaviKing#3820 | 200987752794292224)
 
-[![Discord Networking](https://invidget.switchblade.xyz/networking)](https://discord.gg/networking)
+[![Discord Networking](https://invidget.switchblade.xyz/NmUUtx6w)](https://discord.gg/NmUUtx6w)
 
 
 ## **Displace** 
