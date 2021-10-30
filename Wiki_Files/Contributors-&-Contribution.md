@@ -6,6 +6,7 @@ We want to thank: \
 **Ethan Modderton, Jr. Esq.#3333** (337104786593939456) - Documentation Organizer\
 **odin#0110** (378537973215657984) - Documentation Organizer \
 **Graphic/Aphriu#3737** (287711497118023692) - Resources Researcher / Documentation Organizer \
+**rjt#2336** (192060404501839872) - Designer 
 **Rydix#1726** (755792681313108018) - *I had this idea and did all of the above* 
 
 
