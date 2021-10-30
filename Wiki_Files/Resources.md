@@ -413,7 +413,6 @@ __Credit:__ Ayu#0001 (192048286331437056)
 ### **Beemo Helper (addition)**
 > __Description:__ Beemo Helper is designed to help Beemo (https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans. \
 __Link(s):__ \
-[Github](https://github.com/xPolar/BeemoHelper) \
 [Invite](https://redirects.polar.blue/beemohelper) \
 __Credit:__ Polar#6880 (619284841187246090)
 
