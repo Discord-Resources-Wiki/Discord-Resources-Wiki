@@ -431,13 +431,13 @@ __Link(s):__
 __Credit:__ Panley#8008 (249287049482338305)
 
 
-### **Safelink:** 
+### **Safelink** 
 > __Description:__ A bot that can detect a variety of scam (nitro scams, steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection. \
 __Link:__ [Safelink](https://safelink.gg/) \
 __Credit:__ kaj#0001 (282565295351136256) | Cole#8888 (684155404078415890)
 
 
-### **Fish:**
+### **Fish**
 > __Description:__ Fish is a bot made for auto-moderating phishing scam links. It has a few configuration options, like what action to take when a user posts a known scam link and the ability to exempt users/roles from link detection. \
 __Link(s):__ \
 [Github](https://github.com/Benricheson101/anti-phishing-bot) \
@@ -491,12 +491,12 @@ __Link(s):__ \
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464) \
 __Credit:__ Rauf#3543 (172557961133162496)
 
-### **Tone Indicator Bot:**
+### **Tone Indicator Bot**
 > __Description:__ Find and understand tone indicators. \
 __Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands) \
 __Credit:__ Teekeks#0001 (173815235243802624)
  
-### **Tunes Ninja:**
+### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms. \
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/) \
 __Credit:__ jack_#0456 (657057112593268756)
@@ -542,6 +542,7 @@ __Credit:__ Tiemen#0001 (152164749868662784)
 ## **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures. \
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/) 
+__Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
 
 ## **Rauf's Embeds Generator**
 > __Description:__ Generate embeds using this site. \
@@ -661,6 +662,7 @@ __Credit:__ Delite#0001 (142242854167642122)
 ## **Alternatives to MEE6**
 > __Description:__ A list of Discord bots that can be used in place of MEE6. \
 __Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)
+__Credit:__ CmdData#0101 (99787644430475264)
 
 ## **Mozzy's Log Sorter** 
 > __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs. \
@@ -706,7 +708,7 @@ __Credit:__  Sylveon#1337 (207123748120166400)
 
 ## **Powercord**
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance. \
-__Link:__ [Powecord](https://powercord.dev/)
+__Link:__ [Powercord](https://powercord.dev/)
 
 ## **Random Sites:**
 > __Description:__ Generates a small list of random website URLs. \
