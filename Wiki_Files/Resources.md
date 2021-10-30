@@ -573,6 +573,14 @@ __Credit:__ Jaex#0001 (95576568025329664)
 > __Description:__ A product for creating workflows and websites, fully Customizable for your needs. \
 __Link:__ [Notion](https://www.notion.so/)
 
+## **Photopea**
+> __Description:__ Free online image editor. \
+__Link:__ [Photopea](https://www.photopea.com/)
+
+## **Coolors**
+> __Description:__ Color schemes generator. \
+__Link:__ [Coolors](https://coolors.co/)
+
 ## **Pronoun Island**
 > __Description:__ A website for personal pronoun usage examples. \
 __Link:__ [Pronoun Island](https://pronoun.is/)
