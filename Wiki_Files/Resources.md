@@ -325,10 +325,11 @@ __Link:__ [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gR
 __Link:__ [Discord Assets](https://www.figma.com/community/file/992144378612759941/Discord-Resources) \
 __Credit:__ bawwub#0001 (354309005037797376)
 
+
 ## **(more) Discord Assets**
-> __Description:__ A git repo full with all of Discord’s assets. \
-__Link:__ [Discord Assets](https://github.com/Commandtechno/discasset-datamine/tree/master/svg) \
-__Credit:__ Commandtechno#0841 (296776625432035328)
+> __Description:__ A list with all icons from the client. \
+__Link:__ [Discord Assests](https://gitlab.com/derpystuff/discord-asset-datamining ) \
+__Credit:__ derpystuff.#8302 (223518178100248576)
 
 ## **Discord UI Mockup**
 > __Description:__ Exact copy of the discord client (might be outdated). \
