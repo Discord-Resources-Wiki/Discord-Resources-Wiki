@@ -100,6 +100,10 @@ __Link:__ [Discord Bugs](https://bugs.discord.com/)
 > __Description:__ Discord’s official resources for moderators, written by moderators. \
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
 
+## **Discord Libraries Servers List**
+> __Description:__ Reddit wiki page with all the server of Discord libraries. \
+__Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+
 ## **Discord Open - Source**
 > __Description:__ This is the source list of OSS communities that use and live on Discord. \
 __Link(s):__
@@ -282,7 +286,7 @@ __Link:__ [List Of Stickers](https://stickers.advaith.io/) \
 __Credit:__ advaith#9121 (190916650143318016)
 
 ## **List of Libraries**
-> __Description:__ List of all Discord API libraries. \
+> __Description:__ List of all Discord API libraries and their features. \
 __Link:__ [List Of Libraries](https://libs.advaith.io/) \
 __Credit:__ advaith#9121 (190916650143318016)
 
