@@ -220,10 +220,10 @@ __Credit:__ Discord Bots’ server team (owned by meew0#9811 | 66237334693085184
 
 ## **Discord Networking**
 > __Description:__ A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships. \
-__Link:__ [Discord Networking](https://discord.gg/networking) (Access request required) \
+__Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required) \
 __Credit:__ Discord Networking team (owned by NaviKing#3820 | 200987752794292224)
 
-[![Discord Networking](https://invidget.switchblade.xyz/NmUUtx6w)](https://discord.gg/NmUUtx6w)
+[![Discord Networking](https://invidget.switchblade.xyz/BcXExxeGVG)](https://discord.gg/BcXExxeGVG)
 
 
 ## **Displace** 
