@@ -165,7 +165,7 @@ __Credit:__ Multiple Authors (Discord Moderation Ecosystem)
 
 ### **Discord Moderation Ecosystem** 
 > __Description:__ Official ecosystem for moderators to discuss moderation. \
-__Link:__ [Discord Moderation Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)
+__Link:__ [Discord Moderation Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
 ### **Naviking’s Moderation Templates & Tools Documentation**
 > __Description:__ A drive file full of moderation resources. \
