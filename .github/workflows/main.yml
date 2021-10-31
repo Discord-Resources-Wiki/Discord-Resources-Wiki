@@ -1,6 +1,6 @@
 name: Publish changes to the wiki
 
-on: [push]
+on: [push] if: ${{ }}
 
 jobs:
   build:
@@ -11,6 +11,7 @@ jobs:
       # Additional steps to generate documentation in "Documentation" directory
       - name: Upload Documentation to Wiki
         uses: SwiftDocOrg/github-wiki-publish-action@v1
+        
         with:
           path: "Wiki_Files"
         env:
