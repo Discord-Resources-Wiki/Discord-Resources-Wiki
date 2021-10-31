@@ -724,7 +724,7 @@ __Link:__ [Powercord](https://powercord.dev/)
 __Link:__ [Random Sites](https://www.randomlists.com/websites)
 
 ## **Nord Theme**
-> __Description:__ 
+> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications. \
 __Link:__ [Nord Theme](https://www.nordtheme.com/)
 
 ## **Discord Flags**
@@ -756,6 +756,14 @@ __Link(s):__
 [Docs](https://docs.github.com/en) \
 [Guides](https://guides.github.com/) \
 [Community Help](https://github.community/)
+
+## **replit**
+> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages. \
+__Link:__ [replit](https://replit.com/)
+
+## **Autocode**
+> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required. \
+__Link:__ [Autocode](https://autocode.com/)
 
 ## **Heroicons**
 > __Description:__ Beautiful hand-crafted SVG icons. \
