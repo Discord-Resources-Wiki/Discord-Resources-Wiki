@@ -2,6 +2,7 @@
 This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project! \
 We want to thank: \
 **DEX#0001** (347727875266576395) - Wiki Architect \
+**Dei#2411** (391660873409888277) - Wiki fixer \
 **DyDestroyer#1027** (363481883369013259) - Documentation Organizer\
 **Ethan Modderton, Jr. Esq.#3333** (337104786593939456) - Documentation Organizer\
 **odin#0110** (378537973215657984) - Documentation Organizer \
