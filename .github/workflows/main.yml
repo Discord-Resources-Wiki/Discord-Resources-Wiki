@@ -5,7 +5,7 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: ${{ github.repository == "rydixulous/Discord-Resources-n-More" }}
+    if: ${{ github.repository == 'rydixulous/Discord-Resources-n-More' }}
     steps:
       - uses: actions/checkout@v1
       # Additional steps to generate documentation in "Wiki_Files" directory
