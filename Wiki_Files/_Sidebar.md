@@ -16,7 +16,9 @@
   * [ModMail](./Resources#modmail)
   * [Utility Bots](./Resources#utility-bots) <br />
 * [Useful Utilities](./Resources#useful-utilities)
-  * [Other](./Resources#useful-utilities)
+  * [Discord Related](./Resources#discord-related)
+  * [Programming Related](./Resources#programming-related)
+  * [Other](./Resources#other)
   * [Phishing Related](./Resources#phishing-related)
   * [Converters](./Resources#converters) <br />
 * [Fun Links](./Resources#fun-links)
