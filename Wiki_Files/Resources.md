@@ -903,6 +903,14 @@ __Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
 > __Description:__ Converts .gif files to .apng files. \
 __Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
+## **HTML Color Codes**
+> __Description:__ A site that converts a color into hex code and vice versa. \
+__Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
+
+## **Image Color Picker**
+> __Description:__ Upload an image and get a specific hex code for a color in the picture. \
+__Link:__ [Image Color Picker](https://imagecolorpicker.com/)
+
 ## **Removebg**
 > __Description:__ Remove any background from an image. \
 __Link:__ [Removebg](https://www.remove.bg/upload)
