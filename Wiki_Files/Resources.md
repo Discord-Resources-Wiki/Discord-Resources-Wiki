@@ -114,9 +114,9 @@ __Link(s):__
 > __Description:__ Discord’s branding assets and guidelines. \
 __Link:__ [Discord Branding](https://dis.gd/branding)
 
-## **Nitro**
+## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions. \
-__Link:__ [Nitro](https://dis.gd/nitro)
+__Link:__ [Discord Nitro](https://dis.gd/nitro)
 
 ## **Discord Status Page**
 > __Description:__ Provides information on the current status of the Discord services. \
@@ -507,7 +507,8 @@ __Credit:__ jack_#0456 (657057112593268756)
 
 ## **Discord Simple Avatar Maker**
 > __Description:__ A site to make simple discord avatars. \
-__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)
+__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/) \
+__Credit:__ [Christian Reichart](https://github.com/christian-reichart)
 
 ## **Dragory's Avatar Preview**
 > __Description:__ This is an avatar preview tool used to optimise your avatar between both light and dark themes. \
@@ -541,7 +542,7 @@ __Credit:__ Tiemen#0001 (152164749868662784)
 
 ## **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures. \
-__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/) 
+__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/) \ 
 __Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
 
 ## **Rauf's Embeds Generator**
@@ -710,9 +711,13 @@ __Credit:__  Sylveon#1337 (207123748120166400)
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance. \
 __Link:__ [Powercord](https://powercord.dev/)
 
-## **Random Sites:**
+## **Random Sites**
 > __Description:__ Generates a small list of random website URLs. \
 __Link:__ [Random Sites](https://www.randomlists.com/websites)
+
+## **Nord Theme**
+> __Description:__ 
+__Link:__ [Nord Theme](https://www.nordtheme.com/)
 
 ## **Discord Flags**
 > __Description:__ A document full with all Discord flags and their meanings. \
@@ -836,7 +841,7 @@ __Credit:__ [DJDavid98](https://github.com/DJDavid98)
 __Link:__ [Snowstamp](https://pixelatomy.com/snow-stamp/) \
 __Credit:__ vegeta897#7777 (86913608335773696) 
 
-### **DateTimeCord:** 
+### **DateTimeCord** 
 > __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that discord does, as well as shows a preview of how it would look in discord. \
 __Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/) 
 
@@ -851,21 +856,21 @@ __Credit:__ HilbertGilbertson#1234 (213023662066892800)
 > __Description:__ Converts a time given into a Unix timestamp. \
 __Link:__ [Epoch Converter](https://www.epochconverter.com/) 
 
-### **Unix Timestamps Decoder:**
+### **Unix Timestamps Decoder**
 > __Description:__ Decodes a Unix timestamp into a standard MM/DD/YYYY format. \
 __Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
 - File Converters 
 
-### **Text Formatting Tools:**
+### **Text Formatting Tools**
 > __Description:__ A website for converting various text formats. \
 __Link:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
 
-### **Discord Txt:**
+### **Discord Txt**
 > __Description:__ Used to view .txt files that have been uploaded to Discord. \
 __Link:__ [Discord Txt](https://txt.discord.website/)
 
-### **File Converter:**
+### **File Converter**
 > __Description:__ Convert file types to others. \
 __Link:__ [File Converter](https://github.com/Tichau/FileConverter) \
 __Credit:__ [Tichau](https://github.com/Tichau)
@@ -874,11 +879,11 @@ __Credit:__ [Tichau](https://github.com/Tichau)
 > __Description:__ View SVG files. \
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
 
-### **Lottie Image Resizer:**
+### **Lottie Image Resizer**
 > __Description:__ Lottie image resize so you can get your Lottie files ≤320px. \
 __Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
 
-### **.gif to .apng:**
+### **.gif to .apng**
 > __Description:__ Converts .gif files to .apng files. \
 __Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
@@ -886,7 +891,7 @@ __Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 > __Description:__ Remove any background from an image. \
 __Link:__ [Removebg](https://www.remove.bg/upload)
 
-### **Video Compressor:**
+### **Video Compressor**
 > __Description:__ A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions. \
 __Link:__ [Video Compressor](https://8mb.video/)
 
@@ -900,7 +905,6 @@ https://welcome-to-our.club/ | Welcome to club \
 https://i-dont-ca.re/ | About docs \
 https://just-read.it/ | Read the error smh \
 https://when.lol/ | When did I ask \
-https://www.nordtheme.com/ | Good theme for websites \
 https://getsharex.com/premium | Sharex premium \
 https://lightmode.glitch.me/ | Why lightmode is good/accessibility needed \
 https://nohello.com/ | Don't just say hello \
