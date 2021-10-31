@@ -954,7 +954,7 @@ https://www.soundsjustlike.com/ | sounds just like \
 https://discord.gg/wungus Or https://wungus.com/ | church of wungus \
 https://http.cat/ | HTTP cats
 https://thispersondoesnotexist.com/ | this person does not exist
-
+https://wungus.guru/robots.txt | wungus the guru
 
 
 
