@@ -4,14 +4,13 @@ on: [push]
 
 jobs:
   build:
-    if: ${{ github.repository == "rydixulous/Discord-Resources-n-More" }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      # Additional steps to generate documentation in "Documentation" directory
+      # Additional steps to generate documentation in "Wiki_Files" directory
       - name: Upload Documentation to Wiki
         uses: SwiftDocOrg/github-wiki-publish-action@v1
-        
+        if: ${{ github.repository == "rydixulous/Discord-Resources-n-More" }}
         with:
           path: "Wiki_Files"
         env:
