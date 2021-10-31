@@ -161,11 +161,11 @@ __Credit:__ [ModPod team](https://modcast.network/meet-the-team/)
 ### **Discord Moderator Academy**
 > __Description:__ Discord’s official resources for moderators, written by moderators. \
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation) \
-__Credit:__ Multiple Authors (Discord Moderation Ecosystem)
+__Credit:__ Multiple Authors (Discord Moderator Ecosystem)
 
-### **Discord Moderation Ecosystem** 
+### **Discord Moderator Ecosystem** 
 > __Description:__ Official ecosystem for moderators to discuss moderation. \
-__Link:__ [Discord Moderation Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+__Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
 ### **Naviking’s Moderation Templates & Tools Documentation**
 > __Description:__ A drive file full of moderation resources. \
@@ -176,11 +176,11 @@ __Credit:__: NaviKing#3820 (200987752794292224)
 
 ## __**Programs**__
 
-### **Discord Moderation Ecosystem** 
+### **Discord Moderator Ecosystem** 
 > __Description:__ Official ecosystem for moderators to discuss moderation. \
-__Link(s):__ [Discord Moderation Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405) \
-[Discord Moderation Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view) \
-[Discord Moderation Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
+__Link(s):__ [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405) \
+[Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view) \
+[Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
 
 ### **Partner Program**
 > __Description:__ As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities. \
