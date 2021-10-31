@@ -195,7 +195,7 @@ __Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
 __Link:__ [Verification Program](https://dis.gd/verification)
 
 
-# __**Unofficial Servers:**__
+# __**Unofficial Servers**__
 
 ## **Discord API**
 > __Description:__ A server dedicated to information and assistance with the Discord API. \
@@ -501,312 +501,320 @@ __Credit:__ Teekeks#0001 (173815235243802624)
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/) \
 __Credit:__ jack_#0456 (657057112593268756)
 
-
-
 # __**Useful Utilities**__
 
-## **Discord Simple Avatar Maker**
-> __Description:__ A site to make simple discord avatars. \
-__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/) \
-__Credit:__ [Christian Reichart](https://github.com/christian-reichart)
+## __**Discord related**__
 
-## **Dragory's Avatar Preview**
-> __Description:__ This is an avatar preview tool used to optimise your avatar between both light and dark themes. \
-__Link:__ [Dragory’s Avatar Preview](https://dragory.net/avatar-preview/) \
-__Credit:__  Dragory#0001 (106391128718245888)
+### **Alternatives to MEE6**
+> __Description:__ A list of Discord bots that can be used in place of MEE6. \
+__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/) \
+__Credit:__ CmdData#0101 (99787644430475264)
 
-## **Webence**
-> __Description:__ A tool that allows you to embed your Discord profile in an iframe. \
-__Link:__ [Webence](https://panleyent.com/webence/) \
-__Credit:__  Panley#8008 (249287049482338305)
+### **All Discord permissions**
+> __Description:__ A list of all the permissions available for users. \
+__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
 
-## **Dragory's Role Colour Preview**
-> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes. \
-__Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/) \
-__Credit:__  Dragory#0001 (106391128718245888)
+### **Discord Tools**
+> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the # of guilds your account is in, see how many servers you own, moderate, are partnered, and show lists of all servers in the categories above as well as a list of all servers. \
+__Link:__ [Discord Tools](https://discordtools.io/) \
+__Credit:__ Coding#0001 (276544649148235776)
 
-## **Disgradient**
-> __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more. \
-__Link:__ [Disgradient](https://disgradient.vanished.rocks/) \
-__Credit:__ Vanished#9049 (267025484028706816)
+### **Discord Toolbox**
+> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup. \
+__Link:__ [Discord Toolbox](https://distools.app/) \
+__Credit:__ Merlin#1337 (386861188891279362)
 
-## **Discord Data Package Explorer**
+### **Discord Data Package Explorer**
 > __Description:__ Explore your discord data easily. \
 __Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer) \
 __Credit:__ [Androz2091](https://github.com/Androz2091)
 
-## **Discord Emoji Downloader**
+### **Discord Simple Avatar Maker**
+> __Description:__ A site to make simple discord avatars. \
+__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/) \
+__Credit:__ [Christian Reichart](https://github.com/christian-reichart)
+
+### **Discord Emoji Downloader**
 > __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server. \
 __Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) \
 __Credit:__ Tiemen#0001 (152164749868662784)
 
-## **Discord Server Card Generator**
+### **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures. \
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/) \
 __Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
 
-## **Rauf's Embeds Generator**
-> __Description:__ Generate embeds using this site. \
-__Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/) \
-__Credit:__ Rauf#3543 (172557961133162496)
+### **Discord Testers Bug Tool (official)**
+> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end. \
+__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
 
-## **Webhooks Creator** 
-> __Description:__ A site to create webhooks with. \
-__Link:__ [Webhooks Creator](https://webhook.site/)
+### **Discord Bug Report Command Generator**
+> __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports. \
+__Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html) \
+__Credit:__  BrightSkyz#2627 (209769851651227648)
 
-## **Docker**
-> __Description:__ Simplifies development processes. \
-__Link:__ [Docker](https://www.docker.com/)
+### **Discord Invite Info:**
+> __Description:__ Shows info about a guild using an invitation. \
+__Link:__ [Discord Invite Info](https://discordinvite.info/)
 
-## **Markdown Guide**
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document. \
-__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+### **Delite's Discord Info List**
+> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to the fun facts Discord has in-client, to lists of known partner & verified server invites. \
+__Link:__ [Delite’s Discord Info List](https://github.com/Delitefully/DiscordLists) \
+__Credit:__ Delite#0001 (142242854167642122)
 
-## **Choose A License**
-> __Description:__ Choose a license for your open source project. \
-__Link:__ [Choose A License](https://choosealicense.com/)
+### **Discord Flags**
+> __Description:__ A document full with all Discord flags and their meanings. \
+__Link:__ [Discord Flags](https://flags.lewistehminerz.dev/) \
+__Credit:__ LewisTehMinerz#1337 (96269247411400704)
 
-## **ShareX**
-> __Description:__ Best sharing app.  
-__Link:__ [ShareX](https://getsharex.com/) \
-__Credit:__ Jaex#0001 (95576568025329664)  
+### **Dragory's Avatar Preview**
+> __Description:__ This is an avatar preview tool used to optimise your avatar between both light and dark themes. \
+__Link:__ [Dragory’s Avatar Preview](https://dragory.net/avatar-preview/) \
+__Credit:__  Dragory#0001 (106391128718245888)
 
-## **Notion**
-> __Description:__ A product for creating workflows and websites, fully Customizable for your needs. \
-__Link:__ [Notion](https://www.notion.so/)
+### **Dragory's Role Colour Preview**
+> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes. \
+__Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/) \
+__Credit:__  Dragory#0001 (106391128718245888)
 
-## **Photopea**
-> __Description:__ Free online image editor. \
-__Link:__ [Photopea](https://www.photopea.com/)
+### **Dragory's Role Colour Preview**
+> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes. \
+__Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/) \
+__Credit:__  Dragory#0001 (106391128718245888)
 
-## **Coolors**
-> __Description:__ Color schemes generator. \
-__Link:__ [Coolors](https://coolors.co/)
+### **Disgradient**
+> __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more. \
+__Link:__ [Disgradient](https://disgradient.vanished.rocks/) \
+__Credit:__ Vanished#9049 (267025484028706816)
 
-## **Pronoun Island**
-> __Description:__ A website for personal pronoun usage examples. \
-__Link:__ [Pronoun Island](https://pronoun.is/)
-
-## **Invited** 
-> __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser. \
-__Link:__ [Invited](https://invited.tv/)
-
-## **Regex Crossword**
-> __Description:__ Learn regex through puzzles and challenges. \
-__Link:__ [Regex Crossword](https://regexcrossword.com/)
-
-## **RegExp Generator**
-> __Description:__ Unicode range RegExp generator. \
-__Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
-
-## **Regex101**
-> __Description:__ Build, test, and debug regex. \
-__Link:__ [Regex101](https://regex101.com/)
-
-## **URL Expander**
-> __Description:__ Expand short URLs. \
-__Link:__ [URL Expander](https://urlex.org/)
-
-## **CitizenLab**
-> __Description:__ Contained are URL testing lists intended to help in testing URL censorship, divided by country codes. \
-__Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
-
-## **HTTPS Statuses**
-> __Description:__ A list of HTTPS status codes. \
-__Link:__ [HTTPS Statuses](https://httpstatuses.com/)
-
-## **Statista**
-> __Description:__ Statistics and business data platform for over 170 industries. \
-__Link:__ [Statista](https://statista.com)
-
-## **Status Page**
-> __Description:__ Communicate real-time status to your members. \
-__Link:__ [Status Page](https://statuspage.io)
-
-## **DeepResearch**
+### **DeepResearch**
 > __Description:__ Discord status that provides visualisations, analytics, and tools for chat-based communities. \
 __Link:__ [DeepResearch](https://www.altr.fyi/)
 
-## **Status**
+### **Experiments Rollouts**
+> __Description:__ Shows the current discord experiments and their rollout percentage. \
+__Link:__ [Experiments Rollouts](https://rollouts.advaith.io/) \
+__Credit:__ advaith#9121 (190916650143318016)
+
+### **Find a Guild**
+> __Description:__ Find a guild using it’s ID, through replacing ‘GUILD_ID’ (provided it has widgets on). \
+__Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
+
+### **Find Guild Features**
+> __Description:__ check the features of a guild via an instant invite code. \
+__Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
+
+### **Jagrosh'S GitHub -> Discord Webhook Guide**
+> __Description:__ A guide to integrate your GitHub projects to a Discord channel.  \
+__Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22) \
+__Credit:__ jagrosh#4824 (113156185389092864)
+
+### **Library Rest & WS Coverage Comparisons**
+> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS. \
+(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries) \
+__Link:__ [Website](https://discordapi.com/unofficial/comparison.html) 
+
+### **Mozzy's Log Sorter** 
+> __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs. \
+__Link:__ [Mozzy’s Log Sorter](https://leonlarsson.com/projects/logsorter/) \
+__Credit:__ Mozzy#9999 (99182302885588992) 
+
+### **Webence**
+> __Description:__ A tool that allows you to embed your Discord profile in an iframe. \
+__Link:__ [Webence](https://panleyent.com/webence/) \
+__Credit:__  Panley#8008 (249287049482338305)
+
+### **Powercord**
+> __Description:__ Powercord is a lightweight client mod focused on simplicity and performance. \
+__Link:__ [Powercord](https://powercord.dev/)
+
+### **Presence Maker**
+> __Description:__ Create Discord rich presence with this tool. \
+__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
+
+### **Rauf's Guild Count**
+> __Description:__ Counts the number of guilds you’re in. \
+__Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount) \
+__Credit:__ Rauf#3543 (172557961133162496)
+
+### **Status**
 > __Description:__ A server that has a collection of announcement channels you can follow for many status pages (including Discord, Cloudflare, GitHub, Hypixel & more) so you can be one of the first to know when one of your favourite service(s) have issues. \
 __Link(s):__ 
 [Server Invite](https://inv.wtf/statuspages) \
 __Credit:__ Geek#8405 (287698408855044097)
 
-## **Empty Characters**
-> __Description:__ List and methods to unicode empty characters. \
-__Link:__ [Empty Characters](https://emptycharacter.com)
-
-## **Blank Characters:**
-> __Description:__ A list of blank Unicode characters. \
-__Link:__ [Blank Charcaters](https://character.construction/blanks)
-
-## **Internet Slangs**
-> __Description:__ A list of slang used across the internet. \
-__Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
-
-## **Tone Indicators Website**
-> __Description:__ Find and understand text tone indicators. \
-__Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
-
-## **Discord Tools:**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the # of guilds your account is in, see how many servers you own, moderate, are partnered, and show lists of all servers in the categories above as well as a list of all servers. \
-__Link:__ [Discord Tools](https://discordtools.io/) \
-__Credit:__ Coding#0001 (276544649148235776)
-
-## **Discord Toolbox**
-> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup. \
-__Link:__ [Discord Toolbox](https://distools.app/) \
-__Credit:__ Merlin#1337 (386861188891279362)
-
-## **Discord Invite Info:**
-> __Description:__ Shows info about a guild using an invitation. \
-__Link:__ [Discord Invite Info](https://discordinvite.info/)
-
-## **Delite's Discord Info List**
-> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to the fun facts Discord has in-client, to lists of known partner & verified server invites. \
-__Link:__ [Delite’s Discord Info List](https://github.com/Delitefully/DiscordLists) \
-__Credit:__ Delite#0001 (142242854167642122)
-
-## **Alternatives to MEE6**
-> __Description:__ A list of Discord bots that can be used in place of MEE6. \
-__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)
-__Credit:__ CmdData#0101 (99787644430475264)
-
-## **Mozzy's Log Sorter** 
-> __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs. \
-__Link:__ [Mozzy’s Log Sorter](https://leonlarsson.com/projects/logsorter/) \
-__Credit:__ Mozzy#9999 (99182302885588992) 
-
-## **Zeppelin in Docker**
-> __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker. \
-__Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker) \
-__Credit:__ Ben!#0002 (255834596766253057)
-
-## **All Discord permissions**
-> __Description:__ A list of all the permissions available for users. \
-__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
-
-## **Presence Maker**
-> __Description:__ Create Discord rich presence with this tool. \
-__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
-
-## **Experiments Rollouts**
-> __Description:__ Shows the current discord experiments and their rollout percentage. \
-__Link:__ [Experiments Rollouts](https://rollouts.advaith.io/) \
-__Credit:__ advaith#9121 (190916650143318016)
-
-## **Library Rest & WS Coverage Comparisons**
-> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS. \
-(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries) \
-__Link:__ [Website](https://discordapi.com/unofficial/comparison.html) 
-
-## **Discord Testers Bug Tool (official)**
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end. \
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
-
-## **Discord Bug Report Command Generator**
-> __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports. \
-__Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html) \
-__Credit:__  BrightSkyz#2627 (209769851651227648)
-
-## **Sylveon's Ban Appeal Website (self-host)**
+### **Sylveon's Ban Appeal Website (self-host)**
 > __Description:__ Sample ban appeals page with OAuth2 integration. \
 __Link:__ [Sylveon’s Ban Appeal Website](https://github.com/sylveon/discord-ban-appeals) \
 __Credit:__  Sylveon#1337 (207123748120166400)
 
-## **Powercord**
-> __Description:__ Powercord is a lightweight client mod focused on simplicity and performance. \
-__Link:__ [Powercord](https://powercord.dev/)
-
-## **Random Sites**
-> __Description:__ Generates a small list of random website URLs. \
-__Link:__ [Random Sites](https://www.randomlists.com/websites)
-
-## **Nord Theme**
-> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications. \
-__Link:__ [Nord Theme](https://www.nordtheme.com/)
-
-## **Discord Flags**
-> __Description:__ A document full with all Discord flags and their meanings. \
-__Link:__ [Discord Flags](https://flags.lewistehminerz.dev/) \
-__Credit:__ LewisTehMinerz#1337 (96269247411400704)
-
-## **Branding Style Guides**
-> __Description:__ A collection of different company branding, including Discords. \
-__Link:__ [Website](https://brandingstyleguides.com/)
-
-## **Jagrosh'S GitHub -> Discord Webhook Guide**
-> __Description:__ A guide to integrate your GitHub projects to a Discord channel.  \
-__Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22) \
-__Credit:__ jagrosh#4824 (113156185389092864)
-
-## **Rauf's Guild Count**
-> __Description:__ Counts the number of guilds you’re in. \
-__Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount) \
+### **Rauf's Embeds Generator**
+> __Description:__ Generate embeds using this site. \
+__Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/) \
 __Credit:__ Rauf#3543 (172557961133162496)
 
-## **Waifu2x**
-> __Description:__ Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks. \
-__Link:__ [waifu2x](http://waifu2x.udp.jp/)
+### **Zeppelin in Docker**
+> __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker. \
+__Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker) \
+__Credit:__ Ben!#0002 (255834596766253057)
 
-## **GitHub’s Guides and Documentation**
+## __**Programming related**__
+
+### **Autocode**
+> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required. \
+__Link:__ [Autocode](https://autocode.com/)
+
+### **Choose A License**
+> __Description:__ Choose a license for your open source project. \
+__Link:__ [Choose A License](https://choosealicense.com/)
+
+### **Docker**
+> __Description:__ Simplifies development processes. \
+__Link:__ [Docker](https://www.docker.com/)
+
+### **Docusaurus**
+> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content. \
+__Link:__ [Docusaurus](https://docusaurus.io/)
+
+### **GitHub’s Guides and Documentation**
 > __Description:__ Self explanatory. \
 __Link(s):__ 
 [Docs](https://docs.github.com/en) \
 [Guides](https://guides.github.com/) \
 [Community Help](https://github.community/)
 
-## **replit**
+### **HTTPS Statuses**
+> __Description:__ A list of HTTPS status codes. \
+__Link:__ [HTTPS Statuses](https://httpstatuses.com/)
+
+### **Markdown Guide**
+> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document. \
+__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+
+### **replit**
 > __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages. \
 __Link:__ [replit](https://replit.com/)
 
-## **Autocode**
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required. \
-__Link:__ [Autocode](https://autocode.com/)
+### **Regex101**
+> __Description:__ Build, test, and debug regex. \
+__Link:__ [Regex101](https://regex101.com/)
 
-## **Heroicons**
-> __Description:__ Beautiful hand-crafted SVG icons. \
-__Link:__ [Heroicons](https://heroicons.com/)
+### **RegExp Generator**
+> __Description:__ Unicode range RegExp generator. \
+__Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
-## **Simple Icons**
-> __Description:__ A list of simple icons, including brand icons. \
-__Link:__ [Simpleicons](https://simpleicons.org/)
+### **Regex Crossword**
+> __Description:__ Learn regex through puzzles and challenges. \
+__Link:__ [Regex Crossword](https://regexcrossword.com/)
 
-## **Icons — Google Fonts**
-> __Description:__ A list of Google icons. \
-__Link:__ [Icons](https://fonts.google.com/icons)
+## __**Other**__
 
-## **Find a Guild**
-> __Description:__ Find a guild using it’s ID, through replacing ‘GUILD_ID’ (provided it has widgets on). \
-__Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
+### **Branding Style Guides**
+> __Description:__ A collection of different company branding, including Discords. \
+__Link:__ [Website](https://brandingstyleguides.com/)
 
-## **Find Guild Features**
-> __Description:__ check the features of a guild via an instant invite code. \
-__Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
+### **Blank Characters**
+> __Description:__ A list of blank Unicode characters. \
+__Link:__ [Blank Charcaters](https://character.construction/blanks)
 
-## **Carrd**
-> __Description:__ Build one-page websites. \
-__Link:__ [Carrd](https://carrd.co/)
-
-## **C.O.A.C.H**
-> __Description:__ Tidying up your online security, step by step. \
-__Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
-
-## **Bitwarden**
+### **Bitwarden**
 > __Description:__ Open source password manager. \
 __Link:__ [Bitwarden](https://bitwarden.com/)
 
+### **CitizenLab**
+> __Description:__ Contained are URL testing lists intended to help in testing URL censorship, divided by country codes. \
+__Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
 
-## __**Phishing Related**__
-[discord nitro information (not a scam)](https://dicsord.gq/)
+### **Carrd**
+> __Description:__ Build one-page websites. \
+__Link:__ [Carrd](https://carrd.co/)
+
+### **Coolors**
+> __Description:__ Color schemes generator. \
+__Link:__ [Coolors](https://coolors.co/)
+
+### **C.O.A.C.H**
+> __Description:__ Tidying up your online security, step by step. \
+__Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
+
+### **Empty Characters**
+> __Description:__ List and methods to unicode empty characters. \
+__Link:__ [Empty Characters](https://emptycharacter.com)
+
+### **Heroicons**
+> __Description:__ Beautiful hand-crafted SVG icons. \
+__Link:__ [Heroicons](https://heroicons.com/)
+
+### **Internet Slangs**
+> __Description:__ A list of slang used across the internet. \
+__Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
+
+### **Invited** 
+> __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser. \
+__Link:__ [Invited](https://invited.tv/)
+
+### **Icons — Google Fonts**
+> __Description:__ A list of Google icons. \
+__Link:__ [Icons](https://fonts.google.com/icons)
+
+### **Notion**
+> __Description:__ A product for creating workflows and websites, fully Customizable for your needs. \
+__Link:__ [Notion](https://www.notion.so/)
+
+### **Nord Theme**
+> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications. \
+__Link:__ [Nord Theme](https://www.nordtheme.com/)
+
+### **Pronoun Island**
+> __Description:__ A website for personal pronoun usage examples. \
+__Link:__ [Pronoun Island](https://pronoun.is/)
+
+### **Photopea**
+> __Description:__ Free online image editor. \
+__Link:__ [Photopea](https://www.photopea.com/)
+
+### **Random Sites**
+> __Description:__ Generates a small list of random website URLs. \
+__Link:__ [Random Sites](https://www.randomlists.com/websites)
+
+### **ShareX**
+> __Description:__ Best sharing app.  
+__Link:__ [ShareX](https://getsharex.com/) \
+__Credit:__ Jaex#0001 (95576568025329664)  
+
+### **Simple Icons**
+> __Description:__ A list of simple icons, including brand icons. \
+__Link:__ [Simpleicons](https://simpleicons.org/)
+
+### **Statista**
+> __Description:__ Statistics and business data platform for over 170 industries. \
+__Link:__ [Statista](https://statista.com)
+
+### **Status Page**
+> __Description:__ Communicate real-time status to your members. \
+__Link:__ [Status Page](https://statuspage.io)
+
+### **Tone Indicators Website**
+> __Description:__ Find and understand text tone indicators. \
+__Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
 
 ### **URL Scanner**
 > __Description:__ Scans URLs and gives details about them. \
 __Link:__ [URL Scan](https://urlscan.io/)
 
+### **URL Expander**
+> __Description:__ Expand short URLs. \
+__Link:__ [URL Expander](https://urlex.org/)
+
+### **Waifu2x**
+> __Description:__ Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks. \
+__Link:__ [waifu2x](http://waifu2x.udp.jp/)
+
+## __**Phishing Related**__
+[discord nitro information (not a scam)](https://dicsord.gq/)
+
 ### **Virus Total**
-> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.
+> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware. \
 __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ### **Gits of Scam Links**
@@ -846,7 +854,7 @@ __Link(s):__ \
 
 ## __**Converters**__
 - Time Converters 
-### **HammerTime:**
+### **HammerTime**
 > __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message. \
 The result will be a dynamic timestamp that displays differently for everyone based on their own timezone. \
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/) \
@@ -868,7 +876,7 @@ __Link(s):__ \
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord) \
 __Credit:__ HilbertGilbertson#1234 (213023662066892800)
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools):**
+### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
 > __Description:__ Converts a time given into a Unix timestamp. \
 __Link:__ [Epoch Converter](https://www.epochconverter.com/) 
 
