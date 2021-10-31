@@ -1,11 +1,11 @@
 name: Publish changes to the wiki
 
-on: [push] if: ${{ }}
+on: [push]
 
 jobs:
   build:
+    if: ${{ github.repository == "rydixulous/Discord-Resources-n-More" }}
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v1
       # Additional steps to generate documentation in "Documentation" directory
