@@ -212,7 +212,7 @@ __Credit:__ Discord Linux team (owned by Syretia#4268 | 86201442112671744)
 [![Discord Linux](https://invidget.switchblade.xyz/discord-linux)](https://discord.gg/discord-linux)
 
 ## **Discord Bots**
-> __Description:__ The Discord server for the largest bots list on discord. \
+> __Description:__ The Discord server for the oldest bots list on Discord, affiliated with Discord API. \
 __Link:__ [Discord Bots](https://discord.gg/dbots) \
 __Credit:__ Discord Bots’ server team (owned by meew0#9811 | 66237334693085184)
 
