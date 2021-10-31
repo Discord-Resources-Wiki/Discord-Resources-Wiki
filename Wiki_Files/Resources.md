@@ -542,7 +542,7 @@ __Credit:__ Tiemen#0001 (152164749868662784)
 
 ## **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures. \
-__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/) \ 
+__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/) \
 __Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
 
 ## **Rauf's Embeds Generator**
