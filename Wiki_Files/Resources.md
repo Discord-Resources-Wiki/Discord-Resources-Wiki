@@ -118,6 +118,10 @@ __Link:__ [Discord Branding](https://dis.gd/branding)
 > __Description:__  Information on Nitro & Nitro Classic subscriptions. \
 __Link:__ [Discord Nitro](https://dis.gd/nitro)
 
+## **Discord Profile Badges**
+> __Description:__ Badges on User profile on discord. \
+__Link:__ [Profile Badges](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)
+
 ## **Discord Status Page**
 > __Description:__ Provides information on the current status of the Discord services. \
 __Link:__ [Status Page](https://dis.gd/status)
