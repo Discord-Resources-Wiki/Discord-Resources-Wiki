@@ -727,6 +727,10 @@ __Link:__ [Carrd](https://carrd.co/)
 > __Description:__ Color schemes generator. \
 __Link:__ [Coolors](https://coolors.co/)
 
+## **Terms Of Service ; Didn't Read**
+> __Description:__ Summarized terms of service for all known companies.
+__Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
+
 ### **C.O.A.C.H**
 > __Description:__ Tidying up your online security, step by step. \
 __Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
