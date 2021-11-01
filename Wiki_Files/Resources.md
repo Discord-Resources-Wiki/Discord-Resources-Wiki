@@ -577,11 +577,6 @@ __Credit:__  Dragory#0001 (106391128718245888)
 __Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/) \
 __Credit:__  Dragory#0001 (106391128718245888)
 
-### **Dragory's Role Colour Preview**
-> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes. \
-__Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/) \
-__Credit:__  Dragory#0001 (106391128718245888)
-
 ### **Disgradient**
 > __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more. \
 __Link:__ [Disgradient](https://disgradient.vanished.rocks/) \
