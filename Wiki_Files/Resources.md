@@ -685,6 +685,10 @@ __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 > __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document. \
 __Link:__ [Markdown Guide](https://www.markdownguide.org/)
 
+### **Qwerty.dev**
+> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online. \
+__Link:__ [Qwerty.dev](https://qwerty.dev/)
+
 ### **replit**
 > __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages. \
 __Link:__ [replit](https://replit.com/)
