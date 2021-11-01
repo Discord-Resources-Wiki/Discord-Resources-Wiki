@@ -51,7 +51,7 @@ const config = {
             position: 'right',
           },
             {
-            href: 'https://github.com/rydixulous/Discord-Resources-n-More',
+            href: 'https://discord.gg/AJX6cVWeJg',
             label: 'Discord',
             position: 'right',
           },
