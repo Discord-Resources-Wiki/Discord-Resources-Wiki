@@ -57,10 +57,6 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Discord Resource Wiki Team`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
