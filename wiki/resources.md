@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # __**The basics!**__
 
 ## **Discord Terms of Service** 

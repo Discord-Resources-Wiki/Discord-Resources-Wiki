@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Discord Resources
 
 ## So what is this thing?

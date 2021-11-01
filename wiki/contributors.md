@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Contributors 
 This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project! \
 We want to thank: \
