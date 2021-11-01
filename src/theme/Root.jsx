@@ -5,7 +5,7 @@ export default function Root({children}) {
     return (
         <>
             <Head>
-                <meta property="og:image" content="/img/logo-small.png" />
+                <meta property="og:image" content="/img/logo-background.png" />
             </Head>
             {children}
         </>
