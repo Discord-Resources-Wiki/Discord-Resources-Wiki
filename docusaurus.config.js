@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Discord Resources Wiki',
   tagline: 'A list of ton of useful discord resources and utilities for all type of users, from beginners to power users.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://discordresources.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
