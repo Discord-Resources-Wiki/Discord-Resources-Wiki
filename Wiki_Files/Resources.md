@@ -258,6 +258,11 @@ __Credit:__ Dev Hub team (owned by Merlin#1337 | 386861188891279362)
 
 # __**Unofficial Resources:**__
 
+## **Discord Lists**
+> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites. \
+__Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists) \
+__Credit:__ Delite#0001 (142242854167642122)
+
 ## **List of dis.gd URLs**
 > __Description:__ A list of all the shortened Discord links. \
 __Link:__ [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/) \
@@ -551,11 +556,6 @@ __Credit:__  BrightSkyz#2627 (209769851651227648)
 ### **Discord Invite Info:**
 > __Description:__ Shows info about a guild using an invitation. \
 __Link:__ [Discord Invite Info](https://discordinvite.info/)
-
-### **Discord Lists**
-> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites. \
-__Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists) \
-__Credit:__ Delite#0001 (142242854167642122)
 
 ### **Discord Flags**
 > __Description:__ A document full with all Discord flags and their meanings. \
