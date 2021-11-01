@@ -39,18 +39,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Discord Resources',
+        title: 'Discord Resources Wiki',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo-small.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'about',
-            position: 'left',
-            label: 'Wiki',
-          },
           {
             href: 'https://github.com/rydixulous/Discord-Resources-n-More',
             label: 'GitHub',
