@@ -36,6 +36,7 @@ We want to thank: <br/>
 **odin#0110** (378537973215657984) - Documentation Organizer <br/>
 **Graphic/Aphriu#3737** (287711497118023692) - Resources Researcher / Documentation Organizer <br/>
 **rjt#2336** (192060404501839872) - Designer <br/>
+**Merlin#1337** (386861188891279362) - Website Architect / Documentation Organizer <br/>
 **Rydix#1726** (755792681313108018) - *I had this idea and did all of the above* 
 
 ## Contribution
