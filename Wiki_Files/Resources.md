@@ -648,6 +648,10 @@ __Credit:__  Sylveon#1337 (207123748120166400)
 __Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/) \
 __Credit:__ Rauf#3543 (172557961133162496)
 
+ ## **Webhooks Creator** 
+> __Description:__ A site to create webhooks with. \
+__Link:__ [Webhooks Creator](https://webhook.site/)
+
 ### **Zeppelin in Docker**
 > __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker. \
 __Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker) \
