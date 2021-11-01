@@ -767,6 +767,10 @@ __Link:__ [Nord Theme](https://www.nordtheme.com/)
 > __Description:__ A website for personal pronoun usage examples. \
 __Link:__ [Pronoun Island](https://pronoun.is/)
 
+## **Flaticon**
+> __Description:__ Free Vector Icons and Stickers for your projects. Resources made by and for designers. \ 
+__Link:__ [Flaticon](https://www.flaticon.com/)
+
 ### **Photopea**
 > __Description:__ Free online image editor. \
 __Link:__ [Photopea](https://www.photopea.com/)
