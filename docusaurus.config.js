@@ -26,7 +26,7 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/docs/',
           path: 'wiki',
-          routeBasePath: 'wiki'
+          routeBasePath: '/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -47,7 +47,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'about',
             position: 'left',
             label: 'Wiki',
           },

@@ -1,8 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
+slug: /
 ---
 
-# Discord Resources
+# About
 
 ## So what is this thing?
 
