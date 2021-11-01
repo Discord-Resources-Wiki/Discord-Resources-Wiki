@@ -42,7 +42,7 @@ const config = {
         title: 'Discord Resources',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo-small.png',
         },
         items: [
           {
