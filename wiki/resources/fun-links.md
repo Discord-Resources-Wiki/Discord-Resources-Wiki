@@ -35,4 +35,5 @@ https://www.soundsjustlike.com/ | sounds just like   <br/>
 https://discord.gg/wungus Or https://wungus.com/ | church of wungus   <br/>
 https://http.cat/ | HTTP cats   <br/>
 https://thispersondoesnotexist.com/ | this person does not exist   <br/>
-https://wungus.guru/robots.txt | wungus the guru
+https://wungus.guru/robots.txt | wungus the guru   <br/>
+https://deadchat.info/ | dead chat info
