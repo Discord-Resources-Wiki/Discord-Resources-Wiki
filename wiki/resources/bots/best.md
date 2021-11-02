@@ -32,9 +32,6 @@ __Link(s):__   <br/>
 [Invite GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
 __Credit:__ AEnterprise#4693 (106354106196570112)
 
-### **Gaius Cicereius**
-> __Description:__ General up-to-date moderation bot with useful features.   <br/>
-__Link:__ [Gaius Cicereius](https://gaiusbot.me/)
 
 ### **Fire**
 > __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
