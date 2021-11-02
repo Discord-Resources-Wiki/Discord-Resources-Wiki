@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Discord Resources Wiki',
-  tagline: 'A list of ton of useful discord resources and utilities for all type of users, from beginners to power users.',
+  tagline: 'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.',
   url: 'https://discordresources.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
