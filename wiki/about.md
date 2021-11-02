@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
+description: A list of ton of useful discord resources and utilities for all type of users, from beginners to power users.
 ---
 
 # About
