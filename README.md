@@ -1,5 +1,4 @@
-# Discord-Resources-n-More
-In the wiki page there is a list of ton of useful discord resources and utilities for all type of users, from beginners to power users.   <br/>
-Go check it out!
-
-[Wiki Link Click Me!](https://github.com/rydixulous/Discord-Resources-n-More/wiki)
+# Discord Resources Wiki
+This GitHub repository is the backstage of the **Discord Resources Wiki**, that can be found [here](https://discordresources.com/). <br/>
+You can join the official guild of this project [here](https://discordresources.com/discord). <br/>
+*feel free to star this repo we won't be mad*
