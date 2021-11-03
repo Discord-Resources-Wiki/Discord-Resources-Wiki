@@ -32,9 +32,6 @@ __Link(s):__   <br/>
 [Invite GearBot](https://discord.comoauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
 __Credit:__ @106354106196570112)
 
-### **Gaius Cicereius**
-> __Description:__ General up-to-date moderation bot with useful features.   <br/>
-__Link:__ [Gaius Cicereius](https://gaiusbot.me/)
 
 ### **Fire**
 > __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
@@ -86,7 +83,7 @@ __Link(s):__   <br/>
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 __Credit:__ @255834596766253057
 
-## ModMail
+## **ModMail**
 
 ### **Dragory's ModMail** (self-host)
 > __Description:__ Modmail Bot is a bot for Discord that allows users to DM the bot to contact the server's moderators/staff without messaging them individually or pinging them publicly on the server. These DMs get relayed to ModMail threads, channels where staff members can reply to and talk with the user. To the user, the entire process happens in DMs with the bot.   <br/>
@@ -105,7 +102,7 @@ __Credit:__ [Kyb3r](https://github.com/kyb3r)
 __Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
 __Credit:__ @524371727812263948
 
-## Utility Bots
+## **Utility Bots**
 ### **RTS Bot**
 > __Description:__ Bot with mental health & wellness resources.   <br/>
 __Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
@@ -138,6 +135,27 @@ __Credit:__ @172557961133162496
 __Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
 __Credit:__ @173815235243802624
  
+### **AMA (Ask Me Anything)**
+> __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
+__Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
+__Credit:__ didinele#0001 (223703707118731264)
+
+### **Suggester**
+> __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
+__Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
+[Suggester Docs](https://suggester.js.org/)  <br/>
+__Credit:__ Brightness#0001 (327887845270487041)
+
+### **NSFW-Toggle**
+> __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
+__Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
+__Credit:__ Ben!#0002 (255834596766253057)
+
+### **WidgetBot**
+> __Description:__ Create good looking widgets for your websites.  <br/>
+__Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
+__Credit:__ [WidgetBot Team](https://github.com/widgetbot-io)
+
 ### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
