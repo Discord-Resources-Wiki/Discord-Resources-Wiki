@@ -1,0 +1,27 @@
+.container {
+    position: relative;
+}
+
+.children {
+    cursor: pointer;
+}
+
+.popup {
+    display: none;
+    position: absolute;
+    top: -2.5rem;
+    left: 50%;
+    transform: translate(-50%)
+}
+
+.containerHover:hover .popup {
+    display: block;
+}
+
+.popupText {
+    color: #fff;
+    background-color: #2f3136;
+    border-radius: 100px;
+    white-space: nowrap;
+    padding: 0.3rem 1rem;
+}
