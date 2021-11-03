@@ -135,6 +135,12 @@ __Credit:__ Rauf#3543 (172557961133162496)
 __Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
 __Credit:__ Teekeks#0001 (173815235243802624)
  
+### **AMA (Ask Me Anything)**
+> __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
+__Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
+__Credit:__ didinele#0001 (223703707118731264)
+
+
 ### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
