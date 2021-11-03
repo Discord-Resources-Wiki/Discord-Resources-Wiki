@@ -34,6 +34,10 @@ __Link:__ [Discord Twitter Page](https://twitter.com/discord)
 > __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
 __Link:__ [Discord Help Center](https://support.discord.com)
 
+## **Discord Safety Center**
+> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
+__Link:__ [Discord Safety Center](https://discord.com/safety)
+
 ## **Client Downloads**
 > __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
 __Link:__ [Discord Clients](https://discordapp.com/download)
