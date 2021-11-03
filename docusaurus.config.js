@@ -69,6 +69,7 @@ const config = {
             {
                 hashed: true,
                 docsDir: 'wiki',
+                docsRouteBasePath: '/',
                 indexDocs: true,
                 indexBlog: false,
                 indexPages: false,
