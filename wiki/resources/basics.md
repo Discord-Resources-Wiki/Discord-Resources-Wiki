@@ -9,6 +9,10 @@ sidebar_position: 1
 It includes information ranging from intellectual property rights to account termination.   <br/>
 __Link:__ [Terms Of Service](https://dis.gd/terms)
 
+## **Discord Privacy Policy**
+> __Description:__ Discord's privacy policy regarding users' information.  <br/>
+__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+
 ## **Discord Community Guidelines**
 > __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
 It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
