@@ -140,6 +140,10 @@ __Credit:__ Teekeks#0001 (173815235243802624)
 __Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
 __Credit:__ didinele#0001 (223703707118731264)
 
+### **WidgetBot**
+> __Description:__ Create good looking widgets for your websites.  <br/>
+__Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
+__Credit:__ [WidgetBot Team](https://github.com/widgetbot-io)
 
 ### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
