@@ -17,7 +17,8 @@ __Link(s):__
 [ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/blob/main/blocklist.txt)   <br/>
 [Jagrosh's List](https://github.com/jagrosh/Vortex/tree/master/lists)   <br/>
 [Pihole Blocklist](https://github.com/mhhakim/pihole-blocklist/)   <br/>
-[Elkbr's List](https://github.com/elbkr/bad-websites) 
+[Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
+[WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
 ### **Database full of malicious links**
 > __Description:__ Self explanatory. 🔢   <br/>
