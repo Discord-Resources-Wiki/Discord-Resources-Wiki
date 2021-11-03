@@ -73,7 +73,7 @@ const config = {
                 indexDocs: true,
                 indexBlog: false,
                 indexPages: false,
-                highlightSearchTermsOnTargetPage: true
+                highlightSearchTermsOnTargetPage: false
             }
         ]
     ]
