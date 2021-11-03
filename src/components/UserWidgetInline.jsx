@@ -1,57 +1,41 @@
-import React, {useEffect, useState} from 'react'
+import React from 'react'
 import styles from '../css/UserWidgetInline.module.css'
 import useThemeContext from '@theme/hooks/useThemeContext'
 import Tooltip from "./Tooltip";
 
 // #f2f3f5
 
-export default function UserWidgetInline({id}) {
+function userAvatar({id, discriminator, avatar}) {
+    const DISCORD_CDN = 'https://cdn.discordapp.com'
+
+    if (avatar) {
+        if (avatar.startsWith('a_')) {
+            return `${DISCORD_CDN}/avatars/${id}/${avatar}.gif?size=32`
+        } else {
+            return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=32`
+        }
+    } else {
+        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator) % 5}.png?size=32`
+    }
+}
+
+export default function UserWidgetInline({data}) {
     const {isDarkTheme} = useThemeContext();
 
-    const [data, setData] = useState(null)
+    if (!data) {
+        data = {
+            id: '0',
+            username: 'Unknown User',
+            discriminator: '0000',
+            avatar: null
+        }
+    }
 
-    useEffect(() => {
-        fetch(`https://crss.link/u/${id}`)
-            .then(async resp => {
-                if (!resp.ok) {
-                    setData(null)
-                } else {
-                    const virtualDom = document.createElement('html')
-                    virtualDom.innerHTML = await resp.text()
-
-                    const userId = virtualDom.querySelector('[property="og:site_name"]')?.content
-                    if (!userId) {
-                        setData(null)
-                    }
-
-                    const tag = virtualDom.querySelector('[property="og:title"]')?.content
-                    const [username, discriminator] = tag.split('#')
-                    const avatarUrl = virtualDom.querySelector('[property="og:image"]')?.content
-
-                    setData({
-                        id: userId,
-                        username,
-                        discriminator,
-                        avatarUrl
-                    })
-
-                    virtualDom.remove()
-                }
-
-                setData({
-                    id: '80088516616269824',
-                    username: 'Danny',
-                    discriminator: '0007',
-                    avatarUrl: 'https://cdn.discordapp.com/avatars/80088516616269824/39ec2502115271c24eb969018fcd8b55.webp?size=128'
-                })
-            })
-    }, [id])
-
-    return data ? (
+    return (
         <Tooltip title={data.id} mode="click">
             <span className={styles.container}>
                 <span className={styles.widget}>
-                        <img src={data.avatarUrl} alt="avatar" className={styles.userAvatar}/>
+                        <img src={userAvatar(data)} alt="" className={styles.userAvatar}/>
                         <span className={styles.userTag}>
                             <span className={styles.userUsername}>{data.username}</span>
                             <span className={styles.userDiscriminator}>#{data.discriminator}</span>
@@ -59,7 +43,5 @@ export default function UserWidgetInline({id}) {
                     </span>
             </span>
         </Tooltip>
-    ) : (
-        <span>({id})</span>
     )
 }
