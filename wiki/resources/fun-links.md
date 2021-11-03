@@ -38,3 +38,4 @@ https://thispersondoesnotexist.com/ | this person does not exist   <br/>
 https://wungus.guru/robots.txt | wungus the guru   <br/>
 https://deadchat.info/ | dead chat info
 https://fish-is.me/ | Im a fish....?
+https://discord.ceo/ | Discord CEO
