@@ -68,7 +68,7 @@ const config = {
             require.resolve("@easyops-cn/docusaurus-search-local"),
             {
                 hashed: true,
-                docsDir: './wiki',
+                docsDir: 'wiki',
                 indexDocs: true,
                 indexBlog: false,
                 indexPages: false,
