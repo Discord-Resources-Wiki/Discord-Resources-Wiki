@@ -6,62 +6,77 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Discord Resources Wiki',
-  tagline: 'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.',
-  url: 'https://discordresources.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'rydixulous',
-  projectName: 'Discord-Resources-n-More',
+    title: 'Discord Resources Wiki',
+    tagline: 'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.',
+    url: 'https://discordresources.com',
+    baseUrl: '/',
+    onBrokenLinks: 'throw',
+    onBrokenMarkdownLinks: 'warn',
+    favicon: 'img/favicon.ico',
+    organizationName: 'rydixulous',
+    projectName: 'Discord-Resources-n-More',
 
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/',
-          path: 'wiki',
-          routeBasePath: '/'
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
-    ],
-  ],
-
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'Discord Resources Wiki',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo-small.png',
-        },
-        items: [
-          {
-            href: 'https://github.com/rydixulous/Discord-Resources-n-More',
-            label: 'GitHub',
-            position: 'right',
-          },
-            {
-            href: 'https://discord.gg/AJX6cVWeJg',
-            label: 'Discord',
-            position: 'right',
-          },
+    presets: [
+        [
+            '@docusaurus/preset-classic',
+            /** @type {import('@docusaurus/preset-classic').Options} */
+            ({
+                docs: {
+                    sidebarPath: require.resolve('./sidebars.js'),
+                    // Please change this to your repo.
+                    editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/',
+                    path: 'wiki',
+                    routeBasePath: '/'
+                },
+                theme: {
+                    customCss: require.resolve('./src/css/custom.css'),
+                },
+            }),
         ],
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+    ],
+
+    themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+        ({
+            navbar: {
+                title: 'Discord Resources Wiki',
+                logo: {
+                    alt: 'My Site Logo',
+                    src: 'img/logo-small.png',
+                },
+                items: [
+                    {
+                        href: 'https://github.com/rydixulous/Discord-Resources-n-More',
+                        label: 'GitHub',
+                        position: 'right',
+                    },
+                    {
+                        href: 'https://discord.gg/AJX6cVWeJg',
+                        label: 'Discord',
+                        position: 'right',
+                    },
+                ],
+            },
+            prism: {
+                theme: lightCodeTheme,
+                darkTheme: darkCodeTheme,
+            },
+        }),
+
+    plugins: [
+        [
+            require.resolve("@easyops-cn/docusaurus-search-local"),
+            {
+                hashed: true,
+                docsDir: 'wiki',
+                docsRouteBasePath: '/',
+                indexDocs: true,
+                indexBlog: false,
+                indexPages: false,
+                highlightSearchTermsOnTargetPage: true
+            }
+        ]
+    ]
 };
 
 module.exports = config;
