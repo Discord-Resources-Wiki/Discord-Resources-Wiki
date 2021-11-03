@@ -146,6 +146,12 @@ __Credit:__ Rauf#3543 (172557961133162496)
 > __Description:__ A site to create webhooks with.   <br/>
 __Link:__ [Webhooks Creator](https://webhook.site/)
 
+### **Crosslink's Utility Links**
+> __Description:__ Easy to use links to lookup users and domains. Replace "ID" with User ID and "Domain" with the domain name.  <br/>
+__Link(s):__ [User Info](https://crss.link/u/ID) <br/>
+[Domain Info](https://crss.link/d/Domain)  <br/>
+__Credit:__ Panley#8008 (249287049482338305)
+
 ### **Zeppelin in Docker**
 > __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
 __Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
