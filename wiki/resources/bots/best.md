@@ -83,7 +83,7 @@ __Link(s):__   <br/>
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 __Credit:__ Ben!#0002 (255834596766253057)
 
-## ModMail
+## **ModMail**
 
 ### **Dragory's ModMail** (self-host)
 > __Description:__ Modmail Bot is a bot for Discord that allows users to DM the bot to contact the server's moderators/staff without messaging them individually or pinging them publicly on the server. These DMs get relayed to ModMail threads, channels where staff members can reply to and talk with the user. To the user, the entire process happens in DMs with the bot.   <br/>
@@ -102,7 +102,7 @@ __Credit:__ [Kyb3r](https://github.com/kyb3r)
 __Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
 __Credit:__ Gideon#4325 (524371727812263948)
 
-## Utility Bots
+## **Utility Bots**
 ### **RTS Bot**
 > __Description:__ Bot with mental health & wellness resources.   <br/>
 __Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
