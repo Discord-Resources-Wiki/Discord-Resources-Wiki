@@ -156,3 +156,8 @@ __Credit:__ Panley#8008 (249287049482338305)
 > __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
 __Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
 __Credit:__ Ben!#0002 (255834596766253057)
+
+### **List of Discord Games**
+> __Description:__ A list containing Discord games..   <br/>
+__Link:__ [Discord Games](https://dscstore.cf/)   <br/>
+__Credit:__ See [Credits](https://dscstore.cf/credits)
