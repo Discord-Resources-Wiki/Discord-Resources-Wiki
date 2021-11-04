@@ -28,7 +28,7 @@ __Link:__ [Carrd](https://carrd.co/)
 > __Description:__ Color schemes generator.   <br/>
 __Link:__ [Coolors](https://coolors.co/)
 
-## **Terms Of Service ; Didn't Read**
+### **Terms Of Service ; Didn't Read**
 > __Description:__ Summarized terms of service for all known companies.
 __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
 
@@ -68,7 +68,7 @@ __Link:__ [Nord Theme](https://www.nordtheme.com/)
 > __Description:__ A website for personal pronoun usage examples.   <br/>
 __Link:__ [Pronoun Island](https://pronoun.is/)
 
-## **Flaticon**
+### **Flaticon**
 > __Description:__ Free Vector Icons and Stickers for your projects. Resources made by and for designers.   <br/> 
 __Link:__ [Flaticon](https://www.flaticon.com/)
 

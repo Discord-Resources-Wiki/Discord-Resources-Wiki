@@ -53,6 +53,11 @@ __Credit:__ [Tichau](https://github.com/Tichau)
 > __Description:__ View SVG files.   <br/>
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
 
+### **Youtube Downloader**
+> __Description:__ Download a youtube video as a file using its URL (either audio only or video). <br/>
+__Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
+__Credit:__ tpcstld#0001 (141065743197405184)
+
 ### **Lottie Image Resizer**
 > __Description:__ Lottie image resize so you can get your Lottie files ≤320px.   <br/>
 __Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
