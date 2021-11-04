@@ -23,6 +23,7 @@
     "clsx": "^1.1.1",
     "discord-api-types": "^0.24.0",
     "file-loader": "^6.2.0",
+    "inter-ui": "^3.19.3",
     "mdast-util-find-and-replace": "^1.1.1",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
