@@ -113,6 +113,11 @@ __Credit:__ @99182302885588992
 __Link:__ [Webence](https://panleyent.com/webence/)   <br/>
 __Credit:__  @249287049482338305
 
+### **Discordstatus**
+> __Description:__ A tool to create a unique status/about me page using colores squares.  <br/>
+__Link:__ [Discordstatus](https://warze.org/discordstatus/)  <br/>
+__Credit:__ @345103284463206400
+
 ### **Powercord**
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
 __Link:__ [Powercord](https://powercord.dev/)
