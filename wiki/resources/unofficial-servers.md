@@ -55,7 +55,7 @@ __Credit:__ Discord Hotline team (owned by @108432868149035008)
 ## **The Fish Project**
 > __Description:__ Providing early detection of new phishing attacks before they can be used to harm users.   <br/>
 __Link:__ (only by referral) (access request required)   <br/>
-__Credit:__ The Fish Project team (owned by cactus#0523 | @459235187469975572)
+__Credit:__ The Fish Project team (owned by @459235187469975572)
 
 ## **Dev Hub**
 > __Description:__ A community to bring developers and proficients together to share ideas and talk (discord) meta.   <br/>
