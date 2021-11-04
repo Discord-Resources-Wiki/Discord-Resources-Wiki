@@ -130,6 +130,11 @@ __Link(s):__   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
 __Credit:__ @172557961133162496
 
+### **Jagrosh's Music Bot** (self-host)
+> __Description:__ A music bot with step to step guide on self hosting.  <br/>
+__Link:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
+__Credit:__ @113156185389092864
+
 ### **Tone Indicator Bot**
 > __Description:__ Find and understand tone indicators.   <br/>
 __Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
