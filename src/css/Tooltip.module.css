@@ -9,7 +9,7 @@
 .popup {
     display: none;
     position: absolute;
-    top: -3.5rem;
+    top: -3rem;
     left: 50%;
     transform: translate(-50%);
 }
@@ -20,18 +20,18 @@
 
 .popupText {
     display: block;
-    border-radius: 100px;
+    border-radius: 8px;
     white-space: nowrap;
-    padding: 0.3rem 1rem;
+    padding: 0.2rem 0.6rem;
 }
 
 .popupTriangle {
     display: block;
     width: 0;
     height: 0;
-    border-left: 17px solid transparent;
-    border-right: 17px solid transparent;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
 
-    border-top: 12px solid transparent;
+    border-top: 6px solid transparent;
     margin: 0 auto;
 }

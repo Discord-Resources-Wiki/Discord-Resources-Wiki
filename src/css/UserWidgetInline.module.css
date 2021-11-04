@@ -9,7 +9,7 @@
 .widget {
     display: flex;
     align-items: center;
-    padding: 0 0.6rem 0 0.2rem;
+    padding: 0.05rem 0.4rem 0.05rem 0.4rem;
     border-radius: 100px;
 }
 
