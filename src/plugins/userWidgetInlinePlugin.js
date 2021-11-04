@@ -38,11 +38,12 @@ function userWidgetInlinePlugin(options) {
         findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
 
         await Promise.all(toLoad.map(async userId => {
-            let user = null
+            let user = {id: userId}
             if (discordToken) {
                 try {
                     user = await rest.get(Routes.user(userId))
                 } catch {
+                    console.log(`Failed to fetch user with the id ${userId}, using fallback data instead.`)
                 }
             }
             loadedUsers[userId] = user

@@ -13,21 +13,12 @@ function userAvatar({id, discriminator, avatar}) {
             return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=32`
         }
     } else {
-        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator) % 5}.png?size=32`
+        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=32`
     }
 }
 
 export default function UserWidgetInline({data}) {
     const {isDarkTheme} = useThemeContext();
-
-    if (!data) {
-        data = {
-            id: '0',
-            username: 'Unknown User',
-            discriminator: '0000',
-            avatar: null
-        }
-    }
 
     return (
         <Tooltip title={data.id} mode="click">
@@ -36,8 +27,8 @@ export default function UserWidgetInline({data}) {
                         <img src={userAvatar(data)} alt="" className={styles.userAvatar}/>
                         <span className={styles.userTag}>
                             <span className={styles.userUsername}
-                                  style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.username}</span>
-                            <span className={styles.userDiscriminator}>#{data.discriminator}</span>
+                                  style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.username ?? 'Unknown User'}</span>
+                            <span className={styles.userDiscriminator}>#{data.discriminator ?? '0000'}</span>
                         </span>
                     </span>
             </span>
