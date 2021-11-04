@@ -124,7 +124,8 @@ __Link:__ [Powercord](https://powercord.dev/)
 
 ### **Presence Maker**
 > __Description:__ Create Discord rich presence with this tool.   <br/>
-__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
+__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
+__Credit:__ @454847501787463680
 
 ### **Rauf's Guild Count**
 > __Description:__ Counts the number of guilds you’re in.   <br/>
