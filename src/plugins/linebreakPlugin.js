@@ -4,10 +4,17 @@ function inviteWidgetPlugin() {
     const linebreakRegex = / \\/g
 
     return function transformer(markdownAST) {
-        findAndReplace(markdownAST, linebreakRegex, {
-            type: 'html',
-            value: '<br/>'
-        })
+        let found = true
+        while (found) {
+            found = false
+            findAndReplace(markdownAST, linebreakRegex, {
+                type: 'html',
+                value: () => {
+                    found = true
+                    return '<br/>'
+                }
+            })
+        }
         return markdownAST
     }
 }

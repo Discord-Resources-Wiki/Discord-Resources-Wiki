@@ -35,25 +35,33 @@ function userWidgetInlinePlugin(options) {
             }
         }
 
+        // this finds all instances and already replaces them if the users have already been loaded by other pages
         findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
 
-        if (toLoad.length) {
+        while (toLoad.length) {
             console.log(`Fetching ${toLoad.length} user(s) ...`)
-        }
 
-        await Promise.all(toLoad.map(async userId => {
-            let user = {id: userId}
-            if (discordToken) {
-                try {
-                    user = await rest.get(Routes.user(userId))
-                } catch {
-                    console.log(`Failed to fetch user with the id ${userId}, using fallback data instead.`)
+            await Promise.all(toLoad.map(async userId => {
+                let user = {id: userId}
+                if (discordToken) {
+                    try {
+                        user = await rest.get(Routes.user(userId))
+                    } catch {
+                        console.log(`Failed to fetch user with the id ${userId}, using fallback data instead.`)
+                    }
                 }
-            }
-            loadedUsers[userId] = user
-        }))
+                loadedUsers[userId] = user
+            }))
 
-        findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
+            toLoad.splice(0, toLoad.length)
+
+            // this replaces the instances that have just been loaded
+            findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
+
+            // the implementation seems to have issues finding multiple instances in one node
+            // the loop ensures that all instances are replaced by searching again after the last one was already replaced
+            findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
+        }
 
         return markdownAST
     }
