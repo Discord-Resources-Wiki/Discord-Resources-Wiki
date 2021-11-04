@@ -32,8 +32,8 @@ __Link(s):__
 [phish.surf](https://api.hyperphish.com/gimme-domains)   <br/>
 [Phish Report](https://phish.report/)   <br/>
 [Phish Sinking Yachts](https://phish.sinking.yachts/docs)   <br/>
-[Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: ByteAlex#2706 - 218508002255306752)   <br/>
-[Spoopy Detector](https://spoopy.oceanlord.me/) (credit: Oceanlord#0001-  240973228632178689)   <br/>
+[Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
+[Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
 [Blacklisted Domains](https://api.hyperphish.com/gimme-domains) 
 

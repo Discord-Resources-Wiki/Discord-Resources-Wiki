@@ -21,9 +21,9 @@ __Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-
 ### **Naviking’s Moderation Templates & Tools Documentation**
 > __Description:__ A drive file full of moderation resources.   <br/>
 __Link:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-__Credit:__ NaviKing#3820 (200987752794292224)
+__Credit:__: @200987752794292224
 
 ### **Moderation Guidelines**
 > __Description:__ A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
 __Link:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-__Credit:__ MattA#6011 (366652352125599744)
+__Credit:__ @366652352125599744

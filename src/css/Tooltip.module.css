@@ -1,0 +1,37 @@
+.container {
+    position: relative;
+}
+
+.children {
+    cursor: pointer;
+}
+
+.popup {
+    display: none;
+    position: absolute;
+    top: -3.5rem;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.containerHover:hover .popup {
+    display: block;
+}
+
+.popupText {
+    display: block;
+    border-radius: 100px;
+    white-space: nowrap;
+    padding: 0.3rem 1rem;
+}
+
+.popupTriangle {
+    display: block;
+    width: 0;
+    height: 0;
+    border-left: 17px solid transparent;
+    border-right: 17px solid transparent;
+
+    border-top: 12px solid transparent;
+    margin: 0 auto;
+}

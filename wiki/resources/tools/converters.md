@@ -13,7 +13,7 @@ __Credit:__ [DJDavid98](https://github.com/DJDavid98)
 ### **Snowstamp (Snowflake to Timestamp Converter)** 
 > __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
 __Link:__ [Snowstamp](https://pixelatomy.com/snow-stamp/)   <br/>
-__Credit:__ vegeta897#7777 (86913608335773696) 
+__Credit:__ @86913608335773696
 
 ### **DateTimeCord** 
 > __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that discord does, as well as shows a preview of how it would look in discord.   <br/>
@@ -24,7 +24,7 @@ __Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/)
 __Link(s):__   <br/>
 [Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
-__Credit:__ HilbertGilbertson#1234 (213023662066892800)
+__Credit:__ @213023662066892800
 
 ### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
 > __Description:__ Converts a time given into a Unix timestamp.   <br/>
@@ -56,7 +56,7 @@ __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
 ### **Youtube Downloader**
 > __Description:__ Download a youtube video as a file using its URL (either audio only or video). <br/>
 __Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
-__Credit:__ tpcstld#0001 (141065743197405184)
+__Credit:__ @141065743197405184
 
 ### **Lottie Image Resizer**
 > __Description:__ Lottie image resize so you can get your Lottie files ≤320px.   <br/>

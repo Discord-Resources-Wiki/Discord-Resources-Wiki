@@ -4,6 +4,10 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const userWidgetInlinePlugin = require("./src/plugins/userWidgetInlinePlugin");
+const inviteWidgetPlugin = require("./src/plugins/inviteWidgetPlugin");
+const linebreakPlugins = require("./src/plugins/linebreakPlugin")
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Discord Resources Wiki',
@@ -23,10 +27,10 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
                     editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/',
                     path: 'wiki',
-                    routeBasePath: '/'
+                    routeBasePath: '/',
+                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -73,7 +77,7 @@ const config = {
                 indexDocs: true,
                 indexBlog: false,
                 indexPages: false,
-                highlightSearchTermsOnTargetPage: true
+                highlightSearchTermsOnTargetPage: false
             }
         ]
     ]
