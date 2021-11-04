@@ -33,7 +33,10 @@ const config = {
                     remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
                 },
                 theme: {
-                    customCss: require.resolve('./src/css/custom.css'),
+                    customCss: [
+                        require.resolve('inter-ui/inter.css'),
+                        require.resolve('./src/css/custom.css')
+                    ],
                 },
             }),
         ],
