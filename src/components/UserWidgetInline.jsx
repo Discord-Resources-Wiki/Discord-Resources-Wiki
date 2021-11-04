@@ -3,8 +3,6 @@ import styles from '../css/UserWidgetInline.module.css'
 import useThemeContext from '@theme/hooks/useThemeContext'
 import Tooltip from "./Tooltip";
 
-// #f2f3f5
-
 function userAvatar({id, discriminator, avatar}) {
     const DISCORD_CDN = 'https://cdn.discordapp.com'
 
@@ -34,10 +32,11 @@ export default function UserWidgetInline({data}) {
     return (
         <Tooltip title={data.id} mode="click">
             <span className={styles.container}>
-                <span className={styles.widget}>
+                <span className={styles.widget} style={{backgroundColor: isDarkTheme ? '#2f3136' : '#dadae0'}}>
                         <img src={userAvatar(data)} alt="" className={styles.userAvatar}/>
                         <span className={styles.userTag}>
-                            <span className={styles.userUsername}>{data.username}</span>
+                            <span className={styles.userUsername}
+                                  style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.username}</span>
                             <span className={styles.userDiscriminator}>#{data.discriminator}</span>
                         </span>
                     </span>
