@@ -156,6 +156,12 @@ __Credit:__ @327887845270487041
 __Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
 __Credit:__ @255834596766253057
 
+### **ThreadPersist**
+> __Description:__ A bot that keeps all threads active, unless manually archived.  <br/>
+__Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
+[Self-Host ThreadPersist](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
+__Credit:__ @297045071457681409
+
 ### **WidgetBot**
 > __Description:__ Create good looking widgets for your websites.  <br/>
 __Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
