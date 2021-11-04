@@ -6,59 +6,39 @@ description: A list of tons of useful discord resources and utilities for all ty
 
 # About
 
-## So what is this thing?
+## Welcome to Discord Resources Wiki
 
-For a while now I (Rydix#1726) have been looking for a good resources list that will have everything I, and every discord user needs. 
-From basic pages to advanced utilities, a list that all discord users, from beginners to proficient, will find useful.
-*But I couldn’t find one.* <br/>
-So I poked some friends who know their ways around discord, and together we created this amazing **Discord Resources GitHub Wiki**! _(wew that is a long name)_. <br/>
-This project you see here took months of research and organization to become what it is today, and we really hope you’d find it useful.  
-You can see all the different topics we covered in this project below, as well as a contribution section with credits to project contributors and information if you’d like to contribute yourself. 
-**Fun reading!**
+### What is this?
 
-## Disclaimer 
-We don’t own anything in this GitHub repo. All credits to creators are listed at the “credits” section of each link. <br/>
-If we didn't find the owner in either Discord or GitHub, there will be no credits. **Please send a message to Rydix#1726 if you deserve credit.** <br/>
-Official links are credited to discord. <br/>
-We are not affiliated with Discord in any way.
+**Discord Resources Wiki** is a curated list of helpful and handy resources that would be of use to everyone on Discord, from beginners to power users.
+We're a volunteer-run project and open to contributions! Check out [the contributing page](./contributing.md) to learn how you may contribute to the project.
 
-## Personal Note
-While we don't own anything in this Wiki, we would really appreciate it you could credit us if you use this resources list anywhere! <br/>
-We worked really hard on links research, organization & distribution, so any repost of this wiki to others means the world to us. <br/>
-With you sharing this resources wiki, you are helping us and tons of others, so thank you! 
+### Why'd you make this?
 
-## Contributors 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project! <br/>
-We want to thank: <br/>
-**DEX#0001** (347727875266576395) - Wiki Architect <br/>
-**Dei#2411** (391660873409888277) - Wiki fixer <br/>
-**DyDestroyer#1027** (363481883369013259) - Documentation Organizer<br/>
-**Ethan Modderton, Jr. Esq.#3333** (337104786593939456) - Documentation Organizer<br/>
-**odin#0110** (378537973215657984) - Documentation Organizer <br/>
-**Graphic/Aphriu#3737** (287711497118023692) - Resources Researcher / Documentation Organizer <br/>
-**rjt#2336** (192060404501839872) - Designer <br/>
-**Merlin#1337** (386861188891279362) - Website Architect / Documentation Organizer <br/>
-**Rydix#1726** (755792681313108018) - *I had this idea and did all of the above* 
+The founder of this project, Rydix, had been longing for a good and handy list of resources on Discord that would cover topics of relevance to all Discord users around the world, no matter if they were beginners or proficient.
+However, no such ideal list was available, and the resources themselves were scattered around the internet.
+So, with the help of a few friends who know their way around Discord, we created the **Discord Resources Wiki** to solve this very problem.
+This project took months of research, organisation and design work to become what it is today.
 
-## Contribution
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above! <br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to Rydix#1726 (755792681313108018) in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+### How can I use this?
 
-## How to test changes locally
-Got a great PR going but don't know what it looks like? Not a problem! <br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
-```
-npm install
-```
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
-```
-npm start
-```
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing. 
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+We group together similar resources under common categories/topics, accessible on the left on desktop or with the menu icon on mobile.
+Each resource has a brief description of what it is, followed by the link at which it may be accessed as well as credits to the creators of that resource.
+This site will be constantly updated as we come across more resources that would be of help to Discord users over time!
 
-Once you've got a running instance of the website locally, you're ready to start contributing! 
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0`` 
-If you are using Yarn: Yarn version >= ``1.5``
+## Disclaimer
+
+**We are not affiliated with Discord in any way.**
+
+This site is an aggregate of most resources we could come across, and is not a full exhaustive list by all means.
+We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise.
+
+All credits to resource creators are listed at the “credits” section of each link.
+We try our best to credit users wherever possible, however we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+
+### Note
+
+Although optional, we would really appreciate being credited if we were of help to you.
+We try our best to research links, organise resources & curate them on this site, and what you see is a culmination of months of our effort.
+
+_Help your friends, mutuals, community members and more by sharing this project with them too!_
