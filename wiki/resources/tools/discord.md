@@ -113,13 +113,19 @@ __Credit:__ @99182302885588992
 __Link:__ [Webence](https://panleyent.com/webence/)   <br/>
 __Credit:__  @249287049482338305
 
+### **Discordstatus**
+> __Description:__ A tool to create a unique status/about me page using colores squares.  <br/>
+__Link:__ [Discordstatus](https://warze.org/discordstatus/)  <br/>
+__Credit:__ @345103284463206400
+
 ### **Powercord**
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
 __Link:__ [Powercord](https://powercord.dev/)
 
 ### **Presence Maker**
 > __Description:__ Create Discord rich presence with this tool.   <br/>
-__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
+__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
+__Credit:__ @454847501787463680
 
 ### **Rauf's Guild Count**
 > __Description:__ Counts the number of guilds you’re in.   <br/>
