@@ -130,6 +130,11 @@ __Link(s):__   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
 __Credit:__ @172557961133162496
 
+### **Jagrosh's Music Bot** (self-host)
+> __Description:__ A music bot with step to step guide on self hosting.  <br/>
+__Link:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
+__Credit:__ @113156185389092864
+
 ### **Tone Indicator Bot**
 > __Description:__ Find and understand tone indicators.   <br/>
 __Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
@@ -150,6 +155,12 @@ __Credit:__ @327887845270487041
 > __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
 __Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
 __Credit:__ @255834596766253057
+
+### **ThreadPersist**
+> __Description:__ A bot that keeps all threads active, unless manually archived.  <br/>
+__Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
+[Self-Host ThreadPersist](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
+__Credit:__ @297045071457681409
 
 ### **WidgetBot**
 > __Description:__ Create good looking widgets for your websites.  <br/>
