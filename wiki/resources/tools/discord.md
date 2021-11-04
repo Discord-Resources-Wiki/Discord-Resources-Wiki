@@ -113,10 +113,6 @@ __Credit:__ Mozzy#9999 (99182302885588992)
 __Link:__ [Webence](https://panleyent.com/webence/)   <br/>
 __Credit:__  Panley#8008 (249287049482338305)
 
-### **Powercord**
-> __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
-__Link:__ [Powercord](https://powercord.dev/)
-
 ### **Presence Maker**
 > __Description:__ Create Discord rich presence with this tool.   <br/>
 __Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
