@@ -52,7 +52,7 @@ __Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
 __Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
 __Credit:__  @209769851651227648
 
-### **Discord Invite Info:**
+### **Discord Invite Info**
 > __Description:__ Shows info about a guild using an invitation.   <br/>
 __Link:__ [Discord Invite Info](https://discordinvite.info/)
 
@@ -126,6 +126,11 @@ __Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
 __Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount)   <br/>
 __Credit:__ @172557961133162496
 
+### **Rauf's Slash Command Generator**
+> __Description:__ An easy to use slash command tool which allows bot developers to create slash commands simply and fast.  <br/>
+__Link:__ [Rauf's Slash Command Generator](https://rauf.wtf/slash)  <br/>
+__Credit:__ @172557961133162496
+
 ### **Status**
 > __Description:__ A server that has a collection of announcement channels you can follow for many status pages (including Discord, Cloudflare, GitHub, Hypixel & more) so you can be one of the first to know when one of your favourite service(s) have issues.   <br/>
 __Link(s):__ 
@@ -145,6 +150,11 @@ __Credit:__ @172557961133162496
  ### **Webhooks Creator** 
 > __Description:__ A site to create webhooks with.   <br/>
 __Link:__ [Webhooks Creator](https://webhook.site/)
+
+## **Google forms -> Discord Webhook**
+> __Description:__ Sends a google form response to a discord channel using webhooks.  <br/>
+__Link__ [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
+__Credit:__ @87599455892692992
 
 ### **Crosslink's Utility Links**
 > __Description:__ Easy to use links to lookup users and domains. Replace "ID" with User ID and "Domain" with the domain name.  <br/>
