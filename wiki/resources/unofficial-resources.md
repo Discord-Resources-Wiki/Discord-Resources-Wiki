@@ -52,6 +52,11 @@ __Credit:__ [Ghostrider-05](https://gist.github.com/ghostrider-05)
 __Link:__ [Discord Build Logger](https://discord.sale/)  
 __Credit:__ @545581357812678656
 
+## **Discord Markdown Guide**
+> __Desciption:__ An in-depth guide for Discord markdown.  <br/>
+__Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
+__Credit:__ [Matthew Ring](https://github.com/matthewzring)
+
 ## **All Official Discord Bots**
 > __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
 __Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
