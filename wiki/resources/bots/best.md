@@ -33,6 +33,14 @@ __Link(s):__   <br/>
 __Credit:__ AEnterprise#4693 (106354106196570112)
 
 
+### **Mai Bot**
+> __Description:__ Multi function, moderation bot.   <br/>
+__Link(s):__  <br/>
+[Mai Bot Website](https://mai.gg/)   <br/>
+[Source Code](https://github.com/maisans-maid/mai)   <br/>
+__Credit(s):__  Sakurajimai#6742 (545427431662682112) | conqr#0001 (506498700332236810)
+
+
 ### **Fire**
 > __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
 __Link(s):__   <br/>
