@@ -30,7 +30,7 @@ __Credit:__ @113156185389092864
 __Link(s):__   <br/>
 [GearBot Website](https://gearbot.rocks/)   <br/>
 [Invite GearBot](https://discord.comoauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
-__Credit:__ @106354106196570112)
+__Credit:__ @106354106196570112
 
 
 ### **Fire**
@@ -73,7 +73,7 @@ __Credit:__ @249287049482338305
 ### **Safelink** 
 > __Description:__ A bot that can detect a variety of scam (nitro scams, steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
 __Link:__ [Safelink](https://safelink.gg/)   <br/>
-__Credit:__ @282565295351136256 | @684155404078415890
+__Credit:__ @282565295351136256 @684155404078415890
 
 
 ### **Fish**
@@ -138,18 +138,18 @@ __Credit:__ @173815235243802624
 ### **AMA (Ask Me Anything)**
 > __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
 __Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
-__Credit:__ didinele#0001 (223703707118731264)
+__Credit:__ @223703707118731264
 
 ### **Suggester**
 > __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
 __Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
 [Suggester Docs](https://suggester.js.org/)  <br/>
-__Credit:__ Brightness#0001 (327887845270487041)
+__Credit:__ @327887845270487041
 
 ### **NSFW-Toggle**
 > __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
 __Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
-__Credit:__ Ben!#0002 (255834596766253057)
+__Credit:__ @255834596766253057
 
 ### **WidgetBot**
 > __Description:__ Create good looking widgets for your websites.  <br/>
