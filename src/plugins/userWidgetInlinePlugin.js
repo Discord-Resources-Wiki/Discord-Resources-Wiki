@@ -37,6 +37,10 @@ function userWidgetInlinePlugin(options) {
 
         findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
 
+        if (toLoad.length) {
+            console.log(`Fetching ${toLoad.length} user(s) ...`)
+        }
+
         await Promise.all(toLoad.map(async userId => {
             let user = {id: userId}
             if (discordToken) {

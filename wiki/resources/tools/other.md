@@ -83,7 +83,7 @@ __Link:__ [Random Sites](https://www.randomlists.com/websites)
 ### **ShareX**
 > __Description:__ Best sharing app.  
 __Link:__ [ShareX](https://getsharex.com/)   <br/>
-__Credit:__ Jaex#0001 (95576568025329664)  
+__Credit:__ @95576568025329664
 
 ### **Simple Icons**
 > __Description:__ A list of simple icons, including brand icons.   <br/>
