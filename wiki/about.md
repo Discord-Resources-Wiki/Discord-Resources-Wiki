@@ -8,37 +8,31 @@ description: A list of tons of useful discord resources and utilities for all ty
 
 ## Welcome to Discord Resources Wiki
 
-### What is this?
+## So what is this thing?
 
-**Discord Resources Wiki** is a curated list of helpful and handy resources that would be of use to everyone on Discord, from beginners to power users.
-We're a volunteer-run project and open to contributions! Check out [the contributing page](./contributing.md) to learn how you may contribute to the project.
+The founder of this project, @755792681313108018, had been longing for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
 
-### Why'd you make this?
+And so, an idea struck!
+With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
 
-The founder of this project, Rydix, had been longing for a good and handy list of resources on Discord that would cover topics of relevance to all Discord users around the world, no matter if they were beginners or proficient.
-However, no such ideal list was available, and the resources themselves were scattered around the internet.
-So, with the help of a few friends who know their way around Discord, we created the **Discord Resources Wiki** to solve this very problem.
-This project took months of research, organisation and design work to become what it is today.
+## What am I seeing here?
 
-### How can I use this?
+We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
 
-We group together similar resources under common categories/topics, accessible on the left on desktop or with the menu icon on mobile.
-Each resource has a brief description of what it is, followed by the link at which it may be accessed as well as credits to the creators of that resource.
-This site will be constantly updated as we come across more resources that would be of help to Discord users over time!
+This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
 
 ## Disclaimer
 
 **We are not affiliated with Discord in any way.**
 
-This site is an aggregate of most resources we could come across, and is not a full exhaustive list by all means.
-We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise.
+This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
 
-All credits to resource creators are listed at the “credits” section of each link.
-We try our best to credit users wherever possible, however we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
 
-### Note
+All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
 
-Although optional, we would really appreciate being credited if we were of help to you.
-We try our best to research links, organise resources & curate them on this site, and what you see is a culmination of months of our effort.
+## Personal Note
 
-_Help your friends, mutuals, community members and more by sharing this project with them too!_
+Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+
+**Help your friends, mutuals, community members and more by sharing this project with them too!**
