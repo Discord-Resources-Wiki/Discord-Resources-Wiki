@@ -183,7 +183,7 @@ __Credit:__ @249287049482338305
 > __Description:__ Easy to use links to lookup users, servers, and invites. Replace "ID" with the User or Server ID (works with invites too).  <br/>
 __Link(s):__ <br/>
 [Find User](https://url.wtf/ID)  <br/>
-[Find Guild](https://url.wtf/g/ID)  <br/>
+[Find Guild](https://url.wtf/g/<ID>)  <br/>
 __Credit:__ @386861188891279362
 
 ### **Zeppelin in Docker**
