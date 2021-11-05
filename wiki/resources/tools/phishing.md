@@ -35,7 +35,8 @@ __Link(s):__
 [Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
 [Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
-[Blacklisted Domains](https://api.hyperphish.com/gimme-domains) 
+[Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
+[Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) 
 
 ### **Phisherman** 
 > __Description:__   <br/>
