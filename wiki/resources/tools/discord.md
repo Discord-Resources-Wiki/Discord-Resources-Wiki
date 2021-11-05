@@ -118,6 +118,10 @@ __Credit:__  @249287049482338305
 __Link:__ [Discordstatus](https://warze.org/discordstatus/)  <br/>
 __Credit:__ @345103284463206400
 
+### **PreMiD**
+> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
+__Link:__ [PreMiD](https://premid.app/)
+
 ### **Powercord**
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
 __Link:__ [Powercord](https://powercord.dev/)
@@ -169,10 +173,10 @@ __Link(s):__ [User Info](https://crss.link/u/ID) <br/>
 __Credit:__ @249287049482338305
 
 ### **Merlin's Embed Links**
-> __Description:__ Easy to use links to lookup users, servers, and invites. Replace "ID" with the User or Server ID.  <br/>
+> __Description:__ Easy to use links to lookup users, servers, and invites. Replace "ID" with the User or Server ID (works with invites too).  <br/>
 __Link(s):__ <br/>
-[https://url.wtf/ID](https://url.wtf/386861188891279362) for users <br/>
-[https://url.wtf/g/ID](https://url.wtf/g/7807680068520378369) for servers (also supports invite codes) <br/>
+[Find User](https://url.wtf/ID)  <br/>
+[Find Guild](https://url.wtf/g/ID)  <br/>
 __Credit:__ @386861188891279362
 
 ### **Zeppelin in Docker**
