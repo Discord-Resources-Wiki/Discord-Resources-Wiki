@@ -180,7 +180,7 @@ __Link(s):__ [User Info](https://crss.link/u/ID) <br/>
 __Credit:__ @249287049482338305
 
 ### **Merlin's Embed Links**
-> __Description:__ Easy to use links to lookup users, servers, and invites. Replace "ID" with the User or Server ID (works with invites too).  <br/>
+> __Description:__ Easy to use links to lookup users, servers, and invites. Replace "ID" with the User or Server ID (works with invites too). The links should be copied and not clicked on, they are to show in-chat info embeds.  <br/>
 __Link(s):__ <br/>
 [Find User](https://url.wtf/ID)  <br/>
 [Find Guild](https://url.wtf/g/<ID>)  <br/>
