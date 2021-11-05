@@ -20,6 +20,11 @@ __Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 > __Description:__  The official tool to look up for reported bugs.   <br/>
 __Link:__ [Discord Bugs](https://bugs.discord.com/)
 
+## **Discord Testers Bug Tool**
+> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
+__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
+__Credit:__ @53905483156684800
+
 ## **Discord Moderator Academy** 
 > __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
@@ -45,6 +50,10 @@ __Link:__ [Discord Nitro](https://dis.gd/nitro)
 ## **Discord Status Page**
 > __Description:__ Provides information on the current status of the Discord services.   <br/>
 __Link:__ [Status Page](https://dis.gd/status)
+
+## **Discord Developer Portal**
+> __Description:__ The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
+__Link:__ [Discord Developer Portal](https://discord.com/developers/)
 
 ## **Discord Developer Docs**
 > __Description:__ The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>

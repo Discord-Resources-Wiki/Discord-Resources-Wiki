@@ -6,7 +6,6 @@ sidebar_position: 12
 
 https://tryitands.ee/ | Try and see video   <br/>
 https://shutplea.se/ | Shut bird   <br/>
-https://welcome-to-our.club/ | Welcome to club   <br/>
 https://i-dont-ca.re/ | About docs   <br/>
 https://just-read.it/ | Read the error smh   <br/>
 https://when.lol/ | When did I ask   <br/>
@@ -36,6 +35,9 @@ https://discord.gg/wungus Or https://wungus.com/ | church of wungus   <br/>
 https://http.cat/ | HTTP cats   <br/>
 https://thispersondoesnotexist.com/ | this person does not exist   <br/>
 https://wungus.guru/robots.txt | wungus the guru   <br/>
-https://deadchat.info/ | dead chat info
-https://fish-is.me/ | Im a fish....?
-https://discord.ceo/ | Discord CEO
+https://deadchat.info/ | dead chat info  <br/>
+https://fish-is.me/ | Im a fish....?  <br/> 
+https://discord.ceo/ | Discord CEO  <br/>
+https://discord.com/humans.txt | Discord  <br/>
+https://roing.us/ | click the creature  <br/>
+https://printer.discord.com/ | Discord printer
