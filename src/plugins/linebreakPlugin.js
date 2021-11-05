@@ -7,11 +7,11 @@ function inviteWidgetPlugin() {
         let found = true
         while (found) {
             found = false
-            findAndReplace(markdownAST, linebreakRegex, {
-                type: 'html',
-                value: () => {
-                    found = true
-                    return '<br/>'
+            findAndReplace(markdownAST, linebreakRegex, () => {
+                found = true
+                return {
+                    type: 'html',
+                    value: '<br/>'
                 }
             })
         }
