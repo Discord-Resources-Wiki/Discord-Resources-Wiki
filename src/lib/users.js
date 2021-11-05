@@ -62,8 +62,8 @@ async function fetchUserByIdentifier(identifier) {
             }
         }
     } else if (identifier.startsWith('github:')) {
+        const username = identifier.substring(7)
         try {
-            const username = identifier.substring(7)
             const resp = await octokit.rest.users.getByUsername({username})
             if (resp.status === 200) {
                 const githubUser = resp.data
