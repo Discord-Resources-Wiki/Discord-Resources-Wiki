@@ -6,7 +6,6 @@ sidebar_position: 12
 
 https://tryitands.ee/ | Try and see video   <br/>
 https://shutplea.se/ | Shut bird   <br/>
-https://welcome-to-our.club/ | Welcome to club   <br/>
 https://i-dont-ca.re/ | About docs   <br/>
 https://just-read.it/ | Read the error smh   <br/>
 https://when.lol/ | When did I ask   <br/>
