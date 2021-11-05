@@ -35,7 +35,7 @@ https://discord.gg/wungus Or https://wungus.com/ | church of wungus   <br/>
 https://http.cat/ | HTTP cats   <br/>
 https://thispersondoesnotexist.com/ | this person does not exist   <br/>
 https://wungus.guru/robots.txt | wungus the guru   <br/>
-https://deadchat.info/ | dead chat info
-https://fish-is.me/ | Im a fish....?
-https://discord.ceo/ | Discord CEO
+https://deadchat.info/ | dead chat info  <br/>
+https://fish-is.me/ | Im a fish....?  <br/> 
+https://discord.ceo/ | Discord CEO  <br/>
 https://discord.com/humans.txt | Discord
