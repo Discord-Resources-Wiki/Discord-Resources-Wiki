@@ -164,7 +164,7 @@ __Credit:__ @297045071457681409
 
 ### **CleanLeave**
 > __Description:__ Automatically remove user join messages when the user leaves the server.  <br/>
-__Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
+__Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
 [Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
 __Credit:__ @297045071457681409
 
