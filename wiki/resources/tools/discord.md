@@ -180,6 +180,11 @@ __Credit:__ @249287049482338305
 __Link:__ [Embeddable Links](https://url.wtf) <br/>
 __Credit:__ @386861188891279362
 
+### **Scratch For Discord**
+> __Description:__ Make a discord bot using blocks with no coding required.  <br/>
+__Link:__ [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
+__Credit:__ @422820341791064085
+
 ### **Zeppelin in Docker**
 > __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
 __Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
