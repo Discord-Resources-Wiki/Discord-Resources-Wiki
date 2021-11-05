@@ -82,6 +82,11 @@ __Credit:__ @354309005037797376
 __Link:__ [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
 __Credit:__ @223518178100248576
 
+## **Discord Basic Templates** (fan - made)
+> __Description:__ A list of fan - made basic templates to cover most types of communities.  <br/>
+__Link:__ [Discord Basic Templates](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
+__Credit:__ @242385234992037888
+
 ## **Discord UI Mockup**
 > __Description:__ Exact copy of the discord client (might be outdated).   <br/>
 __Link:__ [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
