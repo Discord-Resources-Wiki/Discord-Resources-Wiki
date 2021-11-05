@@ -32,6 +32,12 @@ const config = {
                     routeBasePath: '/',
                     remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
                 },
+                blog: {
+                    path: 'blog',
+                    routeBasePath: '/blog/',
+                    showReadingTime: true,
+                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
+                },
                 theme: {
                     customCss: [
                         require.resolve('inter-ui/inter.css'),
