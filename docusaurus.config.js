@@ -6,7 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const userWidgetInlinePlugin = require("./src/plugins/userWidgetInlinePlugin");
 const inviteWidgetPlugin = require("./src/plugins/inviteWidgetPlugin");
-const linebreakPlugins = require("./src/plugins/linebreakPlugin")
+const linebreakPlugins = require("./src/plugins/linebreakPlugin");
+const blogAuthorWidgetPlugin = require("./src/plugins/blogAuthorWidgetPlugin");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -36,7 +37,7 @@ const config = {
                     path: 'blog',
                     routeBasePath: '/blog/',
                     showReadingTime: true,
-                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
+                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin, blogAuthorWidgetPlugin]
                 },
                 theme: {
                     customCss: [

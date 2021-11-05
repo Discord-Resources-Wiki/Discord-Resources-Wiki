@@ -3,7 +3,7 @@ import styles from '../css/UserWidgetInline.module.css'
 import useThemeContext from '@theme/hooks/useThemeContext'
 import Tooltip from "./Tooltip";
 
-function userAvatar({id, discriminator, avatar}) {
+export function userAvatar({id, discriminator, avatar}) {
     const DISCORD_CDN = 'https://cdn.discordapp.com'
 
     if (avatar) {
