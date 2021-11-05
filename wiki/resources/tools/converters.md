@@ -67,15 +67,15 @@ __Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
 > __Description:__ Converts .gif files to .apng files.   <br/>
 __Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
-## **HTML Color Codes**
+### **HTML Color Codes**
 > __Description:__ A site that converts a color into hex code and vice versa.   <br/>
 __Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
 
-## **Image Color Picker**
+### **Image Color Picker**
 > __Description:__ Upload an image and get a specific hex code for a color in the picture.   <br/>
 __Link:__ [Image Color Picker](https://imagecolorpicker.com/)
 
-## **Removebg**
+### **Removebg**
 > __Description:__ Remove any background from an image.   <br/>
 __Link:__ [Removebg](https://www.remove.bg/upload)
 
