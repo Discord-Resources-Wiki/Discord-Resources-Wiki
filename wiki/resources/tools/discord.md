@@ -38,6 +38,13 @@ __Credit:__ [Christian Reichart](https://github.com/christian-reichart)
 __Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
 __Credit:__ @152164749868662784
 
+### **Discord Servers Comparations**
+> __Description:__ Compare stats between Discord servers.  <br/>
+__Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
+__Credit:__ @152164749868662784
+
+
+
 ### **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures.   <br/>
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
