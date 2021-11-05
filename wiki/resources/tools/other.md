@@ -24,6 +24,10 @@ __Link:__ [CitizenLab](https://github.com/citizenlab/test-lists)
 > __Description:__ Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
 __Link:__ [Polywork](https://www.polywork.com/)
 
+### **Rize**
+> __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
+__Link:__ [Rize](https://rize.io)
+
 ### **Carrd**
 > __Description:__ Build one-page websites.   <br/>
 __Link:__ [Carrd](https://carrd.co/)
