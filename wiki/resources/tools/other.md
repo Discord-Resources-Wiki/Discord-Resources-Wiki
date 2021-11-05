@@ -121,3 +121,7 @@ __Link:__ [waifu2x](http://waifu2x.udp.jp/)
 ### **Polywork**
 > __Description:__ Polywork is a professional social network where people highlight the things they've been up to - work, life, learnings, plans & more. <br>/
 __Link:__ [Polywork](https://polywork.com)
+
+### **Rize**
+> __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
+__Link:__ [Rize](https://rize.io)
