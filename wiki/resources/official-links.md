@@ -51,6 +51,10 @@ __Link:__ [Discord Nitro](https://dis.gd/nitro)
 > __Description:__ Provides information on the current status of the Discord services.   <br/>
 __Link:__ [Status Page](https://dis.gd/status)
 
+## **Discord Developer Portal**
+> __Description:__ The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
+__Link:__ [Discord Developer Portal](https://discord.com/developers/)
+
 ## **Discord Developer Docs**
 > __Description:__ The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
 __Link:__ [Discord Developer Docs](https://discord.dev/)
