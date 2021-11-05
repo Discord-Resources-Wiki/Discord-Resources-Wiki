@@ -39,4 +39,5 @@ https://deadchat.info/ | dead chat info  <br/>
 https://fish-is.me/ | Im a fish....?  <br/> 
 https://discord.ceo/ | Discord CEO  <br/>
 https://discord.com/humans.txt | Discord  <br/>
-https://roing.us/ | click the creature
+https://roing.us/ | click the creature  <br/>
+https://printer.discord.com/ | Discord printer
