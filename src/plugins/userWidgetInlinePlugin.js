@@ -3,7 +3,7 @@ const findAndReplace = require('mdast-util-find-and-replace');
 const {users, fetchUserByIdentifier} = require('../lib/users');
 
 function userWidgetInlinePlugin(options) {
-    const widgetMarkupRegex = /@[0-9]+/g
+    const widgetMarkupRegex = /@[0-9a-zA-Z-_]+/g
 
     return async function transformer(markdownAST) {
         markdownAST.children.splice(0, 0, {
@@ -17,10 +17,6 @@ function userWidgetInlinePlugin(options) {
             const userId = match.substring(1)
             if (users.hasOwnProperty(userId)) {
                 let loadedUser = users[userId]
-                if (!loadedUser) {
-                    loadedUser = {id: userId}
-                }
-
                 return {
                     type: 'jsx',
                     value: `<UserWidgetInline data={${JSON.stringify(loadedUser)}}/>`

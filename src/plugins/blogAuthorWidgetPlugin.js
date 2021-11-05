@@ -25,7 +25,7 @@ function blogAuthorWidgetPlugin(options) {
             }
 
             if (ready) {
-                const loadedUsers = userIds.map(userId => users[userId] ?? {id: userId})
+                const loadedUsers = userIds.map(userId => users[userId])
                 return {
                     type: 'jsx',
                     value: `<BlogAuthorWidget data={${JSON.stringify(loadedUsers)}}/>`

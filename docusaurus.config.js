@@ -31,13 +31,21 @@ const config = {
                     editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/',
                     path: 'wiki',
                     routeBasePath: '/',
-                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
+                    remarkPlugins: [
+                        linebreakPlugins,
+                        inviteWidgetPlugin,
+                        userWidgetInlinePlugin
+                    ]
                 },
                 blog: {
                     path: 'blog',
                     routeBasePath: '/blog/',
                     showReadingTime: true,
-                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin, blogAuthorWidgetPlugin]
+                    remarkPlugins: [
+                        linebreakPlugins,
+                        inviteWidgetPlugin,
+                        blogAuthorWidgetPlugin,
+                        userWidgetInlinePlugin]
                 },
                 theme: {
                     customCss: [
