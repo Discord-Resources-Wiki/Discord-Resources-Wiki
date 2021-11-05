@@ -26,7 +26,7 @@ __Credit:__ @386861188891279362
 ### **Discord Data Package Explorer**
 > __Description:__ Explore your discord data easily.   <br/>
 __Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ [Androz2091](https://github.com/Androz2091)
+__Credit:__ @github:Androz2091
 
 ### **Discord Simple Avatar Maker**
 > __Description:__ A site to make simple discord avatars.   <br/>
