@@ -122,10 +122,6 @@ __Credit:__ @345103284463206400
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
 __Link:__ [Powercord](https://powercord.dev/)
 
-### **PreMiD**
-> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
-__Link:__ [PreMiD](https://premid.app/)
-
 ### **Presence Maker**
 > __Description:__ Create Discord rich presence with this tool.   <br/>
 __Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
