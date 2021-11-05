@@ -13,7 +13,7 @@ export default function BlogAuthorWidget({data}) {
                             <div className="avatar__photo">
                                 <img
                                     className="image_node_modules-@docusaurus-theme-classic-lib-next-theme-BlogPostAuthor-styles-module"
-                                    src={userAvatar(user)} alt={user.username}/>
+                                    src={userAvatar(user, 128)} alt={user.username}/>
                             </div>
                             <div className="avatar__intro" itemProp="author" itemScope=""
                                  itemType="https://schema.org/Person">
