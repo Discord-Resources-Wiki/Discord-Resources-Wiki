@@ -27,6 +27,10 @@ __Link(s):__
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
+### **Public APIs**
+> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, each API is categorized and documented.   <br/>
+__Link:__ [Public APIs](https://github.com/public-apis/public-apis)
+
 ### **HTTPS Statuses**
 > __Description:__ A list of HTTPS status codes.   <br/>
 __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
