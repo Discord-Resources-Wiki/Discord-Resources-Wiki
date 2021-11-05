@@ -35,7 +35,7 @@ async function fetchUserByIdentifier(identifier) {
         username: '',
         discriminator: '0000',
         avatarUrl: discordUserAvatarUrl({id: identifier}),
-        url: `https://discord.com/users/${user.id}`
+        url: `https://discord.com/users/${identifier}`
     }
 
     if (discordSnowflakeRegex.exec(identifier)) {
