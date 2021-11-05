@@ -35,10 +35,6 @@ __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 > __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
 __Link:__ [Markdown Guide](https://www.markdownguide.org/)
 
-### **Public APIs**
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, each API is categorized and documented.   <br/>
-__Link:__ [Public APIs](https://github.com/public-apis/public-apis)
-
 ### **Qwerty.dev**
 > __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
 __Link:__ [Qwerty.dev](https://qwerty.dev/)
