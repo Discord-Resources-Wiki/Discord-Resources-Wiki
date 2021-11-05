@@ -3,6 +3,8 @@ const findAndReplace = require('mdast-util-find-and-replace');
 const {users, fetchUserByIdentifier, userIdentifierRegex} = require('../lib/users');
 
 function blogAuthorWidgetPlugin(options) {
+    const identifierRegex = new RegExp(`@authors/${userIdentifierRegex}(,${userIdentifierRegex})*`, 'g')
+
     return async function transformer(markdownAST) {
         markdownAST.children.splice(0, 0, {
             type: 'import',
@@ -36,7 +38,7 @@ function blogAuthorWidgetPlugin(options) {
             }
         }
 
-        findAndReplace(markdownAST, userIdentifierRegex, replaceOrCollect)
+        findAndReplace(markdownAST, identifierRegex, replaceOrCollect)
 
         while (toLoad.length) {
             for (let userId of toLoad) {
@@ -45,8 +47,8 @@ function blogAuthorWidgetPlugin(options) {
 
             toLoad.splice(0, toLoad.length)
 
-            findAndReplace(markdownAST, userIdentifierRegex, replaceOrCollect)
-            findAndReplace(markdownAST, userIdentifierRegex, replaceOrCollect)
+            findAndReplace(markdownAST, identifierRegex, replaceOrCollect)
+            findAndReplace(markdownAST, identifierRegex, replaceOrCollect)
         }
 
         return markdownAST

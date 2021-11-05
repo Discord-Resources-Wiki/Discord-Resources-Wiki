@@ -9,7 +9,7 @@ const octokit = new Octokit()
 const users = {}
 
 const discordSnowflakeRegex = /^[0-9]+$/
-const userIdentifierRegex = /@((discord:)?[0-9]+|github:[0-9a-zA-Z-_]+)/g
+const userIdentifierRegex = '((discord:)?[0-9]+|github:[0-9a-zA-Z-_]+)'
 
 function discordUserAvatarUrl({id, discriminator, avatar}, size = 128) {
     const DISCORD_CDN = 'https://cdn.discordapp.com'

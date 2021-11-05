@@ -3,6 +3,8 @@ const findAndReplace = require('mdast-util-find-and-replace');
 const {users, fetchUserByIdentifier, userIdentifierRegex} = require('../lib/users');
 
 function userWidgetInlinePlugin(options) {
+    const identifierRegex = new RegExp(`@${userIdentifierRegex}`, 'g')
+
     return async function transformer(markdownAST) {
         markdownAST.children.splice(0, 0, {
             type: 'import',
@@ -29,7 +31,7 @@ function userWidgetInlinePlugin(options) {
         }
 
         // this finds all instances and already replaces them if the users have already been loaded by other pages
-        findAndReplace(markdownAST, userIdentifierRegex, replaceOrCollect)
+        findAndReplace(markdownAST, identifierRegex, replaceOrCollect)
 
         while (toLoad.length) {
             for (let userId of toLoad) {
@@ -38,11 +40,11 @@ function userWidgetInlinePlugin(options) {
             toLoad.splice(0, toLoad.length)
 
             // this replaces the instances that have just been loaded
-            findAndReplace(markdownAST, userIdentifierRegex, replaceOrCollect)
+            findAndReplace(markdownAST, identifierRegex, replaceOrCollect)
 
             // the implementation seems to have issues finding multiple instances in one node
             // the loop ensures that all instances are replaced by searching again after the last one was already replaced
-            findAndReplace(markdownAST, userIdentifierRegex, replaceOrCollect)
+            findAndReplace(markdownAST, identifierRegex, replaceOrCollect)
         }
 
         return markdownAST

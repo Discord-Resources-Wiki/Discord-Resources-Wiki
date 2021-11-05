@@ -3,7 +3,8 @@ import React from 'react'
 export default function BlogAuthorWidget({data}) {
     function authorName(user) {
         if (user.type === 'discord') {
-            return <span>{user.name}<span style={{color: 'lightgray', fontWeight: 400}}>#{user.discriminator}</span></span>
+            return <span>{user.name}<span
+                style={{color: 'lightgray', fontWeight: 400}}>#{user.discriminator}</span></span>
         } else {
             return user.name
         }
@@ -17,8 +18,9 @@ export default function BlogAuthorWidget({data}) {
         <div style={{marginTop: '-1rem', marginBottom: '-0.5rem'}}>
             <div className="row margin-top--md margin-bottom--sm">
                 {data.map(user => (
-                    <div
-                        className="col col--6 authorCol_node_modules-@docusaurus-theme-classic-lib-next-theme-BlogPostAuthors-styles-module" key={user.id}>
+                    <a href={user.url} target="_blank"
+                       className="col col--6 authorCol_node_modules-@docusaurus-theme-classic-lib-next-theme-BlogPostAuthors-styles-module"
+                       key={user.id} style={{color: 'inherit', textDecoration: 'none'}}>
                         <div className="avatar margin-bottom--sm">
                             <div className="avatar__photo">
                                 <img
@@ -33,7 +35,7 @@ export default function BlogAuthorWidget({data}) {
                                 <small className="avatar__subtitle" itemProp="description"
                                        style={{color: 'gray'}}>{authorId(user)}</small></div>
                         </div>
-                    </div>
+                    </a>
                 ))}
             </div>
         </div>
