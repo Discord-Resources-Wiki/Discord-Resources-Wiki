@@ -38,3 +38,4 @@ https://wungus.guru/robots.txt | wungus the guru   <br/>
 https://deadchat.info/ | dead chat info
 https://fish-is.me/ | Im a fish....?
 https://discord.ceo/ | Discord CEO
+https://discord.com/humans.txt | Discord
