@@ -50,6 +50,10 @@ __Link:__ [Discord Txt](https://txt.discord.website/)
 __Link:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
 __Credit:__ [Tichau](https://github.com/Tichau)
 
+### **Color Replacer**
+> __Description:__ Replace a specfic colour of an image.  <br/>
+__Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
+
 ### **SVG Viewer**
 > __Description:__ View SVG files.   <br/>
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
