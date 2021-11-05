@@ -29,7 +29,7 @@ __Link:__ [Carrd](https://carrd.co/)
 __Link:__ [Coolors](https://coolors.co/)
 
 ### **Terms Of Service ; Didn't Read**
-> __Description:__ Summarized terms of service for all known companies.
+> __Description:__ Summarized terms of service for all known companies.  <br/>
 __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
 
 ### **C.O.A.C.H**
