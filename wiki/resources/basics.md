@@ -40,4 +40,4 @@ __Link:__ [Discord Safety Center](https://discord.com/safety)
 
 ## **Client Downloads**
 > __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discordapp.com/download)
+__Link:__ [Discord Clients](https://discord.com/download)
