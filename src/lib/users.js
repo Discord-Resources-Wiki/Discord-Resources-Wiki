@@ -70,7 +70,7 @@ async function fetchUserByIdentifier(identifier) {
                 user = {
                     type: 'github',
                     id: githubUser.id,
-                    name: githubUser.name,
+                    name: githubUser.name || githubUser.login,
                     username: githubUser.login,
                     avatarUrl: githubUser.avatar_url,
                     url: `https://github.com/${githubUser.login}`
