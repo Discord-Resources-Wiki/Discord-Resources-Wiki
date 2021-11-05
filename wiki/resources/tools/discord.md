@@ -169,10 +169,8 @@ __Link(s):__ [User Info](https://crss.link/u/ID) <br/>
 __Credit:__ @249287049482338305
 
 ### **Merlin's Embed Links**
-> __Description:__ Easy to use links to lookup users, servers, and invites. Replace "ID" with the User or Server ID.  <br/>
-__Link(s):__ <br/>
-[https://url.wtf/ID](https://url.wtf/386861188891279362) for users <br/>
-[https://url.wtf/g/ID](https://url.wtf/g/7807680068520378369) for servers (also supports invite codes) <br/>
+> __Description:__ Easy to use links to embed users, servers, and invites.<br/>
+__Link:__ [Embeddable Links](https://url.wtf)
 __Credit:__ @386861188891279362
 
 ### **Zeppelin in Docker**
