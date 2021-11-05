@@ -7,35 +7,42 @@ const discordToken = process.env.DISCORD_TOKEN
 const rest = new REST({version: '9'}).setToken(discordToken)
 const loadedUsers = {}
 
-function userWidgetInlinePlugin(options) {
-    const widgetMarkupRegex = /@[0-9]+/g
+function blogAuthorWidgetPlugin(options) {
+    const widgetMarkupRegex = /@authors\/[0-9]+(,[0-9]+)*/g
 
     return async function transformer(markdownAST) {
         markdownAST.children.splice(0, 0, {
             type: 'import',
-            value: 'import UserWidgetInline from \'@site/src/components/UserWidgetInline\';'
+            value: 'import BlogAuthorWidget from \'@site/src/components/BlogAuthorWidget\';'
         })
 
         const toLoad = []
 
         function replaceOrCollect(match) {
-            const userId = match.substring(1)
-            if (loadedUsers.hasOwnProperty(userId)) {
-                const user = loadedUsers[userId]
+            const userIds = match.substring(9).split(',')
+
+            let ready = true
+            for (let userId of userIds) {
+                if (!loadedUsers[userId]) {
+                    ready = false
+                    toLoad.push(userId)
+                }
+            }
+
+            if (ready) {
+                const users = userIds.map(userId => loadedUsers[userId])
                 return {
                     type: 'jsx',
-                    value: `<UserWidgetInline data={${JSON.stringify(user)}}/>`
+                    value: `<BlogAuthorWidget data={${JSON.stringify(users)}}/>`
                 }
             } else {
-                toLoad.push(userId)
                 return {
                     type: 'text',
-                    value: `@${userId}`
+                    value: `@authors/${userIds.join(',')}`
                 }
             }
         }
 
-        // this finds all instances and already replaces them if the users have already been loaded by other pages
         findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
 
         while (toLoad.length) {
@@ -53,11 +60,7 @@ function userWidgetInlinePlugin(options) {
 
             toLoad.splice(0, toLoad.length)
 
-            // this replaces the instances that have just been loaded
             findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
-
-            // the implementation seems to have issues finding multiple instances in one node
-            // the loop ensures that all instances are replaced by searching again after the last one was already replaced
             findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
         }
 
@@ -65,4 +68,4 @@ function userWidgetInlinePlugin(options) {
     }
 }
 
-module.exports = userWidgetInlinePlugin
+module.exports = blogAuthorWidgetPlugin

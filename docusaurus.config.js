@@ -6,7 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const userWidgetInlinePlugin = require("./src/plugins/userWidgetInlinePlugin");
 const inviteWidgetPlugin = require("./src/plugins/inviteWidgetPlugin");
-const linebreakPlugins = require("./src/plugins/linebreakPlugin")
+const linebreakPlugins = require("./src/plugins/linebreakPlugin");
+const blogAuthorWidgetPlugin = require("./src/plugins/blogAuthorWidgetPlugin");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -32,6 +33,12 @@ const config = {
                     routeBasePath: '/',
                     remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
                 },
+                blog: {
+                    path: 'blog',
+                    routeBasePath: '/blog/',
+                    showReadingTime: true,
+                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin, blogAuthorWidgetPlugin]
+                },
                 theme: {
                     customCss: [
                         require.resolve('inter-ui/inter.css'),
@@ -52,6 +59,11 @@ const config = {
                     src: 'img/logo-small.png',
                 },
                 items: [
+                    {
+                        to: 'blog',
+                        label: 'Blog',
+                        position: 'left',
+                    },
                     {
                         href: 'https://github.com/rydixulous/Discord-Resources-n-More',
                         label: 'GitHub',

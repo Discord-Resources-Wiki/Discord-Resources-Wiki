@@ -3,14 +3,14 @@ import styles from '../css/UserWidgetInline.module.css'
 import useThemeContext from '@theme/hooks/useThemeContext'
 import Tooltip from "./Tooltip";
 
-function userAvatar({id, discriminator, avatar}) {
+export function userAvatar({id, discriminator, avatar}, size=32) {
     const DISCORD_CDN = 'https://cdn.discordapp.com'
 
     if (avatar) {
         if (avatar.startsWith('a_')) {
-            return `${DISCORD_CDN}/avatars/${id}/${avatar}.gif?size=64`
+            return `${DISCORD_CDN}/avatars/${id}/${avatar}.gif?size=${size}`
         } else {
-            return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=64`
+            return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=${size}`
         }
     } else {
         return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=64`
