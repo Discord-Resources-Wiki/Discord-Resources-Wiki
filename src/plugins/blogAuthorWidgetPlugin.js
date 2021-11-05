@@ -1,11 +1,6 @@
 const findAndReplace = require('mdast-util-find-and-replace');
 
-const {REST} = require('@discordjs/rest');
-const {Routes} = require('discord-api-types/v9');
-
-const discordToken = process.env.DISCORD_TOKEN
-const rest = new REST({version: '9'}).setToken(discordToken)
-const loadedUsers = {}
+const {users, fetchUserByIdentifier} = require('../lib/users');
 
 function blogAuthorWidgetPlugin(options) {
     const widgetMarkupRegex = /@authors\/[0-9]+(,[0-9]+)*/g
@@ -23,17 +18,17 @@ function blogAuthorWidgetPlugin(options) {
 
             let ready = true
             for (let userId of userIds) {
-                if (!loadedUsers[userId]) {
+                if (!users.hasOwnProperty(userId)) {
                     ready = false
                     toLoad.push(userId)
                 }
             }
 
             if (ready) {
-                const users = userIds.map(userId => loadedUsers[userId])
+                const loadedUsers = userIds.map(userId => users[userId] ?? {id: userId})
                 return {
                     type: 'jsx',
-                    value: `<BlogAuthorWidget data={${JSON.stringify(users)}}/>`
+                    value: `<BlogAuthorWidget data={${JSON.stringify(loadedUsers)}}/>`
                 }
             } else {
                 return {
@@ -46,17 +41,9 @@ function blogAuthorWidgetPlugin(options) {
         findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
 
         while (toLoad.length) {
-            await Promise.all(toLoad.map(async userId => {
-                let user = {id: userId}
-                if (discordToken) {
-                    try {
-                        user = await rest.get(Routes.user(userId))
-                    } catch {
-                        console.log(`Failed to fetch user with the id ${userId}, using fallback data instead.`)
-                    }
-                }
-                loadedUsers[userId] = user
-            }))
+            for (let userId of toLoad) {
+                await fetchUserByIdentifier(userId)
+            }
 
             toLoad.splice(0, toLoad.length)
 

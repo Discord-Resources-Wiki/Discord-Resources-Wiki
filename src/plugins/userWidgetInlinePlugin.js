@@ -1,11 +1,6 @@
 const findAndReplace = require('mdast-util-find-and-replace');
 
-const {REST} = require('@discordjs/rest');
-const {Routes} = require('discord-api-types/v9');
-
-const discordToken = process.env.DISCORD_TOKEN
-const rest = new REST({version: '9'}).setToken(discordToken)
-const loadedUsers = {}
+const {users, fetchUserByIdentifier} = require('../lib/users');
 
 function userWidgetInlinePlugin(options) {
     const widgetMarkupRegex = /@[0-9]+/g
@@ -20,11 +15,15 @@ function userWidgetInlinePlugin(options) {
 
         function replaceOrCollect(match) {
             const userId = match.substring(1)
-            if (loadedUsers.hasOwnProperty(userId)) {
-                const user = loadedUsers[userId]
+            if (users.hasOwnProperty(userId)) {
+                let loadedUser = users[userId]
+                if (!loadedUser) {
+                    loadedUser = {id: userId}
+                }
+
                 return {
                     type: 'jsx',
-                    value: `<UserWidgetInline data={${JSON.stringify(user)}}/>`
+                    value: `<UserWidgetInline data={${JSON.stringify(loadedUser)}}/>`
                 }
             } else {
                 toLoad.push(userId)
@@ -39,18 +38,9 @@ function userWidgetInlinePlugin(options) {
         findAndReplace(markdownAST, widgetMarkupRegex, replaceOrCollect)
 
         while (toLoad.length) {
-            await Promise.all(toLoad.map(async userId => {
-                let user = {id: userId}
-                if (discordToken) {
-                    try {
-                        user = await rest.get(Routes.user(userId))
-                    } catch {
-                        console.log(`Failed to fetch user with the id ${userId}, using fallback data instead.`)
-                    }
-                }
-                loadedUsers[userId] = user
-            }))
-
+            for (let userId of toLoad) {
+                await fetchUserByIdentifier(userId)
+            }
             toLoad.splice(0, toLoad.length)
 
             // this replaces the instances that have just been loaded
