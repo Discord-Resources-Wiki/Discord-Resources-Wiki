@@ -117,3 +117,7 @@ __Link:__ [URL Expander](https://urlex.org/)
 ### **Waifu2x**
 > __Description:__ Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks.   <br/>
 __Link:__ [waifu2x](http://waifu2x.udp.jp/)
+
+### **Polywork**
+> __Description:__ Polywork is a professional social network where people highlight the things they've been up to - work, life, learnings, plans & more. <br>/
+__Link:__ [Polywork](https://polywork.com)
