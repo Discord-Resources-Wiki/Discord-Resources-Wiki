@@ -7,7 +7,7 @@ tags: [changelog]
 @authors/378537973215657984
 
 __**MASSIVE CHANGES!**__  
-A lot of things changed the last few days, and today we are super excited to present introduce...
+A lot of things changed the last few days, and today we are super excited to introduce...
 
 **The Discord Resources Wiki Website!** 
 **https://discordresources.com/**
