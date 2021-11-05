@@ -123,7 +123,7 @@ __Credit:__ @345103284463206400
 __Link:__ [Powercord](https://powercord.dev/)
 
 ### **PreMiD**
-> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing in your Discord "now playing status".    <br/>
+> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
 __Link:__ [PreMiD](https://premid.app/)
 
 ### **Presence Maker**
