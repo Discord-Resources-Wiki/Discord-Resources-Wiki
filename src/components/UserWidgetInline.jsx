@@ -8,12 +8,12 @@ function userAvatar({id, discriminator, avatar}) {
 
     if (avatar) {
         if (avatar.startsWith('a_')) {
-            return `${DISCORD_CDN}/avatars/${id}/${avatar}.gif?size=32`
+            return `${DISCORD_CDN}/avatars/${id}/${avatar}.gif?size=64`
         } else {
-            return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=32`
+            return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=64`
         }
     } else {
-        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=32`
+        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=64`
     }
 }
 
