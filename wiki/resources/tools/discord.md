@@ -177,7 +177,7 @@ __Credit:__ @249287049482338305
 
 ### **Merlin's Embed Links**
 > __Description:__ Easy to use links to embed users, servers, and invites.<br/>
-__Link:__ [Embeddable Links](https://url.wtf)
+__Link:__ [Embeddable Links](https://url.wtf) <br/>
 __Credit:__ @386861188891279362
 
 ### **Zeppelin in Docker**
