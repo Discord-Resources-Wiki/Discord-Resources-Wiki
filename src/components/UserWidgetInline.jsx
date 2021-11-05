@@ -16,7 +16,7 @@ export default function UserWidgetInline({data}) {
                 </>
             )
         } else {
-            return data.name
+            return <span className={styles.userUsername} style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.name}</span>
         }
     }
 

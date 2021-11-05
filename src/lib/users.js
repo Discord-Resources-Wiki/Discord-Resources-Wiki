@@ -8,6 +8,9 @@ const octokit = new Octokit()
 
 const users = {}
 
+const discordSnowflakeRegex = /^[0-9]+$/
+const userIdentifierRegex = /@((discord:)?[0-9]+|github:[0-9a-zA-Z-_]+)/g
+
 function discordUserAvatarUrl({id, discriminator, avatar}, size = 128) {
     const DISCORD_CDN = 'https://cdn.discordapp.com'
 
@@ -22,8 +25,6 @@ function discordUserAvatarUrl({id, discriminator, avatar}, size = 128) {
     }
 }
 
-const discordSnowflakeRegex = /^[0-9]+$/
-
 async function fetchUserByIdentifier(identifier) {
     if (users[identifier]) return users[identifier]
 
@@ -35,13 +36,18 @@ async function fetchUserByIdentifier(identifier) {
         username: '',
         discriminator: '0000',
         avatarUrl: discordUserAvatarUrl({id: identifier}),
-        url: `https://discord.com/users/${identifier}`
+        url: null
     }
 
-    if (discordSnowflakeRegex.exec(identifier)) {
+    if (discordSnowflakeRegex.exec(identifier) || identifier.startsWith('discord:')) {
+        let userId = identifier
+        if (identifier.startsWith('discord:')) {
+            userId = identifier.substring(8)
+        }
+
         if (discordToken) {
             try {
-                const discordUser = await discordRest.get(Routes.user(identifier))
+                const discordUser = await discordRest.get(Routes.user(userId))
                 user = {
                     type: 'discord',
                     id: discordUser.id,
@@ -49,15 +55,16 @@ async function fetchUserByIdentifier(identifier) {
                     username: `${discordUser.username}#${discordUser.discriminator}`,
                     discriminator: discordUser.discriminator,
                     avatarUrl: discordUserAvatarUrl(discordUser),
-                    url: ``
+                    url: `https://discord.com/users/${identifier}`
                 }
             } catch {
-                console.log(`Failed to fetch discord user with the id ${identifier}.`)
+                console.log(`Failed to fetch discord user with the id ${userId}.`)
             }
         }
-    } else {
+    } else if (identifier.startsWith('github:')) {
         try {
-            const resp = await octokit.rest.users.getByUsername({username: identifier})
+            const username = identifier.substring(7)
+            const resp = await octokit.rest.users.getByUsername({username})
             if (resp.status === 200) {
                 const githubUser = resp.data
                 user = {
@@ -69,10 +76,10 @@ async function fetchUserByIdentifier(identifier) {
                     url: `https://github.com/${githubUser.login}`
                 }
             } else {
-                console.log(`Failed to fetch github user with the username ${identifier}.`)
+                console.log(`Failed to fetch github user with the username ${username}.`)
             }
         } catch {
-            console.log(`Failed to fetch github user with the username ${identifier}.`)
+            console.log(`Failed to fetch github user with the username ${username}.`)
         }
     }
 
@@ -80,4 +87,4 @@ async function fetchUserByIdentifier(identifier) {
     return user
 }
 
-module.exports = {users, fetchUserByIdentifier, discordUserAvatarUrl}
+module.exports = {users, fetchUserByIdentifier, discordUserAvatarUrl, userIdentifierRegex}

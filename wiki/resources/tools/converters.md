@@ -8,7 +8,7 @@ sidebar_position: 5
 > __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
 The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-__Credit:__ @DJDavid98
+__Credit:__ @github:DJDavid98
 
 ### **Snowstamp (Snowflake to Timestamp Converter)** 
 > __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
