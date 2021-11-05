@@ -45,7 +45,7 @@ __Credit:__ @113156185389092864
 > __Description:__ List of all discord protocol links.   <br/>
 *Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
 __Link:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
-__Credit:__ [Ghostrider-05](https://gist.github.com/ghostrider-05)
+__Credit:__ @github:ghostrider-05
 
 ## **Discord Build Logger**
 > __Description:__ Site that logs all discord builds.   <br/>
@@ -55,7 +55,7 @@ __Credit:__ @545581357812678656
 ## **Discord Markdown Guide**
 > __Desciption:__ An in-depth guide for Discord markdown.  <br/>
 __Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
-__Credit:__ [Matthew Ring](https://github.com/matthewzring)
+__Credit:__ @github:matthewzring
 
 ## **All Official Discord Bots**
 > __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>

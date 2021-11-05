@@ -95,7 +95,7 @@ __Credit(s):__  @106391128718245888 @200987752794292224
 ### **Kyb3r's Modmail** (self-host)
 > __Description:__ Modmail is similar to Reddit's ModMail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.   <br/>
 __Link:__ [Kyb3r’s Modmail](https://github.com/kyb3r/modmail)   <br/>
-__Credit:__ [Kyb3r](https://github.com/kyb3r)
+__Credit:__ @github:kyb3r
 
 ### **Support Bot** (self-host)
 > __Description:__ A simple and lightweight Discord support/automated help desk!   <br/>
@@ -172,7 +172,7 @@ __Credit:__ @297045071457681409
 ### **WidgetBot**
 > __Description:__ Create good looking widgets for your websites.  <br/>
 __Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
-__Credit:__ [WidgetBot Team](https://github.com/widgetbot-io)
+__Credit:__ @github:widgetbot-io
 
 ### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
