@@ -13,7 +13,7 @@ export function userAvatar({id, discriminator, avatar}, size=32) {
             return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=${size}`
         }
     } else {
-        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=32`
+        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=64`
     }
 }
 

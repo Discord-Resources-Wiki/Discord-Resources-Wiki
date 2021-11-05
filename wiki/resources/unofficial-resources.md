@@ -79,7 +79,7 @@ __Credit:__ @354309005037797376
 
 ## **(more) Discord Assets**
 > __Description:__ A list with all icons from the client.   <br/>
-__Link:__ [Discord Assests](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
+__Link:__ [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
 __Credit:__ @223518178100248576
 
 ## **Discord UI Mockup**

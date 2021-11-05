@@ -6,59 +6,33 @@ description: A list of tons of useful discord resources and utilities for all ty
 
 # About
 
+## Welcome to Discord Resources Wiki
+
 ## So what is this thing?
 
-For a while now I (Rydix#1726) have been looking for a good resources list that will have everything I, and every discord user needs. 
-From basic pages to advanced utilities, a list that all discord users, from beginners to proficient, will find useful.
-*But I couldn’t find one.* <br/>
-So I poked some friends who know their ways around discord, and together we created this amazing **Discord Resources GitHub Wiki**! _(wew that is a long name)_. <br/>
-This project you see here took months of research and organization to become what it is today, and we really hope you’d find it useful.  
-You can see all the different topics we covered in this project below, as well as a contribution section with credits to project contributors and information if you’d like to contribute yourself. 
-**Fun reading!**
+The founder of this project, @755792681313108018, had been longing for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
 
-## Disclaimer 
-We don’t own anything in this GitHub repo. All credits to creators are listed at the “credits” section of each link. <br/>
-If we didn't find the owner in either Discord or GitHub, there will be no credits. **Please send a message to Rydix#1726 if you deserve credit.** <br/>
-Official links are credited to discord. <br/>
-We are not affiliated with Discord in any way.
+And so, an idea struck!
+With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+
+## What am I seeing here?
+
+We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+
+This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+
+## Disclaimer
+
+**We are not affiliated with Discord in any way.**
+
+This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+
+We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+
+All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
 
 ## Personal Note
-While we don't own anything in this Wiki, we would really appreciate it you could credit us if you use this resources list anywhere! <br/>
-We worked really hard on links research, organization & distribution, so any repost of this wiki to others means the world to us. <br/>
-With you sharing this resources wiki, you are helping us and tons of others, so thank you! 
 
-## Contributors 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project! <br/>
-We want to thank: <br/>
-**DEX#0001** (347727875266576395) - Wiki Architect <br/>
-**Dei#2411** (391660873409888277) - Wiki fixer <br/>
-**DyDestroyer#1027** (363481883369013259) - Documentation Organizer<br/>
-**Ethan Modderton, Jr. Esq.#3333** (337104786593939456) - Documentation Organizer<br/>
-**odin#0110** (378537973215657984) - Documentation Organizer <br/>
-**Graphic/Aphriu#3737** (287711497118023692) - Resources Researcher / Documentation Organizer <br/>
-**rjt#2336** (192060404501839872) - Designer <br/>
-**Merlin#1337** (386861188891279362) - Website Architect / Documentation Organizer <br/>
-**Rydix#1726** (755792681313108018) - *I had this idea and did all of the above* 
+Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
 
-## Contribution
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above! <br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to Rydix#1726 (755792681313108018) in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
-
-## How to test changes locally
-Got a great PR going but don't know what it looks like? Not a problem! <br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
-```
-npm install
-```
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
-```
-npm start
-```
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing. 
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
-
-Once you've got a running instance of the website locally, you're ready to start contributing! 
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0`` 
-If you are using Yarn: Yarn version >= ``1.5``
+**Help your friends, mutuals, community members and more by sharing this project with them too!**

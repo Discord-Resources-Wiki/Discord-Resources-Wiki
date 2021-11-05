@@ -38,14 +38,17 @@ __Credit:__ [Christian Reichart](https://github.com/christian-reichart)
 __Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
 __Credit:__ @152164749868662784
 
+### **Discord Servers Comparations**
+> __Description:__ Compare stats between Discord servers.  <br/>
+__Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
+__Credit:__ @152164749868662784
+
+
+
 ### **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures.   <br/>
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
 __Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
-
-### **Discord Testers Bug Tool (official)**
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
 
 ### **Discord Bug Report Command Generator**
 > __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
@@ -118,6 +121,10 @@ __Credit:__  @249287049482338305
 __Link:__ [Discordstatus](https://warze.org/discordstatus/)  <br/>
 __Credit:__ @345103284463206400
 
+### **PreMiD**
+> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
+__Link:__ [PreMiD](https://premid.app/)
+
 ### **Powercord**
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
 __Link:__ [Powercord](https://powercord.dev/)
@@ -153,11 +160,11 @@ __Credit:__  @207123748120166400
 __Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/)   <br/>
 __Credit:__ @172557961133162496
 
- ### **Webhooks Creator** 
+### **Webhooks Creator** 
 > __Description:__ A site to create webhooks with.   <br/>
 __Link:__ [Webhooks Creator](https://webhook.site/)
 
-## **Google forms -> Discord Webhook**
+### **Google forms -> Discord Webhook**
 > __Description:__ Sends a google form response to a discord channel using webhooks.  <br/>
 __Link__ [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
 __Credit:__ @87599455892692992
@@ -170,8 +177,13 @@ __Credit:__ @249287049482338305
 
 ### **Merlin's Embed Links**
 > __Description:__ Easy to use links to embed users, servers, and invites.<br/>
-__Link:__ [Embeddable Links](https://url.wtf)
+__Link:__ [Embeddable Links](https://url.wtf) <br/>
 __Credit:__ @386861188891279362
+
+### **Scratch For Discord**
+> __Description:__ Make a discord bot using blocks with no coding required.  <br/>
+__Link:__ [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
+__Credit:__ @422820341791064085
 
 ### **Zeppelin in Docker**
 > __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
