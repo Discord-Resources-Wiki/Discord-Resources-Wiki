@@ -50,10 +50,6 @@ __Credit:__ @152164749868662784
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
 __Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
 
-### **Discord Testers Bug Tool (official)**
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
-
 ### **Discord Bug Report Command Generator**
 > __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
 __Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
