@@ -60,6 +60,11 @@ const config = {
                 },
                 items: [
                     {
+                        to: 'blog',
+                        label: 'Blog',
+                        position: 'left',
+                    },
+                    {
                         href: 'https://github.com/rydixulous/Discord-Resources-n-More',
                         label: 'GitHub',
                         position: 'right',
