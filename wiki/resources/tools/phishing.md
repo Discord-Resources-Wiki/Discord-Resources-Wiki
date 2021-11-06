@@ -3,7 +3,10 @@ sidebar_position: 4
 ---
 
 # Phishing Related
-[discord nitro information (not a scam)](https://dicsord.gq/)
+
+### **Discord Nitro Scams**
+> __Description:__ This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!
+__Link:__ [Discord Nitro Information](https://dicsord.gq/)
 
 ### **Virus Total**
 > __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
