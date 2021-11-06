@@ -70,3 +70,7 @@ __Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transpar
 ## **Discord’s (new) Media Kit**
 > __Description:__ Discord’s official assets.   <br/>
 __Link:__ [Discord (New) Media Kit](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)
+
+## **Beginner's Guide to Discord**
+> __Description:__ How to use Discord - For beginners	   <br/>
+__Link:__ [Discord's Beginner Guide](https://dis.gd/beginnersguide)
