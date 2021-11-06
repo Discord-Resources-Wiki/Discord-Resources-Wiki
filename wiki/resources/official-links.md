@@ -70,3 +70,7 @@ __Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transpar
 ## **Discord’s (new) Media Kit**
 > __Description:__ Discord’s official assets.   <br/>
 __Link:__ [Discord (New) Media Kit](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)
+
+## **Discord’s Store**
+> __Description:__ Discord’s official merch store.   <br/>
+__Link:__ [Discord Merch Store](https://dis.gd/merch)
