@@ -36,7 +36,8 @@ __Link(s):__
 [Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
 [Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
-[Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) 
+[Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
+[urlscan.io](https://urlscan.io)
 
 ### **Phisherman** 
 > __Description:__   <br/>
