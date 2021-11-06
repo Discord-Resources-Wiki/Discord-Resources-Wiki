@@ -41,3 +41,26 @@ __Link:__ [Discord Safety Center](https://discord.com/safety)
 ## **Client Downloads**
 > __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
 __Link:__ [Discord Clients](https://discord.com/download)
+### **Stable**
+__Description:__ The main release of the Discord client.   <br/>
+__Link(s):__
+[Windows](https://discord.com/api/download?platform=win) |
+[Mac](https://discord.com/api/download?platform=osx) |
+[Linux deb](https://discord.com/api/download?platform=linux&format=deb) |
+[Linux tar.gz](https://discord.com/api/download?platform=linux&format=tar.gz) |
+[iOS](https://apps.apple.com/us/app/discord-chat-for-games/id985746746) |
+[Android](https://play.google.com/store/apps/details?id=com.discord)
+### **PTB**
+__Description:__ The Public Test Build, or "beta" release of the Discord client.   <br/>
+__Link(s):__
+[Windows](https://discord.com/api/download/ptb?platform=win) |
+[Mac](https://discord.com/api/download/ptb?platform=osx) |
+[Linux deb](https://discord.com/api/download/ptb?platform=linux&format=deb) |
+[Linux tar.gz](https://discord.com/api/download/ptb?platform=linux&format=tar.gz)
+### **Canary**
+__Description:__ The "alpha" release of the Discord client. Discord Canary experiences frequent updates and is prone to breaking.   <br/>
+__Link(s):__
+[Windows](https://discord.com/api/download/canary?platform=win) |
+[Mac](https://discord.com/api/download/canary?platform=osx) |
+[Linux deb](https://discord.com/api/download/canary?platform=linux&format=deb) |
+[Linux tar.gz](https://discord.com/api/download/canary?platform=linux&format=tar.gz)
