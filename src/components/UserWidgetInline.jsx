@@ -3,33 +3,49 @@ import styles from '../css/UserWidgetInline.module.css'
 import useThemeContext from '@theme/hooks/useThemeContext'
 import Tooltip from "./Tooltip";
 
-export function userAvatar({id, discriminator, avatar}, size=32) {
-    const DISCORD_CDN = 'https://cdn.discordapp.com'
-
-    if (avatar) {
-        if (avatar.startsWith('a_')) {
-            return `${DISCORD_CDN}/avatars/${id}/${avatar}.gif?size=${size}`
-        } else {
-            return `${DISCORD_CDN}/avatars/${id}/${avatar}.webp?size=${size}`
-        }
-    } else {
-        return `${DISCORD_CDN}/embed/avatars/${parseInt(discriminator ?? id) % 5}.png?size=64`
-    }
-}
-
 export default function UserWidgetInline({data}) {
     const {isDarkTheme} = useThemeContext();
 
+    function userName() {
+        if (data.type === 'discord') {
+            return (
+                <>
+                    <span className={styles.userUsername}
+                          style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.name}</span>
+                    <span className={styles.userDiscriminator}>#{data.discriminator}</span>
+                </>
+            )
+        } else {
+            return <span className={styles.userUsername}
+                         style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.name}</span>
+        }
+    }
+
+    function userIdentifier() {
+        if (data.type === 'discord') {
+            return data.id
+        } else {
+            return data.username
+        }
+    }
+
     return (
-        <Tooltip title={data.id} mode="click">
+        <Tooltip title={
+            <span>
+                <span style={{paddingRight: '0.3rem'}}>{userIdentifier()}</span>
+                <a href={data.url ?? ''} style={{color: 'inherit'}} target="_blank">
+                    <svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24"
+                         className="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path
+                        fill="currentColor"
+                        d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/>
+                </svg>
+                </a>
+            </span>
+        } mode="click">
             <span className={styles.container}>
                 <span className={styles.widget} style={{backgroundColor: isDarkTheme ? '#2f3136' : '#dadae0'}}>
-                        <img src={userAvatar(data)} alt="" className={styles.userAvatar}/>
-                        <span className={styles.userTag}>
-                            <span className={styles.userUsername}
-                                  style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.username ?? 'Unknown User'}</span>
-                            <span className={styles.userDiscriminator}>#{data.discriminator ?? '0000'}</span>
-                        </span>
+                        <img src={data.avatarUrl} alt="" className={styles.userAvatar}/>
+                        <span className={styles.userTag}>{userName()}</span>
                     </span>
             </span>
         </Tooltip>

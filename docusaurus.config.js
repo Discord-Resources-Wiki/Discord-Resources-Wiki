@@ -11,7 +11,7 @@ const blogAuthorWidgetPlugin = require("./src/plugins/blogAuthorWidgetPlugin");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Discord Resources Wiki',
+    title: 'Discord Resources',
     tagline: 'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.',
     url: 'https://discordresources.com',
     baseUrl: '/',
@@ -30,14 +30,22 @@ const config = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/',
                     path: 'wiki',
-                    routeBasePath: '/',
-                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin]
+                    routeBasePath: '/wiki',
+                    remarkPlugins: [
+                        linebreakPlugins,
+                        inviteWidgetPlugin,
+                        userWidgetInlinePlugin
+                    ]
                 },
                 blog: {
                     path: 'blog',
                     routeBasePath: '/blog/',
                     showReadingTime: true,
-                    remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin, blogAuthorWidgetPlugin]
+                    remarkPlugins: [
+                        linebreakPlugins,
+                        inviteWidgetPlugin,
+                        blogAuthorWidgetPlugin,
+                        userWidgetInlinePlugin]
                 },
                 theme: {
                     customCss: [
@@ -53,12 +61,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: 'Discord Resources Wiki',
+                title: 'Discord Resources',
                 logo: {
                     alt: 'My Site Logo',
                     src: 'img/logo-small.png',
+                    href: '/wiki'
                 },
                 items: [
+                    {
+                        to: 'wiki',
+                        label: 'Wiki',
+                        position: 'left',
+                    },
                     {
                         to: 'blog',
                         label: 'Blog',

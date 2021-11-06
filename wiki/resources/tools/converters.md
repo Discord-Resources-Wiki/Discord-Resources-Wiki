@@ -8,7 +8,7 @@ sidebar_position: 5
 > __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
 The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-__Credit:__ [DJDavid98](https://github.com/DJDavid98) 
+__Credit:__ @github:DJDavid98
 
 ### **Snowstamp (Snowflake to Timestamp Converter)** 
 > __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
@@ -48,7 +48,7 @@ __Link:__ [Discord Txt](https://txt.discord.website/)
 ### **File Converter**
 > __Description:__ Convert file types to others.   <br/>
 __Link:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-__Credit:__ [Tichau](https://github.com/Tichau)
+__Credit:__ @Tichau
 
 ### **Color Replacer**
 > __Description:__ Replace a specfic colour of an image.  <br/>

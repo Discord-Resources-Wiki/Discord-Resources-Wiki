@@ -40,4 +40,5 @@ https://fish-is.me/ | Im a fish....?  <br/>
 https://discord.ceo/ | Discord CEO  <br/>
 https://discord.com/humans.txt | Discord  <br/>
 https://roing.us/ | click the creature  <br/>
-https://printer.discord.com/ | Discord printer
+https://printer.discord.com/ | Discord printer  <br/>
+https://britcord.com/ | A British version of Discord's website

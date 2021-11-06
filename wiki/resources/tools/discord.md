@@ -26,7 +26,7 @@ __Credit:__ @386861188891279362
 ### **Discord Data Package Explorer**
 > __Description:__ Explore your discord data easily.   <br/>
 __Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ [Androz2091](https://github.com/Androz2091)
+__Credit:__ @github:Androz2091
 
 ### **Discord Simple Avatar Maker**
 > __Description:__ A site to make simple discord avatars.   <br/>
@@ -96,7 +96,7 @@ __Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.j
 > __Description:__ check the features of a guild via an instant invite code.   <br/>
 __Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
 
-### **Jagrosh'S GitHub -> Discord Webhook Guide**
+### **Jagrosh's GitHub -> Discord Webhook Guide**
 > __Description:__ A guide to integrate your GitHub projects to a Discord channel.    <br/>
 __Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
 __Credit:__ @113156185389092864

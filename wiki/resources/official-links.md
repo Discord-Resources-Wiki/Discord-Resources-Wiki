@@ -25,6 +25,10 @@ __Link:__ [Discord Bugs](https://bugs.discord.com/)
 __Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
 __Credit:__ @53905483156684800
 
+## **Discord Testing Clients**
+> __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
+__Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+
 ## **Discord Moderator Academy** 
 > __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
@@ -41,7 +45,7 @@ __Link(s):__
 
 ## **Discord Branding**  
 > __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://dis.gd/branding)
+__Link:__ [Discord Branding](https://discord.com/branding)
 
 ## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
