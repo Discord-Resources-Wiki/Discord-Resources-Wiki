@@ -8,7 +8,7 @@ tags: [changelog]
 
 Heya all!
 
-We’re so happy to announce that the Discord Recourses Wiki website just got a ` Search Bar `!
+We’re so happy to announce that the Discord Resources Wiki website just got a ` Search Bar `!
 This means it'll be so much easier to navigate between the hundreds of resources on the website. 
 Unfortunately, there are some bugs with the search bar which will hopefully be resolved after we upgrade our system. 
 
