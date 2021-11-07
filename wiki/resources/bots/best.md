@@ -21,7 +21,7 @@ __Credit(s):__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
 > __Description:__  
-Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load on the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
+Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
 __Link:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
 __Credit:__ @113156185389092864
 
@@ -41,12 +41,12 @@ __Link(s):__   <br/>
 __Credit:__ @287698408855044097
 
 ### **AutoModerator** 
-> __Description:__ General auto-moderation bot, with buttons and dropdowns abilities.   <br/>
+> __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264
 
 ### **Beemo**
-> __Description:__ Beemo is an antispam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
+> __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
 __Link:__ [Website](https://beemo.gg/)   <br/>
 __Credit:__ @192048286331437056
 
@@ -71,7 +71,7 @@ __Credit:__ @249287049482338305
 
 
 ### **Safelink** 
-> __Description:__ A bot that can detect a variety of scam (nitro scams, steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
+> __Description:__ A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
 __Link:__ [Safelink](https://safelink.gg/)   <br/>
 __Credit:__ @282565295351136256 @684155404078415890
 

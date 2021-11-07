@@ -48,7 +48,7 @@ __Credit:__ The Coding Den team (owned by @229334929614438400)
 @gg/code
 
 ## **Discord Hotline**
-> __Description:__ A community for moderators to discuss moderation and Discord Meta.   <br/>
+> __Description:__ A community for moderators to discuss moderation and Discord meta.   <br/>
 __Link:__ (only by referral)   <br/>
 __Credit:__ Discord Hotline team (owned by @108432868149035008)
 
@@ -58,6 +58,6 @@ __Link:__ (only by referral) (access request required)   <br/>
 __Credit:__ The Fish Project team (owned by @459235187469975572)
 
 ## **Dev Hub**
-> __Description:__ A community to bring developers and proficients together to share ideas and talk (discord) meta.   <br/>
+> __Description:__ A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
 __Link:__ (only by referral)   <br/>
 __Credit:__ Dev Hub team (owned by @386861188891279362)

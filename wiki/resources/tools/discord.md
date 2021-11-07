@@ -9,12 +9,12 @@ sidebar_position: 1
 __Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
 __Credit:__ @99787644430475264
 
-### **All Discord permissions**
+### **All Discord Permissions**
 > __Description:__ A list of all the permissions available for users.   <br/>
 __Link:__ [All Discord Permissions](https://discordapi.com/permissions)
 
 ### **Discord Tools**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the # of guilds your account is in, see how many servers you own, moderate, are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
+> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
 __Link:__ [Discord Tools](https://discordtools.io/)   <br/>
 __Credit:__ @276544649148235776
 
@@ -24,12 +24,12 @@ __Link:__ [Discord Toolbox](https://distools.app/)   <br/>
 __Credit:__ @386861188891279362
 
 ### **Discord Data Package Explorer**
-> __Description:__ Explore your discord data easily.   <br/>
+> __Description:__ Explore your Discord data easily.   <br/>
 __Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
 __Credit:__ @github:Androz2091
 
 ### **Discord Simple Avatar Maker**
-> __Description:__ A site to make simple discord avatars.   <br/>
+> __Description:__ A site to make simple Discord avatars.   <br/>
 __Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
 __Credit:__ [Christian Reichart](https://github.com/christian-reichart)
 
@@ -93,7 +93,7 @@ __Credit:__ @190916650143318016
 __Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
 
 ### **Find Guild Features**
-> __Description:__ check the features of a guild via an instant invite code.   <br/>
+> __Description:__ Check the features of a guild via an instant invite code.   <br/>
 __Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
 
 ### **Jagrosh's GitHub -> Discord Webhook Guide**
@@ -140,7 +140,7 @@ __Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount)   <br/>
 __Credit:__ @172557961133162496
 
 ### **Rauf's Slash Command Generator**
-> __Description:__ An easy to use slash command tool which allows bot developers to create slash commands simply and fast.  <br/>
+> __Description:__ An easy to use slash command tool which allows bot developers to create slash commands quickly.  <br/>
 __Link:__ [Rauf's Slash Command Generator](https://rauf.wtf/slash)  <br/>
 __Credit:__ @172557961133162496
 
@@ -165,7 +165,7 @@ __Credit:__ @172557961133162496
 __Link:__ [Webhooks Creator](https://webhook.site/)
 
 ### **Google forms -> Discord Webhook**
-> __Description:__ Sends a google form response to a discord channel using webhooks.  <br/>
+> __Description:__ Sends a Google Form response to a Discord channel using webhooks.  <br/>
 __Link__ [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
 __Credit:__ @87599455892692992
 
@@ -181,7 +181,7 @@ __Link:__ [Embeddable Links](https://url.wtf) <br/>
 __Credit:__ @386861188891279362
 
 ### **Scratch For Discord**
-> __Description:__ Make a discord bot using blocks with no coding required.  <br/>
+> __Description:__ Make a Discord bot using blocks with no coding required.  <br/>
 __Link:__ [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
 __Credit:__ @422820341791064085
 

@@ -5,7 +5,7 @@ sidebar_position: 2
 # Official Servers
 
 ## **Discord Testers** 
-> __Description:__ The official place to report Discord Bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
+> __Description:__ The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
 __Link:__ [Discord Testers](https://discord.gg/discord-testers)
 
 @gg/discord-testers

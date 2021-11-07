@@ -15,7 +15,7 @@ __Link:__ [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
 __Credit:__ @179655253392621569
 
 ## **Discord Wiki** (fandom)
-> __Description:__ The unofficial discord wiki, done in typical wiki style.   <br/>
+> __Description:__ The unofficial Discord wiki, done in typical wiki style.   <br/>
 __Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord) 
 
 ## **Discohook** 
@@ -23,11 +23,11 @@ __Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord)
 __Link:__ [Discohook](https://discohook.org/)
 
 ## **Nadeko Embed Builder**
-> __Description:__ Another useful tool for generating discord embeds, this tool exports in JSON format.   <br/>
+> __Description:__ Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
 __Link:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
 
 ## **List of Stickers**
-> __Description:__ A list of all stickers you gain access to as a Nitro subscriber, also includes previews and descriptions of stickers.   <br/>
+> __Description:__ A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions of stickers.   <br/>
 __Link:__ [List Of Stickers](https://stickers.advaith.io/)   <br/>
 __Credit:__ @190916650143318016
 
@@ -43,7 +43,7 @@ __Credit:__ @113156185389092864
 
 ## **Discord Protocol Links**
 > __Description:__ List of all discord protocol links.   <br/>
-*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
+*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on Android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
 __Link:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 __Credit:__ @github:ghostrider-05
 
@@ -83,7 +83,7 @@ __Link:__ [Discord Assets](https://gitlab.com/derpystuff/discord-asset-dataminin
 __Credit:__ @223518178100248576
 
 ## **Discord Basic Templates** (fan - made)
-> __Description:__ A list of fan - made basic templates to cover most types of communities.  <br/>
+> __Description:__ A list of fan-made basic templates to cover most types of communities.  <br/>
 __Link:__ [Discord Basic Templates](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
 __Credit:__ @242385234992037888
 

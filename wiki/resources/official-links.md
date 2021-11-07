@@ -9,7 +9,7 @@ sidebar_position: 4
 __Link:__ [Discord Website](https://dis.gd/)
 
 ## **How to Report**
-> __Description:__ A guide on how to properly report issues to discord’s Trust and Safety  team.   <br/>
+> __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
 __Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
 ## **How to get user IDs** 
@@ -17,7 +17,7 @@ __Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://d
 __Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 
 ## **Discord Bugs**
-> __Description:__  The official tool to look up for reported bugs.   <br/>
+> __Description:__  The official tool to look up reported and approved bugs.   <br/>
 __Link:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Tool**
@@ -34,10 +34,10 @@ __Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
 
 ## **Discord Libraries Servers List**
-> __Description:__ Reddit wiki page with all the server of Discord libraries.   <br/>
+> __Description:__ A Reddit wiki page that lists all of the Discord API libraries.   <br/>
 __Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## **Discord Open - Source**
+## **Discord Open Source**
 > __Description:__ This is the source list of OSS communities that use and live on Discord.   <br/>
 __Link(s):__
 [Discord Open Source](https://discord.com/open-source)   <br/>
