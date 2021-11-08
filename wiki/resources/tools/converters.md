@@ -79,6 +79,10 @@ __Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
 > __Description:__ Upload an image and get a specific hex code for a color in the picture.   <br/>
 __Link:__ [Image Color Picker](https://imagecolorpicker.com/)
 
+### **Removebg**
+ > __Description:__ Remove any background from an image.   <br/>
+ __Link:__ [Removebg](https://www.remove.bg/upload)
+
 ### **Erase.bg**
 > __Description:__ Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
 __Link:__ [Erase.bg](https://www.erase.bg/)
