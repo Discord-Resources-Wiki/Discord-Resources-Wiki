@@ -13,7 +13,7 @@ __Link:__ [Discord Nitro Information](https://dicsord.gq/)
 __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ### **Gits of Scam Links**
-> __Description:__ GitHub repositories full with scam links.   <br/>
+> __Description:__ GitHub repositories full of scam links.   <br/>
 __Link(s):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
@@ -44,7 +44,7 @@ __Link(s):__
 
 ### **Phisherman** 
 > __Description:__   <br/>
-Phisherman is a centralised database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the phisherman database.   <br/>
+Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
 __Link(s):__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)

@@ -5,7 +5,7 @@ sidebar_position: 1
 # The Basics
 
 ## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree upon when using its platform.   <br/>
+> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
 It includes information ranging from intellectual property rights to account termination.   <br/>
 __Link:__ [Terms Of Service](https://dis.gd/terms)
 
@@ -19,11 +19,11 @@ It ensures everyone has a positive experience and that users act in a well-behav
 __Link:__ [Community Guidelines](https://dis.gd/guidelines)
 
 ## **Discord Blog**
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all discord related.   <br/>
+> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
 __Link:__ [Discord Blog](https://discord.com/blog)
  
 ## **Discord Subreddit**
-> __Description:__ The Unofficial Discord Subreddit.   <br/>
+> __Description:__ The unofficial Discord Subreddit.   <br/>
 __Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
 ## **Discord Twitter Page**

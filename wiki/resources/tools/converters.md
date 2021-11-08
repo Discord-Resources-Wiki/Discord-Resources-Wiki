@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Converters
-- Time Converters 
+## Time Converters 
 ### **HammerTime**
 > __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
 The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
@@ -16,7 +16,7 @@ __Link:__ [Snowstamp](https://pixelatomy.com/snow-stamp/)   <br/>
 __Credit:__ @86913608335773696
 
 ### **DateTimeCord** 
-> __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that discord does, as well as shows a preview of how it would look in discord.   <br/>
+> __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
 __Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/) 
 __Credit:__ @172557961133162496
 
@@ -28,14 +28,14 @@ __Link(s):__   <br/>
 __Credit:__ @213023662066892800
 
 ### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
-> __Description:__ Converts a time given into a Unix timestamp.   <br/>
+> __Description:__ Converts a given time into a Unix timestamp.   <br/>
 __Link:__ [Epoch Converter](https://www.epochconverter.com/) 
 
 ### **Unix Timestamps Decoder**
 > __Description:__ Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
 __Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
-- File Converters 
+## File Converters 
 
 ### **Text Formatting Tools**
 > __Description:__ A website for converting various text formats.   <br/>
@@ -59,7 +59,7 @@ __Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
 
 ### **Youtube Downloader**
-> __Description:__ Download a youtube video as a file using its URL (either audio only or video). <br/>
+> __Description:__ Download a Youtube video as a file using its URL (either audio only or video). <br/>
 __Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
 __Credit:__ @141065743197405184
 

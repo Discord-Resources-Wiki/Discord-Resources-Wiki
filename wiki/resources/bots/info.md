@@ -10,7 +10,7 @@ __Link:__ [Discord Bots](https://discord.bots.gg/)   <br/>
 __Credit:__ Discord Bots’ site team @66237334693085184
 
 ## **List of Bot Lists** (BotBlocks)
-> __Description:__ A list with all the different bots listed in it.   <br/>
+> __Description:__ A centralized list of Discord bot lists.   <br/>
 __Link:__ [Bots Lists List](https://botblock.org/lists) 
 
 ## **Largest Discord Bots**
@@ -19,6 +19,6 @@ __Link:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c35
 __Credit:__ @190916650143318016
 
 ## **Best Bot Practices**
-> __Description:__ Best practices for discord bots.   <br/>
+> __Description:__ Best practices for Discord bots.   <br/>
 __Link:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
 __Credit:__ @66237334693085184

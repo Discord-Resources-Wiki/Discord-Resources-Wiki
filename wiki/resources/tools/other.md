@@ -5,7 +5,7 @@ sidebar_position: 3
 # Other
 
 ### **Branding Style Guides**
-> __Description:__ A collection of different company branding, including Discords.   <br/>
+> __Description:__ A collection of different company's branding, including Discords.   <br/>
 __Link:__ [Website](https://brandingstyleguides.com/)
 
 ### **Blank Characters**
@@ -17,7 +17,7 @@ __Link:__ [Blank Charcaters](https://character.construction/blanks)
 __Link:__ [Bitwarden](https://bitwarden.com/)
 
 ### **CitizenLab**
-> __Description:__ Contained are URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
+> __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
 __Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
 
 ## **Polywork**
@@ -45,14 +45,14 @@ __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
 __Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 
 ### **Empty Characters**
-> __Description:__ List and methods to unicode empty characters.   <br/>
+> __Description:__ List and methods to Unicode empty characters.   <br/>
 __Link:__ [Empty Characters](https://emptycharacter.com)
 
 ### **Heroicons**
 > __Description:__ Beautiful hand-crafted SVG icons.   <br/>
 __Link:__ [Heroicons](https://heroicons.com/)
 
-### **Internet Slangs**
+### **Internet Slang**
 > __Description:__ A list of slang used across the internet.   <br/>
 __Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
@@ -65,7 +65,7 @@ __Link:__ [Invited](https://invited.tv/)
 __Link:__ [Icons](https://fonts.google.com/icons)
 
 ### **Notion**
-> __Description:__ A product for creating workflows and websites, fully Customizable for your needs.   <br/>
+> __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
 __Link:__ [Notion](https://www.notion.so/)
 
 ### **Nord Theme**
@@ -77,7 +77,7 @@ __Link:__ [Nord Theme](https://www.nordtheme.com/)
 __Link:__ [Pronoun Island](https://pronoun.is/)
 
 ### **Flaticon**
-> __Description:__ Free Vector Icons and Stickers for your projects. Resources made by and for designers.   <br/> 
+> __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
 __Link:__ [Flaticon](https://www.flaticon.com/)
 
 ### **Photopea**
@@ -123,5 +123,5 @@ __Link:__ [URL Scan](https://urlscan.io/)
 __Link:__ [URL Expander](https://urlex.org/)
 
 ### **Waifu2x**
-> __Description:__ Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks.   <br/>
+> __Description:__ Image scaling and noise reduction for anime-style art.   <br/>
 __Link:__ [waifu2x](http://waifu2x.udp.jp/)
