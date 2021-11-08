@@ -28,6 +28,10 @@ __Link:__ [Polywork](https://www.polywork.com/)
 > __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
 __Link:__ [Rize](https://rize.io)
 
+### **Files**
+> __Description:__ File manager for Windows.  <br/>
+__Link:__ [Files](https://files.community/)
+
 ### **Carrd**
 > __Description:__ Build one-page websites.   <br/>
 __Link:__ [Carrd](https://carrd.co/)
