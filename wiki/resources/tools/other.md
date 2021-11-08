@@ -29,8 +29,12 @@ __Link:__ [Polywork](https://www.polywork.com/)
 __Link:__ [Rize](https://rize.io)
 
 ### **Files**
-> __Description:__ File manager for Windows.  <br/>
+> __Description:__ File manager for Windows, focused on design.  <br/>
 __Link:__ [Files](https://files.community/)
+
+### **One Commander**
+> __Description:__ File manager for Windows, focused on productivity.  <br/>
+__Link:__ [One Commander](https://www.onecommander.com/)
 
 ### **Carrd**
 > __Description:__ Build one-page websites.   <br/>
