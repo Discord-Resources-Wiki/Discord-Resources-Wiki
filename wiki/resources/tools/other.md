@@ -114,6 +114,10 @@ __Credit:__ @109710323094683648 @139836912335716352
 > __Description:__ Statistics and business data platform for over 170 industries.   <br/>
 __Link:__ [Statista](https://statista.com)
 
+### **Web Archives**
+> __Description:__ Explore web pages saved over time.  <br/>
+__Link:__ [Web Archives](https://web.archive.org/)
+
 ### **Status Page**
 > __Description:__ Communicate real-time status to your members.   <br/>
 __Link:__ [Status Page](https://statuspage.io)
