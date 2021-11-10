@@ -4,9 +4,6 @@ sidebar_position: 3
 
 # Other
 
-### **Branding Style Guides**
-> __Description:__ A collection of different company's branding, including Discords.   <br/>
-__Link:__ [Website](https://brandingstyleguides.com/)
 
 ### **Blank Characters**
 > __Description:__ A list of blank Unicode characters. <br/>
@@ -20,7 +17,7 @@ __Link:__ [Bitwarden](https://bitwarden.com/)
 > __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
 __Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
 
-## **Polywork**
+### **Polywork**
 > __Description:__ Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
 __Link:__ [Polywork](https://www.polywork.com/)
 
@@ -40,9 +37,6 @@ __Link:__ [One Commander](https://www.onecommander.com/)
 > __Description:__ Build one-page websites.   <br/>
 __Link:__ [Carrd](https://carrd.co/)
 
-### **Coolors**
-> __Description:__ Color schemes generator.   <br/>
-__Link:__ [Coolors](https://coolors.co/)
 
 ### **Terms Of Service ; Didn't Read**
 > __Description:__ Summarized terms of service for all known companies.  <br/>
@@ -56,9 +50,6 @@ __Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 > __Description:__ List and methods to Unicode empty characters.   <br/>
 __Link:__ [Empty Characters](https://emptycharacter.com)
 
-### **Heroicons**
-> __Description:__ Beautiful hand-crafted SVG icons.   <br/>
-__Link:__ [Heroicons](https://heroicons.com/)
 
 ### **Internet Slang**
 > __Description:__ A list of slang used across the internet.   <br/>
@@ -67,10 +58,6 @@ __Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_
 ### **Invited** 
 > __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
 __Link:__ [Invited](https://invited.tv/)
-
-### **Icons — Google Fonts**
-> __Description:__ A list of Google icons.   <br/>
-__Link:__ [Icons](https://fonts.google.com/icons)
 
 ### **Notion**
 > __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
@@ -101,9 +88,6 @@ __Link:__ [Random Sites](https://www.randomlists.com/websites)
 __Link:__ [ShareX](https://getsharex.com/)   <br/>
 __Credit:__ @95576568025329664
 
-### **Simple Icons**
-> __Description:__ A list of simple icons, including brand icons.   <br/>
-__Link:__ [Simpleicons](https://simpleicons.org/)
 
 ### **pfp.lgbt**
 > __Description:__ A tool to "LGBTQ+fy" your images.  <br/>
