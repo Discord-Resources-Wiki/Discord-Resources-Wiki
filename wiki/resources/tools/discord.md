@@ -31,7 +31,7 @@ __Credit:__ @github:Androz2091
 ### **Discord Simple Avatar Maker**
 > __Description:__ A site to make simple Discord avatars.   <br/>
 __Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
-__Credit:__ [Christian Reichart](https://github.com/christian-reichart)
+__Credit:__ @github:christian-reichart
 
 ### **Discord Emoji Downloader**
 > __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server.   <br/>
@@ -48,7 +48,7 @@ __Credit:__ @152164749868662784
 ### **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures.   <br/>
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Credit:__ [geisterfurz007](https://github.com/geisterfurz007)
+__Credit:__ @github:geisterfurz007
 
 ### **Discord Bug Report Command Generator**
 > __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
@@ -104,7 +104,7 @@ __Credit:__ @113156185389092864
 ### **Library Rest & WS Coverage Comparisons**
 > __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
 (also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
-__Link:__ [Website](https://discordapi.com/unofficial/comparison.html) 
+__Link:__ [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html) 
 
 ### **Mozzy's Log Sorter** 
 > __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
