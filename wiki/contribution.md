@@ -16,9 +16,10 @@ This project took more than one set of hands, and we are proud to have this team
 We want to thank:<br/>
 @347727875266576395 - Wiki Architect <br/>
 @391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - Documentation Organizer<br/>
+@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
 @337104786593939456 - Documentation Organizer<br/>
-@378537973215657984 - Documentation Organizer<br/>
+@485676072176713729 - Resources Reseachrer / Maintainer<br/>
+@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
 @287711497118023692 - Resources Researcher / Documentation Organizer<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website Architect / Documentation Organizer<br/>
