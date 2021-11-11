@@ -168,6 +168,10 @@ __Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client
 [Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
 __Credit:__ @297045071457681409
 
+### **Discord Invite Tracker** (self-host)
+> __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
+__Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
+__Credit:__ @422820341791064085
 
 ### **WidgetBot**
 > __Description:__ Create good looking widgets for your websites.  <br/>
