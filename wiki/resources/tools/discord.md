@@ -43,7 +43,15 @@ __Credit:__ @152164749868662784
 __Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
 __Credit:__ @152164749868662784
 
+### **Slash Commands GUI**
+> __Description:__ Graphical User Interface to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS.  <br/>
+__Link:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
+__Credit:__ @422820341791064085
 
+### **Discord Invite Tracker**
+> __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
+__Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
+__Credit:__ @422820341791064085
 
 ### **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures.   <br/>
