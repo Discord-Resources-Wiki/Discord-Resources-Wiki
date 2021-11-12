@@ -37,6 +37,10 @@ __Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
 ## File Converters 
 
+### **EzGif**
+> __Description:__ EzGif is An online tool full with media-related utilities.  <br/>
+__Link:__ [EzGif](https://ezgif.com)
+
 ### **Text Formatting Tools**
 > __Description:__ A website for converting various text formats.   <br/>
 __Link:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
