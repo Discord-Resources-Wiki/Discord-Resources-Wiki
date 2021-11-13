@@ -29,7 +29,7 @@ __Credit:__ @113156185389092864
 > __Description:__ Trustworthy general moderation bot.   <br/>
 __Link(s):__   <br/>
 [GearBot Website](https://gearbot.rocks/)   <br/>
-[Invite GearBot](https://discord.comoauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
+[Invite GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
 __Credit:__ @106354106196570112
 
 
