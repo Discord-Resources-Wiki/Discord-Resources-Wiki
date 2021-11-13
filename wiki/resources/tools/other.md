@@ -88,7 +88,6 @@ __Link:__ [Random Sites](https://www.randomlists.com/websites)
 __Link:__ [ShareX](https://getsharex.com/)   <br/>
 __Credit:__ @95576568025329664
 
-
 ### **pfp.lgbt**
 > __Description:__ A tool to "LGBTQ+fy" your images.  <br/>
 __Link:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
@@ -101,6 +100,10 @@ __Link:__ [Statista](https://statista.com)
 ### **Web Archives**
 > __Description:__ Explore web pages saved over time.  <br/>
 __Link:__ [Web Archives](https://web.archive.org/)
+
+### **Whois Lookup**
+> __Description:__ Lookup information about domains or IP addresses.  <br/>
+__Link:__ [Whois Lookup](https://whois.domaintools.com/)
 
 ### **Status Page**
 > __Description:__ Communicate real-time status to your members.   <br/>
