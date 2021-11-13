@@ -37,6 +37,11 @@ __Link:__ [The Noun Project](https://thenounproject.com/)
 > __Description:__ A color theme creator with connectivity across Adobe products.  <br/>
 __Link:__ [Adobe Color](https://color.adobe.com/)
 
+### **Open Color**
+> __Description:__ An open-source color scheme and library set optimized for user interfaces.  <br/>
+__Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
+__Credit:__ @github:yeun
+
 ### **Teeny Icons**
 > __Description:__ A set of minimal 1px icons.  <br/>
 __Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
