@@ -18,8 +18,8 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'rydixulous',
-    projectName: 'Discord-Resources-n-More',
+    organizationName: 'Discord-Resources-Wiki',
+    projectName: 'Discord-Resources-Wiki',
 
     presets: [
         [
@@ -28,7 +28,7 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/rydixulous/Discord-Resources-n-More/edit/main/',
+                    editUrl: 'https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki/edit/main/',
                     path: 'wiki',
                     routeBasePath: '/wiki',
                     remarkPlugins: [
