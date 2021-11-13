@@ -17,6 +17,7 @@ __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 __Link(s):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
+[ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/)   <br/>
 [Jagrosh's List](https://github.com/jagrosh/Vortex/tree/master/lists)   <br/>
 [Pihole Blocklist](https://github.com/mhhakim/pihole-blocklist/)   <br/>
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
