@@ -28,7 +28,7 @@ __Credit:__ @200987752794292224
 __Link:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
 __Credit:__ @366652352125599744
 
-### **A guide to civil conversation**
+### **A Guide To Civil Conversation**
 > __Description:__ Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
-__Link:__ [A guide to civil conversation](https://conversation.guide/)   <br/>
+__Link:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
 __Credit:__ @102102717165506560
