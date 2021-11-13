@@ -41,6 +41,11 @@ __Credit:__ @190916650143318016
 __Link:__ [List Of Libraries](https://libs.advaith.io/)   <br/>
 __Credit:__ @190916650143318016
 
+## **All Discord Loading Messages**
+> __Description:__ A github gist full with all Discord loading messages.  <br/>
+__Link:__ [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
+__Credit:__ @190916650143318016
+
 ## **Creating & Growing Communities**
 > __Description:__ A guide made by Jagrosh#4824 to help new server owners to create and grow their communities.   <br/>
 __Link:__ [Growing A Discord Server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
