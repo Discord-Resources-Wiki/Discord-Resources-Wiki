@@ -58,6 +58,10 @@ __Credit:__ @Tichau
 > __Description:__ Replace a specfic colour of an image.  <br/>
 __Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
 
+### **SVG Converters**
+> __Description:__ High quality SVG converter.  <br/>
+__Link:__ [SVG Converters](https://picsvg.com/)
+
 ### **SVG Viewer**
 > __Description:__ View SVG files.   <br/>
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
