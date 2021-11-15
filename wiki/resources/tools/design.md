@@ -22,7 +22,7 @@ __Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
 __Link:__ [Simpleicons](https://simpleicons.org/)
 
 ### **Heroicons**
-> __Description:__ Beautiful hand-crafted SVG icons.   <br/>
+> __Description:__ Hand-crafted SVG icons.   <br/>
 __Link:__ [Heroicons](https://heroicons.com/)
 
 ### **Coolors**
