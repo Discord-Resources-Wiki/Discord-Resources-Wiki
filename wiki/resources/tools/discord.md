@@ -23,8 +23,8 @@ __Credit:__ @276544649148235776
 __Link:__ [Discord Toolbox](https://distools.app/)   <br/>
 __Credit:__ @386861188891279362
 
-###**Discord Lookup**
-> __Description:__  Easy to use tool for finding information about your guilds and more.  <br/>
+### **Discord Lookup**
+> __Description:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
 __Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
 __Credit:__ @231091710195662848
 
