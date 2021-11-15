@@ -23,6 +23,11 @@ __Credit:__ @276544649148235776
 __Link:__ [Discord Toolbox](https://distools.app/)   <br/>
 __Credit:__ @386861188891279362
 
+###**Discord Lookup**
+> __Description:__  Easy to use tool for finding information about your guilds and more.  <br/>
+__Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
+__Credit:__ @231091710195662848
+
 ### **Discord Data Package Explorer**
 > __Description:__ Explore your Discord data easily.   <br/>
 __Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
