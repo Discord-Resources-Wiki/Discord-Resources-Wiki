@@ -27,10 +27,25 @@ __Link(s):__
 > __Description:__ Self explanatory. 🔢   <br/>
 __Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
+### **Phishing Recognizing Tools**
+> __Description:__ Many tools to help you recognize phishing and compromised sites.  <br/>
+__Link(s):__ <br/>
+[Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
+[AbuseIPDB](https://www.abuseipdb.com/)  <br/>
+[BrightCloud URL Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)  <br/>
+[Is It Hacked](https://www.isithacked.com/)  <br/>
+[isitPhishing](https://isitphishing.org/) <br/>
+[URL Void](https://www.urlvoid.com/)  <br/>
+[IP Void](https://www.ipvoid.com/)  <br/>
+[Sucuri Web Page Security Check](https://unmask.sucuri.net/security-report/)  <br/>
+[URL Scan](https://urlscan.io/)  <br/>
+[ThreatMiner](https://www.threatminer.org/)  <br/>
+[McAfee URL Checker](https://www.trustedsource.org/)  <br/>
+[IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ### Phishing APIs 
 > __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
-__Link(s):__ 
+__Link(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [phish.surf](https://api.hyperphish.com/gimme-domains)   <br/>
 [Phish Report](https://phish.report/)   <br/>
