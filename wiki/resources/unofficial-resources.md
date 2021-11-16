@@ -62,6 +62,11 @@ __Credit:__ @github:ghostrider-05
 __Link:__ [Discord Build Logger](https://discord.sale/)  
 __Credit:__ @545581357812678656
 
+## **Discord API Libs**
+> __Description:__ A list of all the Discord API libraries.  <br/>
+__Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
+__Credit:__ @github:apacheli
+
 ## **Discord Markdown Guide**
 > __Desciption:__ An in-depth guide for Discord markdown.  <br/>
 __Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
