@@ -44,4 +44,5 @@ https://printer.discord.com/ | Discord printer  <br/>
 https://britcord.com/ | A British version of Discord's website  <br/>
 https://theuselessweb.com/ | Take me to a useless website  <br/>
 http://eval-deez-nuts.xyz/ | eval deez nuts  <br/>
-https://didnt-a.sk/ | didn't ask
+https://didnt-a.sk/ | didn't ask  <br/>
+https://dontuwu.glitch.me/ | dont uwu
