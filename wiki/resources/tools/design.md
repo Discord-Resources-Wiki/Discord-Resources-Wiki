@@ -17,6 +17,10 @@ __Credit:__ @github:@google
 > __Description:__ A collection of different company's branding, including Discords.   <br/>
 __Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
 
+### **Evernote Design Bookmarks**
+> __Description:__ A list of bookmarks for everything design-resources.  <br/>
+__Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
+
 ### **Simpleicons**
 > __Description:__ A list of simple icons, including brand icons.   <br/>
 __Link:__ [Simpleicons](https://simpleicons.org/)
