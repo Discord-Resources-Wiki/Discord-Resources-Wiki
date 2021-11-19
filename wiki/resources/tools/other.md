@@ -97,6 +97,10 @@ __Credit:__ @109710323094683648 @139836912335716352
 > __Description:__ Statistics and business data platform for over 170 industries.   <br/>
 __Link:__ [Statista](https://statista.com)
 
+### **Simple Analytics**
+> __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
+__Link:__ [Simple Analytics](https://simpleanalytics.com/)
+
 ### **Web Archives**
 > __Description:__ Explore web pages saved over time.  <br/>
 __Link:__ [Web Archives](https://web.archive.org/)
