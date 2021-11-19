@@ -59,6 +59,14 @@ __Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_
 > __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
 __Link:__ [Invited](https://invited.tv/)
 
+### **Obsidian**
+> __Description:__ An advanced note-taking app.  <br/>
+__Link:__ [Obsidian](https://obsidian.md/)
+
+### **Trello**
+> __Description:__ Manage collaborative projects easily.  <br/>
+__Link:__ [Trello](https://trello.com/)
+
 ### **Notion**
 > __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
 __Link:__ [Notion](https://www.notion.so/)
