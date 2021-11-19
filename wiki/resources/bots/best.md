@@ -178,6 +178,11 @@ __Credit:__ @422820341791064085
 __Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
 __Credit:__ @github:widgetbot-io
 
+### **Wumplus**
+> __Description:__ Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
+__Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
+__Credit:__ @305647182198079489 @852608147554172928
+
 ### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
