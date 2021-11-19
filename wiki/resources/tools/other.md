@@ -101,6 +101,10 @@ __Link:__ [Statista](https://statista.com)
 > __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
 __Link:__ [Simple Analytics](https://simpleanalytics.com/)
 
+### **Grafana**
+> __Description:__ Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
+__Link:__ [Grafana](https://grafana.com/)
+
 ### **Web Archives**
 > __Description:__ Explore web pages saved over time.  <br/>
 __Link:__ [Web Archives](https://web.archive.org/)
