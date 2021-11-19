@@ -43,7 +43,7 @@ __Credit:__ @287698408855044097
 ### **AutoModerator** 
 > __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
-__Credit:__ @223703707118731264
+__Credit:__ @223703707118731264 @104425482757357568
 
 ### **Beemo**
 > __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
@@ -143,7 +143,7 @@ __Credit:__ @173815235243802624
 ### **AMA (Ask Me Anything)**
 > __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
 __Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
-__Credit:__ @223703707118731264
+__Credit:__ @223703707118731264 @104425482757357568
 
 ### **Suggester**
 > __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
