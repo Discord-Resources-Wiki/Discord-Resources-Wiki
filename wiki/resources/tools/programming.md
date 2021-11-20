@@ -39,6 +39,11 @@ __Link:__ [Public APIs](https://github.com/public-apis/public-apis)
 > __Description:__ A list of HTTP status codes.   <br/>
 __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 
+### **HTTP Toolkit**
+> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
+__Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
+__Credit:__ github:@pimterry
+
 ### **Markdown Guide**
 > __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
 __Link:__ [Markdown Guide](https://www.markdownguide.org/)
