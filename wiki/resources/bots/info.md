@@ -9,6 +9,11 @@ sidebar_position: 1
 __Link:__ [Discord Bots](https://discord.bots.gg/)   <br/>
 __Credit:__ Discord Bots’ site team @66237334693085184
 
+## **Discord Bots Catalog**
+> __Description:__ Imagine a place where you can find discord bot for your needs, that's Discord Bots Catalog.<br/>
+__Link:__ [Discord Bots Catalog](https://top-bots.xyz/)   <br/>
+__Credit:__ @616219013969608715, @185240097728364544 and FindADiscord Team 
+
 ## **List of Bot Lists** (BotBlocks)
 > __Description:__ A centralized list of Discord bot lists.   <br/>
 __Link:__ [Bots Lists List](https://botblock.org/lists) 
