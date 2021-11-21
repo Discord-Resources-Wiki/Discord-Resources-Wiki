@@ -97,11 +97,11 @@ __Link:__ [DeepResearch](https://www.altr.fyi/)
 __Link:__ [Experiments Rollouts](https://rollouts.advaith.io/)   <br/>
 __Credit:__ @190916650143318016
 
-### **Find a Guild**
+### **Guild info by widget**
 > __Description:__ Find a guild using it’s ID, through replacing ‘GUILD_ID’ (provided it has widgets on).   <br/>
 __Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
 
-### **Find Guild Features**
+### **Guild info by invite code**
 > __Description:__ Check the features of a guild via an instant invite code.   <br/>
 __Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
 
