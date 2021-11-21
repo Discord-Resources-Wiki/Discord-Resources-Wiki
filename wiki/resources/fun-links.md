@@ -41,7 +41,6 @@ https://discord.ceo/ | Discord CEO  <br/>
 https://discord.com/humans.txt | Discord  <br/>
 https://roing.us/ | click the creature  <br/>
 https://printer.discord.com/ | Discord printer  <br/>
-https://britcord.com/ | A British version of Discord's website  <br/>
 https://theuselessweb.com/ | Take me to a useless website  <br/>
 http://eval-deez-nuts.xyz/ | eval deez nuts  <br/>
 https://didnt-a.sk/ | didn't ask  <br/>
