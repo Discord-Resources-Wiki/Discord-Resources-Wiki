@@ -183,6 +183,13 @@ __Credit:__ @github:widgetbot-io
 __Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
 __Credit:__ @305647182198079489 @852608147554172928
 
+### **Craig**
+> __Description:__ A bot able to record one or more voice channels or stage channel at the time.  <br/>
+__Link(s):__  <br/> 
+[Craig Website](https://craig.chat/home/)  <br/>
+[Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
+__Credit:__ @171244192696238080
+
 ### **Tunes Ninja**
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
