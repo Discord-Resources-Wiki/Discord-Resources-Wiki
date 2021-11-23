@@ -79,6 +79,10 @@ __Link:__ [Nord Theme](https://www.nordtheme.com/)
 > __Description:__ A website for personal pronoun usage examples.   <br/>
 __Link:__ [Pronoun Island](https://pronoun.is/)
 
+### **PronounDB**
+> __Description:__ Pronouns intergration for websites and apps.  <br/>
+__Link:__ [ProunounDB](https://pronoundb.org/)
+
 ### **Flaticon**
 > __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
 __Link:__ [Flaticon](https://www.flaticon.com/)
