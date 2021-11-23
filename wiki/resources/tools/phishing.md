@@ -49,7 +49,7 @@ __Link(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [phish.surf](https://api.hyperphish.com/gimme-domains)   <br/>
 [Phish Report](https://phish.report/)   <br/>
-[Phish Sinking Yachts](https://phish.sinking.yachts/docs)   <br/>
+[Phish Sinking Yachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
 [Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
 [Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
