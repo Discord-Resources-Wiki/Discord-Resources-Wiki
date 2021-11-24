@@ -6,7 +6,8 @@ sidebar_position: 2
 
 ### **Autocode**
 > __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
-__Link:__ [Autocode](https://autocode.com/)
+__Link:__ [Autocode](https://autocode.com/)  <br/>
+__Credit:__ @746460957651501196
 
 ### **Choose A License**
 > __Description:__ Choose a license for your open source project.   <br/>
