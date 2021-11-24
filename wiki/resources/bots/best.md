@@ -194,3 +194,14 @@ __Credit:__ @171244192696238080
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
 __Credit:__ @657057112593268756
+
+### **IntroBot**
+> __Description:__ When you join in a voice channel, IntroBot will automaticly join and play a audio that you selected.  <br/>
+__Link:__ [Invite IntroBot](https://discord.com/oauth2/authorize?client_id=779069043638403083&permissions=3147776&scope=bot)  <br/>
+__Credit:__ @151524394550689793
+
+### **Not Quite Nitro**
+> __Description:__ A bot that allows users without Discord Nitro to use animated emotes for free.  <br/>
+__Link(s):__ [Not Quite Nitro Website](https://nqn.blue/)  <br/>
+[Invite Not Quite Nitro](https://discord.com/oauth2/authorize?client_id=559426966151757824&permissions=1610968128&scope=bot+applications.commands&state=web_invite&response_type=code&redirect_uri=https%3A%2F%2Fnqn.blue%2Fbot_added%3Freferrer%3Dwebsite)  <br/>
+__Credit:__ @357048939503026177
