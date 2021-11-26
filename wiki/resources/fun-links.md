@@ -35,6 +35,7 @@ https://www.whosampled.com/ | who sampled
 https://discord.gg/wungus Or https://wungus.com/ | church of wungus   <br/>
 https://http.cat/ | HTTP cats   <br/>
 https://thispersondoesnotexist.com/ | this person does not exist   <br/>
+https://thisfursonadoesnotexist.com/ | this fursona does not exist  <br/>
 https://wungus.guru/robots.txt | wungus the guru   <br/>
 https://deadchat.info/ | dead chat info  <br/>
 https://fish-is.me/ | Im a fish....?  <br/> 
