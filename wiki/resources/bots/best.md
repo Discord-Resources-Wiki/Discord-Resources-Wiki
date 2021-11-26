@@ -124,6 +124,13 @@ __Credit:__ @255834596766253057
 __Link:__ [Invite Activities Bot](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
 __Credit:__ @190916650143318016
 
+### **Reaction**
+> __Description:__ Easy-to-use bot to have buttons and dropdowns based reaction roles in your server.  <br/>
+__Link(s):__ <br/>
+[Reaction Docs](https://rr.auttaja.io/)  <br/>
+[Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
+__Credit:__ @109710323094683648
+
 ### **Discord Status** (webhook)
 > __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
 __Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
