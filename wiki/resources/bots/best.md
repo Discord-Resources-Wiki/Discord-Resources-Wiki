@@ -196,6 +196,11 @@ __Credit:__ @github:widgetbot-io
 __Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
 __Credit:__ @305647182198079489 @852608147554172928
 
+### **Antouto**
+> __Description:__ Get info about servers, invites, users and build overrides.  <br/>
+__Link:__ [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
+__Credit:__ @316860714260234243
+
 ### **Craig**
 > __Description:__ A bot able to record one or more voice channels or stage channel at the time.  <br/>
 __Link(s):__  <br/> 
