@@ -83,6 +83,12 @@ __Link(s):__   <br/>
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 __Credit:__ @255834596766253057
 
+### **OterluBot**
+> __Description:__ A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
+__Link:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
+__Credit:__ @111891236792598528 @352832514819227655
+
+
 ## **ModMail**
 
 ### **Dragory's ModMail** (self-host)
