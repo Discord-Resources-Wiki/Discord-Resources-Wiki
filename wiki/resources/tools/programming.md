@@ -9,6 +9,14 @@ sidebar_position: 2
 __Link:__ [Autocode](https://autocode.com/)  <br/>
 __Credit:__ @746460957651501196
 
+### **Stack Overflow**
+> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
+__Link:__ [Stack Overflow](https://stackoverflow.com/)
+
+### **RapidAPI**
+> __Description:__ Find APIs to all purposes.  <br/>
+__Link:__ [RapidAPI](https://rapidapi.com/)
+
 ### **Choose A License**
 > __Description:__ Choose a license for your open source project.   <br/>
 __Link:__ [Choose A License](https://choosealicense.com/)
