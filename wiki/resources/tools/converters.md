@@ -17,7 +17,7 @@ __Credit:__ @86913608335773696
 
 ### **DateTimeCord** 
 > __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
-__Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/) 
+__Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
 __Credit:__ @172557961133162496
 
 ### **Alfred time converters plugins**
