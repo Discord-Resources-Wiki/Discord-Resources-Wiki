@@ -127,7 +127,7 @@ __Credit:__  @249287049482338305
 
 ### **Discordstatus**
 > __Description:__ A tool to create a unique status/about me page using colores squares.  <br/>
-__Link:__ [Discordstatus](https://warze.org/discordstatus/)  <br/>
+__Link:__ [Discordstatus](https://warze.org/discordstatus)  <br/>
 __Credit:__ @345103284463206400
 
 ### **PreMiD**
