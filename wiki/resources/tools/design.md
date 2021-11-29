@@ -6,12 +6,12 @@ sidebar_position: 5
 ### **Material Design Icons**
 > __Description:__ A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
 __Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
-__Credit:__ @github:@Templarian
+__Credit:__ @github:Templarian
 
 ### **Google Fonts Icons**
 > __Description:__ A collection of common icons based around web actions, provided by Google. <br/>
 __Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
-__Credit:__ @github:@google
+__Credit:__ @github:google
 
 ### **Branding Style Guides**
 > __Description:__ A collection of different company's branding, including Discords.   <br/>
