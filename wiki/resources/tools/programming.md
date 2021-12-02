@@ -40,6 +40,10 @@ __Link(s):__
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
+### **Github Education Pack**
+> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
+__Link:__ [Github Education Pack](https://education.github.com/)
+
 ### **Public APIs**
 > __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
 __Link:__ [Public APIs](https://github.com/public-apis/public-apis)
