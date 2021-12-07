@@ -22,7 +22,6 @@ https://goldensun.club/ | Rickroll Cool forums   <br/>
 https://willianevergetdevbadge.xyz/ | TLDR: NO :(   <br/>
 https://tennineeightsevensixfivefourthreetwo.one/ | Counts down rickroll   <br/>
 https://purpzie.monster/ | purpzie monster   <br/>
-https://letterh.xyz/ | the letter h   <br/>
 https://is-discord-dead.xyz/ | is discord dead   <br/>
 https://chir.ag/projects/tip-of-my-tongue/ | tip my tongue   <br/>
 https://wungus.guru/ | no wungus   <br/>
