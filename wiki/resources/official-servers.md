@@ -17,11 +17,11 @@ __Link:__ [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
-## **Discord Snowsgivingl** 
+## **Discord Snowsgiving** 
 > __Description:__ An official general chatting server for people who love Discord, now themed for winter.  Find the latest news, events, and a community you love!   <br/>
 __Link:__ [Discord Snowsgiving](https://discord.gg/snowsgiving)
 
-@gg/discord-townhall
+@gg/snowsgiving
 
 ## **Discord Games Lab** 
 > __Description:__ The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
