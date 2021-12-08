@@ -17,9 +17,9 @@ __Link:__ [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
-## **Discord Townhall** 
-> __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-__Link:__ [Discord Townhall](https://discord.gg/discord-townhall)
+## **Discord Snowsgivingl** 
+> __Description:__ An official general chatting server for people who love Discord, now themed for winter.  Find the latest news, events, and a community you love!   <br/>
+__Link:__ [Discord Snowsgiving](https://discord.gg/snowsgiving)
 
 @gg/discord-townhall
 
