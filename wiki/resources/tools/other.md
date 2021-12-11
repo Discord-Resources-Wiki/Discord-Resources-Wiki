@@ -37,6 +37,9 @@ __Link:__ [One Commander](https://www.onecommander.com/)
 > __Description:__ Build one-page websites.   <br/>
 __Link:__ [Carrd](https://carrd.co/)
 
+### **Down for Everyone or Just Me**
+> __Description:__ A site that checks if a domain is up.   <br/>
+__Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
 ### **Terms Of Service ; Didn't Read**
 > __Description:__ Summarized terms of service for all known companies.  <br/>
