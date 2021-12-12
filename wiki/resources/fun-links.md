@@ -51,5 +51,5 @@ https://eeemo.net/ | zalgo generator (ravy do be lazy btw)   <br/>
 https://soap2day.ac/ | all the content in the world  <br/>
 https://thetruesize.com/ | true size map  <br/>
 https://bongo.cat/ | Become bongo cat  <br/>
-download more RAM | https://downloadmoreram.com/
+https://downloadmoreram.com/ | download more RAM  
 
