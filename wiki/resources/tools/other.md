@@ -129,6 +129,11 @@ __Credit:__ @github:latex3
 > __Description:__ Explore web pages saved over time.  <br/>
 __Link:__ [Web Archives](https://web.archive.org/)
 
+### **AlternativeTo**
+> __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
+__Link:__ [AlternativeTo](https://alternativeto.net/)
+
+
 ### **Whois Lookup**
 > __Description:__ Lookup information about domains or IP addresses.  <br/>
 __Link:__ [Whois Lookup](https://whois.domaintools.com/)
