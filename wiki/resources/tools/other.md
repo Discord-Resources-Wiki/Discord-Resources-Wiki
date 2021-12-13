@@ -120,6 +120,11 @@ __Link:__ [Simple Analytics](https://simpleanalytics.com/)
 > __Description:__ Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
 __Link:__ [Grafana](https://grafana.com/)
 
+### **The LaTeX Project**
+> __Description:__ LaTeX is a document preparation system, useful for scientific or technical documents. <br/>
+__Link:__ [The LaTeX Project](https://latex-project.org) <br/>
+__Credit:__ @github:latex3 
+
 ### **Web Archives**
 > __Description:__ Explore web pages saved over time.  <br/>
 __Link:__ [Web Archives](https://web.archive.org/)
