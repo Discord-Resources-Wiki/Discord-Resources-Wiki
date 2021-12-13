@@ -164,3 +164,12 @@ __Link:__ [URL Expander](https://urlex.org/)
 ### **Waifu2x**
 > __Description:__ Image scaling and noise reduction for anime-style art.   <br/>
 __Link:__ [waifu2x](http://waifu2x.udp.jp/)
+
+### **True Size**
+> __Description:__ A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
+__Link:__ [True Size](https://thetruesize.com/) 
+
+### **Lightmode is Necessary**
+> __Description:__ An article explaining why lightmode is an important to software. <br/>
+__Link:__ [Article](https://lightmode.glitch.me) <br/>
+__Credit:__ @medium:H Locke
