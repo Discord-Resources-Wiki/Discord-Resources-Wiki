@@ -137,6 +137,10 @@ __Link:__ [Web Archives](https://web.archive.org/)
 > __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
 __Link:__ [AlternativeTo](https://alternativeto.net/)
 
+### **Internet Download Manager**
+> __Description:__ Tool that makes downloading videos and files through the browser easy.  <br/>
+__Link:__ [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
+
 ### **Whois Lookup**
 > __Description:__ Lookup information about domains or IP addresses.  <br/>
 __Link:__ [Whois Lookup](https://whois.domaintools.com/)
