@@ -112,6 +112,10 @@ __Credit:__ @109710323094683648 @139836912335716352
 > __Description:__ Statistics and business data platform for over 170 industries.   <br/>
 __Link:__ [Statista](https://statista.com)
 
+### **Semantic Scholar**
+> __Description:__ Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
+__Link:__ [Semantic Scholar](https://www.semanticscholar.org/) 
+
 ### **Simple Analytics**
 > __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
 __Link:__ [Simple Analytics](https://simpleanalytics.com/)
@@ -132,7 +136,6 @@ __Link:__ [Web Archives](https://web.archive.org/)
 ### **AlternativeTo**
 > __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
 __Link:__ [AlternativeTo](https://alternativeto.net/)
-
 
 ### **Whois Lookup**
 > __Description:__ Lookup information about domains or IP addresses.  <br/>
