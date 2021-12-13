@@ -10,7 +10,6 @@ https://i-dont-ca.re/ | About docs   <br/>
 https://just-read.it/ | Read the error smh   <br/>
 https://when.lol/ | When did I ask   <br/>
 https://getsharex.com/premium | Sharex premium   <br/>
-https://lightmode.glitch.me/ | Why lightmode is good/accessibility needed   <br/>
 https://nohello.com/ | Don't just say hello   <br/>
 https://dtesters.glitch.me/pin | Check the pins smh   <br/>
 https://dead-ch.at/ | No dead chat   <br/>
@@ -49,7 +48,6 @@ https://didnt-a.sk/ | didn't ask  <br/>
 https://dontuwu.glitch.me/ | dont uwu  <br/>
 https://eeemo.net/ | zalgo generator (ravy do be lazy btw)   <br/>
 https://soap2day.ac/ | all the content in the world  <br/>
-https://thetruesize.com/ | true size map  <br/>
 https://bongo.cat/ | Become bongo cat  <br/>
 https://downloadmoreram.com/ | download more RAM  <br/>
 https://benisland.neocities.org/petpet/ | petpet  <br/>
