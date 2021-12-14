@@ -1,10 +1,10 @@
 import React from 'react'
 import styles from '../css/UserWidgetInline.module.css'
-import useThemeContext from '@theme/hooks/useThemeContext'
 import Tooltip from "./Tooltip";
+import useFixedThemeContext from "../hooks/useFixedThemeContext";
 
 export default function UserWidgetInline({data}) {
-    const {isDarkTheme} = useThemeContext();
+    const {isDarkTheme} = useFixedThemeContext();;
 
     function userName() {
         if (data.type === 'discord') {

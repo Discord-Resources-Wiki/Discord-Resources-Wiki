@@ -1,8 +1,8 @@
 import React from 'react';
-import useThemeContext from '@theme/hooks/useThemeContext'
+import useFixedThemeContext from "../hooks/useFixedThemeContext";
 
 export default function InviteWidget({invite}) {
-    const {isDarkTheme} = useThemeContext();
+    const {isDarkTheme} = useFixedThemeContext();;
 
     return (
         <a href={`https://discord.gg/${invite}`} target="_blank">
