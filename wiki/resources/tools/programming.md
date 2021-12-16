@@ -52,6 +52,11 @@ __Link:__ [Public APIs](https://github.com/public-apis/public-apis)
 > __Description:__ A list of HTTP status codes.   <br/>
 __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 
+### **Does My Site Need HTTPS?**
+> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
+__Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+
+
 ### **HTTP Toolkit**
 > __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
 __Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
