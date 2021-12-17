@@ -54,4 +54,5 @@ https://benisland.neocities.org/petpet/ | petpet  <br/>
 https://dontasktoask.com/ | dont ask to ask  <br/>
 https://thispagewillneverload.com | this page will never load  <br/>
 https://annoying.name/ | annoying name  <br/>
- https://inspirobot.me/ | inspiration quotes 
+https://inspirobot.me/ | inspiration quotes <br/>
+https://appeal.bans.gg/ | ban appeal 
