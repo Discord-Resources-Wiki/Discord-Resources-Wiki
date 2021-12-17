@@ -53,4 +53,5 @@ https://downloadmoreram.com/ | download more RAM  <br/>
 https://benisland.neocities.org/petpet/ | petpet  <br/>
 https://dontasktoask.com/ | dont ask to ask  <br/>
 https://thispagewillneverload.com | this page will never load  <br/>
-https://annoying.name/ | annoying name
+https://annoying.name/ | annoying name  <br/>
+ https://inspirobot.me/ | inspiration quotes 
