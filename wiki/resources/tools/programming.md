@@ -25,6 +25,10 @@ __Link:__ [Choose A License](https://choosealicense.com/)
 > __Description:__ Simplifies development processes.   <br/>
 __Link:__ [Docker](https://www.docker.com/)
 
+### **Visual Studio Code**
+> __Description:__ Free and biggest code editing tool. <br/>
+__Link:__ [Visual studio code](https://code.visualstudio.com)  
+
 ### **Docusaurus**
 > __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
 __Link:__ [Docusaurus](https://docusaurus.io/)
