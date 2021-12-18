@@ -55,9 +55,9 @@ __Link(s):__ <br/>
 > __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
 __Link(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
-[phish.surf](https://api.hyperphish.com/gimme-domains)   <br/>
+[Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
 [Phish Report](https://phish.report/)   <br/>
-[Phish Sinking Yachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
+[SinkingYachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
 [Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
 [Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
@@ -72,3 +72,9 @@ Phisherman is a centralized database of phishing and scam links. It is designed 
 __Link(s):__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
+
+### **The Vaccinator**
+> __Description:__ A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
+__Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
+__Link:__ [Website](https://sketchy.tel/)  <br/>
+__Credit:__ The Vaccinator Team (contact: @204414611578028034)
