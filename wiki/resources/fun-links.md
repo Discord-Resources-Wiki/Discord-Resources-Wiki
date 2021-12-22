@@ -13,9 +13,9 @@ https://getsharex.com/premium | Sharex premium   <br/>
 https://nohello.com/ | Don't just say hello   <br/>
 https://dtesters.glitch.me/pin | Check the pins smh   <br/>
 https://dead-ch.at/ | No dead chat   <br/>
-https://dontasktoask.com/ | Self explanatory   <br/>
+https://dontasktoask.com/ | dont ask to ask   <br/>
 https://dtesters.glitch.me/dev | No dev client   <br/> 
-https://annoying.name/ | Self explanatory   <br/>
+https://annoying.name/ | annoying name   <br/>
 https://ian-key.xyz/ | Which Ian was it???   <br/>
 https://goldensun.club/ | Rickroll Cool forums   <br/>
 https://willianevergetdevbadge.xyz/ | TLDR: NO :(   <br/>
@@ -51,9 +51,7 @@ https://soap2day.ac/ | all the content in the world  <br/>
 https://bongo.cat/ | Become bongo cat  <br/>
 https://downloadmoreram.com/ | download more RAM  <br/>
 https://benisland.neocities.org/petpet/ | petpet  <br/>
-https://dontasktoask.com/ | dont ask to ask  <br/>
 https://thispagewillneverload.com | this page will never load  <br/>
-https://annoying.name/ | annoying name  <br/>
 https://inspirobot.me/ | inspiration quotes <br/>
 https://appeal.bans.gg/ | ban appeal <br/>
 https://shitcord.com/ | shitcord
