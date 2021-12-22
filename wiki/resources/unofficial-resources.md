@@ -67,6 +67,10 @@ __Credit:__ @545581357812678656
 __Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
 __Credit:__ @github:apacheli
 
+## **Unofficial Discord API Docs**
+> __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
+__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
+
 ## **Discord Markdown Guide**
 > __Desciption:__ An in-depth guide for Discord markdown.  <br/>
 __Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
@@ -90,7 +94,6 @@ __Link:__ [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gR
 > __Description:__ All of Discord’s assets.   <br/>
 __Link:__ [Discord Assets](https://www.figma.com/community/file/992144378612759941/Discord-Resources)   <br/>
 __Credit:__ @354309005037797376
-
 
 ## **(more) Discord Assets**
 > __Description:__ A list with all icons from the client.   <br/>
