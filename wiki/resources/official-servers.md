@@ -17,11 +17,11 @@ __Link:__ [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
-## **Discord Townhall** 
+## **Discord Town Hall** 
 > __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-__Link:__ [Discord Townhall](https://discord.gg/discord-townhall)
+__Link:__ [Discord Town Hall](https://discord.gg/snowsgiving)
 
-@gg/discord-townhall
+@gg/snowsgiving
 
 ## **Discord Games Lab** 
 > __Description:__ The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
