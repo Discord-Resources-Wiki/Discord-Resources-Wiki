@@ -177,4 +177,4 @@ __Credit:__ @medium:H Locke
 ### **Use a Passphrase**
 > __Description:__ A better password generator that allows you to generate secure passwords anyone can remember easily. <br/>
 __Link:__ [Use A Passphrase](https://www.useapassphrase.com/) <br/>
-__Credit:__ [Mike Hearn](https://github.com/mike-hearn)
+__Credit:__ github:mike-hearn
