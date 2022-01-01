@@ -65,7 +65,7 @@ __Credit:__ @545581357812678656
 ## **Discord API Libs**
 > __Description:__ A list of all the Discord API libraries.  <br/>
 __Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
-__Credit:__ @github:apacheli
+__Credit:__ @460612586061430806
 
 ## **Unofficial Discord API Docs**
 > __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
