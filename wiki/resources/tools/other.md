@@ -53,6 +53,10 @@ __Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 > __Description:__ List and methods to Unicode empty characters.   <br/>
 __Link:__ [Empty Characters](https://emptycharacter.com)
 
+### **Awesome**
+> __Description:__ Collection of lists about various topics.   <br/>
+__Link:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
+__Credit:__ @github:sindresorhus
 
 ### **Internet Slang**
 > __Description:__ A list of slang used across the internet.   <br/>
