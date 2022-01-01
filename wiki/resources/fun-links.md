@@ -56,4 +56,5 @@ https://inspirobot.me/ | inspiration quotes <br/>
 https://appeal.bans.gg/ | ban appeal <br/>
 https://shitcord.com/ | shitcord <br/>
 https://ban-cs.xyz/ | Stop doing computer science  <br/>
-https://xkcd.com/ | A webcomic of romance, sarcasm, math, and language.
+https://xkcd.com/ | A webcomic of romance, sarcasm, math, and language.  <br/>
+https://mcbroken.com/ | is the ice cream machine broken
