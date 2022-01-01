@@ -169,7 +169,12 @@ __Link:__ [waifu2x](http://waifu2x.udp.jp/)
 > __Description:__ A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
 __Link:__ [True Size](https://thetruesize.com/) 
 
+### **Visual Center**
+> __Description:__ Find the visual center of your images.  <br/>
+__Link:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
+__Credit:__ @github:javierbyte
+
 ### **Lightmode is Necessary**
 > __Description:__ An article explaining why lightmode is an important to software. <br/>
 __Link:__ [Article](https://lightmode.glitch.me) <br/>
-__Credit:__ @medium:H Locke
+
