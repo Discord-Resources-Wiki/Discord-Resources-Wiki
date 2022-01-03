@@ -19,7 +19,7 @@ __Link:__ [Discord Developers](https://discord.gg/discord-developers)
 
 ## **Discord Town Hall** 
 > __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-__Link:__ [Discord Town Hall](https://discord.gg/snowsgiving)
+__Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
 
 @gg/snowsgiving
 
