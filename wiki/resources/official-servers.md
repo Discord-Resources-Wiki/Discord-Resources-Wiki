@@ -28,3 +28,9 @@ __Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
 __Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
+
+## **Snowsgiving Game Village** 
+> __Description:__ An official server made for users to test Discord's Voice Activities during Snowsgiving. While this server is no longer used, it is still accessible.   <br/>
+__Link:__ [Snowsgiving Game Village](https://discord.gg/snowsgaming)
+
+@gg/snowsgaming
