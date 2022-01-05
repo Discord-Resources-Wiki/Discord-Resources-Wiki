@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 # Converters
-## Time Converters 
+## Timestamp Converters 
 ### **HammerTime**
 > __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
 The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
