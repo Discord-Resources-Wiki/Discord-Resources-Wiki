@@ -45,6 +45,10 @@ __Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 > __Description:__ Summarized terms of service for all known companies.  <br/>
 __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
 
+### **TimezoneWizard**
+> __Description:__ Easy to use tool for finding timezones all across the globe.  <br/>
+__Link:__ [TimezoneWizard](https://timezonewizard.com/)
+
 ### **C.O.A.C.H**
 > __Description:__ Tidying up your online security, step by step.   <br/>
 __Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
