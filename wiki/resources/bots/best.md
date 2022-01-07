@@ -109,6 +109,13 @@ __Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
 __Credit:__ @524371727812263948
 
 ## **Utility Bots**
+### **OpenDiscordBots**
+> __Description:__ A collection of self-hostable, open-source simple Discord bots.  <br/>
+__Link(s):__   <br/>
+[OpenDiscordBots](https://opendiscordbots.com/)  <br/>
+[GitHub Org](https://github.com/OpenDiscordBots)  <br/>
+__Credit:__ @297045071457681409 @192060404501839872
+
 ### **RTS Bot**
 > __Description:__ Bot with mental health & wellness resources.   <br/>
 __Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>

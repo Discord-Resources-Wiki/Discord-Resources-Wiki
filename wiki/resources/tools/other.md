@@ -41,6 +41,10 @@ __Link:__ [Carrd](https://carrd.co/)
 > __Description:__ A site that checks if a domain is up.   <br/>
 __Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
+### **KeyCDN Tools**
+> __Description:__ Many tools related to web, networking and security checkings.  <br/>
+__Link:__ [KeyCDN Tools](https://tools.keycdn.com/)
+
 ### **Terms Of Service ; Didn't Read**
 > __Description:__ Summarized terms of service for all known companies.  <br/>
 __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
