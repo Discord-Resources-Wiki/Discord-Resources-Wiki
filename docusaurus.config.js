@@ -60,6 +60,24 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            metadatas: [
+                {
+                    name: 'og:title',
+                    content: 'Discord Resources Wiki'
+                }, 
+                {
+                    name: 'og:description',
+                    content: 'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.'
+                },
+                {
+                    name: 'og:image',
+                    content: 'https://discordresources.com/img/logo-background.png'
+                },
+                {
+                    name: 'twitter:card',
+                    content: 'summary'
+                },
+            ],
             navbar: {
                 title: 'Discord Resources',
                 logo: {
@@ -79,7 +97,7 @@ const config = {
                         position: 'left',
                     },
                     {
-                        href: 'https://github.com/rydixulous/Discord-Resources-n-More',
+                        href: 'https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki',
                         label: 'GitHub',
                         position: 'right',
                     },
