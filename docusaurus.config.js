@@ -97,7 +97,7 @@ const config = {
                         position: 'left',
                     },
                     {
-                        href: 'https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki',
+                        href: 'https://github.com/rydixulous/Discord-Resources-n-More',
                         label: 'GitHub',
                         position: 'right',
                     },
