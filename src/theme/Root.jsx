@@ -6,6 +6,7 @@ export default function Root({children}) {
         <>
             <Head>
                 <meta property="og:image" content="/img/logo-background.png" />
+                <meta property="twitter:card" content="summary" />
             </Head>
             {children}
         </>
