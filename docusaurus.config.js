@@ -74,6 +74,10 @@ const config = {
                     content: 'https://discordresources.com/img/logo-background.png'
                 },
                 {
+                    name: 'theme-color',
+                    content: '#ba6ec4'
+                },
+                {
                     name: 'twitter:card',
                     content: 'summary'
                 },
