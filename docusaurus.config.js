@@ -97,13 +97,13 @@ const config = {
                         position: 'left',
                     },
                     {
-                        href: 'https://discord.gg/AJX6cVWeJg',
-                        className: 'navbar-item-discord',
+                        href: 'https://github.com/rydixulous/Discord-Resources-n-More',
+                        className: 'navbar-item-github',
                         position: 'right',
                     },
                     {
-                        href: 'https://github.com/rydixulous/Discord-Resources-n-More',
-                        className: 'navbar-item-github',
+                        href: 'https://discord.gg/AJX6cVWeJg',
+                        className: 'navbar-item-discord',
                         position: 'right',
                     },
                 ],
