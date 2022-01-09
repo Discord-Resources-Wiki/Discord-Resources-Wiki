@@ -98,12 +98,12 @@ const config = {
                     },
                     {
                         href: 'https://github.com/rydixulous/Discord-Resources-n-More',
-                        label: 'GitHub',
+                        className: 'navbar-item-github',
                         position: 'right',
                     },
                     {
                         href: 'https://discord.gg/AJX6cVWeJg',
-                        label: 'Discord',
+                        className: 'navbar-item-discord',
                         position: 'right',
                     },
                 ],
