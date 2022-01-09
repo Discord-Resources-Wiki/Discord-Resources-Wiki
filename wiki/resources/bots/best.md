@@ -188,6 +188,11 @@ __Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client
 [Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
 __Credit:__ @297045071457681409
 
+### **Iris XP**
+> __Description:__ Easy to use, fully customisable XP bot.  <br/>
+__Link:__ [Invite Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
+__Credit:__ @173815235243802624
+
 ### **Discord Invite Tracker** (self-host)
 > __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
 __Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
