@@ -89,3 +89,8 @@ __Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 ### **Regex Crossword**
 > __Description:__ Learn regex through puzzles and challenges.   <br/>
 __Link:__ [Regex Crossword](https://regexcrossword.com/)
+
+### **Guide(s) to contributing on Open Source Software**
+> __Description:__ A list of various resources to help OSS contributors. <br/>
+__Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+__Credit:__ @github:freeCodeCamp
