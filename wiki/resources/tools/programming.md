@@ -91,6 +91,6 @@ __Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 __Link:__ [Regex Crossword](https://regexcrossword.com/)
 
 ### **Guide(s) to contributing on Open Source Software**
-> __Description:__ A list of various resources to help OSS contributor <br/>
+> __Description:__ A list of various resources to help OSS contributor. <br/>
 __Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 __Credit:__ @github:freeCodeCamp
