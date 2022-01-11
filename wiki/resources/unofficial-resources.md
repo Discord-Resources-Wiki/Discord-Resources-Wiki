@@ -36,11 +36,6 @@ __Link:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
 __Link:__ [List Of Stickers](https://stickers.advaith.io/)   <br/>
 __Credit:__ @190916650143318016
 
-## **List of Libraries**
-> __Description:__ List of all Discord API libraries and their features.   <br/>
-__Link:__ [List Of Libraries](https://libs.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
-
 ## **All Discord Loading Messages**
 > __Description:__ A github gist full with all Discord loading messages.  <br/>
 __Link:__ [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
@@ -62,24 +57,10 @@ __Credit:__ @github:ghostrider-05
 __Link:__ [Discord Build Logger](https://discord.sale/)  
 __Credit:__ @545581357812678656
 
-## **Discord API Libs**
-> __Description:__ A list of all the Discord API libraries.  <br/>
-__Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
-__Credit:__ @460612586061430806
-
-## **Unofficial Discord API Docs**
-> __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
-__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
-
 ## **Discord Markdown Guide**
 > __Desciption:__ An in-depth guide for Discord markdown.  <br/>
 __Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
 __Credit:__ @github:matthewzring
-
-## **All Official Discord Bots**
-> __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
-__Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
-__Credit:__ @712626099141476383
 
 ## **All Discord Voice Activities**
 > __Description:__ A list that contains all Discord voice activities and their IDs.   <br/>
