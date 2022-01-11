@@ -201,5 +201,7 @@ __Credit:__ @255834596766253057
 
 ### **ANSI Code Block Guide**
 > __Description:__ A quick breakdown of how to use ANSI color codes to add color to your code blocks. <br/>
-__Link:__ [ANSI Code Block Guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
-__Credit:__ @github:kkrypt0nn
+__Link(s):__  <br/>
+[ANSI Code Block Guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
+[ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
+__Credit:__ @github:kkrypt0nn @github:fnky
