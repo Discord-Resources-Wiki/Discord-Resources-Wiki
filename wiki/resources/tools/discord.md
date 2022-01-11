@@ -53,7 +53,6 @@ __Credit:__ @152164749868662784
 __Link:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 __Credit:__ @422820341791064085
 
-
 ### **Discord Server Card Generator**
 > __Description:__ Generate a server card you can copy for your email signatures.   <br/>
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
@@ -110,10 +109,6 @@ __Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
 __Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
 __Credit:__ @113156185389092864
 
-### **Library Rest & WS Coverage Comparisons**
-> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
-(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
-__Link:__ [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html) 
 
 ### **Mozzy's Log Sorter** 
 > __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
