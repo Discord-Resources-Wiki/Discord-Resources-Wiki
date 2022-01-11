@@ -10,7 +10,6 @@ __Link:__ [Discord Testers](https://discord.gg/discord-testers)
 
 @gg/discord-testers
 
-
 ## **Discord Developers**
 > __Description:__ The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
 __Link:__ [Discord Developers](https://discord.gg/discord-developers)
@@ -28,3 +27,9 @@ __Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
 __Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
+
+## **Snowsgiving Gaming Village** 
+> __Description:__ Official activity server of the Snowsgiving event 2021! Refers now to Discord Games Lab!   <br/>
+__Link:__ [Snowsgiving Gaming Village](https://discord.gg/snowsgaming)
+
+@gg/snowsgaming
