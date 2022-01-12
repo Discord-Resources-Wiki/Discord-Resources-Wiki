@@ -62,14 +62,6 @@ const config = {
         ({
             metadatas: [
                 {
-                    name: 'og:title',
-                    content: 'Discord Resources Wiki'
-                }, 
-                {
-                    name: 'og:description',
-                    content: 'A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.'
-                },
-                {
                     name: 'og:image',
                     content: 'https://discordresources.com/img/logo-background.png'
                 },
