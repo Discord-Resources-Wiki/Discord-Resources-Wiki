@@ -60,7 +60,6 @@ __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 > __Description:__ An informative page explaining the importance of HTTPS.  <br/>
 __Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
 
-
 ### **HTTP Toolkit**
 > __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
 __Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
@@ -94,3 +93,8 @@ __Link:__ [Regex Crossword](https://regexcrossword.com/)
 > __Description:__ A list of various resources to help OSS contributors. <br/>
 __Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 __Credit:__ @github:freeCodeCamp
+
+### **Big List of Nasty Strings**
+> __Description:__ A list of strings to help test for edge cases <br/>
+__Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+__Credit:__ @github:minimaxir
