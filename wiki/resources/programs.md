@@ -1,5 +1,7 @@
 ---
+title: Programs
 sidebar_position: 7
+description: Discord programs like Moderation, Partner, HSE and Verification.
 ---
 
 # Programs

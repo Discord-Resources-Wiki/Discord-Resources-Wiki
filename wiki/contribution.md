@@ -1,4 +1,5 @@
 ---
+title: Contribution
 sidebar_position: 3
 slug: /contribution
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.

@@ -1,5 +1,7 @@
 ---
+title: Official Discord PDFs
 sidebar_position: 5
+description: Official PDFs from discord.
 ---
 
 # Official Discord PDFs

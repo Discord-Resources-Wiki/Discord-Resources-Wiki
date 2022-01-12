@@ -1,5 +1,7 @@
 ---
+title: Tools - Discord Related
 sidebar_position: 1
+description: Discord related tools.
 ---
 
 # Discord Related

@@ -1,5 +1,7 @@
 ---
+title: Bots - Best
 sidebar_position: 2
+description: Discord bot recommendations.
 ---
 
 # Best Discord Bots

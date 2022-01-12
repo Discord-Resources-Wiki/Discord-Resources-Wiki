@@ -1,5 +1,7 @@
 ---
+title: Tools - Other
 sidebar_position: 3
+description: Other useful tools.
 ---
 
 # Other
