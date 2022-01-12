@@ -60,6 +60,7 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            // We don't set the description and title here to assure that the right og:tags will be delivered per page.
             metadatas: [
                 {
                     name: 'og:image',

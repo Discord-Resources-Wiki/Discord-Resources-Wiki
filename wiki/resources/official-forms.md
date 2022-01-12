@@ -1,5 +1,7 @@
 ---
+title: Official Forms
 sidebar_position: 3
+description: Official forms from discord.
 ---
 
 # Official Forms

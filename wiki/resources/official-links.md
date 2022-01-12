@@ -1,8 +1,10 @@
 ---
+title: Official Discord Links
 sidebar_position: 4
+description: Official links from discord.
 ---
 
-# Other Discord Links
+# Official Discord Links
 
 ## **Discord Website**
 > __Description:__ Imagine a place… where links were not so long.   <br/>

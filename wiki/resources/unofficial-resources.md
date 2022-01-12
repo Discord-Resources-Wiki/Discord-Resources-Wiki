@@ -1,5 +1,7 @@
 ---
+title: Unofficial Resources
 sidebar_position: 9
+description: Unofficial resources for discord.
 ---
 
 # Unofficial Resources
