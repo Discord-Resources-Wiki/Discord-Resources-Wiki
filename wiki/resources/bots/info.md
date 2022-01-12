@@ -1,5 +1,5 @@
 ---
-title: Bots - Info
+title: Information & Lists
 sidebar_position: 1
 description: Bot informations and lists
 ---
