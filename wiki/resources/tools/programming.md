@@ -1,7 +1,7 @@
 ---
 title: Tools - Programming
 sidebar_position: 2
-description: Programming related tools.
+description: Programming related tools
 ---
 
 # Programming Related

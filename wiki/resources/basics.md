@@ -1,7 +1,7 @@
 ---
 title: Basics
 sidebar_position: 1
-description: Basic ressources.
+description: Basic resources
 ---
 
 # The Basics

@@ -1,7 +1,7 @@
 ---
 title: Fun Links
 sidebar_position: 12
-description: Fun links.
+description: Fun links
 ---
 
 # Fun Links
