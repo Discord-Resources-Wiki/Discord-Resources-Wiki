@@ -195,3 +195,8 @@ __Link:__ [Article](https://lightmode.glitch.me) <br/>
 ### **ProtonMail**
 > __Description:__ Open Source E2E encrypted Email Service. <br/>
 __Link:__ [ProtonMail](https://protonmail.com) <br/>
+
+### **dCode**
+> __Description:__ dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
+__Link:__ [dCode Website](https://dcode.fr/en)  <br/>
+__Credit:__ @273906785788624907
