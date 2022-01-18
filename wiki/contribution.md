@@ -19,6 +19,7 @@ We want to thank:<br/>
 @347727875266576395 - Wiki Architect <br/>
 @391660873409888277 - Wiki fixer <br/>
 @363481883369013259 - GitHub Manager / Documentation Organizer<br/>
+@337654195526303746 - Resources Researcher / Maintainer<br/>
 @337104786593939456 - Documentation Organizer<br/>
 @485676072176713729 - Resources Researcher / Maintainer<br/>
 @762387276595724308 - Resources Researcher / Maintainer<br/>
