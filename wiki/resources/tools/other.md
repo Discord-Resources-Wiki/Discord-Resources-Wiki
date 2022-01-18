@@ -15,6 +15,10 @@ __Link:__ [Blank Charcaters](https://character.construction/blanks)
 > __Description:__ Open source password manager.   <br/>
 __Link:__ [Bitwarden](https://bitwarden.com/)
 
+### **Blobs**
+> __Description:__ A server list of blob emojis. <br/>
+__Link:__ [Blobs](https://blobs.gg/)
+
 ### **CitizenLab**
 > __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
 __Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
