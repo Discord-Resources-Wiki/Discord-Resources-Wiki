@@ -17,7 +17,7 @@ __Link:__ [Bitwarden](https://bitwarden.com/)
 
 ### **Blobs**
 > __Description:__ A server list of blob emojis. <br/>
-__Link:__ [Blobs](https://blobs.gg/)
+__Link:__ [Blobs](https://blobs.gg/) <br/>
 __Credit:__ @69198249432449024
 
 ### **CitizenLab**
