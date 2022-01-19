@@ -1,5 +1,5 @@
 ---
-title: Tools - Phishing
+title: Phishing Related 
 sidebar_position: 4
 description: Phishing and Security tools
 ---
