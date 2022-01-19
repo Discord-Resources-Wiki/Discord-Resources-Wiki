@@ -19,6 +19,11 @@ __Link:__ [Stack Overflow](https://stackoverflow.com/)
 > __Description:__ Find APIs to all purposes.  <br/>
 __Link:__ [RapidAPI](https://rapidapi.com/)
 
+### **Some Random API**
+> __Description:__ Variety of fun endpoints for devs to use.  <br/>
+__Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
+__Credit:__ @423675224395874314 
+
 ### **Choose A License**
 > __Description:__ Choose a license for your open source project.   <br/>
 __Link:__ [Choose A License](https://choosealicense.com/)
