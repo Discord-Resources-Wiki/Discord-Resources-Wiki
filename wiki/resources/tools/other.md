@@ -93,6 +93,10 @@ __Link:__ [Trello](https://trello.com/)
 > __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
 __Link:__ [Notion](https://www.notion.so/)
 
+### **Tina**
+> __Description:__ Open-source content management tool.  <br/>
+__Link:__ [Tina](https://tina.io/)
+
 ### **Nord Theme**
 > __Description:__ An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
 __Link:__ [Nord Theme](https://www.nordtheme.com/)
