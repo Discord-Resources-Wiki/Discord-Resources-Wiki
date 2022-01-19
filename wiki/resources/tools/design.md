@@ -1,5 +1,5 @@
 ---
-title: Tools - Design
+title: Design
 sidebar_position: 5
 description: Design tools
 ---
