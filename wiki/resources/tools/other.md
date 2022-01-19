@@ -1,5 +1,5 @@
 ---
-title: Tools - Other
+title: Other
 sidebar_position: 3
 description: Other useful tools
 ---
@@ -108,6 +108,10 @@ __Link:__ [Pronoun Island](https://pronoun.is/)
 ### **PronounDB**
 > __Description:__ Pronouns intergration for websites and apps.  <br/>
 __Link:__ [ProunounDB](https://pronoundb.org/)
+
+### **Pronouns.page**
+> __Description:__ Information about nonbinary and gender neutral language.  <br/>
+__Link:__ [Pronouns.page](https://en.pronouns.page/)
 
 ### **Flaticon**
 > __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
