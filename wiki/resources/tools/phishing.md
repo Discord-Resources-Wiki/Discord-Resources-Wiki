@@ -66,7 +66,8 @@ __Link(s):__ <br/>
 [Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
 [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
 [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
-[Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)
+[Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
+[Walshy's API](https://bad-domains.walshy.dev/)
 
 ### **Phisherman** 
 > __Description:__   <br/>
