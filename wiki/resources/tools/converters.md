@@ -1,5 +1,5 @@
 ---
-title: Tools - Converters
+title: Converters
 sidebar_position: 6
 description: Converter tools
 ---
