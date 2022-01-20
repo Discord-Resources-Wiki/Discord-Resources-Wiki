@@ -64,4 +64,5 @@ https://mcbroken.com/ | is the ice cream machine broken  <br/>
 https://ian-deploy.xyz/ | Ian deploy  <br/>
 https://bubblespop.netlify.app/ | bubble wrap pop  <br/>
 [discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it didn't fit anywhere else  <br/>
-https://eval-deez-nuts.xyz/ | eval deez nuts
+https://eval-deez-nuts.xyz/ | eval deez nuts  <br/>
+https://fax.pics/ | fax pics
