@@ -62,6 +62,7 @@ https://ban-cs.xyz/ | Stop doing computer science  <br/>
 https://xkcd.com/ | A webcomic of romance, sarcasm, math, and language.  <br/>
 https://mcbroken.com/ | is the ice cream machine broken  <br/>
 https://ian-deploy.xyz/ | Ian deploy  <br/>
+https://ian1-deploy.xyz/ | Ian deploy # 2  <br/>
 https://bubblespop.netlify.app/ | bubble wrap pop  <br/>
 [discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it didn't fit anywhere else  <br/>
 https://eval-deez-nuts.xyz/ | eval deez nuts  <br/>
