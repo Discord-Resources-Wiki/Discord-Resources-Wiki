@@ -213,3 +213,7 @@ __Link:__ [ProtonMail](https://protonmail.com) <br/>
 > __Description:__ dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
 __Link:__ [dCode Website](https://dcode.fr/en)  <br/>
 __Credit:__ @273906785788624907
+
+### **Computer Hope**
+> __Description:__ Free computer help and support. <br/>
+__Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
