@@ -45,6 +45,11 @@ __Credit:__ @github:christian-reichart
 __Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
 __Credit:__ @152164749868662784
 
+### **Discord Friends Graph Maker**
+> __Description:__ Make a graph out of your friends and their relations.  <br/>
+__Link:__ [Discord Friends Graph Maker](https://github.com/Maanex/discord-friends-graph)  <br/>
+__Credit:__ @137258778092503042
+
 ### **Discord Servers Comparations**
 > __Description:__ Compare stats between Discord servers.  <br/>
 __Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
