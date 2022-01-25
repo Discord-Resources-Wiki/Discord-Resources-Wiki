@@ -73,4 +73,5 @@ https://tikolu.net/edit/ | edit the text  <br/>
 https://tikolu.net/emojimix/ | emoji mixer  <br/>
 https://tikolu.net/font-changer/ | font changer  <br/>
 https://tikolu.net/time/ | accurate time  <br/>
-https://yonilerner.wtf/ | wtf
+https://yonilerner.wtf/ | wtf  <br/>
+http://needsmorejpeg.com/ |  need more jpeg
