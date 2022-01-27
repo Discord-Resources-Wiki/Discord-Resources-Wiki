@@ -12,9 +12,9 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
 __Credit:__ @140360880079503362
 
-### **Snowstamp (Snowflake to Timestamp Converter)** 
+### **Snow-Stamp (Snowflake to Timestamp Converter)** 
 > __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
-__Link:__ [Snowstamp](https://pixelatomy.com/snow-stamp/)   <br/>
+__Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
 __Credit:__ @86913608335773696
 
 ### **DateTimeCord** 
