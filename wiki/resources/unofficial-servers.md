@@ -65,6 +65,6 @@ __Link:__ (only by referral)   <br/>
 __Credit:__ Dev Hub team (owned by @386861188891279362)
 
 ## **The Programmers Hangout** 
-> __Description:__ If you've never written code or if you have been writing code for 10 years, you're welcome here. The Programmer's Hangout (TPH) Welcomes all levels and is a great place to get a solid footing in programming.   <br/>
+> __Description:__ The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. Has a focus on open source products, education, learning, career progression and programming help  <br/>
 __Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
 __Credit:__ The Programmers Hangout team (owned by @335628039302021121)
