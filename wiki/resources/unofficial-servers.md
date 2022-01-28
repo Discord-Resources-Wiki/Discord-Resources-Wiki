@@ -68,3 +68,5 @@ __Credit:__ Dev Hub team (owned by @386861188891279362)
 > __Description:__ The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
 __Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
 __Credit:__ The Programmers Hangout team (owned by @335628039302021121)
+
+@gg/programming
