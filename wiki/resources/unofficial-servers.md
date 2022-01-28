@@ -63,3 +63,8 @@ __Credit:__ The Fish Project team (owned by @459235187469975572)
 > __Description:__ A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
 __Link:__ (only by referral)   <br/>
 __Credit:__ Dev Hub team (owned by @386861188891279362)
+
+## **The Programmers Hangout** 
+> __Description:__ If you've never written code or if you have been writing code for 10 years, you're welcome here. The Programmer's Hangout (TPH) Welcomes all levels and is a great place to get a solid footing in programming.   <br/>
+__Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
+__Credit:__ The Programmers Hangout team (owned by @335628039302021121)
