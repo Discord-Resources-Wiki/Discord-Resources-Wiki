@@ -23,3 +23,7 @@ __Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
 ### **Verification Program**
 > __Description:__ The place to find information and apply for the Verification program.   <br/>
 __Link:__ [Verification Program](https://dis.gd/verification)
+
+### **Student Hubs**
+> __Description:__ A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
+__Link:__ [Student Hubs](https://dis.gd/studenthubs)
