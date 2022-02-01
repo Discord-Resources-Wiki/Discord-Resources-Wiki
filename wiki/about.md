@@ -12,7 +12,7 @@ description: A list of tons of useful discord resources and utilities for all ty
 
 ## So what is this thing?
 
-The founder of this project, @755792681313108018, had been longing for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
 
 And so, an idea struck!
 With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
