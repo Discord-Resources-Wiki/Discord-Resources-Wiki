@@ -12,7 +12,7 @@ https://i-dont-ca.re/ | About docs   <br/>
 https://just-read.it/ | Read the error smh   <br/>
 https://when.lol/ | When did I ask   <br/>
 https://getsharex.com/premium | Sharex premium   <br/>
-https://nohello.com/ | Don't just say hello   <br/>
+https://nohello.net/ | Don't just say hello   <br/>
 https://dtesters.glitch.me/pin | Check the pins smh   <br/>
 https://dead-ch.at/ | No dead chat   <br/>
 https://dontasktoask.com/ | dont ask to ask   <br/>
