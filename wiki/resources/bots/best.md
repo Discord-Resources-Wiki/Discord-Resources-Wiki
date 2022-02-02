@@ -226,3 +226,8 @@ __Credit:__ @171244192696238080
 > __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
 __Credit:__ @657057112593268756
+
+### **StatusBot**
+> __Description:__ A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
+__Link:__ [StatusBot](https://www.statusbot.gg/) <br/>
+__Credit:__ @282565295351136256
