@@ -171,7 +171,7 @@ __Credit:__ @223703707118731264 @104425482757357568
 > __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
 __Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
 [Suggester Docs](https://suggester.js.org/)  <br/>
-__Credit:__ @327887845270487041
+__Credit:__ @327887845270487041 @255834596766253057
 
 ### **NSFW-Toggle**
 > __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
