@@ -14,11 +14,11 @@ __Credit:__ @142242854167642122
 ## **Discord Guild Features**
 > __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
 __Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
-__Credit:__ @503677457107517442
+__Credit:__ @641795527444529152
 
 ## **List of dis.gd URLs**
 > __Description:__ A list of all the shortened Discord links.   <br/>
-__Link:__ [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
+__Link:__ [List Of Dis.gd URLs](https://thecutefoxxy.com/discord-shortlinks)   <br/>
 __Credit:__ @179655253392621569
 
 ## **Discord Wiki** (fandom)
