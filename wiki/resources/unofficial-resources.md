@@ -16,11 +16,6 @@ __Credit:__ @142242854167642122
 __Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
 __Credit:__ @503677457107517442
 
-## **List of dis.gd URLs**
-> __Description:__ A list of all the shortened Discord links.   <br/>
-__Link:__ [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-__Credit:__ @179655253392621569
-
 ## **Discord Wiki** (fandom)
 > __Description:__ The unofficial Discord wiki, done in typical wiki style.   <br/>
 __Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord) 
