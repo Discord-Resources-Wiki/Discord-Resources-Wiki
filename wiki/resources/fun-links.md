@@ -65,7 +65,6 @@ https://ian-deploy.xyz/ | Ian deploy  <br/>
 https://ian1-deploy.xyz/ | Ian deploy # 2  <br/>
 https://bubblespop.netlify.app/ | bubble wrap pop  <br/>
 [discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it didn't fit anywhere else  <br/>
-https://eval-deez-nuts.xyz/ | eval deez nuts  <br/>
 https://fax.pics/ | fax pics  <br/>
 https://tikolu.net/elevation/ | how high are you (above sea level)  <br/>
 https://tikolu.net/spot-the-difference/gameover | spot the difference <br/>
