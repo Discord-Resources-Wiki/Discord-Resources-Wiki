@@ -211,7 +211,7 @@ __Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380
 __Credit:__ @305647182198079489 @852608147554172928
 
 ### **Antouto**
-> __Description:__ Get info about servers, invites, users and build overrides.  <br/>
+> __Description:__ Antouto is a bot that lets you get extensive information about discord invites, servers, users, build overrides, and more!  <br/>
 __Link:__ [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
 __Credit:__ @316860714260234243
 
@@ -231,3 +231,8 @@ __Credit:__ @657057112593268756
 > __Description:__ A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
 __Link:__ [StatusBot](https://www.statusbot.gg/) <br/>
 __Credit:__ @282565295351136256
+
+### **Forms**
+> __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
+__Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
+__Credit:__ @316860714260234243
