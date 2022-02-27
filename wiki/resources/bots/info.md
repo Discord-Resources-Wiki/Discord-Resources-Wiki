@@ -53,3 +53,8 @@ __Credit:__ Discord Bots’ site team @66237334693085184
 ## **List of Bot Lists** (BotBlocks)
 > __Description:__ A centralized list of Discord bot lists.   <br/>
 __Link:__ [Bots Lists List](https://botblock.org/lists) 
+
+## **DStat**
+> __Description:__ Get statistics about your Discord bot.   <br/>
+__Link:__ [DStat](https://github.com/benricheson101/dstat) 
+__Credit:__ @255834596766253057
