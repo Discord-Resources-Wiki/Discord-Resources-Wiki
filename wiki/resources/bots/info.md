@@ -56,5 +56,5 @@ __Link:__ [Bots Lists List](https://botblock.org/lists)
 
 ## **DStat**
 > __Description:__ Get statistics about your Discord bot.   <br/>
-__Link:__ [DStat](https://github.com/benricheson101/dstat) 
+__Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
 __Credit:__ @255834596766253057
