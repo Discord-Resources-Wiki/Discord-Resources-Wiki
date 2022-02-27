@@ -18,8 +18,10 @@ __Credit:__ @503677457107517442
 
 ## **List of dis.gd URLs**
 > __Description:__ A list of all the shortened Discord links.   <br/>
-__Link:__ [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-__Credit:__ @179655253392621569
+__Link:__  <br/>
+[List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
+[List Of Dis.gd URLs 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
+__Credit:__ @179655253392621569 @641795527444529152
 
 ## **Discord Wiki** (fandom)
 > __Description:__ The unofficial Discord wiki, done in typical wiki style.   <br/>
