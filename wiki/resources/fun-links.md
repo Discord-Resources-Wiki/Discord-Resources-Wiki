@@ -75,5 +75,5 @@ https://tikolu.net/font-changer/ | font changer  <br/>
 https://tikolu.net/time/ | accurate time  <br/>
 https://yonilerner.wtf/ | wtf  <br/>
 http://needsmorejpeg.com/ |  need more jpeg  <br/>
-https://trashttpandas.ragnarok.workers.dev/ | http racoons  <br/>
+https://api.onlyraccoons.com/ | http racoons  <br/>
 https://guthib.com | POV: You just woke up and wanted to open Github
