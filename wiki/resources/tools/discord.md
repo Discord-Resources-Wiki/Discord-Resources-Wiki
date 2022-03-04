@@ -119,7 +119,7 @@ __Credit:__ @113156185389092864
 
 ### **Mozzy's Log Sorter** 
 > __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
-__Link:__ [Mozzy’s Log Sorter](https://leonlarsson.com/projects/logsorter/)   <br/>
+__Link:__ [Mozzy’s Log Sorter](https://logsorter.net/)   <br/>
 __Credit:__ @99182302885588992
 
 ### **Webence**
