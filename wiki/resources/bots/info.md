@@ -15,6 +15,11 @@ __Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficia
 __Link:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
 __Credit:__ @190916650143318016
 
+## **Largest Discord Bots (extended version)**
+> __Description:__ A haste link with the 600 biggest bots on Discord, including growth stats.  <br/>
+__Links:__ Get the haste ID from [here](https://unbelievaboat.com/api/botlist), then paste it [here](https://haste.unbelievaboat.com/ID) instead of "ID".  <br/>
+__Credit:__ @261674810914897931
+
 ## **All Official Discord Bots**
 > __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
 __Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
