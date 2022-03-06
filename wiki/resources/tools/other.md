@@ -52,6 +52,10 @@ __Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 > __Description:__ Many tools related to web, networking and security checkings.  <br/>
 __Link:__ [KeyCDN Tools](https://tools.keycdn.com/)
 
+### **Dehashed**
+> __Description:__ Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
+__Link:__ [Dehashed](https://dehashed.com)
+
 ### **Terms Of Service ; Didn't Read**
 > __Description:__ Summarized terms of service for all known companies.  <br/>
 __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
