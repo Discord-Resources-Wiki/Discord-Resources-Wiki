@@ -38,8 +38,8 @@ __Credit:__ @106354106196570112
 ### **Fire**
 > __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
 __Link(s):__   <br/>
-[Fire Website](https://fire.gaminggeek.dev/)   <br/>
-[Invite Fire](https://discord.com/oauth2/authorize?client_id=444871677176709141&permissions=125563170039&scope=bot%20applications.commands)   <br/>
+[Fire Website](https://getfire.bot/)   <br/>
+[Invite Fire](https://inv.wtf/bot)   <br/>
 __Credit:__ @287698408855044097
 
 ### **AutoModerator** 
