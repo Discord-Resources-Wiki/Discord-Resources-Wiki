@@ -29,7 +29,7 @@ __Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord)
 
 ## **Discohook** 
 > __Description:__ Allows you to preview embeds and send them via webhooks.   <br/>
-__Link:__ [Discohook](https://discohook.org/)
+__Link:__ [Discohook](https://discohook.org/)   <br/>
 __Credit:__ @143419667677970434
 
 ## **Nadeko Embed Builder**
