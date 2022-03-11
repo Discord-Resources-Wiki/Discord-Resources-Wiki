@@ -99,4 +99,4 @@ __Credit:__ @354309005037797376
 ## **Discord Payloads**
 > __Description:__ All of Discord's payloads.   <br/>
 __Link:__ [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
-__Credit:__ @github:discord-payloads
+__Credit:__ @184040656761651200
