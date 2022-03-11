@@ -95,3 +95,8 @@ __Credit:__ @242385234992037888
 > __Description:__ Exact copy of the discord client (might be outdated).   <br/>
 __Link:__ [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
 __Credit:__ @354309005037797376
+
+## **Discord Payloads**
+> __Description:__ All of Discord's payloads.   <br/>
+__Link:__ [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
+__Credit:__ @184040656761651200
