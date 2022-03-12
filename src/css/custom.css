@@ -33,13 +33,13 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 .table-of-contents__link {
 	display: block;
-	transition: all ease 0.25s !important;
+	transition: all ease 0.25s;
   }  
 
 .table-of-contents__link:not(.table-of-contents__link--active) {
 	transition: all 0.1s;
 	opacity: 0.8;
-	transform: scale(0.9) !important;
+	transform: scale(0.9);
 	transform-origin: left;
   }
 
