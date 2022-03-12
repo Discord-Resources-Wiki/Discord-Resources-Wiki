@@ -84,7 +84,7 @@ html[data-theme='dark'] .navbar-item-discord:before {
 }
 
 .menu__link--active:not(.menu__link--sublist) {
-	border-left-color: var(--ifm-menu-color-active) !important;
+	border-left-color: var(--ifm-menu-color-active);
 	border-left-width: 4px;
 	border-left-style: solid;
 	font-weight: 500;
