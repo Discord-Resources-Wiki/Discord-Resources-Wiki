@@ -221,7 +221,3 @@ __Credit:__ @273906785788624907
 ### **Computer Hope**
 > __Description:__ Free computer help and support. <br/>
 __Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
-
-## **Waifu2X**
-> __Description:__ Online photo enhancer and image upscaler tool that enlarges images without losing quality.   <br/>
-__Link:__ [Waifu2X](https://waifu2x.io/)   <br/>
