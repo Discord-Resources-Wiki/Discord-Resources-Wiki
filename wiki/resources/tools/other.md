@@ -221,3 +221,8 @@ __Credit:__ @273906785788624907
 ### **Computer Hope**
 > __Description:__ Free computer help and support. <br/>
 __Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
+
+### **Skill Icons**
+> __Description:__ Showcase languages, frameworks and tools used on a GitHub profile. <br/>
+__Link:__ [Skill Icons](https://skillicons.dev/) <br/>
+__Credit:__ @276544649148235776
