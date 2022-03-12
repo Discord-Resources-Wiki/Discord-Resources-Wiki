@@ -16,6 +16,20 @@
   --ifm-code-font-size: 95%;
 }
 
+body::-webkit-scrollbar {
+	width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+	background: #F1F1F1;        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+	background-color: var(--ifm-color-primary);    /* color of the scroll thumb */
+	border-radius: 20px;       /* roundness of the scroll thumb */
+	border: 3px solid #F1F1F1;  /* creates padding around scroll thumb */
+  }
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
