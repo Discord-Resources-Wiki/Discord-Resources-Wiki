@@ -47,7 +47,7 @@ __Credit:__ @287698408855044097
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
 
-### **Beemo**
+### [<img src="https://cdn.discordapp.com/icons/697474023914733575/7a5154867182de0346a86a2ede90d002.webp?size=160" width="25" className="headingicon" />](https://beemo.gg/) **Beemo**
 > __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
 __Link:__ [Website](https://beemo.gg/)   <br/>
 __Credit:__ @192048286331437056
