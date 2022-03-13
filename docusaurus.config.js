@@ -109,6 +109,14 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
+            announcementBar: {
+                id: 'star-us',
+                content:
+                  '⭐ Find these resources useful? Give us a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki"><strong>GitHub!</strong></a>',
+                backgroundColor: 'var(--ifm-color-primary)',
+                textColor: '#000',
+                isCloseable: true,
+              },
         }),
 
     plugins: [
