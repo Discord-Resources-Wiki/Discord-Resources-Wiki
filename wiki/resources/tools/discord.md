@@ -212,3 +212,8 @@ __Credit:__ @github:kkrypt0nn @github:fnky
 > __Description:__ A simple to the point Discord cache manager written in java.   <br/>
 __Link:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
 __Credit:__ @272037078919938058
+
+### **Discord Role Icon Creator**
+> __Description:__ Website that allows users to make simple looking role icons for their servers.   <br/>
+__Link:__ [Discord Icon](https://discordicon.com)   <br/>
+__Credit:__ @github:enzostvs
