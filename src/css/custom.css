@@ -31,6 +31,18 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   color: var(--ifm-heading-color);
 }
 
+.table-of-contents__link {
+	display: block;
+	transition: all ease 0.25s;
+  }  
+
+.table-of-contents__link:not(.table-of-contents__link--active) {
+	transition: all 0.1s;
+	opacity: 0.8;
+	transform: scale(0.9);
+	transform-origin: left;
+  }
+
 /* Navbar social icons */
 
 .navbar-item-github:hover {
@@ -89,8 +101,9 @@ html[data-theme='dark'] .navbar-item-discord:before {
 	border-left-style: solid;
 	font-weight: 500;
 	padding-left: 12px;
-  }
+}
   
-  .menu__link:not([href]) {
+.menu__link:not([href]) {
 	border-left: none;
-  }
+}
+
