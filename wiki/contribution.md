@@ -27,6 +27,7 @@ We want to thank:<br/>
 @287711497118023692 - Resources Researcher / Documentation Organizer<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website Architect / Documentation Organizer<br/>
+@102102717165506560 - Growth Consulting / Resource Curator<br/>
 @755792681313108018 - *I had this idea and did all of the above*
 
 ## How to test changes locally
