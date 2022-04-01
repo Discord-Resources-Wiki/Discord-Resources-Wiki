@@ -150,7 +150,8 @@ __Credit:__ @255834596766253057
 __Link(s):__   <br/>
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
-__Credit:__ @172557961133162496
+[Datamining Website](https://datamining.otter.university/)  <br/>
+__Credit:__ @172557961133162496 @562415519454461962
 
 ### **Jagrosh's Music Bot** (self-host)
 > __Description:__ A music bot with step to step guide on self hosting.  <br/>
