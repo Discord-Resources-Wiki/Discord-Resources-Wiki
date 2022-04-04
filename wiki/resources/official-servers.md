@@ -30,3 +30,9 @@ __Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
 __Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
+
+@gg/safety
+
+## **Discord Safety**
+> __Description:__ Currently under construction.
+__Link:__ [Discord Safety](https://discord.gg/safety)
