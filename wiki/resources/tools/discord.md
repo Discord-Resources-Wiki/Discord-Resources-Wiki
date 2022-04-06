@@ -138,7 +138,8 @@ __Link:__ [PreMiD](https://premid.app/)
 
 ### **Powercord**
 > __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
-__Link:__ [Powercord](https://powercord.dev/)
+__Link:__ [Powercord](https://powercord.dev/)  <br/>
+[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
 
 ### **Presence Maker**
 > __Description:__ Create Discord rich presence with this tool.   <br/>
