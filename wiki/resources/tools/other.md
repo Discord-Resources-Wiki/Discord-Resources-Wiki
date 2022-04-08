@@ -111,7 +111,8 @@ __Link:__ [Pronoun Island](https://pronoun.is/)
 
 ### **PronounDB**
 > __Description:__ Pronouns intergration for websites and apps.  <br/>
-__Link:__ [ProunounDB](https://pronoundb.org/)
+__Link:__ [ProunounDB](https://pronoundb.org/)  <br/>
+__Credit:__ @94762492923748352
 
 ### **Pronouns.page**
 > __Description:__ Information about nonbinary and gender neutral language.  <br/>
