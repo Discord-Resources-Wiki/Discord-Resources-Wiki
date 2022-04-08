@@ -14,6 +14,7 @@
   --ifm-color-primary-lighter: #ca8fd1;
   --ifm-color-primary-lightest: #d9afdf;
   --ifm-code-font-size: 95%;
+  --ifm-scrollbar-track-bg: #F1F1F1;
 }
 
 body::-webkit-scrollbar {
@@ -21,13 +22,13 @@ body::-webkit-scrollbar {
   }
   
   body::-webkit-scrollbar-track {
-	background: #F1F1F1;        /* color of the tracking area */
+	background: var(--ifm-scrollbar-track-bg);        /* color of the tracking area */
   }
   
   body::-webkit-scrollbar-thumb {
 	background-color: var(--ifm-color-primary);    /* color of the scroll thumb */
 	border-radius: 20px;       /* roundness of the scroll thumb */
-	border: 3px solid #F1F1F1;  /* creates padding around scroll thumb */
+	border: 3px solid var(--ifm-scrollbar-track-bg);  /* creates padding around scroll thumb */
   }
 
 .docusaurus-highlight-code-line {
