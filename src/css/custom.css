@@ -107,3 +107,19 @@ html[data-theme='dark'] .navbar-item-discord:before {
 	border-left: none;
 }
 
+
+.breadcrumbs__item:not(:last-child) {
+	display: none;
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+	background-color: #dadae0;
+	position: sticky;
+	position: fixed;
+	font-weight: 700;
+	top: 70px;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	z-index:1
+}
