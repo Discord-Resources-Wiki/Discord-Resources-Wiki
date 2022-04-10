@@ -32,6 +32,10 @@ __Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 > __Description:__ The official Discord page on Twitter.   <br/>
 __Link:__ [Discord Twitter Page](https://twitter.com/discord)
 
+## **Discord Youtube Page**
+> __Description:__  The official Discord page on Youtube.   <br/>
+__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+
 ## **Discord Help Center**
 > __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
 __Link:__ [Discord Help Center](https://support.discord.com)
