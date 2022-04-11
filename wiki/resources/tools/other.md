@@ -163,7 +163,9 @@ __Credit:__ @github:latex3
 
 ### **Web Archives**
 > __Description:__ Explore web pages saved over time.  <br/>
-__Link:__ [Web Archives](https://web.archive.org/)
+__Link:__ <br/>  
+[Web Archives](https://web.archive.org/)  <br/>
+[Arvhive.is](https://archive.is/)
 
 ### **AlternativeTo**
 > __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
