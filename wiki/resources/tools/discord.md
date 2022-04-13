@@ -70,10 +70,6 @@ __Credit:__ @github:geisterfurz007
 __Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
 __Credit:__  @209769851651227648
 
-### **Discord Invite Info**
-> __Description:__ Shows info about a guild using an invitation.   <br/>
-__Link:__ [Discord Invite Info](https://discordinvite.info/)
-
 ### **Discord Flags**
 > __Description:__ A document full with all Discord flags and their meanings.   <br/>
 __Link:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
