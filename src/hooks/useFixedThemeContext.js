@@ -1,5 +1,5 @@
-import {useEffect, useState} from "react";
-import useThemeContext from '@theme/hooks/useThemeContext'
+import { useEffect, useState } from "react";
+import { useColorMode } from "@docusaurus/theme-common";
 
 /*
 This is a thin wrapper around useThemeContext that fixes a display bug in some browsers
@@ -7,13 +7,13 @@ It basically triggers all components to re-render directly after the page as ren
 */
 
 export default function useFixedThemeContext() {
-    const [themeContext, setThemContext] = useState({});
+  const [themeContext, setThemContext] = useState({});
 
-    const realThemeContext = useThemeContext();
+  const realThemeContext = useColorMode();
 
-    useEffect(() => {
-        setThemContext(realThemeContext)
-    }, [realThemeContext])
+  useEffect(() => {
+    setThemContext(realThemeContext);
+  }, [realThemeContext]);
 
-    return themeContext;
+  return themeContext;
 }
