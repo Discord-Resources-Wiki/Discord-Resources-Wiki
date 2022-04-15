@@ -22,6 +22,11 @@ const config = {
   organizationName: "Discord-Resources-Wiki",
   projectName: "Discord-Resources-Wiki",
 
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "fr"],
+  },
+
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -94,6 +99,10 @@ const config = {
           {
             to: "blog",
             label: "Blog",
+            position: "left",
+          },
+          {
+            type: "localeDropdown",
             position: "left",
           },
           {
