@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // We don't set the description and title here to assure that the right og:tags will be delivered per page.
-            metadatas: [
+            metadata: [
                 {
                     name: 'og:image',
                     content: 'https://discordresources.com/img/logo-background.png'
