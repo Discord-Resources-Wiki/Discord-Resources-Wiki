@@ -24,7 +24,7 @@ const config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr"],
+    locales: ["en", "fr", "de", "nl", "es", "hi", "tr", "ru"],
   },
 
   presets: [
@@ -37,7 +37,7 @@ const config = {
           editUrl:
             "https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki/edit/main/",
           path: "wiki",
-          routeBasePath: "/wiki",
+          routeBasePath: "wiki",
           remarkPlugins: [
             linebreakPlugin,
             inviteWidgetPlugin,
@@ -46,7 +46,7 @@ const config = {
         },
         blog: {
           path: "blog",
-          routeBasePath: "/blog/",
+          routeBasePath: "blog",
           showReadingTime: true,
           remarkPlugins: [
             linebreakPlugin,
