@@ -1,6 +1,6 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: Hakkında
 sidebar_position: 1
 slug: /
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
