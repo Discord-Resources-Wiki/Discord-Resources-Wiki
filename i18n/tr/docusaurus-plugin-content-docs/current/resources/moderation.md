@@ -13,7 +13,7 @@ __Oluşturucu:__ [ModPod team](https://modcast.network/meet-the-team/)
 
 ### **Discord Moderatör Akademi**
 > __Tanım:__ Moderatörler tarafından yazılmış, moderatörler için Discord'un resmi kaynakları.   <br/>
-__Link:__ [Discord Moderatör Akademi](https://dis.gd/moderation)   <br/>
+__Bağlantı:__ [Discord Moderatör Akademi](https://dis.gd/moderation)   <br/>
 __Oluşturucu:__ Birden çok yazar (Discord Moderatör Ekosistem)
 
 ### **Discord Moderatör Ekosistemi** 
