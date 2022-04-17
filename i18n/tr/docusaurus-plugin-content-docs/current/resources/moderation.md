@@ -6,7 +6,7 @@ description: Moderation resources
 
 # Moderasyon
 
-### **Modcast Podcast** (recently affiliated)
+### **Modcast Podcast** (Son dönemlerde bağlı)
 > __Tanım:__ Moderatörler için moderatörler tarafından bir podcast.   <br/>
 __Bağlantı:__ [Modcast Podcast](https://modcast.network/)   <br/>
 __Oluşturucu:__ [ModPod team](https://modcast.network/meet-the-team/) 
