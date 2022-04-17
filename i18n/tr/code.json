@@ -92,11 +92,11 @@
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode",
+    "message": "Karanlık",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode",
+    "message": "Aydınlık",
     "description": "The name for the light color mode"
   },
   "theme.docs.DocCard.categoryDescription": {
