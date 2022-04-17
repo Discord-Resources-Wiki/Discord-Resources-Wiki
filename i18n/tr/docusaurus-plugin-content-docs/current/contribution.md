@@ -5,50 +5,50 @@ slug: /contribution
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
-# Contribution
+# Katkı
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Bir hata veya yazım hatası mı buldunuz? Bu listeye uyan iyi bir kaynağınız var mı? Bir katkıda bulunun ve yukarıdaki muhteşem katkıda bulunanlar listesinde yer alın!<br/>
+Katkıda bulunmak için, bu wiki'yi PR'ye davet edebilir veya wiki'yi düzenlemek için @755792681313108018'e bir DM gönderebilir ve kendinizi listeye dahil edebilirsiniz.
+Ayrıca katkıda bulunmak için [Resmi Proje Birliğine](https://discord.gg/yxbqz9pNxS) katılabilirsiniz.
 
-## Contributors
+## Katkıda bulunanlar
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+Bu proje birden fazla el aldı ve bu projede bize yardımcı olan bu katkıda bulunanlardan oluşan bir ekibe sahip olmaktan gurur duyuyoruz!<br/>
+size teşekkür etmek istiyoruz:<br/>
+@856780995629154305 - Web Sitesi Sorumlusu <br/>
+@347727875266576395 - Wiki Geliştiricisi <br/>
+@391660873409888277 - Wiki Düzeltici <br/>
+@363481883369013259 - GitHub Düzenleyici / Dokümantasyon Düzenleyici<br/>
+@337654195526303746 - Kaynaklar Araştırmacısı / Bakım<br/>
+@337104786593939456 - Dokümantasyon Düzenleyici<br/>
+@485676072176713729 - Kaynaklar Araştırmacısı / Bakım<br/>
+@762387276595724308 - Kaynaklar Araştırmacısı / Bakım<br/>
+@378537973215657984 - Topluluk & İçerik Yöneticisi / Dokümantasyon Düzenleyici<br/>
+@287711497118023692 - Kaynaklar Araştırmacısı / Dokümantasyon Düzenleyici<br/>
+@192060404501839872 - Tasarımcı<br/>
+@386861188891279362 - Website Geliştiricisi / Dokümantasyon Düzenleyici<br/>
+@102102717165506560 - Büyüme Danışmanlığı / Kaynak Küratörü<br/>
+@755792681313108018 - *Bu fikre sahiptim ve yukarıdakilerin hepsini yaptım*
 
-## How to test changes locally
+## Değişiklikler yerel olarak nasıl test edilir?
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
+Harika bir PR gidiyor ama neye benzediğini bilmiyor musunuz? Problem değil!<br/>
+Deponun çatalındaysanız, bu 2 komutu çalıştırmak kadar kolaydır:
 
 ```
 npm install
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Bu, dokümantasyon sistemimizin (Docusaurus) ihtiyaç duyduğu tüm depoları indirir. Bunu yalnızca bir kez çalıştırmanız gerekir.
 
 ```
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Bu komut web sunucusunu başlatır (``localhost:3000`` by default) ve her düzenlemeye başlamak istediğinizde çalıştırılmalıdır.
+Bununla birlikte, yaptığınız her değişiklik için çalıştırılmasına gerek yoktur, çünkü Docusaurus değişiklikleri algılarsa sunucuyu otomatik olarak yeniden başlatır!
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Web sitesinin yerel olarak çalışan bir örneğine sahip olduğunuzda, katkıda bulunmaya hazırsınız!
+Notlar: Lütfen satır sonu karakterleri için ``<br/>`` kullanın<br/>
+Gereken Node.js versiyonu >= ``12.13.0``
+Eğer Yarn kullanıyorsanız: Yarn versiyonu >= ``1.5``
