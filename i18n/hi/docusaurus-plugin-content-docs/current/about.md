@@ -6,16 +6,15 @@
 विवरण: शुरुआती से लेकर बिजली उपयोगकर्ताओं तक सभी प्रकार के उपयोगकर्ताओं के लिए उपयोगी कलह संसाधनों और उपयोगिताओं की एक सूची
 ---
 
-# About
+# बारे में
 
-## Welcome to Discord Resources Wiki
+## कलह संसाधन विकि में आपका स्वागत है
 
-## So what is this thing?
+## तो यह बात क्या है?
 
 इस परियोजना के संस्थापक, @755792681313108018, डिस्कॉर्ड संसाधनों की एक अच्छी और आसान सूची की तलाश में थे, जो बुनियादी ज्ञान से लेकर उन्नत उपयोगिताओं तक के विषयों को कवर करेगा; एक सूची जो सभी डिस्कॉर्ड उपयोगकर्ताओं को, शुरुआती से लेकर कुशल तक, उपयोगी लगेगी। लेकिन ऐसी कोई सूची नहीं मिली।
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+और इसलिए, एक विचार आया! कुछ दोस्तों की मदद से, जो डिस्कॉर्ड के आसपास अपना रास्ता जानते हैं, एक साथ डिस्कॉर्ड रिसोर्स विकी बनाया गया था। यह परियोजना आज जो है, उसे बनने में महीनों का शोध, संगठन और डिजाइन कार्य करना पड़ा, और हम आशा करते हैं कि आप इसे उपयोगी पाएंगे।
 
 ## What am I seeing here?
 
