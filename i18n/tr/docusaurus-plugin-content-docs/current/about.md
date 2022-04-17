@@ -6,35 +6,35 @@ slug: /
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
-# About
+# Hakkında
 
-## Welcome to Discord Resources Wiki
+## Discord Resources Wiki'ye Hoş Geldiniz
 
-## So what is this thing?
+## Peki bu şey nedir?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+Bu projenin kurucusu @755792681313108018, temel bilgilerden ileri düzey yardımcı programlara kadar konuları kapsayacak iyi ve kullanışlı bir Discord kaynakları listesi arıyordu; Yeni başlayanlardan uzmana kadar tüm Discord kullanıcılarının faydalı bulacağı bir liste. Ancak böyle bir liste bulunamadı.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+Ve böylece, bir fikir çarptı!
+Discord'u bilen birkaç arkadaşın yardımıyla birlikte **Discord Kaynakları Wiki'yi** oluşturuldu. Proje, bugünkü haline gelmesi için aylarca süren araştırma, organizasyon ve tasarım çalışmalarıyla sona erdi ve umarız bunu faydalı bulursunuz.
 
-## What am I seeing here?
+## Burada ne görüyorum?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+Benzer kaynakları, masaüstünde solda veya mobilde menü simgesiyle erişilebilen ortak kategoriler ve konular altında gruplandırıyoruz. Her kaynağın ne olduğuna dair kısa bir açıklaması, ardından nereden erişilebileceği bağlantısı ve yaratıcılara verilen krediler vardır.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Platformdaki Discord kullanıcılarına yardımcı olacak daha fazla kaynakla karşılaştığımızda bu site sürekli ve sık sık güncellenecektir!
 
-## Disclaimer
+## Sorumluluk reddi
 
-**We are not affiliated with Discord in any way.**
+**Discord ile hiçbir şekilde bağlantımız yoktur.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+Bu site, karşılaşabileceğimiz çoğu kaynağın bir toplamıdır ve kesinlikle tam kapsamlı bir liste değildir. Aksi açıkça belirtilmedikçe, burada listelenen kaynakların hiçbirinde hak veya mülkiyet iddiasında değiliz. Kaynak oluşturuculara verilen tüm katkıda bulunanlar, her bağlantının "katkıda bulunanlar" bölümünde listelenir.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+Mümkün olan her yerde kullanıcılara katkıda bulunanlar vermek için elimizden gelenin en iyisini yapıyoruz, ancak bazı kaynakların yanlış veya eksik belirtmelere sahip olabileceğinin farkındayız. Böyle bir kaynak bulursanız, sorunu düzeltebilmemiz için lütfen bizimle iletişime geçin.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Tüm marka ve varlıklarımız bize aittir ve @192060404501839872 tarafından yaratılmıştır. Açık iznimiz olmadan markamızı kendi kişisel kullanımınız veya projeleriniz için kullanamazsınız.
 
-## Personal Note
+## Kişisel Not
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+İsteğe bağlı olmasına rağmen, size yardımcı olduysak, takdir edilmekten gerçekten memnun oluruz. Bağlantıları araştırmak, kaynakları düzenlemek ve bunları web sitesinde düzenlemek için elimizden gelenin en iyisini yapıyoruz ve gördüğünüz şey, aylarca süren çabamızın bir sonucudur.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**Bu projeyi onlarla da paylaşarak arkadaşlarınıza, ortak arkadaşlarınıza, topluluk üyelerinize ve daha fazlasına yardım edin!**
