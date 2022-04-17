@@ -12,7 +12,7 @@ It includes information ranging from intellectual property rights to account ter
 __Link:__ [Terms Of Service](https://dis.gd/terms)
 
 ## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
+> __Description:__ Discord's privacy policy regarding user's information.  <br/>
 __Link:__ [Discord Privacy Policy](https://discord.com/privacy)
 
 ## **Discord Community Guidelines**
