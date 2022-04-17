@@ -1,5 +1,5 @@
 ---
-title: Moderation
+title: Moderasyon
 sidebar_position: 6
 description: Moderation resources
 ---
