@@ -15,9 +15,9 @@ description: Trang web chứa tất cả mọi tài nguyên về Discord cho t�
 Người sáng lập ra dự án này, @755792681313108018, đã luôn luôn tìm kiếm một danh sách chứa những tài nguyên Discord mà chứa từ những thứ cơ bản cho đến phức tạp; một dãy mà tất cả những người dùng Discord, từ những người mới dùng cho đến người đã dùng lâu, thấy hữu ích. Nhưng anh ấy không thể tìm thấy một danh sách nào hết.
 
 Và thế... Một ý tưởng đã nảy ra!
-Với sự giúp đỡ của những người bạn có kinh nghiệm sử dụng Discord, **Discord Resources Wiki** đã được ra đời. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+Với sự giúp đỡ của những người bạn có kinh nghiệm sử dụng Discord, **Discord Resources Wiki** đã được ra đời. Dự án này đã tốn bao nhiêu tháng tìm kiếm, tổ chức và thiết kế để tạo nên những gì bạn đang nhìn thấy ở đây, và chúng tôi hi vọng bạn sẽ thấy dự án này hữu ích.
 
-## What am I seeing here?
+## Tôi đang nhìn thấy gì đây?
 
 We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
 

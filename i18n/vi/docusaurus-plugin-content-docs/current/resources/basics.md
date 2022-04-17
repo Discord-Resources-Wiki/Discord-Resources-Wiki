@@ -1,18 +1,18 @@
 ---
-title: Basics
+title: Những điều cơ bản
 sidebar_position: 1
-description: Basic resources
+description: Những điều cơ bản về Discord
 ---
 
-# The Basics
+# Những điều cơ bản
 
-## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## **Điều khoản dịch vụ của Discord** 
+> __Mô tả:__ Điều khoản dịch vụ của Discord là một văn bản pháp lý bạn phải đồng ý khi sử dụng Discord.   <br/>
+Nó chứa nhiều thứ, bao gồm từ những điều pháp lý đến việc tạm ngưng tài khoản.   <br/>
+__Link:__ [Điều khoản dịch vụ](https://dis.gd/terms)
 
-## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
+## **Chính sách bảo mật của Discord**
+> __Mô tả:__ Discord's privacy policy regarding users' information.  <br/>
 __Link:__ [Discord Privacy Policy](https://discord.com/privacy)
 
 ## **Discord Community Guidelines**
