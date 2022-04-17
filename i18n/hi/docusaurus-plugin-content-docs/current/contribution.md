@@ -1,11 +1,11 @@
 ---
-title: Contribution
-sidebar_position: 3
-slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+शीर्षक: योगदान
+साइडबार_पोजिशन: 3
+स्लग: /योगदान
+विवरण: शुरुआती से लेकर बिजली उपयोगकर्ताओं तक सभी प्रकार के उपयोगकर्ताओं के लिए उपयोगी कलह संसाधनों और उपयोगिताओं की एक सूची।
 ---
 
-# Contribution
+# योगदान
 
 एक त्रुटि या एक टाइपो मिला? एक अच्छा संसाधन है जो इस सूची में फिट बैठता है? एक योगदानकर्ता बनें और ऊपर योगदानकर्ताओं की शानदार सूची में शामिल हों!
 
