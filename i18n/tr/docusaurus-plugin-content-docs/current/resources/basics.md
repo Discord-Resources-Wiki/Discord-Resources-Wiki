@@ -4,46 +4,46 @@ sidebar_position: 1
 description: Basic resources
 ---
 
-# The Basics
+# Temeller
 
-## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## **Discord Hizmet Şartları** 
+> __Tanım:__ Discord'un Hizmet Şartları, platformunu kullanırken kabul etmeniz gereken bir politikadır. <br/>
+Fikri mülkiyet haklarından hesap feshine kadar uzanan bilgileri içerir.   <br/>
+__Bağlantı:__ [Hizmet Şartları](https://dis.gd/terms)
 
-## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
-__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+## **Discord Gizlilik Politikası**
+> __Tanım:__ Discord'un kullanıcı bilgileriyle ilgili gizlilik politikası.  <br/>
+__Bağlantı:__ [Discord Gizlilik Politikası](https://discord.com/privacy)
 
-## **Discord Community Guidelines**
-> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
-It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-__Link:__ [Community Guidelines](https://dis.gd/guidelines)
+## **Discord Topluluk Kuralları**
+> __Tanım:__ Discord'un Topluluk Kuralları, platformundaki kısıtlamaları ve sınırlamaları netleştirir.   <br/>
+Herkesin olumlu bir deneyim yaşamasını ve kullanıcıların iyi huylu, disiplinli bir şekilde hareket etmelerini sağlar..   <br/>
+__Bağlantı:__ [Topluluk Kuralları](https://dis.gd/guidelines)
 
 ## **Discord Blog**
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-__Link:__ [Discord Blog](https://discord.com/blog)
+> __Tanım:__ Discord'un Blogu duyurular, güncellemeler, eğitimler ve kaynaklar içerir; tüm Discord ile ilgili.   <br/>
+__Bağlantı:__ [Discord Blog](https://discord.com/blog)
  
 ## **Discord Subreddit**
-> __Description:__ The unofficial Discord Subreddit.   <br/>
-__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+> __Tanım:__ Resmi olmayan Discord Subreddit.   <br/>
+__Bağlantı:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
-## **Discord Twitter Page**
-> __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+## **Discord Twitter Sayfası**
+> __Tanım:__ Resmi Discord Twitter sayfası.   <br/>
+__Bağlantı:__ [Discord Twitter Sayfası](https://twitter.com/discord)
 
-## **Discord Youtube Page**
-> __Description:__  The official Discord page on Youtube.   <br/>
-__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+## **Discord Youtube Sayfası**
+> __Tanım:__  Resmi Discord Youtube sayfası.   <br/>
+__Bağlantı:__ [Discord Youtube Sayfası](https://www.youtube.com/c/discord)
 
-## **Discord Help Center**
-> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
-__Link:__ [Discord Help Center](https://support.discord.com)
+## **Discord Yardım Merkezi**
+> __Tanım:__ Her konuda faydalı destek makaleleriyle dolu resmi bir Discord yardım sayfası.   <br/>
+__Bağlantı:__ [Discord Yardım Merkezi](https://support.discord.com)
 
-## **Discord Safety Center**
-> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-__Link:__ [Discord Safety Center](https://discord.com/safety)
+## **Discord Güvenlik Merkezi**
+> __Tanım:__ İnternet gizliliği hakkında bilgiler ve ebeveynler ve eğitimciler için kendilerini/çocuklarını çevrimiçi ortamda nasıl koruyacakları hakkında bilgi sağlayan sayfa.  <br/>
+__Bağlantı:__ [Discord Güvenlik Merkezi](https://discord.com/safety)
 
-## **Client Downloads**
-> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discord.com/download)
+## **İstemci İndirmeleri**
+> __Tanım:__ Tüm resmi indirilebilir Discord istemcileri. (Discord'u indirin!)   <br/>
+__Bağlantı:__ [Discord İstemcileri](https://discord.com/download)
