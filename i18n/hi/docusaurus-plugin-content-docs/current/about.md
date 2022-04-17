@@ -1,8 +1,8 @@
 ---
-title: Wiki
-sidebar_label: About
-sidebar_position: 1
-slug: /
+शीर्षक: विकी
+साइडबार_लेबल: के बारे में
+साइडबार स्थिति: 1
+slag: /
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
