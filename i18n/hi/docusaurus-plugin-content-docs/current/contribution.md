@@ -7,9 +7,11 @@ description: A list of tons of useful discord resources and utilities for all ty
 
 # Contribution
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+एक त्रुटि या एक टाइपो मिला? एक अच्छा संसाधन है जो इस सूची में फिट बैठता है? एक योगदानकर्ता बनें और ऊपर योगदानकर्ताओं की शानदार सूची में शामिल हों!
+
+योगदान करने के लिए, इस विकी के पीआर में आपका स्वागत है या विकी को संपादित करने के लिए @755792681313108018 पर एक डीएम भेजें, और खुद को सूची में शामिल करें। आप वहां योगदान करने के लिए आधिकारिक [प्रोजेक्ट गिल्ड](https://discord.gg/yxbqz9pNxS) में भी शामिल हो सकते हैं।
+
+
 
 ## Contributors
 
