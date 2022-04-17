@@ -1,9 +1,9 @@
 ---
 शीर्षक: विकी
 साइडबार_लेबल: के बारे में
-साइडबार स्थिति: 1
-slag: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+साइडबार_पोजिशन: 1
+स्लग: /
+विवरण: शुरुआती से लेकर बिजली उपयोगकर्ताओं तक सभी प्रकार के उपयोगकर्ताओं के लिए उपयोगी कलह संसाधनों और उपयोगिताओं की एक सूची
 ---
 
 # About
