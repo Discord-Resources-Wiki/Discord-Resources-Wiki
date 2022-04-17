@@ -12,7 +12,7 @@
 
 ## So what is this thing?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+इस परियोजना के संस्थापक, @755792681313108018, डिस्कॉर्ड संसाधनों की एक अच्छी और आसान सूची की तलाश में थे, जो बुनियादी ज्ञान से लेकर उन्नत उपयोगिताओं तक के विषयों को कवर करेगा; एक सूची जो सभी डिस्कॉर्ड उपयोगकर्ताओं को, शुरुआती से लेकर कुशल तक, उपयोगी लगेगी। लेकिन ऐसी कोई सूची नहीं मिली।
 
 And so, an idea struck!
 With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
