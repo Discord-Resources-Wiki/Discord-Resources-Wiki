@@ -1,10 +1,10 @@
 {
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed.",
+    "message": "Bu sayfa çöktü.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again",
+    "message": "Tekrar deneyin.",
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
