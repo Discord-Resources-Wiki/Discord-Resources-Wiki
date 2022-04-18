@@ -16,9 +16,9 @@
 
 और इसलिए, एक विचार आया! कुछ दोस्तों की मदद से, जो डिस्कॉर्ड के आसपास अपना रास्ता जानते हैं, एक साथ डिस्कॉर्ड रिसोर्स विकी बनाया गया था। यह परियोजना आज जो है, उसे बनने में महीनों का शोध, संगठन और डिजाइन कार्य करना पड़ा, और हम आशा करते हैं कि आप इसे उपयोगी पाएंगे।
 
-## What am I seeing here?
+## मैं यहाँ क्या देख रहा हूँ?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+हम समान श्रेणियों और विषयों के तहत समान संसाधनों को एक साथ समूहित करते हैं, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
 
 This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
 
