@@ -1,235 +1,235 @@
 ---
-title: Other
-sidebar_position: 3
-description: Other useful tools
+शीर्षक: अन्य
+साइडबार_पोजिशन: 3
+विवरण: अन्य उपयोगी उपकरण
 ---
 
-# Other
+# अन्य
 
 
-### **Blank Characters**
-> __Description:__ A list of blank Unicode characters. <br/>
-__Link:__ [Blank Charcaters](https://character.construction/blanks)
+### **रिक्त वर्ण**
+> __विवरण:__ रिक्त यूनिकोड वर्णों की सूची। <br/>
+__लिंक:__ [ब्लैंक चार्टर्स](https://character.construction/blanks)
 
-### **Bitwarden**
-> __Description:__ Open source password manager.   <br/>
-__Link:__ [Bitwarden](https://bitwarden.com/)
+### **बिटवर्डन**
+> __विवरण:__ ओपन सोर्स पासवर्ड मैनेजर। <br/>
+__लिंक:__ [बिटवर्डन](https://bitwarden.com/)
 
-### **Blobs**
-> __Description:__ A server list of blob emojis. <br/>
-__Link:__ [Blobs](https://blobs.gg/) <br/>
-__Credit:__ @69198249432449024
+### **ब्लॉब्स**
+> __विवरण:__ ब्लॉब इमोजीस की एक सर्वर सूची। <br/>
+__लिंक:__ [ब्लॉब्स](https://blobs.gg/) <br/>
+__क्रेडिट:__ @69198249432449024
 
-### **CitizenLab**
-> __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
-__Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
+### **सिटीजनलैब**
+> __विवरण:__ URL परीक्षण सूचियाँ, जिनका उद्देश्य URL सेंसरशिप के परीक्षण में मदद करना है, जिसे देश कोड से विभाजित किया गया है। <br/>
+__लिंक:__ [सिटीजनलैब](https://github.com/citizenlab/test-lists)
 
-### **Polywork**
-> __Description:__ Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
-__Link:__ [Polywork](https://www.polywork.com/)
+### **पॉलीवर्क**
+> __विवरण:__ पॉलीवर्क एक पेशेवर सोशल नेटवर्क है जो उपयोगकर्ताओं को एक मुफ्त व्यक्तिगत वेबपेज बनाने, व्यक्तिगत और पेशेवर दोनों तरह से साझा करने और दूसरों को सहयोग अनुरोध भेजने की सुविधा देता है। <br/>
+__लिंक:__ [पॉलीवर्क](https://www.polywork.com/)
 
-### **Rize**
-> __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
-__Link:__ [Rize](https://rize.io)
+### **बढ़ाना**
+> __विवरण:__ राइज एक बुद्धिमान टाइम ट्रैकर है जो आपके फोकस को बेहतर बनाता है और आपको बेहतर काम करने की आदत बनाने में मदद करता है। <br/>
+__लिंक:__ [राइज़](https://rize.io)
 
-### **Files**
-> __Description:__ File manager for Windows, focused on design.  <br/>
-__Link:__ [Files](https://files.community/)
+### **फ़ाइलें**
+> __विवरण:__ विंडोज के लिए फाइल मैनेजर, डिजाइन पर केंद्रित। <br/>
+__लिंक:__ [फाइलें](https://files.community/)
 
-### **One Commander**
-> __Description:__ File manager for Windows, focused on productivity.  <br/>
-__Link:__ [One Commander](https://www.onecommander.com/)
+### **एक कमांडर**
+> __विवरण:__ विंडोज़ के लिए फ़ाइल प्रबंधक, उत्पादकता पर केंद्रित। <br/>
+__लिंक:__ [एक कमांडर](https://www.onecommander.com/)
 
-### **Carrd**
-> __Description:__ Build one-page websites.   <br/>
-__Link:__ [Carrd](https://carrd.co/)
+### **कार्ड**
+> __विवरण:__ एक पेज की वेबसाइट बनाएं। <br/>
+__लिंक:__ [कैर्ड](https://carrd.co/)
 
-### **Down for Everyone or Just Me**
-> __Description:__ A site that checks if a domain is up.   <br/>
-__Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
+### **डाउन फॉर एवरीवन या जस्ट मी**
+> __विवरण:__ एक साइट जो जांचती है कि कोई डोमेन चालू है या नहीं। <br/>
+__लिंक:__ [डाउन फॉर एवरीवन या जस्ट मी](https://downforeveryoneorjustme.com/)
 
-### **KeyCDN Tools**
-> __Description:__ Many tools related to web, networking and security checkings.  <br/>
-__Link:__ [KeyCDN Tools](https://tools.keycdn.com/)
+### **कीसीडीएन टूल्स**
+> __विवरण:__ वेब, नेटवर्किंग और सुरक्षा जांच से संबंधित कई उपकरण। <br/>
+__लिंक:__ [कीसीडीएन टूल्स](https://tools.keycdn.com/)
 
-### **Dehashed**
-> __Description:__ Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
-__Link:__ [Dehashed](https://dehashed.com)
+### **धराशायी**
+> __विवरण:__ उपयोगकर्ता नाम, ईमेल, आईपी, पता, फोन, विन, आदि वाले डेटा उल्लंघनों को खोजने के लिए उपकरण। <br/>
+__लिंक:__ [देहाशेद](https://dehashed.com)
 
-### **Terms Of Service ; Didn't Read**
-> __Description:__ Summarized terms of service for all known companies.  <br/>
-__Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
+### **सेवा की शर्तें ; पढ़ा नहीं**
+> __विवरण:__ सभी ज्ञात कंपनियों के लिए संक्षिप्त सेवा की शर्तें। <br/>
+__लिंक:__ [सेवा की शर्तें; पढ़ा नहीं गया](https://tosdr.org/)
 
-### **TimezoneWizard**
-> __Description:__ Easy to use tool for finding timezones all across the globe.  <br/>
-__Link:__ [TimezoneWizard](https://timezonewizard.com/)
+### **टाइमज़ोनविज़ार्ड**
+> __विवरण:__ दुनिया भर में टाइमज़ोन खोजने के लिए टूल का उपयोग करना आसान है। <br/>
+__लिंक:__ [टाइमज़ोनविज़ार्ड](https://timezonewizard.com/)
 
-### **C.O.A.C.H**
-> __Description:__ Tidying up your online security, step by step.   <br/>
-__Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
+### **प्रशिक्षक**
+> __विवरण:__ चरण दर चरण आपकी ऑनलाइन सुरक्षा को व्यवस्थित करना। <br/>
+__लिंक:__ [कोच](http://www.crashoverridenetwork.com/coach.html)
 
-### **Empty Characters**
-> __Description:__ List and methods to Unicode empty characters.   <br/>
-__Link:__ [Empty Characters](https://emptycharacter.com)
+### **खाली वर्ण**
+> __विवरण:__ यूनिकोड के रिक्त वर्णों की सूची और विधियाँ। <br/>
+__लिंक:__ [खाली वर्ण](https://emptycharacter.com)
 
-### **Awesome**
-> __Description:__ Collection of lists about various topics.   <br/>
-__Link:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
-__Credit:__ @github:sindresorhus
+### **विस्मयकारी**
+> __विवरण:__ विभिन्न विषयों के बारे में सूचियों का संग्रह। <br/>
+__लिंक:__ [बहुत बढ़िया](https://github.com/sindresorhus/awesome) <br/>
+__क्रेडिट:__ @github:sindresorhus
 
-### **Internet Slang**
-> __Description:__ A list of slang used across the internet.   <br/>
-__Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
+### **इंटरनेट की ख़ास बोली**
+> __विवरण:__ इंटरनेट पर इस्तेमाल किए जाने वाले कठबोली शब्दों की सूची। <br/>
+__लिंक:__ [इंटरनेट स्लैंग](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
-### **Invited** 
-> __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
-__Link:__ [Invited](https://invited.tv/)
+### **आमंत्रित**
+> __विवरण:__ साझा वर्चुअल ब्राउज़र के माध्यम से फिल्में, यूट्यूब देखें या यहां तक कि एक साथ संगीत भी सुनें। <br/>
+__लिंक:__ [आमंत्रित](https://invited.tv/)
 
-### **Obsidian**
-> __Description:__ An advanced note-taking app.  <br/>
-__Link:__ [Obsidian](https://obsidian.md/)
+### **ओब्सीडियन**
+> __विवरण:__ एक उन्नत नोट लेने वाला ऐप। <br/>
+__लिंक:__ [ओब्सीडियन](https://obsidian.md/)
 
-### **Trello**
-> __Description:__ Manage collaborative projects easily.  <br/>
-__Link:__ [Trello](https://trello.com/)
+### **ट्रेलो**
+> __विवरण:__ सहयोगी परियोजनाओं को आसानी से प्रबंधित करें। <br/>
+__लिंक:__ [ट्रेलो](https://trello.com/)
 
-### **Notion**
-> __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
-__Link:__ [Notion](https://www.notion.so/)
+### **धारणा**
+> __विवरण:__ कार्यप्रवाह और वेबसाइट बनाने के लिए एक उत्पाद, आपकी आवश्यकताओं के लिए पूरी तरह से अनुकूलन योग्य। <br/>
+__लिंक:__ [धारणा](https://www.notion.so/)
 
-### **Tina**
-> __Description:__ Open-source content management tool.  <br/>
-__Link:__ [Tina](https://tina.io/)
+### **टीना**
+> __विवरण:__ ओपन-सोर्स सामग्री प्रबंधन उपकरण। <br/>
+__लिंक:__ [टीना](https://tina.io/)
 
-### **Nord Theme**
-> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
-__Link:__ [Nord Theme](https://www.nordtheme.com/)
+### **नॉर्ड थीम**
+> __विवरण:__ विभिन्न साइटों और अनुप्रयोगों के लिए आर्कटिक-प्रेरित रंग पैलेट और थीम संग्रह। <br/>
+__लिंक:__ [नॉर्ड थीम](https://www.nordtheme.com/)
 
-### **Pronoun Island**
-> __Description:__ A website for personal pronoun usage examples.   <br/>
-__Link:__ [Pronoun Island](https://pronoun.is/)
+### **सर्वनाम द्वीप**
+> __विवरण:__ व्यक्तिगत सर्वनाम उपयोग उदाहरणों के लिए एक वेबसाइट। <br/>
+__लिंक:__ [सर्वनाम द्वीप](https://pronoun.is/)
 
-### **PronounDB**
-> __Description:__ Pronouns intergration for websites and apps.  <br/>
-__Link:__ [ProunounDB](https://pronoundb.org/)  <br/>
-__Credit:__ @94762492923748352
+### **सर्वनाम डीबी**
+> __विवरण:__ वेबसाइटों और ऐप्स के लिए सर्वनाम एकीकरण। <br/>
+__लिंक:__ [सर्वनाम डीबी](https://pronoundb.org/) <br/>
+__क्रेडिट:__ @94762492923748352
 
-### **Pronouns.page**
-> __Description:__ Information about nonbinary and gender neutral language.  <br/>
-__Link:__ [Pronouns.page](https://en.pronouns.page/)
+### **सर्वनाम पेज**
+> __विवरण:__ गैर-द्विआधारी और लिंग तटस्थ भाषा के बारे में जानकारी। <br/>
+__लिंक:__ [सर्वनाम.पृष्ठ](https://en.pronouns.page/)
 
-### **Flaticon**
-> __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
-__Link:__ [Flaticon](https://www.flaticon.com/)
+### **फ्लैटिकॉन**
+> __विवरण:__ आपकी परियोजनाओं के लिए नि:शुल्क वेक्टर चिह्न और स्टिकर। डिजाइनरों द्वारा और उनके लिए बनाए गए संसाधन। <br/>
+__लिंक:__ [फ्लैटिकॉन](https://www.flaticon.com/)
 
-### **Photopea**
-> __Description:__ Free online image editor.   <br/>
-__Link:__ [Photopea](https://www.photopea.com/)
+### **फोटोपीया**
+> __विवरण:__ मुफ्त ऑनलाइन छवि संपादक। <br/>
+__लिंक:__ [फोटोपीया](https://www.photopea.com/)
 
-### **Random Sites**
-> __Description:__ Generates a small list of random website URLs.   <br/>
-__Link:__ [Random Sites](https://www.randomlists.com/websites)
+### **यादृच्छिक साइटें**
+> __विवरण:__ यादृच्छिक वेबसाइट URL की एक छोटी सूची बनाता है। <br/>
+__लिंक:__ [रैंडम साइट्स](https://www.randomlists.com/websites)
 
-### **ShareX**
-> __Description:__ Best sharing app.  
-__Link:__ [ShareX](https://getsharex.com/)   <br/>
-__Credit:__ @95576568025329664
+### **शेयरएक्स**
+> __विवरण:__ बेस्ट शेयरिंग ऐप।
+__लिंक:__ [शेयरएक्स](https://getsharex.com/) <br/>
+__क्रेडिट:__ @95576568025329664
 
-### **pfp.lgbt**
-> __Description:__ A tool to "LGBTQ+fy" your images.  <br/>
-__Link:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
-__Credit:__ @109710323094683648 @139836912335716352 
+### **पीएफपी.एलजीबीट**
+> __विवरण:__ आपकी छवियों को "LGBTQ+fy" करने के लिए एक टूल। <br/>
+__लिंक:__ [पीएफपी.एलजीबीटी](https://pfp.lgbt/) <br/>
+__क्रेडिट:__ @109710323094683648 @139836912335716352
 
-### **Statista**
-> __Description:__ Statistics and business data platform for over 170 industries.   <br/>
-__Link:__ [Statista](https://statista.com)
+### **स्टेटिस्टा**
+> __विवरण:__ 170 से अधिक उद्योगों के लिए सांख्यिकी और व्यापार डेटा मंच। <br/>
+__लिंक:__ [स्टेटिस्टा](https://statista.com)
 
-### **Semantic Scholar**
-> __Description:__ Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
-__Link:__ [Semantic Scholar](https://www.semanticscholar.org/) 
+### **सिमेंटिक स्कॉलर**
+> __विवरण:__ सिमेंटिक स्कॉलर एआई का उपयोग करता है ताकि आपको जानकारी के अधिक भार के बिना वैज्ञानिक लेख खोजने में मदद मिल सके। <br/>
+__लिंक:__ [सिमेंटिक स्कॉलर](https://www.semanticscholar.org/)
 
-### **Simple Analytics**
-> __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
-__Link:__ [Simple Analytics](https://simpleanalytics.com/)
+### **सरल विश्लेषण**
+> __विवरण:__ साइटों के लिए सरल, स्वच्छ और मैत्रीपूर्ण विश्लेषण। <br/>
+__लिंक:__ [सरल विश्लेषण](https://simpleanalytics.com/)
 
-### **Grafana**
-> __Description:__ Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
-__Link:__ [Grafana](https://grafana.com/)
+### **ग्राफाना**
+> __विवरण:__ सौंदर्यपूर्ण डैशबोर्ड के साथ अपने डेटा को क्वेरी करें, कल्पना करें, सतर्क करें और समझें। <br/>
+__लिंक:__ [ग्राफाना](https://grafana.com/)
 
-### **The LaTeX Project**
-> __Description:__ LaTeX is a document preparation system, useful for scientific or technical documents. <br/>
-__Link:__ [The LaTeX Project](https://latex-project.org) <br/>
-__Credit:__ @github:latex3 
+### **लाटेक्स प्रोजेक्ट**
+> __विवरण:__ लाटेकस एक दस्तावेज तैयार करने की प्रणाली है, जो वैज्ञानिक या तकनीकी दस्तावेजों के लिए उपयोगी है। <br/>
+__लिंक:__ [लाटेक्स प्रोजेक्ट](https://latex-project.org) <br/>
+__क्रेडिट:__ @github:latex3
 
-### **Web Archives**
-> __Description:__ Explore web pages saved over time.  <br/>
-__Link:__ <br/>  
-[Web Archives](https://web.archive.org/)  <br/>
+### **वेब अभिलेखागार**
+> __विवरण:__ समय के साथ सहेजे गए वेब पेजों को एक्सप्लोर करें। <br/>
+__लिंक:__ <br/>
+[वेब अभिलेखागार](https://web.archive.org/) <br/>
 [Arvhive.is](https://archive.is/)
 
-### **AlternativeTo**
-> __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
-__Link:__ [AlternativeTo](https://alternativeto.net/)
+### **करने के लिए वैकल्पिक**
+> __विवरण:__ अल्टरनेटिव टू एक भीड़-भाड़ वाली वेबसाइट है जो विभिन्न उद्देश्यों के लिए वैकल्पिक सॉफ्टवेयर खोजने का प्रयास करती है। <br/>
+__लिंक:__ [AlternativeTo](https://alternativeto.net/)
 
-### **Internet Download Manager**
-> __Description:__ Tool that makes downloading videos and files through the browser easy.  <br/>
-__Link:__ [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
+### **इंटरनेट डाउनलोड प्रबंधक**
+> __विवरण:__ उपकरण जो ब्राउज़र के माध्यम से वीडियो और फाइलों को डाउनलोड करना आसान बनाता है। <br/>
+__लिंक:__ [इंटरनेट डाउनलोड प्रबंधक डाउनलोड करें](https://www.internetdownloadmanager.com/download.html)
 
-### **Whois Lookup**
-> __Description:__ Lookup information about domains or IP addresses.  <br/>
-__Link:__ [Whois Lookup](https://whois.domaintools.com/)
+### **व्हाइस लुकअप**
+> __विवरण:__ डोमेन या आईपी पते के बारे में लुकअप जानकारी। <br/>
+__लिंक:__ [व्हॉइस लुकअप](https://whois.domaintools.com/)
 
-### **Status Page**
-> __Description:__ Communicate real-time status to your members.   <br/>
-__Link:__ [Status Page](https://statuspage.io)
+### **स्थिति पृष्ठ**
+> __विवरण:__ अपने सदस्यों को रीयल-टाइम स्थिति के बारे में बताएं। <br/>
+__लिंक:__ [स्थिति पृष्ठ](https://statuspage.io)
 
-### **Tone Indicators Website**
-> __Description:__ Find and understand text tone indicators.   <br/>
-__Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
+### **टोन संकेतक वेबसाइट**
+> __विवरण:__ टेक्स्ट टोन संकेतक ढूंढें और समझें। <br/>
+__लिंक:__ [टोन संकेतक](https://toneindicators.carrd.co/)
 
-### **URL Scanner**
-> __Description:__ Scans URLs and gives details about them.   <br/>
-__Link:__ [URL Scan](https://urlscan.io/)
+### **यूआरएल स्कैनर**
+> __विवरण:__ यूआरएल स्कैन करता है और उनके बारे में विवरण देता है। <br/>
+__लिंक:__ [यूआरएल स्कैन](https://urlscan.io/)
 
-### **URL Expander**
-> __Description:__ Expand short URLs.   <br/>
-__Link:__ [URL Expander](https://urlex.org/)
+### **URL विस्तारक**
+> __विवरण:__ संक्षिप्त URL का विस्तार करें। <br/>
+__लिंक:__ [यूआरएल विस्तारक](https://urlex.org/)
 
-### **Waifu2x**
-> __Description:__ Image scaling and noise reduction for anime-style art.   <br/>
-__Link:__ [waifu2x](http://waifu2x.udp.jp/)
+### **वाइफू2एक्**
+> __विवरण:__ एनीमे-शैली कला के लिए छवि स्केलिंग और शोर में कमी। <br/>
+__लिंक:__ [वाइफू2एक्स](http://waifu2x.udp.jp/)
 
-### **True Size**
-> __Description:__ A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
-__Link:__ [True Size](https://thetruesize.com/) 
+### **सही आकार**
+> __विवरण:__ एक वैश्विक मानचित्र जहां आप आकार की बेहतर तुलना देखने के लिए भूमाफियाओं को खींच और गिरा सकते हैं। <br/>
+__लिंक:__ [सही आकार](https://thetruesize.com/)
 
-### **Visual Center**
-> __Description:__ Find the visual center of your images.  <br/>
-__Link:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
-__Credit:__ @github:javierbyte
+### **विजुअल सेंटर**
+> __विवरण:__ अपनी छवियों के दृश्य केंद्र का पता लगाएं। <br/>
+__लिंक:__ [विजुअल सेंटर](https://javier.xyz/visual-center/) <br/>
+__क्रेडिट:__ @github:javierbyte
 
-### **Lightmode is Necessary**
-> __Description:__ An article explaining why lightmode is an important to software. <br/>
-__Link:__ [Article](https://lightmode.glitch.me) <br/>
+### **लाइटमोड आवश्यक है**
+> __विवरण:__ लाइटमोड सॉफ्टवेयर के लिए महत्वपूर्ण क्यों है, इसकी व्याख्या करने वाला एक लेख। <br/>
+__लिंक:__ [अनुच्छेद](https://lightmode.glitch.me) <br/>
 
-### **ProtonMail**
-> __Description:__ Open Source E2E encrypted Email Service. <br/>
-__Link:__ [ProtonMail](https://protonmail.com) <br/>
+### **प्रोटॉनमेल**
+> __विवरण:__ ओपन सोर्स ई2ई एन्क्रिप्टेड ईमेल सेवा। <br/>
+__लिंक:__ [प्रोटॉनमेल](https://protonmail.com) <br/>
 
-### **dCode**
-> __Description:__ dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
-__Link:__ [dCode Website](https://dcode.fr/en)  <br/>
-__Credit:__ @273906785788624907
+### **डीकोड**
+> __विवरण:__ डीकोड एक सार्वभौमिक वेबसाइट है जिसका उपयोग संदेशों को एन्कोडिंग और डिकोडिंग के लिए किया जाता है। संबंधित टूल का एक गुच्छा भी प्रदान करता है। <br/>
+__लिंक:__ [डीकोड वेबसाइट](https://dcode.fr/en) <br/>
+__क्रेडिट:__ @273906785788624907
 
-### **Computer Hope**
-> __Description:__ Free computer help and support. <br/>
-__Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
+### **कंप्यूटर आशा**
+> __विवरण:__ मुफ्त कंप्यूटर सहायता और समर्थन। <br/>
+__लिंक:__ [कंप्यूटरहोप](https://www.computerhope.com/) <br/>
 
-### **Skill Icons**
-> __Description:__ Showcase languages, frameworks and tools used on a GitHub profile. <br/>
-__Link:__ [Skill Icons](https://skillicons.dev/) <br/>
-__Credit:__ @276544649148235776
+### **कौशल प्रतीक**
+> __विवरण:__ गिठुब प्रोफ़ाइल पर उपयोग की जाने वाली भाषाएं, फ़्रेमवर्क और टूल दिखाएं। <br/>
+__लिंक:__ [कौशल प्रतीक](https://skillicons.dev/) <br/>
+__क्रेडिट:__ @276544649148235776
 
-### **Savefrom**
-> __Description:__ Download any content from popular sites.  <br/>
-__Link:__ [Savefrom](https://savefrom.net/)
+### **से बचाओ**
+> __विवरण:__ लोकप्रिय साइटों से कोई भी सामग्री डाउनलोड करें। <br/>
+__लिंक:__ [सेवफ्रॉम](https://savefrom.net/)
