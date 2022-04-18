@@ -1,88 +1,88 @@
 ---
-title: Design
+title: Tasarım
 sidebar_position: 5
 description: Design tools
 ---
 
-# Design
+# Tasarım
 ### **Material Design Icons**
-> __Description:__ A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
-__Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
-__Credit:__ @github:Templarian
+> __Tanım:__ Özel biçim, boyut ve renk sağlayan, malzeme tasarımına odaklanan bir simgeler koleksiyonu. <br/>
+__Bağlantı:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
+__Oluşturucu:__ @github:Templarian
 
 ### **Google Fonts Icons**
-> __Description:__ A collection of common icons based around web actions, provided by Google. <br/>
-__Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
-__Credit:__ @github:google
+> __Tanım:__ Google tarafından sağlanan, web işlemlerine dayalı ortak simgeler koleksiyonu. <br/>
+__Bağlantı:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
+__Oluşturucu:__ @github:google
 
 ### **Branding Style Guides**
-> __Description:__ A collection of different company's branding, including Discords.   <br/>
-__Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
+> __Tanım:__ Discords dahil olmak üzere farklı şirketlerin markalarından oluşan bir koleksiyon.   <br/>
+__Bağlantı:__ [Branding Style Guides](https://brandingstyleguides.com/)
 
 ### **Evernote Design Bookmarks**
-> __Description:__ A list of bookmarks for everything design-resources.  <br/>
-__Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
+> __Tanım:__ Her şey tasarım kaynakları için yer imlerinin bir listesi.  <br/>
+__Bağlantı:__ [Evernote Design](https://www.evernote.design/)  <br/>
 
 ### **Simpleicons**
-> __Description:__ A list of simple icons, including brand icons.   <br/>
-__Link:__ [Simpleicons](https://simpleicons.org/)
+> __Tanım:__ Marka simgeleri de dahil olmak üzere basit simgelerin listesi.   <br/>
+__Bağlantı:__ [Simpleicons](https://simpleicons.org/)
 
 ### **Heroicons**
-> __Description:__ Hand-crafted SVG icons.   <br/>
-__Link:__ [Heroicons](https://heroicons.com/)
+> __Tanım:__ El yapımı SVG simgeleri.   <br/>
+__Bağlantı:__ [Heroicons](https://heroicons.com/)
 
 ### **Coolors**
-> __Description:__ Color schemes generator.   <br/>
-__Link:__ [Coolors](https://coolors.co/)
+> __Tanım:__ Renk şemaları oluşturucu.   <br/>
+__Bağlantı:__ [Coolors](https://coolors.co/)
 
 ### **The Noun Project**
-> __Description:__ Over 3 million community-contributed icons along with icon customization and an API.  <br/>
-__Link:__ [The Noun Project](https://thenounproject.com/)
+> __Tanım:__ Simge özelleştirme ve bir API ile birlikte topluluk tarafından sağlanan 3 milyondan fazla simge.  <br/>
+__Bağlantı:__ [The Noun Project](https://thenounproject.com/)
 
 ### **Adobe Color**
-> __Description:__ A color theme creator with connectivity across Adobe products.  <br/>
-__Link:__ [Adobe Color](https://color.adobe.com/)
+> __Tanım:__ Adobe ürünleri arasında bağlantıya sahip bir renk teması yaratıcısı.  <br/>
+__Bağlantı:__ [Adobe Color](https://color.adobe.com/)
 
 ### **Open Color**
-> __Description:__ An open-source color scheme and library set optimized for user interfaces.  <br/>
-__Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
-__Credit:__ @github:yeun
+> __Tanım:__ Kullanıcı arayüzleri için optimize edilmiş açık kaynaklı bir renk şeması ve kitaplık seti.  <br/>
+__Bağlantı:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
+__Oluşturucu:__ @github:yeun
 
 ### **Teeny Icons**
-> __Description:__ A set of minimal 1px icons.  <br/>
-__Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__CREDIT:__ @github:@teenyicons
+> __Tanım:__ Minimum 1 piksellik simgelerden oluşan bir set.  <br/>
+__Bağlantı:__ [Teeny Icons](https://teenyicons.com/)  <br/>
+__OLUŞTURUCU:__ @github:@teenyicons
 
 ### **Streamline**
-> __Description:__ Over 100k icons, illustrations, and emojis.  <br/>
-__Link:__ [Streamline](https://streamlinehq.com/)  
+> __Tanım:__ 100.000'den fazla simge, illüstrasyon ve emoji.  <br/>
+__Bağlantı:__ [Streamline](https://streamlinehq.com/)  
 
 ### **Feather Icons**
-> __Description:__ Simple, open-source icons.  <br/>
-__Link:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Credit:__ @github:@feathericons
+> __Tanım:__ Basit, açık kaynaklı simgeler.  <br/>
+__Bağlantı:__ [Feather Icons](https://feathericons.com/)  <br/>
+__Oluşturucu:__ @github:@feathericons
 
 ### **Spectrum**
-> __Description:__ Minimal, consistent UI icons.  <br/>
-__Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
+> __Tanım:__ Minimal, tutarlı UI simgeleri.  <br/>
+__Bağlantı:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
 
 ### **Font Awesome**
-> __Description:__ Vector icons and social logos.  <br/>
-__Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Credit:__ @github:@FortAwesome
+> __Tanım:__ Vektör simgeleri ve sosyal logolar.  <br/>
+__Bağlantı:__ [Font Awesome](https://fontawesome.com/)  <br/>
+__Oluşturucu:__ @github:@FortAwesome
 
 ### **ICONS8**
-> __Description:__ Icons, illustrations, photos, music, and design tools.  <br/>
-__Link:__ [ICONS8](https://icons8.com/)  
+> __Tanım:__ Simgeler, çizimler, fotoğraflar, müzik ve tasarım araçları.  <br/>
+__Bağlantı:__ [ICONS8](https://icons8.com/)  
 
 ### **unDraw**
-> __Description:__ Free, open-source illustrations.  <br/>
-__Link:__ [Feather Icons](https://undraw.co/)  
+> __Tanım:__ Ücretsiz, açık kaynaklı çizimler.  <br/>
+__Bağlantı:__ [Feather Icons](https://undraw.co/)  
 
 ### **tldraw**
-> __Description:__ A simple drawing app.  <br/>
-__Link:__ [tldraw](https://www.tldraw.com/)
+> __Tanım:__ Basit bir çizim uygulaması.  <br/>
+__Bağlantı:__ [tldraw](https://www.tldraw.com/)
 
 ### **Freepik**
-> __Description:__ Free vectors, stock photos, and PSD.  <br/>
-__Link:__ [Freepik](https://freepik.com/) 
+> __Tanım:__ Ücretsiz vektörler, hazır fotoğraflar ve PSD.  <br/>
+__Bağlantı:__ [Freepik](https://freepik.com/) 
