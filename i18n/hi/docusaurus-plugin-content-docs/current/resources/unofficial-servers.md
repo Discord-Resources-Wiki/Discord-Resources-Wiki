@@ -4,12 +4,12 @@
 विवरण: डिस्कॉर्ड से संबंधित अनौपचारिक सर्वर
 ---
 
-# Unofficial Servers
+# अनौपचारिक सर्वर
 
-## **Discord API**
-> __Description:__ A server dedicated to information and assistance with the Discord API.   <br/>
-__Link:__ [Discord API](https://discord.gg/discord-api)   <br/>
-__Credit:__ Discord API team (owned by @80088516616269824)
+## **डिस्कॉर्ड ए.पी.आई.**
+> __विवरण:__ डिस्कॉर्ड एपीआई के साथ सूचना और सहायता के लिए समर्पित एक सर्वर ।   <br/>
+__लिंक:__ [डिस्कॉर्ड एपीआई](https://discord.gg/discord-api)   <br/>
+__श्रेय:__ डिस्कॉर्ड एपीआई टीम (@80088516616269824 के स्वामित्व) 
 
 @gg/discord-api
 
