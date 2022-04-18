@@ -15,10 +15,10 @@ __क्रेडिट:__ @99787644430475264
 > __Description:__ A list of all the permissions available for users.   <br/>
 __Link:__ [All Discord Permissions](https://discordapi.com/permissions)
 
-### **Discord Tools**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
-__Link:__ [Discord Tools](https://discordtools.io/)   <br/>
-__Credit:__ @276544649148235776
+### **डिस्कॉर्ड के औजार**
+> __विवरण:__ पावर उपयोगकर्ताओं के लिए आपके गिल्ड का विश्लेषण करने के लिए डिस्कॉर्ड औजार का एक संग्रह, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
+__लिंक:__ [डिस्कॉर्ड के उपकरण](https://discordtools.io/)   <br/>
+__क्रेडिट:__ @276544649148235776
 
 ### **Discord Toolbox**
 > __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup.   <br/>
