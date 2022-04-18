@@ -1,15 +1,15 @@
 ---
-title: Discord Related
-sidebar_position: 1
-description: Discord related tools
+शीर्षक: डिस्कॉर्ड संबंधित
+साइडबार_पोजिशन: 1
+विवरण: डिस्कॉर्ड संबंधित उपकरण
 ---
 
-# Discord Related
+# डिस्कॉर्ड संबंधित
 
-### **Alternatives to MEE6**
-> __Description:__ A list of Discord bots that can be used in place of MEE6.   <br/>
-__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
-__Credit:__ @99787644430475264
+### **MEE6 के विकल्प**
+> __विवरण:__ डिस्कॉर्ड बॉट्स की एक सूची जिसका उपयोग MEE6 के स्थान पर किया जा सकता है।   <br/>
+__लिंक:__ [MEE6 के विकल्प](https://www.alternativestomee6.com/)   <br/>
+__क्रेडिट:__ @99787644430475264
 
 ### **All Discord Permissions**
 > __Description:__ A list of all the permissions available for users.   <br/>
