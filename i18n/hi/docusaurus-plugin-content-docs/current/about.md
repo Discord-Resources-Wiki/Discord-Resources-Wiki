@@ -22,9 +22,9 @@
 
 इस साइट को लगातार और बार-बार अपडेट किया जाएगा क्योंकि हमें और अधिक संसाधन मिलते हैं जो पूरे प्लेटफॉर्म पर उपयोगकर्ताओं को डिस्कॉर्ड करने में मदद करेंगे!
 
-## Disclaimer
+## अस्वीकरण
 
-**We are not affiliated with Discord in any way.**
+**हम किसी भी तरह से डिस्कॉर्ड से संबद्ध नहीं हैं।**
 
 This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
 
