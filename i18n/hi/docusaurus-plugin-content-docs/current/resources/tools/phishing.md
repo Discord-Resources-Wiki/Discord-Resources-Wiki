@@ -1,83 +1,83 @@
 ---
-title: Phishing Related 
-sidebar_position: 4
-description: Phishing and Security tools
+शीर्षक: फ़िशिंग संबंधित
+साइडबार_पोजिशन: 4
+विवरण: फ़िशिंग और सुरक्षा उपकरण
 ---
 
-# Phishing Related
+# फ़िशिंग संबंधित
 
-### **Discord Nitro Scams**
-> __Description:__ This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-__Link:__ [Discord Nitro Information](https://dicsord.gq/)
+### **डिस्कॉर्ड नाइट्रो स्कैम्स**
+> __विवरण:__ यह **सुरक्षित और सुरक्षित** वेबसाइट (*घोटाला नहीं*) असली डिस्कॉर्ड नाइट्रो उपहारों की तुलना घोटालों से करती है। खबरदार! <br/>
+__लिंक:__ [नाइट्रो सूचना को भंग करें](https://dicsord.gq/)
 
-### **Virus Total**
-> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
-__Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
+### **वायरस कुल**
+> __विवरण:__ वायरस टोटल मैलवेयर के प्रकारों का पता लगाने के लिए संदिग्ध फाइलों और यूआरएल का विश्लेषण करता है। <br/>
+__लिंक:__ [वायरस टोटल](https://www.virustotal.com/gui/home/upload)
 
-### **CleanURLs**
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
-__Link(s):__  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Credit:__ @github:KevinRoebert
+### **क्लीन यूआरएल**
+> __विवरण:__ ClearURLs नई वेबएक्सटेंशन तकनीक पर आधारित एक ऐड-ऑन है और आपकी गोपनीयता की रक्षा करने में मदद करने के लिए URL से ट्रैकिंग तत्वों को स्वचालित रूप से हटा देगा। <br/>
+__लिंक (ओं):__ <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon) <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/) <br/>
+__क्रेडिट:__ @ जीथब: केविनरोबर्ट
 
 
-### **Gits of Scam Links**
-> __Description:__ GitHub repositories full of scam links.   <br/>
-__Link(s):__  
-[Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
-[malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
-[ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/)   <br/>
-[Jagrosh's List](https://github.com/jagrosh/Vortex/tree/master/lists)   <br/>
-[Pihole Blocklist](https://github.com/mhhakim/pihole-blocklist/)   <br/>
-[Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
-[WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
+### **गिट्स ऑफ स्कैम लिंक्स**
+> __विवरण:__ घोटाले के लिंक से भरे गिठुब रिपॉजिटरी। <br/>
+__लिंक (ओं):__
+[ब्लॉक लिस्ट प्रोजेक्ट](https://blocklistproject.github.io/Lists/) <br/>
+[मैलवर्टाइजिंग](https://github.com/D09r/malvertising/blob/master/scam-domains.csv) <br/>
+[ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/) <br/>
+[जागरोश की सूची](https://github.com/jagrosh/Vortex/tree/master/lists) <br/>
+[पिहोल ब्लॉकलिस्ट](https://github.com/mhhakim/pihole-blocklist/) <br/>
+[एल्कब्र की सूची](https://github.com/elbkr/bad-websites) <br/>
+[वाल्शीदेव की सूची](https://github.com/WalhyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### **Database full of malicious links**
-> __Description:__ Self explanatory. 🔢   <br/>
-__Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
+### **दुर्भावनापूर्ण लिंक से भरा डेटाबेस**
+> __विवरण:__ स्वयं व्याख्यात्मक। <br/>
+__लिंक:__ [दुर्भावनापूर्ण लिंक डेटाबेस](https://urlhaus.abuse.ch/browse/)
 
-### **Phishing Recognizing Tools**
-> __Description:__ Many tools to help you recognize phishing and compromised sites.  <br/>
-__Link(s):__ <br/>
-[Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
-[AbuseIPDB](https://www.abuseipdb.com/)  <br/>
-[BrightCloud URL Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)  <br/>
-[Is It Hacked](https://www.isithacked.com/)  <br/>
+### **फ़िशिंग पहचानने वाले टूल**
+> __विवरण:__ फ़िशिंग और छेड़छाड़ की गई साइटों को पहचानने में आपकी सहायता के लिए कई टूल। <br/>
+__लिंक (ओं):__ <br/>
+[Google सुरक्षा जांचकर्ता](https://transparencyreport.google.com/safe-browsing/search) <br/>
+[दुरुपयोगआईपीडीबी](https://www.abuseipdb.com/) <br/>
+[ब्राइटक्लाउड यूआरएल लुकअप](https://www.brightcloud.com/tools/url-ip-lookup.php) <br/>
+[क्या इसे हैक किया गया है](https://www.isithacked.com/) <br/>
 [isitPhishing](https://isitphishing.org/) <br/>
-[URL Void](https://www.urlvoid.com/)  <br/>
-[IP Void](https://www.ipvoid.com/)  <br/>
-[Sucuri Web Page Security Check](https://unmask.sucuri.net/security-report/)  <br/>
-[URL Scan](https://urlscan.io/)  <br/>
-[ThreatMiner](https://www.threatminer.org/)  <br/>
-[McAfee URL Checker](https://www.trustedsource.org/)  <br/>
-[IP Logger URL Checker](https://iplogger.com/url-checker)
+[यूआरएल शून्य](https://www.urlvoid.com/) <br/>
+[आईपी शून्य] (https://www.ipvoid.com/) <br/>
+[सुकुरी वेब पेज सुरक्षा जांच](https://unmask.sucuri.net/security-report/) <br/>
+[यूआरएल स्कैन](https://urlscan.io/) <br/>
+[थ्रेटमाइनर](https://www.threatminer.org/) <br/>
+[मैक्एफ़ी यूआरएल चेकर](https://www.trustedsource.org/) <br/>
+[आईपी लॉगर यूआरएल चेकर](https://iplogger.com/url-checker)
 
-### Phishing APIs 
-> __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
-__Link(s):__ <br/>
-[Got Phish](http://gotphish.com/)   <br/>
-[Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
-[Phish Report](https://phish.report/)   <br/>
-[SinkingYachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
-[Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
-[Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
-[Phish Tank](https://phishtank.org/)   <br/>
-[Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
-[Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
-[ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
-[Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
-[Walshy's API](https://bad-domains.walshy.dev/)
+### फ़िशिंग एपीआई
+> __विवरण:__ ये फ़िशिंग प्रयासों को संभालने के लिए API और टूल हैं। <br/>
+__लिंक (ओं):__ <br/>
+[गॉट फिश](http://gotphish.com/) <br/>
+[हाइपरफिश](https://api.hyperphish.com/docs) (क्रेडिट: @297045071457681409) <br/>
+[फिश रिपोर्ट](https://phish.report/) <br/>
+[SinkingYachts](https://phish.sinking.yachts/docs) (क्रेडिट: @204414611578028034) <br/>
+[एंटी - फिश एपीआई](https://anti-fish.bitflow.dev/) (क्रेडिट: @218508002255306752) <br/>
+[स्पूपी डिटेक्टर](https://spoopy.oceanlord.me/) (क्रेडिट: @240973228632178689) <br/>
+[फिश टैंक](https://phishtank.org/) <br/>
+[ब्लैक लिस्टेड डोमेन](https://api.hyperphish.com/gimme-domains) <br/>
+[मैलवेयर और यूआरएल स्कैनर](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
+[ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner) <br/>
+[अज़्राएल फ़िश एपीआई](https://phish.azrael.gg/) (क्रेडिट: @641795527444529152) <br/>
+[वाल्शी का एपीआई](https://bad-domains.walshy.dev/)
 
-### **Phisherman** 
-> __Description:__   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
-__Link(s):__   <br/>
-[Phisherman Website](https://phisherman.gg/)   <br/>
-[PhishermanDocs](https://docs.phisherman.gg/)
+### **मछुआरे**
+> __विवरण:__ <br/>
+फ़िशरमैन फ़िशिंग और स्कैम लिंक का एक केंद्रीकृत डेटाबेस है। इसे डिस्कॉर्ड बॉट्स के साथ उपयोग के लिए डिज़ाइन किया गया है, जिससे वे फिशरमैन एपीआई का उपयोग करके फ़िशरमैन डेटाबेस के विरुद्ध URL को क्रॉस-चेक कर सकते हैं। <br/>
+__लिंक (ओं):__ <br/>
+[फिशरमैन वेबसाइट](https://phisherman.gg/) <br/>
+[फिशरमैन डॉक्स](https://docs.phisherman.gg/)
 
-### **The Vaccinator**
-> __Description:__ A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-__Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
-__Link:__ [Website](https://sketchy.tel/)  <br/>
-__Credit:__ The Vaccinator Team (contact: @204414611578028034)
+### **वैक्सीनेटर**
+> __विवरण:__ डिस्कॉर्ड टोकन चोरी करने वालों का उनके आंतरिक डिस्कॉर्ड वेबहुक को हटाकर उनका पता लगाने और उन्हें निष्क्रिय करने के लिए एक उपकरण। <br/>
+__नोट:__ यह टूल एंटीवायरस **नहीं** है। यह केवल एक उपयोगिता है जो स्कैमर को अन्य लोगों का डेटा प्राप्त करने से रोकने में मदद कर सकती है। <br/>
+__लिंक:__ [वेबसाइट](https://sketchy.tel/) <br/>
+__क्रेडिट:__ वैक्सीनेटर टीम (संपर्क: @204414611578028034)
