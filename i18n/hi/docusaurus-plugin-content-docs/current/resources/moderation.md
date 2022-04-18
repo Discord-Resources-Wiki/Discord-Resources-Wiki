@@ -11,19 +11,19 @@
 __लिंक:__ [मॉडकास्ट पॉडकास्ट](https://modcast.network/)   <br/>
 __क्रेडिट:__ [मॉडपॉड टीम](https://modcast.network/meet-the-team/) 
 
-### **Discord Moderator Academy**
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-__Credit:__ Multiple Authors (Discord Moderator Ecosystem)
+### **डिस्कॉर्ड मॉडरेटर अकादमी**
+> __विवरण:__ मॉडरेटर के लिए डिस्कॉर्ड के आधिकारिक संसाधन, मॉडरेटर द्वारा लिखे गए।   <br/>
+__लिंक:__ [डिस्कॉर्ड मॉडरेटर अकादमी](https://dis.gd/moderation)   <br/>
+__क्रेडिट:__ एकाधिक लेखक (डिसॉर्ड मॉडरेटर इकोसिस्टम)
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+### **डिसॉर्ड मॉडरेटर इकोसिस्टम** 
+> __विवरण:__ मॉडरेटर के लिए आधिकारिक पारिस्थितिकी तंत्र मॉडरेशन पर चर्चा करने के लिए।   <br/>
+__लिंक:__ [डिसॉर्ड मॉडरेटर इकोसिस्टम](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-### **Naviking’s Moderation Templates & Tools Documentation**
-> __Description:__ A drive file full of moderation resources.   <br/>
-__Link:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-__Credit:__ @200987752794292224
+### **नेवीकिंग के मॉडरेशन टेम्प्लेट और टूल दस्तावेज़ीकरण**
+> __विवरण:__ मॉडरेशन संसाधनों से भरी एक ड्राइव फ़ाइल।   <br/>
+__लिंक:__ [नेवीकिंग के मॉडरेशन टेम्प्लेट और टूल दस्तावेज़ीकरण](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+__क्रेडिट:__ @200987752794292224
 
 ### **Moderation Guidelines**
 > __Description:__ A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
