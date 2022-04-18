@@ -27,7 +27,7 @@ __क्रेडिट:__ @ जीथब: केविनरोबर्ट
 __लिंक (ओं):__
 [ब्लॉक लिस्ट प्रोजेक्ट](https://blocklistproject.github.io/Lists/) <br/>
 [मैलवर्टाइजिंग](https://github.com/D09r/malvertising/blob/master/scam-domains.csv) <br/>
-[ZeroTwo बॉट सूची](https://github.com/ZeroTwo-Bot/anti-fish-lists/) <br/>
+[ज़ीरोट्वो बॉट सूची](https://github.com/ZeroTwo-Bot/anti-fish-lists/) <br/>
 [जागरोश की सूची](https://github.com/jagrosh/Vortex/tree/master/lists) <br/>
 [पिहोल ब्लॉकलिस्ट](https://github.com/mhhakim/pihole-blocklist/) <br/>
 [एल्कब्र की सूची](https://github.com/elbkr/bad-websites) <br/>
