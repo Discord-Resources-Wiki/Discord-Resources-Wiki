@@ -18,9 +18,9 @@
 
 ## मैं यहाँ क्या देख रहा हूँ?
 
-हम समान श्रेणियों और विषयों के तहत समान संसाधनों को एक साथ समूहित करते हैं, डेस्कटॉप पर बाईं ओर या मोबाइल पर मेनू आइकन के साथ पहुँचा जा सकता है। Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+हम समान श्रेणियों और विषयों के तहत समान संसाधनों को एक साथ समूहित करते हैं, डेस्कटॉप पर बाईं ओर या मोबाइल पर मेनू आइकन के साथ पहुँचा जा सकता है। प्रत्येक संसाधन का एक संक्षिप्त विवरण होता है कि यह क्या है, इसके बाद लिंक के साथ जहां इसे एक्सेस किया जा सकता है और साथ ही रचनाकारों को क्रेडिट भी दिया जाता है।
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+इस साइट को लगातार और बार-बार अपडेट किया जाएगा क्योंकि हमें और अधिक संसाधन मिलते हैं जो पूरे प्लेटफॉर्म पर उपयोगकर्ताओं को डिस्कॉर्ड करने में मदद करेंगे!
 
 ## Disclaimer
 
