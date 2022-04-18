@@ -18,7 +18,7 @@
 
 ## मैं यहाँ क्या देख रहा हूँ?
 
-हम समान श्रेणियों और विषयों के तहत समान संसाधनों को एक साथ समूहित करते हैं, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+हम समान श्रेणियों और विषयों के तहत समान संसाधनों को एक साथ समूहित करते हैं, डेस्कटॉप पर बाईं ओर या मोबाइल पर मेनू आइकन के साथ पहुँचा जा सकता है। Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
 
 This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
 
