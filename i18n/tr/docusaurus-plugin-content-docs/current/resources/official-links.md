@@ -4,7 +4,7 @@ sidebar_position: 4
 description: Official links from discord.
 ---
 
-# Official Discord Links
+# Resmi Discord Bağlantıları
 
 ## **Discord Website**
 > __Tanım:__ Bağlantıların çok uzun olmadığı bir yer hayal edin.  <br/>
