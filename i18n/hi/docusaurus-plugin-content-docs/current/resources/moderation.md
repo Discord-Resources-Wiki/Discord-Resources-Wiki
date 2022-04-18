@@ -1,15 +1,15 @@
 ---
-title: Moderation
-sidebar_position: 6
-description: Moderation resources
+शीर्षक: मॉडरेशन
+साइडबार स्थिति: 6
+विवरण: मॉडरेशन संसाधन
 ---
 
-# Moderation
+# मॉडरेशन
 
-### **Modcast Podcast** (recently affiliated)
-> __Description:__ A podcast by moderators for moderators.   <br/>
-__Link:__ [Modcast Podcast](https://modcast.network/)   <br/>
-__Credit:__ [ModPod team](https://modcast.network/meet-the-team/) 
+### **मॉडकास्ट पॉडकास्ट** (हाल ही में संबद्ध)
+> __विवरण:__ मॉडरेटर द्वारा मॉडरेटर के लिए पॉडकास्ट|   <br/>
+__लिंक:__ [मॉडकास्ट पॉडकास्ट](https://modcast.network/)   <br/>
+__क्रेडिट:__ [मॉडपॉड टीम](https://modcast.network/meet-the-team/) 
 
 ### **Discord Moderator Academy**
 > __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
