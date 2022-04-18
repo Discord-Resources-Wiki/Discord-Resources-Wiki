@@ -17,8 +17,8 @@ __लिंक:__ [वायरस टोटल](https://www.virustotal.com/gui/
 ### **क्लीन यूआरएल**
 > __विवरण:__ ClearURLs नई वेबएक्सटेंशन तकनीक पर आधारित एक ऐड-ऑन है और आपकी गोपनीयता की रक्षा करने में मदद करने के लिए URL से ट्रैकिंग तत्वों को स्वचालित रूप से हटा देगा। <br/>
 __लिंक (ओं):__ <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon) <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/) <br/>
+[क्लीन यूआरएल](https://github.com/ClearURLs/Addon) <br/>
+[क्लीन यूआरएल डॉक्स](https://docs.clearurls.xyz/latest/) <br/>
 __क्रेडिट:__ @ जीथब: केविनरोबर्ट
 
 
@@ -27,7 +27,7 @@ __क्रेडिट:__ @ जीथब: केविनरोबर्ट
 __लिंक (ओं):__
 [ब्लॉक लिस्ट प्रोजेक्ट](https://blocklistproject.github.io/Lists/) <br/>
 [मैलवर्टाइजिंग](https://github.com/D09r/malvertising/blob/master/scam-domains.csv) <br/>
-[ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/) <br/>
+[ZeroTwo बॉट सूची](https://github.com/ZeroTwo-Bot/anti-fish-lists/) <br/>
 [जागरोश की सूची](https://github.com/jagrosh/Vortex/tree/master/lists) <br/>
 [पिहोल ब्लॉकलिस्ट](https://github.com/mhhakim/pihole-blocklist/) <br/>
 [एल्कब्र की सूची](https://github.com/elbkr/bad-websites) <br/>
@@ -40,13 +40,13 @@ __लिंक:__ [दुर्भावनापूर्ण लिंक ड�
 ### **फ़िशिंग पहचानने वाले टूल**
 > __विवरण:__ फ़िशिंग और छेड़छाड़ की गई साइटों को पहचानने में आपकी सहायता के लिए कई टूल। <br/>
 __लिंक (ओं):__ <br/>
-[Google सुरक्षा जांचकर्ता](https://transparencyreport.google.com/safe-browsing/search) <br/>
+[गूगल सुरक्षा जांचकर्ता](https://transparencyreport.google.com/safe-browsing/search) <br/>
 [दुरुपयोगआईपीडीबी](https://www.abuseipdb.com/) <br/>
 [ब्राइटक्लाउड यूआरएल लुकअप](https://www.brightcloud.com/tools/url-ip-lookup.php) <br/>
 [क्या इसे हैक किया गया है](https://www.isithacked.com/) <br/>
-[isitPhishing](https://isitphishing.org/) <br/>
+[आईएसआईटीफ़िशिंग](https://isitphishing.org/) <br/>
 [यूआरएल शून्य](https://www.urlvoid.com/) <br/>
-[आईपी शून्य] (https://www.ipvoid.com/) <br/>
+[आईपी शून्य](https://www.ipvoid.com/) <br/>
 [सुकुरी वेब पेज सुरक्षा जांच](https://unmask.sucuri.net/security-report/) <br/>
 [यूआरएल स्कैन](https://urlscan.io/) <br/>
 [थ्रेटमाइनर](https://www.threatminer.org/) <br/>
@@ -65,7 +65,7 @@ __लिंक (ओं):__ <br/>
 [फिश टैंक](https://phishtank.org/) <br/>
 [ब्लैक लिस्टेड डोमेन](https://api.hyperphish.com/gimme-domains) <br/>
 [मैलवेयर और यूआरएल स्कैनर](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
-[ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner) <br/>
+[आईपीक्वालिटीस्कोर](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner) <br/>
 [अज़्राएल फ़िश एपीआई](https://phish.azrael.gg/) (क्रेडिट: @641795527444529152) <br/>
 [वाल्शी का एपीआई](https://bad-domains.walshy.dev/)
 
