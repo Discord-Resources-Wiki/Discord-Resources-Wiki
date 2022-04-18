@@ -1,102 +1,102 @@
 ---
-title: Unofficial Resources
+title: Resmi Olmayan Kaynaklar
 sidebar_position: 9
-description: Unofficial resources for discord.
+description: Discord için resmi olmayan kaynaklar.
 ---
 
-# Unofficial Resources
+# Resmi Olmayan Kaynaklar
 
-## **Discord Lists**
-> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites.   <br/>
-__Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
-__Credit:__ @142242854167642122
+## **Discord Listeleri**
+> __Tanım:__ Şu anda Discord tarafından kullanılan etki alanlarından belgelenmemiş kullanıcı bayraklarına, bilinen etkinlik uygulama kimliklerine, bilinen ortak ve doğrulanmış sunucu davet listelerine kadar çeşitli Discord öğelerinin dev bir listesi.   <br/>
+__Bağlantı:__ [Discord Listeleri](https://github.com/Delitefully/DiscordLists)   <br/>
+__Oluşturucu:__ @142242854167642122
 
-## **Discord Guild Features**
-> __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
-__Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
-__Credit:__ @503677457107517442
+## **Discord Guild Özellikleri**
+> __Tanım:__ Ayrıntılı açıklamalarla birlikte Discord'un guild özelliklerinin çalışan bir listesi.   <br/>
+__Bağlantı:__ [Discord Guild Özellikleri](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
+__Oluşturucu:__ @503677457107517442
 
-## **List of dis.gd URLs**
-> __Description:__ A list of all the shortened Discord links.   <br/>
-__Link:__  <br/>
-[List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-[List Of Dis.gd URLs 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
-__Credit:__ @179655253392621569 @641795527444529152
+## **dis.gd URL'lerinin listesi**
+> __Tanım:__ Tüm kısaltılmış Discord bağlantılarının listesi.   <br/>
+__Bağlantı:__  <br/>
+[dis.gd URL'lerinin listesi](https://herogamers.dev/dis.gd/)   <br/>
+[dis.gd URL'lerinin listesi 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
+__Oluşturucu:__ @179655253392621569 @641795527444529152
 
 ## **Discord Wiki** (fandom)
-> __Description:__ The unofficial Discord wiki, done in typical wiki style.   <br/>
-__Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord) 
+> __Tanım::__ Resmi olmayan Discord wiki, tipik wiki tarzında yapılmıştır.   <br/>
+__Bağlantı:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord) 
 
 ## **Discohook** 
-> __Description:__ Allows you to preview embeds and send them via webhooks.   <br/>
-__Link:__ [Discohook](https://discohook.org/)   <br/>
-__Credit:__ @143419667677970434
+> __Tanım:__ Webhookları önizlemenize ve webhook aracılığıyla göndermenize olanak tanır.   <br/>
+__Bağlantı:__ [Discohook](https://discohook.org/)   <br/>
+__Oluşturucu:__ @143419667677970434
 
-## **Nadeko Embed Builder**
-> __Description:__ Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
-__Link:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
+## **Nadeko Embed Oluşturucu**
+> __Tanım:__ Discord Embed oluşturmak için başka bir yararlı araç. Bu araç JSON biçiminde dışa aktarır.   <br/>
+__Bağlantı:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
 
-## **List of Stickers**
-> __Description:__ A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions of stickers.   <br/>
-__Link:__ [List Of Stickers](https://stickers.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+## **Çıkartma Listesi**
+> __Tanım:__ Çıkartmaların önizlemeleri ve açıklamaları da dahil olmak üzere, Nitro abonesi olarak eriştiğiniz tüm çıkartmaların listesi.   <br/>
+__Bağlantı:__ [Çıkartma Listesi](https://stickers.advaith.io/)   <br/>
+__Oluşturucu:__ @190916650143318016
 
-## **All Discord Loading Messages**
-> __Description:__ A github gist full with all Discord loading messages.  <br/>
-__Link:__ [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
-__Credit:__ @190916650143318016
+## **Tüm Discord Yükleme Mesajları**
+> __Tanım:__ Tüm Discord yükleme mesajlarıyla dolu bir github özü.  <br/>
+__Bağlantı:__ [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
+__Oluşturucu:__ @190916650143318016
 
-## **Creating & Growing Communities**
-> __Description:__ A guide made by Jagrosh#4824 to help new server owners to create and grow their communities.   <br/>
-__Link:__ [Growing A Discord Server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
-__Credit:__ @113156185389092864
+## **Topluluklar Oluşturma ve Büyütme**
+> __Tanım:__ Yeni sunucu sahiplerinin topluluklarını oluşturmalarına ve büyütmelerine yardımcı olmak için Jagrosh#4824 tarafından hazırlanmış bir kılavuz.   <br/>
+__Bağlantı:__ [Topluluklar Oluşturma ve Büyütme](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
+__Oluşturucu:__ @113156185389092864
 
-## **Discord Protocol Links**
-> __Description:__ List of all discord protocol links.   <br/>
-*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on Android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
-__Link:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
-__Credit:__ @github:ghostrider-05
+## **Discord Protokol Bağlantıları**
+> __Tanım:__ Tüm anlaşmazlık protokolü bağlantılarının listesi.   <br/>
+*Not: Discord protokol bağlantıları butonlarda kullanılabilir! [bu tartışmaya göz atın](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) daha fazla bilgi için. Protokol bağlantıları Android'de çalışmıyor, iOS'tan emin değilim. (only <tel://number> works on iOS)*   <br/>
+__Bağlantı:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
+__Oluşturucu:__ @github:ghostrider-05
 
 ## **Discord Build Logger**
-> __Description:__ Site that logs all discord builds.   <br/>
-__Link:__ [Discord Build Logger](https://discord.sale/)  
-__Credit:__ @545581357812678656
+> __Tanım:__ Tüm discord kurulumlarını kaydeden site.   <br/>
+__Bağlantı:__ [Discord Build Logger](https://discord.sale/)  
+__Oluşturucu:__ @545581357812678656
 
-## **Discord Markdown Guide**
-> __Desciption:__ An in-depth guide for Discord markdown.  <br/>
-__Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
-__Credit:__ @github:matthewzring
+## **Discord İşaretleme Kılavuzu**
+> __Tanım:__ Discord işaretlemesi için ayrıntılı bir kılavuz.  <br/>
+__Bağlantı:__ [Discord İşaretleme Kılavuzu](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
+__Oluşturucu:__ @github:matthewzring
 
-## **All Discord Voice Activities**
-> __Description:__ A list that contains all Discord voice activities and their IDs.   <br/>
-__Link:__ [All Discord Voice Activities](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
-__Credit:__ @712626099141476383
+## **Tüm Discord Ses Etkinlikleri**
+> __Tanım:__ Tüm Discord ses etkinliklerini ve ID'leri içeren bir liste.   <br/>
+__Bağlantı:__ [Tüm Discord Ses Etkinlikleri](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
+__Oluşturucu:__ @712626099141476383
  
-## **Discord Top Servers Stats**
-> __Description:__ A Docs spreadsheet with hourly members stats of the biggest servers on Discord.   <br/>
-__Link:__ [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
+## **Discord En İyi Sunucu İstatistikleri**
+> __Tanım:__ Discord'daki en büyük sunucuların saatlik üye istatistiklerini içeren bir Dokümanlar elektronik tablosu.   <br/>
+__Bağlantı:__ [Discord En İyi Sunucu İstatistikleri](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
 
-## **Discord Assets**
-> __Description:__ All of Discord’s assets.   <br/>
-__Link:__ [Discord Assets](https://www.figma.com/community/file/992144378612759941/Discord-Resources)   <br/>
-__Credit:__ @354309005037797376
+## **Discord Varlıkları**
+> __Tanım:__ Tüm Discord için varlıklar.   <br/>
+__Bağlantı:__ [Discord Varlıkları](https://www.figma.com/community/file/992144378612759941/Discord-Resources)   <br/>
+__Oluşturucu:__ @354309005037797376
 
-## **(more) Discord Assets**
-> __Description:__ A list with all icons from the client.   <br/>
-__Link:__ [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
-__Credit:__ @223518178100248576
+## **(Daha fazla) Discord Varlıkları*
+> __Tanım:__ İstemciden gelen tüm simgeleri içeren bir liste.   <br/>
+__Bağlantı:__ [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
+__Oluşturucu:__ @223518178100248576
 
-## **Discord Basic Templates** (fan - made)
-> __Description:__ A list of fan-made basic templates to cover most types of communities.  <br/>
-__Link:__ [Discord Basic Templates](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
-__Credit:__ @242385234992037888
+## **Discord Temel Şablonu** (fan yapımı)
+> __Tanım:__ Çoğu topluluk türünü kapsayan hayran yapımı temel şablonların listesi.  <br/>
+__Bağlantı:__ [Discord Temel Şablonu](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
+__Oluşturucu:__ @242385234992037888
 
-## **Discord UI Mockup**
-> __Description:__ Exact copy of the discord client (might be outdated).   <br/>
-__Link:__ [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
-__Credit:__ @354309005037797376
+## **Discord Kullanıcı Arayüzü Modeli**
+> __Tanım:__ Discord istemcisinin tam kopyası (eski olabilir).   <br/>
+__Bağlantı:__ [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
+__Oluşturucu:__ @354309005037797376
 
 ## **Discord Payloads**
-> __Description:__ All of Discord's payloads.   <br/>
-__Link:__ [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
-__Credit:__ @184040656761651200
+> __Tanım:__ Discord'un tüm yükleri.   <br/>
+__Bağlantı:__ [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
+__Oluşturucu:__ @184040656761651200
