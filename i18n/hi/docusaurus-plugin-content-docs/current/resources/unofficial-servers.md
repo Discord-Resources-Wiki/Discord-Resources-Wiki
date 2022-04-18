@@ -1,7 +1,7 @@
 ---
-title: Unofficial Servers
-sidebar_position: 8
-description: Unofficial servers related to discord.
+शीर्षक: अनौपचारिक सर्वर
+साइडबार स्थिति: 8
+विवरण: डिस्कॉर्ड से संबंधित अनौपचारिक सर्वर।
 ---
 
 # Unofficial Servers
