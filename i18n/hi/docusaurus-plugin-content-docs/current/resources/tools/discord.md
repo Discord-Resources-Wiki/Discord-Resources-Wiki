@@ -15,20 +15,20 @@ __क्रेडिट:__ @99787644430475264
 > __Description:__ A list of all the permissions available for users.   <br/>
 __Link:__ [All Discord Permissions](https://discordapi.com/permissions)
 
-### **डिस्कॉर्ड के औजार**
-> __विवरण:__ पावर उपयोगकर्ताओं के लिए आपके गिल्ड का विश्लेषण करने के लिए डिस्कॉर्ड औजार का एक संग्रह, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
+### **डिस्कॉर्ड के टूल**
+> __विवरण:__ पावर उपयोगकर्ताओं के लिए आपके गिल्ड का विश्लेषण करने के लिए डिस्कॉर्ड टूल का एक संग्रह, स्नोफ्लेक्स के बारे में जानकारी प्राप्त करें, या डिस्कॉर्ड की वर्तमान स्थिति भी देखें. उन गिल्डों की संख्या प्राप्त करें जिनमें आपका अकाउंट है, देखें कि आपके पास कितने सर्वर हैं, मॉडरेट, और जो पार्टनर्ड हैं, और उपरोक्त श्रेणियों में सभी सर्वरों की सूची के साथ-साथ सभी सर्वरों की सूची दिखाएं।   <br/>
 __लिंक:__ [डिस्कॉर्ड के उपकरण](https://discordtools.io/)   <br/>
 __क्रेडिट:__ @276544649148235776
 
-### **Discord Toolbox**
-> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup.   <br/>
-__Link:__ [Discord Toolbox](https://distools.app/)   <br/>
-__Credit:__ @386861188891279362
+### **डिस्कॉर्ड के टूलबॉक्स**
+> __विवरण:__ डिस्कॉर्ड टूल जैसे डिसॉर्डर स्टेटस अपडेट, प्रयोग की जानकारी और सर्वर/स्नोफ्लेक्स   <br/>
+__लिंक:__ [डिस्कॉर्ड के टूलबॉक्स](https://distools.app/)   <br/>
+__क्रेडिट:__ @386861188891279362
 
-### **Discord Lookup**
-> __Description:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
-__Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
-__Credit:__ @231091710195662848
+### **डिस्कॉर्ड लूकअप**
+> __विवरण:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
+__लिंक:__ [डिस्कॉर्ड लूकअप](https://discordlookup.com/)  <br/>
+__क्रेडिट:__ @231091710195662848
 
 ### **Discord Data Package Explorer**
 > __Description:__ Explore your Discord data easily.   <br/>
