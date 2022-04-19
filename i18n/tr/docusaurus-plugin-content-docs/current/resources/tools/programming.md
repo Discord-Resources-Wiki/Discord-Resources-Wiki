@@ -1,107 +1,107 @@
 ---
-title: Programming Related 
+title: Programlama İle İlgili
 sidebar_position: 2
 description: Programming related tools
 ---
 
-# Programming Related
+# Programlama İle İlgili
 
 ### **Autocode**
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
-__Link:__ [Autocode](https://autocode.com/)  <br/>
-__Credit:__ @746460957651501196
+> __Tanım:__ Otomatik kod, JavaScript (Node.js) işlevlerini anında ölçeklenebilir web hizmetlerine dönüştürür, yapılandırma gerekmez.   <br/>
+__Bağlantı:__ [Autocode](https://autocode.com/)  <br/>
+__Oluşturucu:__ @746460957651501196
 
 ### **Stack Overflow**
-> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
-__Link:__ [Stack Overflow](https://stackoverflow.com/)
+> __Tanım:__ Çözüm bulmak ve kodlamayla ilgili sorunları tartışmak için bir yer.  <br/>
+__Bağlantı:__ [Stack Overflow](https://stackoverflow.com/)
 
 ### **RapidAPI**
-> __Description:__ Find APIs to all purposes.  <br/>
-__Link:__ [RapidAPI](https://rapidapi.com/)
+> __Tanım:__ Her amaca yönelik API'leri bulun.  <br/>
+__Bağlantı:__ [RapidAPI](https://rapidapi.com/)
 
 ### **Some Random API**
-> __Description:__ Variety of fun endpoints for devs to use.  <br/>
-__Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
-__Credit:__ @423675224395874314 
+> __Tanım:__ Geliştiricilerin kullanması için çeşitli eğlenceli uç noktalar.  <br/>
+__Bağlantı:__ [Some Random API](https://some-random-api.ml/)  <br/>
+__Oluşturucu:__ @423675224395874314 
 
 ### **Choose A License**
-> __Description:__ Choose a license for your open source project.   <br/>
-__Link:__ [Choose A License](https://choosealicense.com/)
+> __Tanım:__ Açık kaynak projeniz için bir lisans seçin.   <br/>
+__Bağlantı:__ [Choose A License](https://choosealicense.com/)
 
 ### **Docker**
-> __Description:__ Simplifies development processes.   <br/>
-__Link:__ [Docker](https://www.docker.com/)
+> __Tanım:__ Geliştirme süreçlerini basitleştirir.   <br/>
+__Bağlantı:__ [Docker](https://www.docker.com/)
 
 ### **Visual Studio Code**
-> __Description:__ Free and biggest code editing tool. <br/>
-__Link:__ [Visual studio code](https://code.visualstudio.com)  
+> __Tanım:__ Ücretsiz ve en büyük kod düzenleme aracı. <br/>
+__Bağlantı:__ [Visual studio code](https://code.visualstudio.com)  
 
 ### **Docusaurus**
-> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
-__Link:__ [Docusaurus](https://docusaurus.io/)
+> __Tanım:__ React'te optimize edilmiş bir site oluşturucu. Docusaurus hızlı hareket etmenize ve içerik yazmanıza yardımcı olur.   <br/>
+__Bağlantı:__ [Docusaurus](https://docusaurus.io/)
 
 ### **GitBook**
-> __Description:__ Create docs full of utilities and design options.  <br/>
-__Link:__ [GitBook](https://www.gitbook.com/)
+> __Tanım:__ Yardımcı programlar ve tasarım seçenekleriyle dolu dokümanlar oluşturun.  <br/>
+__Bağlantı:__ [GitBook](https://www.gitbook.com/)
 
 ### **GitHub’s Guides and Documentation**
-> __Description:__ Self explanatory.   <br/>
-__Link(s):__ 
+> __Tanım:__ Açıklayıcı.   <br/>
+__Bağlantı(lar):__ 
 [Docs](https://docs.github.com/en)   <br/>
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
 ### **Github Education Pack**
-> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
-__Link:__ [Github Education Pack](https://education.github.com/)
+> __Tanım:__ Github Eğitim Paketi tarafından sağlanan Ücretsiz Geliştirici Araçları.   <br/>
+__Bağlantı:__ [Github Education Pack](https://education.github.com/)
 
 ### **Public APIs**
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
-__Link:__ [Public APIs](https://github.com/public-apis/public-apis)
+> __Tanım:__ Genel API'ler, her bir API'nin kategorilere ayrıldığı ve belgelendiği projelerinizde kullanmak üzere bakımlı bir API listesidir.   <br/>
+__Bağlantı:__ [Public APIs](https://github.com/public-apis/public-apis)
 
 ### **HTTPS Statuses**
-> __Description:__ A list of HTTP status codes.   <br/>
-__Link:__ [HTTPS Statuses](https://httpstatuses.com/)
+> __Tanım:__ HTTP durum kodlarının bir listesi.   <br/>
+__Bağlantı:__ [HTTPS Statuses](https://httpstatuses.com/)
 
 ### **Does My Site Need HTTPS?**
-> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
-__Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+> __Tanım:__ HTTPS'nin önemini açıklayan bilgilendirici bir sayfa.  <br/>
+__Bağlantı:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
 
 ### **HTTP Toolkit**
-> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
-__Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-__Credit:__ github:@pimterry
+> __Tanım:__ Tüm HTTP(S) Mock uç noktalarınızı veya tüm sunucularınızı durdurun ve görüntüleyin Hataları yeniden yazın, yeniden yönlendirin.  <br/>
+__Bağlantı:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
+__Oluşturucu:__ github:@pimterry
 
 ### **Markdown Guide**
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
-__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+> __Tanım:__ Markdown Kılavuzu, hemen hemen her belgeyi biçimlendirmek için kullanabileceğiniz basit ve kullanımı kolay biçimlendirme dili olan Markdown'ın nasıl kullanılacağını açıklayan ücretsiz ve açık kaynaklı bir başvuru kılavuzudur.   <br/>
+__Bağlantı:__ [Markdown Guide](https://www.markdownguide.org/)
 
 ### **Qwerty.dev**
-> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
-__Link:__ [Qwerty.dev](https://qwerty.dev/)
+> __Tanım:__ Qwerty.dev (eski adıyla beautydingbats.com), çevrimiçi ortamda öne çıkmanıza yardımcı olacak bir unicode araçları koleksiyonudur.   <br/>
+__Bağlantı:__ [Qwerty.dev](https://qwerty.dev/)
 
 ### **replit**
-> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
-__Link:__ [replit](https://replit.com/)
+> __Tanım:__ 50'den fazla dili destekleyen bir tarayıcı içi IDE, derleyici ve yorumlayıcı.   <br/>
+__Bağlantı:__ [replit](https://replit.com/)
 
 ### **Regex101**
-> __Description:__ Build, test, and debug regex.   <br/>
-__Link:__ [Regex101](https://regex101.com/)
+> __Tanım:__ Normal ifadeyi oluşturun, test edin ve hatalarını ayıklayın.   <br/>
+__Bağlantı:__ [Regex101](https://regex101.com/)
 
 ### **RegExp Generator**
-> __Description:__ Unicode range RegExp generator.   <br/>
-__Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
+> __Tanım:__ Unicode aracılığı ile RegEx üreteci.   <br/>
+__Bağlantı:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
 ### **Regex Crossword**
-> __Description:__ Learn regex through puzzles and challenges.   <br/>
-__Link:__ [Regex Crossword](https://regexcrossword.com/)
+> __Tanım:__ Bulmacalar ve zorluklarla normal ifadeyi öğrenin.   <br/>
+__Bağlantı:__ [Regex Crossword](https://regexcrossword.com/)
 
 ### **Guide(s) to contributing on Open Source Software**
-> __Description:__ A list of various resources to help OSS contributors. <br/>
-__Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-__Credit:__ @github:freeCodeCamp
+> __Tanım:__ OSS'ye katkıda bulunanlara yardımcı olacak çeşitli kaynakların listesi. <br/>
+__Bağlantı:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+__Oluşturucu:__ @github:freeCodeCamp
 
 ### **Big List of Nasty Strings**
-> __Description:__ A list of strings to help test for edge cases <br/>
-__Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-__Credit:__ @github:minimaxir
+> __Tanım:__ Stating test etmeye yardımcı olacak dizelerin listesi <br/>
+__Bağlantı:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+__Oluşturucu:__ @github:minimaxir
