@@ -1,16 +1,16 @@
 ---
-title: Fun Links
+title: Những link vui nhộn
 sidebar_position: 12
-description: Fun links
+description: Nó sẽ làm cho bạn cười
 ---
 
 # Fun Links
 
-https://tryitands.ee/ | Try and see video   <br/>
-https://shutplea.se/ | Shut bird   <br/>
-https://i-dont-ca.re/ | About docs   <br/>
-https://just-read.it/ | Read the error smh   <br/>
-https://when.lol/ | When did I ask   <br/>
+https://tryitands.ee/ | Thử và xem sao?   <br/>
+https://shutplea.se/ | Im mồm đi!   <br/>
+https://i-dont-ca.re/ | Về tài liệu tham khảo   <br/>
+https://just-read.it/ | Hãy đọc lỗi.  <br/>
+https://when.lol/ | Tôi hỏi khi nào?   <br/>
 https://getsharex.com/premium | Sharex premium   <br/>
 https://nohello.com/ | Don't just say hello   <br/>
 https://nohello.net/ | Don't just say hello 2.0 <br/>
