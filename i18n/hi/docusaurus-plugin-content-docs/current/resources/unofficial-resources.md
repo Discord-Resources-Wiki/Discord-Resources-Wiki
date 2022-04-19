@@ -1,61 +1,61 @@
 ---
-title: Unofficial Resources
-sidebar_position: 9
-description: Unofficial resources for discord.
+शीर्षक: अनौपचारिक रिसोर्सिस
+साइडबार स्थिति	: 9
+विवरण: डिस्कॉर्ड के लिए अनौपचारिक रिसोर्सिस
 ---
 
-# Unofficial Resources
+# अनौपचारिक रिसोर्सिस
 
-## **Discord Lists**
-> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites.   <br/>
-__Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
-__Credit:__ @142242854167642122
+## **डिस्कॉर्ड लिस्ट**
+> __विवरण:__ डिस्कॉर्ड द्वारा वर्तमान में उपयोग किए जाने वाले डोमेन से लेकर अनिर्दिष्ट उपयोगकर्ता फ़्लैग, ज्ञात गतिविधि एप्लिकेशन आईडी, ज्ञात भागीदार और सत्यापित सर्वर आमंत्रणों की सूची तक, विभिन्न डिस्कॉर्ड चीज़ों की एक विशाल सूची ।   <br/>
+__लिंक:__ [डिस्कॉर्ड लिस्ट](https://github.com/Delitefully/DiscordLists)   <br/>
+__क्रेडिट:__ @142242854167642122
 
-## **Discord Guild Features**
-> __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
-__Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
-__Credit:__ @503677457107517442
+## **डिस्कॉर्ड गिल्ड फीचर्स**
+> __विवरण:__ विस्तृत विवरण के साथ डिस्कॉर्ड की गिल्ड सुविधाओं की एक चल रही सूची ।   <br/>
+__लिंक:__ [डिस्कॉर्ड गिल्ड फीचर्](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
+__क्रेडिट:__ @503677457107517442
 
-## **List of dis.gd URLs**
-> __Description:__ A list of all the shortened Discord links.   <br/>
-__Link:__  <br/>
-[List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-[List Of Dis.gd URLs 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
-__Credit:__ @179655253392621569 @641795527444529152
+## **Dis.gd यूआरएल की सूची**
+> __विवरण:__ सभी संक्षिप्त डिस्कॉर्ड लिंक की एक सूची ।   <br/>
+__लिंक:__  <br/>
+[Dis.gd यूआरएल की सूची](https://herogamers.dev/dis.gd/)   <br/>
+[Dis.gd यूआरएल की सूची 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
+__क्रेडिट:__ @179655253392621569 @641795527444529152
 
-## **Discord Wiki** (fandom)
-> __Description:__ The unofficial Discord wiki, done in typical wiki style.   <br/>
-__Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord) 
+## **डिस्कॉर्ड विकि** (fandom)
+> __विवरण:__ अनौपचारिक डिस्कोर्ड विकी, विशिष्ट विकि शैली में किया गया ।   <br/>
+__लिंक:__ [डिस्कॉर्ड विकि](https://discord.fandom.com/wiki/Discord) 
 
-## **Discohook** 
-> __Description:__ Allows you to preview embeds and send them via webhooks.   <br/>
-__Link:__ [Discohook](https://discohook.org/)   <br/>
-__Credit:__ @143419667677970434
+## **डिस्कोहुक** 
+> __विवरण:__ आपको एम्बेड का पूर्वावलोकन करने और उन्हें वेबहुक के माध्यम से भेजने की अनुमति देता है ।   <br/>
+__लिंक:__ [डिस्कोहुक](https://discohook.org/)   <br/>
+__क्रेडिट:__ @143419667677970434
 
-## **Nadeko Embed Builder**
-> __Description:__ Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
-__Link:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
+## **नादेको एम्बेड बिल्डर**
+> __विवरण:__ डिस्कॉर्ड एम्बेड उत्पन्न करने के लिए एक और उपयोगी उपकरण। यह टूल JSON फॉर्मेट में एक्सपोर्ट करता है।   <br/>
+__लिंक:__ [नादेको एम्बेड बिल्डर](https://embedbuilder.nadekobot.me/) 
 
-## **List of Stickers**
-> __Description:__ A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions of stickers.   <br/>
-__Link:__ [List Of Stickers](https://stickers.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+## **स्टिकर की सूची**
+> __विवरण:__ एक नाइट्रो ग्राहक के रूप में आपके द्वारा एक्सेस किए जाने वाले सभी स्टिकर की सूची, जिसमें स्टिकर के पूर्वावलोकन और विवरण शामिल हैं ।   <br/>
+__लिंक:__ [स्टिकर की सूची](https://stickers.advaith.io/)   <br/>
+__क्रेडिट:__ @190916650143318016
 
-## **All Discord Loading Messages**
-> __Description:__ A github gist full with all Discord loading messages.  <br/>
-__Link:__ [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
-__Credit:__ @190916650143318016
+## **सभी डिस्कॉर्ड लोड हो रहे संदेश**
+> __विवरण:__ सभी डिस्कॉर्ड लोडिंग संदेशों से भरा एक जीथब सार ।  <br/>
+__लिंक:__ [सभी डिस्कॉर्ड लोड हो रहे संदेश](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
+__क्रेडिट:__ @190916650143318016
 
-## **Creating & Growing Communities**
-> __Description:__ A guide made by Jagrosh#4824 to help new server owners to create and grow their communities.   <br/>
-__Link:__ [Growing A Discord Server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
-__Credit:__ @113156185389092864
+## **समुदाय बनाना और बढ़ाना**
+> __विवरण:__ A guide made by Jagrosh#4824 to help new server owners to create and grow their communities.   <br/>
+__लिंक:__ [एक डिस्कॉर्ड सर्वर बढ़ रहा है](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
+__क्रेडिट:__ @113156185389092864
 
-## **Discord Protocol Links**
-> __Description:__ List of all discord protocol links.   <br/>
-*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on Android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
-__Link:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
-__Credit:__ @github:ghostrider-05
+## **डिस्कॉर्ड प्रोटोकॉल लिंक**
+> __विवरण:__ सभी डिस्कॉर्ड प्रोटोकॉल लिंक की सूची।   <br/>
+*टिप्पणी: बटन में डिस्कॉर्ड प्रोटोकॉल लिंक का उपयोग किया जा सकता है। चेक आउट [यह चर्चा](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) अधिक जानकारी के लिए. प्रोटोकॉल लिंक Android पर काम नहीं करते, iOS के बारे में सुनिश्चित नहीं हैं। (केवल <tel://number> iOS पर काम करता है)*   <br/>
+__लिंक:__ [डिस्कॉर्ड प्रोटोकॉल लिंक](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
+__क्रेडिट:__ @github:ghostrider-05
 
 ## **Discord Build Logger**
 > __Description:__ Site that logs all discord builds.   <br/>
