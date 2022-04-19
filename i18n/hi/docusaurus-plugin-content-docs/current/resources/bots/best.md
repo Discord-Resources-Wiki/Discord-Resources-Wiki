@@ -43,14 +43,14 @@ __Link(s):__   <br/>
 __Credit:__ @287698408855044097
 
 ### **AutoModerator** 
-> __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
-__Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
-__Credit:__ @223703707118731264 @104425482757357568
+> __विवरण:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
+__लिंक:__ [AutoModerator Website](https://automoderator.app/)   <br/>
+__क्रेडिट:__ @223703707118731264 @104425482757357568
 
-### **Beemo**
-> __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
-__Link:__ [Website](https://beemo.gg/)   <br/>
-__Credit:__ @192048286331437056
+### **बीमो**
+> __विवरण:__ बीमो एक एंटी-स्पैम डिस्कॉर्ड बॉट है जो आपको अपने सर्वर को एक शक्तिशाली एंटी-बॉट एल्गोरिथम से लैस करने की अनुमति देता है जो आपके सर्वर के खिलाफ उपयोगकर्ता-बॉट छापे को रोकने के लिए पृष्ठभूमि में संचालित होता है।  बीमो का एंटी-बॉट वास्तविक उपयोगकर्ताओं से बचने वाले फाइन-ट्यून किए गए डिटेक्शन एल्गोरिदम के साथ ऑन-विज़न पर बड़े पैमाने पर प्रतिबंध लगाकर स्वचालित रूप से और प्रभावी रूप से बॉट रेड खतरों को कम करता है  ।   <br/>
+__लिंक:__ [वेबसाइट](https://beemo.gg/)   <br/>
+__क्रेडिट:__ @192048286331437056
 
 ### **Beemo Helper (addition)**
 > __Description:__ Beemo Helper is designed to help Beemo (https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
