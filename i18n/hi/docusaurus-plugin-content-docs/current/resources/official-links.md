@@ -1,81 +1,81 @@
 ---
-title: Official Discord Links
-sidebar_position: 4
-description: Official links from discord.
+शीर्षक: आधिकारिक डिस्कॉर्ड लिंक
+साइडबार स्थिति: 4
+विवरण: डिस्कॉर्ड से आधिकारिक लिंक
 ---
 
-# Official Discord Links
+# आधिकारिक डिस्कॉर्ड लिंक
 
-## **Discord Website**
-> __Description:__ Imagine a place… where links were not so long.   <br/>
-__Link:__ [Discord Website](https://dis.gd/)
+## **डिस्कॉर्ड वेबसाइट**
+> __विवरण:__ एक ऐसी जगह की कल्पना करें... जहां लिंक्स इतने लंबे नहीं थे ।   <br/>
+__लिंक:__ [डिस्कॉर्ड वेबसाइट](https://dis.gd/)
 
-## **How to Report**
-> __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
-__Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+## **रिपोर्ट कैसे करें**
+> __विवरण:__ डिस्कॉर्ड की ट्रस्ट और सुरक्षा टीम को समस्याओं की ठीक से रिपोर्ट करने के तरीके के बारे में एक गाइड ।   <br/>
+__लिंक:__  [रिपोर्ट कैसे करें](https://dis.gd/howtoreport) | [डी.एम.ए आर्टिकल](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## **How to get user IDs** 
-> __Description:__ A guide on how to find IDs.   <br/>
-__Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
+## **यूजर आईडी कैसे प्राप्त करें** 
+> __विवरण:__ आईडी कैसे खोजें इस पर एक गाइड ।   <br/>
+__लिंक:__  [उपयोगकर्ता/सर्वर/संदेश आईडी कैसे प्राप्त करें](https://dis.gd/findmyid)
 
-## **Discord Bugs**
-> __Description:__  The official tool to look up reported and approved bugs.   <br/>
-__Link:__ [Discord Bugs](https://bugs.discord.com/)
+## **डिस्कॉर्ड बग्स**
+> __विवरण:__  रिपोर्ट किए गए और स्वीकृत बग देखने के लिए आधिकारिक टूल ।   <br/>
+__लिंक:__ [डिस्कॉर्ड बग्स](https://bugs.discord.com/)
 
-## **Discord Testers Bug Tool**
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
-__Credit:__ @53905483156684800
+## **डिस्कॉर्ड टेस्टर्स बग टूल**
+> __विवरण:__ DBug के !submit कमांड के लिए टेक्स्ट जनरेट करने का आधिकारिक टूल । आधिकारिक रूप अंत में आपके लिए स्वचालित रूप से एक आदेश उत्पन्न करने के लिए प्रत्येक इनपुट के माध्यम से चरण दर चरण आपका मार्गदर्शन करता है ।   <br/>
+__लिंक:__ [टेस्टर्स बग टूल](https://dis.gd/bug-tool)
+__क्रेडिट:__ @53905483156684800
 
-## **Discord Testing Clients**
-> __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
-__Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+## **डिस्कॉर्ड टेस्टिंग क्लाइंट्स**
+> __विवरण:__ सभी प्लेटफार्मों के लिए डिस्कॉर्ड टेस्टिंग क्लाइंट्स को डाउनलोड करने और उनका उपयोग करने पर एक गाइड ।   <br/>
+__लिंक:__ [टेस्टिंग क्लाइंट्स](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
-## **Discord Moderator Academy** 
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
+## **डिस्कॉर्ड मॉडरेटर अकादमी** 
+> __विवरण:__ मॉडरेटर के लिए डिस्कॉर्ड के आधिकारिक संसाधन, मॉडरेटर द्वारा लिखे गए ।   <br/>
+__लिंक:__ [डिस्कॉर्ड मॉडरेटर अकादमी](https://dis.gd/moderation)
 
-## **Discord Libraries Servers List**
-> __Description:__ A Reddit wiki page that lists all of the Discord API libraries.   <br/>
-__Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+## **डिस्कॉर्ड पुस्तकालय सर्वर सूची**
+> __विवरण:__ एक रेडिट विकी पेज जो सभी डिस्कॉर्ड एपीआई पुस्तकालयों को सूचीबद्ध करता है ।   <br/>
+__लिंक:__ [डिस्कॉर्ड पुस्तकालय सर्वर सूची](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## **Discord Open Source**
-> __Description:__ This is the source list of OSS communities that use and live on Discord.   <br/>
-__Link(s):__
-[Discord Open Source](https://discord.com/open-source)   <br/>
-[Discord Open Source Github](https://github.com/discord/discord-open-source)
+## **डिस्कॉर्ड ओपन सोर्स**
+> __विवरण:__ This is the source list of OSS communities that use and live on Discord.   <br/>
+__लिंक(s):__
+[डिस्कॉर्ड ओपन सोर्स](https://discord.com/open-source)   <br/>
+[डिस्कॉर्ड ओपन सोर्स गिटहब](https://github.com/discord/discord-open-source)
 
-## **Discord Branding**  
-> __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+## **डिस्कॉर्ड ब्रांडिंग**  
+> __विवरण:__ डिस्कॉर्ड की ब्रांडिंग संपत्तियां और दिशानिर्देश ।   <br/>
+__लिंक:__ [डिस्कॉर्ड ब्रांडिंग](https://discord.com/branding)
 
-## **Discord Nitro**
-> __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
-__Link:__ [Discord Nitro](https://dis.gd/nitro)
+## **डिस्कॉर्ड नाइट्रो**
+> __विवरण:__  नाइट्रो या नाइट्रो क्लासिक सदस्यता के बारे में जानकारी ।   <br/>
+__लिंक:__ [डिस्कॉर्ड नाइट्रो](https://dis.gd/nitro)
 
-## **Discord Status Page**
-> __Description:__ Provides information on the current status of the Discord services.   <br/>
-__Link:__ [Status Page](https://dis.gd/status)
+## **डिस्कॉर्ड स्थिति पेज**
+> __विवरण:__ डिस्कॉर्ड सेवाओं की वर्तमान स्थिति के बारे में जानकारी प्रदान करता है ।   <br/>
+__लिंक:__ [स्थिति पेज](https://dis.gd/status)
 
-## **Discord Developer Portal**
-> __Description:__ The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
-__Link:__ [Discord Developer Portal](https://discord.com/developers/)
+## **डिस्कॉर्ड डेवलपर पोर्टल**
+> __विवरण:__ डेवलपर्स के लिए अपने ऐप्स, टीमों, OAuth2 स्कोप और बहुत कुछ प्रबंधित करने के लिए मुख्य वेबसाइट ।    <br/>
+__लिंक:__ [डिस्कॉर्ड डेवलपर पोर्टल](https://discord.com/developers/)
 
-## **Discord Developer Docs**
-> __Description:__ The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
-__Link:__ [Discord Developer Docs](https://discord.dev/)
+## **डिस्कॉर्ड डेवलपर डॉक्स**
+> __विवरण:__ सभी प्रकार के इंटरैक्शन को कैसे हैंडल किया जाता है, और बॉट डेवलपर्स के लिए एक संसाधन का विवरण देने वाले दस्तावेज़ ।   <br/>
+__लिंक:__ [डिस्कॉर्ड डेवलपर डॉक्स](https://discord.dev/)
 
-## **Discord Security Bug Bounties**
-> __Description:__ The place to submit security vulnerabilities within Discord.   <br/>
-__Link:__ [Discord Security Bug Bounties](https://discord.com/security)
+## **डिस्कॉर्ड सिक्योरिटी बग बाउंटी**
+> __विवरण:__ डिस्कॉर्ड के भीतर सुरक्षा कमजोरियों को प्रस्तुत करने का स्थान ।   <br/>
+__लिंक:__ [डिस्कॉर्ड सिक्योरिटी बग बाउंटी](https://discord.com/security)
 
-## **Latest Transparency Report** 
-> __Description:__ The most recent update on the security team’s actions and terminations.   <br/>
-__Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+## **नवीनतम पारदर्शिता रिपोर्ट** 
+> __विवरण:__ सुरक्षा टीम की कार्रवाइयों और समाप्ति पर नवीनतम अपडेट ।   <br/>
+__लिंक:__ [नवीनतम पारदर्शिता रिपोर्ट](https://discord.com/blog/discord-transparency-report-h1-2021)
 
-## **Discord’s (new) Media Kit**
-> __Description:__ Discord’s official assets.   <br/>
-__Link:__ <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
+## **डिस्कॉर्ड्स (नया) मीडिया किट**
+> __विवरण:__ डिस्कॉर्ड की आधिकारिक संपत्ति ।   <br/>
+__लिंक:__ <br/>
+[डिस्कॉर्ड्स (नया) मीडिया किट - सीधा डाउनलोड करें](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[डिस्कॉर्ड ब्रांडिंग पेज](https://discord.com/branding)
 
