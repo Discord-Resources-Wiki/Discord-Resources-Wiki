@@ -1,24 +1,24 @@
 ---
-title: Official Forms
-sidebar_position: 3
-description: Official forms from discord.
+शीर्षक: आधिकारिक रूप
+साइडबार स्थिति: 3
+विवरण: डिस्कॉर्ड से आधिकारिक रूप
 ---
 
-# Official Forms
+# आधिकारिक रूप
 
-## **Report Form** 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
-__Link:__ [Discord Report Form](https://dis.gd/report)
+## **रिपोर्ट फॉर्म** 
+> __विवरण:__ डिस्कॉर्ड की ट्रस्ट और सुरक्षा टीम को किसी समस्या की रिपोर्ट करें ।   <br/>
+__लिंक:__ [डिस्कॉर्ड रिपोर्ट फॉर्म](https://dis.gd/report)
 
-## **Support Form** 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
-__Link:__  [Discord Support Form](https://dis.gd/contact)
+## **सपोर्ट फॉर्म** 
+> __विवरण:__ मदद की ज़रूरत है? डिस्कॉर्ड टीम को एक अनुरोध संबित करें ।   <br/>
+__लिंक:__  [डिस्कॉर्ड सपोर्ट फॉर्म](https://dis.gd/contact)
 
-## **Feedback** 
-> __Description:__ Submit feedback to the Discord team.   <br/>
-__Link:__  [Discord Feedback Form](https://dis.gd/feedback)
+## **फीडबेक** 
+> __विवरण:__ डिस्कॉर्ड टीम को फीडबेक संबित करें ।   <br/>
+__लिंक:__  [डिस्कॉर्ड फीडबेक फॉर्म](https://dis.gd/feedback)
 
 
-## **Discord Trust & Safety** 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
-__Link:__ [Discord TnS](https://dis.gd/request)
+## **डिस्कॉर्ड ट्रस्ट और सेफ्टी** 
+> __विवरण:__ डिस्कॉर्ड की ट्रस्ट और सुरक्षा टीम को एक अनुरोध संबित करें ।   <br/>
+__लिंक:__ [डिस्कॉर्ड टी.एन.एस](https://dis.gd/request)
