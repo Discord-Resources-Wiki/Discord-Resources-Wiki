@@ -1,38 +1,38 @@
 ---
-title: Official Discord Servers
-sidebar_position: 2
-description: Official servers owned by discord.
+शीर्षक: आधिकारिक डिस्कॉर्ड सर्वर
+साइडबार स्थिति: 2
+विवरण: Official servers owned by discord.
 ---
 
-# Official Servers
+# आधिकारिक सर्वर
 
-## **Discord Testers** 
-> __Description:__ The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
-__Link:__ [Discord Testers](https://discord.gg/discord-testers)
+## **डिस्कॉर्ड टेस्टर्स** 
+> __विवरण:__ डिस्कॉर्ड बग्स की रिपोर्ट करने का आधिकारिक स्थान! बग ढूंढने में सहायता करें, दूसरों के साथ चैट करें और परीक्षक समुदाय का हिस्सा बनें ।   <br/>
+__लिंक:__ [डिस्कॉर्ड टेस्टर्स](https://discord.gg/discord-testers)
 
 @gg/discord-testers
 
 
-## **Discord Developers**
-> __Description:__ The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
-__Link:__ [Discord Developers](https://discord.gg/discord-developers)
+## **डिस्कॉर्ड डेवलपर्स**
+> __विवरण:__ सामुदायिक डेवलपर्स और डिस्कॉर्ड कर्मचारियों के साथ डिस्कॉर्ड के एपीआई और एसडीके पर समान रूप से चर्चा करने का आधिकारिक स्थान ।   <br/>
+__लिंक:__ [डिस्कॉर्ड डेवलपर्स](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
-## **Discord Town Hall** 
-> __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-__Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
+## **डिस्कॉर्ड टाउन हॉल** 
+> __विवरण:__ डिस्कॉर्ड से प्यार करने वाले लोगों के लिए एक आधिकारिक सामान्य चैटिंग सर्वर। नवीनतम समाचार, घटनाएँ और एक समुदाय खोजें जिससे आप प्यार करते हैं ।   <br/>
+__लिंक:__ [डिस्कॉर्ड टाउन हॉल](https://discord.gg/discord-townhall)
 
 @gg/discord-townhall
 
-## **Discord Games Lab** 
-> __Description:__ The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
-__Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
+## **डिस्कॉर्ड गेम्स लैब** 
+> __विवरण:__ डिस्कॉर्ड गेम्स लैब के लिए आधिकारिक सर्वर । आओ पोकर नाइट खेलें, शतरंज खेलें, या अपने दोस्तों के साथ मिलकर देखें ।   <br/>
+__लिंक:__ [डिस्कॉर्ड गेम्स लैब](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
 
-## **Discord Safety**
-> __Description:__ Currently under construction.  <br/>
-__Link:__ [Discord Safety](https://discord.gg/safety)
+## **डिस्कॉर्ड सेफ्टी**
+> __विवरण:__ वर्तमान में निर्माणाधीन है ।  <br/>
+__लिंक:__ [डिस्कॉर्ड सेफ्टी](https://discord.gg/safety)
 
 @gg/safety
