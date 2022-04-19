@@ -21,18 +21,18 @@ __क्रेडिटस:__ @106391128718245888 @347727875266576395
 __लिंक:__ [गिसेलेबोट](https://docs.gisellebot.com/)   <br/>
 __क्रेडिट:__  @220081163660689408 @200987752794292224
 
-### **Vortex**
-> __Description:__  
-Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
+### **वोर्टेक्स**
+> __विवरण:__  
+वोर्टेक्स एक बॉट है जिसे आपके सर्वर को सुरक्षित रखने और आपकी स्टाफ टीम को व्यवस्थित रखने के लिए डिज़ाइन किया गया है ।  इसका मॉडरेशन और लॉगिंग सूट आपके सदस्यों पर नज़र रखता है और आपके मॉडरेटर को जवाबदेह रखता है।  इसकी ऑटो-मॉडरेटर क्षमताएं इसे मानव हस्तक्षेप की आवश्यकता के बिना कुछ प्रकार के व्यवहार को फ़िल्टर करने की अनुमति देती हैं, स्टाफ टीम के भार को हल्का करती हैं ।  अंत में, वोर्टेक्स को तेज और उपयोग में आसान बनाने के लिए डिज़ाइन किया गया है ।   <br/>
 __लिंक:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
 __क्रेडिट:__ @113156185389092864
 
-### **GearBot**
-> __Description:__ Trustworthy general moderation bot.   <br/>
-__Link(s):__   <br/>
-[GearBot Website](https://gearbot.rocks/)   <br/>
-[Invite GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
-__Credit:__ @106354106196570112
+### **गियरबॉट**
+> __विवरण:__ भरोसेमंद सामान्य मॉडरेशन बॉट।   <br/>
+__लिंक्स:__   <br/>
+[गियरबॉट वेबसाइट](https://gearbot.rocks/)   <br/>
+[इनवाइट गियरबॉट](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
+__क्रेडिट:__ @106354106196570112
 
 
 ### **Fire**
