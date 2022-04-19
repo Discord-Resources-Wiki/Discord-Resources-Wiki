@@ -9,64 +9,64 @@
 ## **डिस्कॉर्ड ए.पी.आई.**
 > __विवरण:__ डिस्कॉर्ड एपीआई के साथ सूचना और सहायता के लिए समर्पित एक सर्वर ।   <br/>
 __लिंक:__ [डिस्कॉर्ड एपीआई](https://discord.gg/discord-api)   <br/>
-__श्रेय:__ डिस्कॉर्ड एपीआई टीम (@80088516616269824 के स्वामित्व) 
+__क्रेडिट:__ डिस्कॉर्ड एपीआई टीम (@80088516616269824 के स्वामित्व) 
 
 @gg/discord-api
 
-## **Discord Linux**
-> __Description:__ A server dedicated to information and assistance with the Linux version of Discord.   <br/>
-__Link:__ [Discord Linux](https://discord.gg/discord-linux)   <br/>
-__Credit:__ Discord Linux team (owned by @86201442112671744)
+## **डिस्कॉर्ड लिनक्स**
+> __विवरण:__ डिस्कॉर्ड के लिनक्स संस्करण के साथ सूचना और सहायता के लिए समर्पित एक सर्वर ।   <br/>
+__लिंक:__ [डिस्कॉर्ड लिनक्स](https://discord.gg/discord-linux)   <br/>
+__क्रेडिट:__ डिस्कॉर्ड लिनक्स टीम (@86201442112671744 के स्वामित्व)
 
 @gg/discord-linux
 
-## **Discord Bots**
-> __Description:__ The Discord server for the oldest bots list on Discord, affiliated with Discord API.   <br/>
-__Link:__ [Discord Bots](https://discord.gg/dbots)   <br/>
-__Credit:__ Discord Bots’ server team (owned by @66237334693085184)
+## **डिस्कॉर्ड बोट्स**
+> __विवरण:__ डिस्कॉर्ड एपीआई से संबद्ध डिस्कॉर्ड पर सबसे पुराने बॉट्स सूची के लिए डिस्कॉर्ड सर्वर ।   <br/>
+__लिंक:__ [डिस्कॉर्ड बोट्स](https://discord.gg/dbots)   <br/>
+__क्रेडिट:__ डिस्कॉर्ड बोट्स सर्वर टीम (@66237334693085184 के स्वामित्व)
 
 @gg/dbots
 
-## **Discord Networking**
-> __Description:__ A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships.   <br/>
-__Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required)   <br/>
-__Credit:__ Discord Networking team (owned by @200987752794292224)
+## **डिस्कॉर्ड नेटवर्किंग**
+> __विवरण:__ एक ऐसा स्थान जहां कोई भी व्यक्ति जो डिस्कॉर्ड सर्वर के संचालन का समर्थन करने में मदद करता है, एक दूसरे को जान सकता है, सलाह का आदान-प्रदान कर सकता है और स्थायी साझेदारी बना सकता है ।   <br/>
+__लिंक:__ [डिस्कॉर्ड नेटवर्किंग](https://discord.gg/BcXExxeGVG) (एक्सेस अनुरोध आवश्यक)   <br/>
+__क्रेडिट:__ डिस्कॉर्ड नेटवर्किंग टीम (@200987752794292224 के स्वामित्व)
 
 @gg/BcXExxeGVG
 
 
-## **Displace** 
-> __Description:__ The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-__Link(s):__ [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
-__Credit:__ The Displace team (owned by @249287049482338305)
+## **डिस्प्लेस** 
+> __विवरण:__ सबसे बड़ा कलह मेटा समुदाय। अपने समुदाय के लिए अपने सभी विवाद समाचार, सहायता और संसाधन प्राप्त करें ।   <br/>
+__लिंक(स):__ [डिस्प्लेस सर्वर](https://discord.gg/displace) | [डिस्प्लेस वेबसाइट](https://dat.place/)   <br/>
+__क्रेडिट:__ धी डिस्प्लेस टीम (@249287049482338305 के स्वामित्व)
 
 @gg/displace
 
-## **The Coding Den**
-> __Description:__  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
-__Link:__ [The Coding Den](https://discord.gg/code)   <br/>
-__Credit:__ The Coding Den team (owned by @229334929614438400)
+## **धी कोडिंग डेन**
+> __विवरण:__  कोडिंग डेन नए और अनुभवी प्रोग्रामर को समान रूप से मदद करने पर ध्यान केंद्रित करने वाले कोडर्स का एक अनुकूल समुदाय है ।   <br/>
+__लिंक:__ [धी कोडिंग डेन](https://discord.gg/code)   <br/>
+__क्रेडिट:__ धी कोडिंग डेन टीम (@229334929614438400 के स्वामित्व)
 
 @gg/code
 
-## **Discord Hotline**
-> __Description:__ A community for moderators to discuss moderation and Discord meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Discord Hotline team (owned by @108432868149035008)
+## **डिस्कॉर्ड हॉटलाइन**
+> __विवरण:__ मॉडरेटर के लिए मॉडरेशन और डिस्कॉर्ड मेटा पर चर्चा करने के लिए एक समुदाय ।   <br/>
+__लिंक:__ (सिर्फ रेफरल द्वारा)   <br/>
+__क्रेडिट:__ डिस्कॉर्ड हॉटलाइन टीम (@108432868149035008 के स्वामित्व)
 
-## **The Fish Project**
-> __Description:__ Providing early detection of new phishing attacks before they can be used to harm users.   <br/>
-__Link:__ (only by referral) (access request required)   <br/>
-__Credit:__ The Fish Project team (owned by @459235187469975572)
+## **धी फ़िश प्रोजेक्ट**
+> __विवरण:__ उपयोगकर्ताओं को नुकसान पहुँचाने के लिए उपयोग किए जाने से पहले नए फ़िशिंग हमलों का शीघ्र पता लगाना ।   <br/>
+__लिंक:__ (सिर्फ रेफरल द्वारा) (एक्सेस अनुरोध आवश्यक)   <br/>
+__क्रेडिट:__ धी फिश प्रोजेक्ट टीम (@459235187469975572 के स्वामित्व)
 
-## **Dev Hub**
-> __Description:__ A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Dev Hub team (owned by @386861188891279362)
+## **डेव हब**
+> __विवरण:__ विचार साझा करने और बातचीत (डिसॉर्ड) मेटा के लिए डेवलपर्स और कुशल लोगों को एक साथ लाने के लिए एक समुदाय ।   <br/>
+__लिंक:__ (सिर्फ रेफरल द्वारा)   <br/>
+__क्रेडिट:__ डेव हब टीम (@386861188891279362 के स्वामित्व)
 
-## **The Programmers Hangout** 
-> __Description:__ The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
-__Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
-__Credit:__ The Programmers Hangout team (owned by @335628039302021121)
+## **धी प्रोग्रामर हैंगआउट** 
+> __विवरण:__ प्रोग्रामर हैंगआउट एक सामान्य-उद्देश्य वाला प्रोग्रामिंग समुदाय है, जो सभी अनुभव स्तरों को पूरा करने के लिए हैंगआउट पर जोर देता है। ओपन सोर्स प्रोजेक्ट्स, शिक्षा, सीखने, करियर की प्रगति और प्रोग्रामिंग सहायता पर ध्यान देने के साथ ।  <br/>
+__लिंक(स):__ [धी प्रोग्रामर हैंगआउट](https://discord.gg/programming) | [धी प्रोग्रामर हैंगआउट वेबसाइट](https://theprogrammershangout.com/)   <br/>
+__क्रेडिट:__ धी प्रोग्रामर हैंगआउट टीम (@335628039302021121 के स्वामित्व)
 
 @gg/programming
