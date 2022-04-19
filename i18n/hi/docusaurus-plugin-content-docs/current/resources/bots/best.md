@@ -16,16 +16,16 @@ __लिंक्स:__   <br/>
 [हैंडबुक](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
 __क्रेडिटस:__ @106391128718245888 @347727875266576395
 
-### **GiselleBot**
-> __Description:__ Multi function, general moderation bot.   <br/>
-__Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
-__Credit(s):__  @220081163660689408 @200987752794292224
+### **गिसेलेबोट**
+> __विवरण:__ मल्टी फंक्शंस, जेनरल मॉडरेशन बोट   <br/>
+__लिंक:__ [गिसेलेबोट](https://docs.gisellebot.com/)   <br/>
+__क्रेडिट:__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
 > __Description:__  
 Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
-__Link:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
-__Credit:__ @113156185389092864
+__लिंक:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
+__क्रेडिट:__ @113156185389092864
 
 ### **GearBot**
 > __Description:__ Trustworthy general moderation bot.   <br/>
