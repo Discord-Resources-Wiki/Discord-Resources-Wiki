@@ -15,9 +15,9 @@ description: Trang web chứa tất cả mọi tài nguyên về Discord cho t�
 Người sáng lập ra dự án này, @755792681313108018, đã luôn luôn tìm kiếm một danh sách chứa những tài nguyên Discord mà chứa từ những thứ cơ bản cho đến phức tạp; một dãy mà tất cả những người dùng Discord, từ những người mới dùng cho đến người đã dùng lâu, thấy hữu ích. Nhưng anh ấy không thể tìm thấy một danh sách nào hết.
 
 Và thế... Một ý tưởng đã nảy ra!
-Với sự giúp đỡ của những người bạn có kinh nghiệm sử dụng Discord, **Discord Resources Wiki** đã được ra đời. Dự án này đã tốn bao nhiêu tháng tìm kiếm, tổ chức và thiết kế để tạo nên những gì bạn đang nhìn thấy ở đây, và chúng tôi hi vọng bạn sẽ thấy dự án này hữu ích.
+Với sự giúp đỡ của những người bạn có kinh nghiệm sử dụng Discord, **Discord Resources Wiki** đã được ra đời. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
 
-## Tôi đang nhìn thấy gì đây?
+## What am I seeing here?
 
 We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
 
@@ -25,13 +25,13 @@ This site will be continuously and frequently updated as we come across more res
 
 ## Disclaimer
 
-**We are not affiliated with Discord in any way.**
+**Chúng tôi không hợp tác với Discord dưới mọi hình thức.**
 
 This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
 
 We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Tất cả mọi hình ảnh được sở hữu bởi chúng tôi và được tạo ra bởi @192060404501839872. Bạn không thể sử dụng các hình ảnh của chúng tôi cho các dự án cá nhân hoặc thuơng mại của bạn với sự cho phép của chúng tôi.
 
 ## Personal Note
 

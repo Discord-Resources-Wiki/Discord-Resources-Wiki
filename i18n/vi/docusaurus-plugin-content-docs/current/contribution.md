@@ -1,24 +1,24 @@
 ---
-title: Contribution
+title: Đóng góp
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Bạn muốn đóng góp vào dự án này? Hãy đọc bài viết này!
 ---
 
-# Contribution
+# Đóng góp
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
+Tìm ra một lỗi, hoặc một lỗi đánh máy? Có một tài nguyên có thể thêm vào wiki này? Become a contributor and be on the glorious list of contributors above!<br/>
 To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Bạn cũng có thể tham gia [Máy chủ chính thức của dự án](https://discord.gg/yxbqz9pNxS) để đóng góp ở chỗ đó.
 
 ## Contributors
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
-@391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
+Dự án này cần nhiều hơn 1 người, và chúng tôi thật tự hào khi có một danh sách những người đã đóng góp vào dự án này!<br/>
+Chúng tôi muốn cảm ơn:<br/>
+@856780995629154305 - Người bảo trì trang web <br/>
+@347727875266576395 - Kĩ thuật viên cuả wiki <br/>
+@391660873409888277 - Người sửa wiki <br/>
+@363481883369013259 - Quản lí GitHub / Quản lí tài liệu tham khảo<br/>
 @337654195526303746 - Resources Researcher / Maintainer<br/>
 @337104786593939456 - Documentation Organizer<br/>
 @485676072176713729 - Resources Researcher / Maintainer<br/>
