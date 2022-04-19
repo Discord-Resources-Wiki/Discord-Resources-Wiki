@@ -1,20 +1,20 @@
 ---
-title: Best Discord Bots
-sidebar_position: 2
-description: Discord bot recommendations
+शीर्षक: डिस्कॉर्ड के श्रेष्ठ बॉट्स
+साइडबार_स्थिति: 2
+विवरण: डिस्कॉर्ड बॉट्स के सिफारिशों
 ---
 
-# Best Discord Bots
-## **Moderation**
-### **Zeppelin**
-> __Description:__ Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in mind.   <br/>
-__Link(s):__   <br/>
-[Zeppelin Website](https://zeppelin.gg/)   <br/>
-[Github](https://github.com/Dragory/ZeppelinBot)   <br/>
-[Compendium](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
-[Setup Tool](https://setup-tool.zeppelin.gg)   <br/>
-[Handbook](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
-__Credit(s):__ @106391128718245888 @347727875266576395
+# बेस्ट डिस्कॉर्ड बॉट्स
+## **मॉडरेशन**
+### **ज़ेपेलिन**
+> __विवरण:__ ज़ेपेलिन डिस्कॉर्ड के लिए एक निजी मॉडरेशन बॉट् है, बड़े सर्वर और विश्वसनीयता को ध्यान में रखकर बनाया गया है।   <br/>
+__लिंक्स:__   <br/>
+[ज़ेपेलिन का वेबसाइट](https://zeppelin.gg/)   <br/>
+[गिठहब](https://github.com/Dragory/ZeppelinBot)   <br/>
+[कंपेंडियम](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
+[सैटअप टूल](https://setup-tool.zeppelin.gg)   <br/>
+[हैंडबुक](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
+__क्रेडिटस:__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
 > __Description:__ Multi function, general moderation bot.   <br/>
