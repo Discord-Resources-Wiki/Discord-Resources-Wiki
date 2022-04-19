@@ -1,235 +1,235 @@
 ---
-title: Other
+title: Diğer
 sidebar_position: 3
 description: Other useful tools
 ---
 
-# Other
+# Diğer
 
 
 ### **Blank Characters**
-> __Description:__ A list of blank Unicode characters. <br/>
-__Link:__ [Blank Charcaters](https://character.construction/blanks)
+> __Tanım:__ Boş Unicode karakterlerinin listesi. <br/>
+__Bağlantı:__ [Blank Charcaters](https://character.construction/blanks)
 
 ### **Bitwarden**
-> __Description:__ Open source password manager.   <br/>
-__Link:__ [Bitwarden](https://bitwarden.com/)
+> __Tanım:__ Açık kaynak şifre yöneticisi.   <br/>
+__Bağlantı:__ [Bitwarden](https://bitwarden.com/)
 
 ### **Blobs**
-> __Description:__ A server list of blob emojis. <br/>
-__Link:__ [Blobs](https://blobs.gg/) <br/>
-__Credit:__ @69198249432449024
+> __Tanım:__ Blob emojilerinin sunucu listesi. <br/>
+__Bağlantı:__ [Blobs](https://blobs.gg/) <br/>
+__Oluşturucu:__ @69198249432449024
 
 ### **CitizenLab**
-> __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
-__Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
+> __Tanım:__ URL sansürünün test edilmesine yardımcı olmayı amaçlayan URL test listeleri, ülke kodlarına bölünmüştür.   <br/>
+__Bağlantı:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
 
 ### **Polywork**
-> __Description:__ Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
-__Link:__ [Polywork](https://www.polywork.com/)
+> __Tanım:__ Polywork, kullanıcıların ücretsiz bir kişisel web sayfası oluşturmasına, yaptıklarını hem kişisel hem de profesyonel olarak paylaşmasına ve başkalarına işbirliği istekleri göndermesine olanak tanıyan profesyonel bir sosyal ağdır.  <br/>
+__Bağlantı:__ [Polywork](https://www.polywork.com/)
 
 ### **Rize**
-> __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
-__Link:__ [Rize](https://rize.io)
+> __Tanım:__ Rize, odağınızı geliştiren ve daha iyi çalışma alışkanlıkları oluşturmanıza yardımcı olan akıllı bir zaman izleyicidir. <br/>
+__Bağlantı:__ [Rize](https://rize.io)
 
 ### **Files**
-> __Description:__ File manager for Windows, focused on design.  <br/>
-__Link:__ [Files](https://files.community/)
+> __Tanım:__ Windows için dosya yöneticisi, tasarım odaklı.  <br/>
+__Bağlantı:__ [Files](https://files.community/)
 
 ### **One Commander**
-> __Description:__ File manager for Windows, focused on productivity.  <br/>
-__Link:__ [One Commander](https://www.onecommander.com/)
+> __Tanım:__ Windows için dosya yöneticisi, üretkenliğe odaklandı.  <br/>
+__Bağlantı:__ [One Commander](https://www.onecommander.com/)
 
 ### **Carrd**
-> __Description:__ Build one-page websites.   <br/>
-__Link:__ [Carrd](https://carrd.co/)
+> __Tanım:__ Tek sayfalık web siteleri oluşturun.   <br/>
+__Bağlantı:__ [Carrd](https://carrd.co/)
 
 ### **Down for Everyone or Just Me**
-> __Description:__ A site that checks if a domain is up.   <br/>
-__Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
+> __Tanım:__ Bir etki alanının dolu olup olmadığını kontrol eden bir site.   <br/>
+__Bağlantı:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
 ### **KeyCDN Tools**
-> __Description:__ Many tools related to web, networking and security checkings.  <br/>
-__Link:__ [KeyCDN Tools](https://tools.keycdn.com/)
+> __Tanım:__ Web, ağ iletişimi ve güvenlik kontrolü ile ilgili birçok araç.  <br/>
+__Bağlantı:__ [KeyCDN Tools](https://tools.keycdn.com/)
 
 ### **Dehashed**
-> __Description:__ Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
-__Link:__ [Dehashed](https://dehashed.com)
+> __Tanım:__ Kullanıcı adı, e-posta, ip, adres, telefon, vin vb. içeren veri ihlallerini bulma aracı.  <br/>
+__Bağlantı:__ [Dehashed](https://dehashed.com)
 
 ### **Terms Of Service ; Didn't Read**
-> __Description:__ Summarized terms of service for all known companies.  <br/>
-__Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
+> __Tanım:__ Bilinen tüm şirketler için özet hizmet şartları.  <br/>
+__Bağlantı:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
 
 ### **TimezoneWizard**
-> __Description:__ Easy to use tool for finding timezones all across the globe.  <br/>
-__Link:__ [TimezoneWizard](https://timezonewizard.com/)
+> __Tanım:__ Tüm dünyadaki saat dilimlerini bulmak için kullanımı kolay araç.  <br/>
+__Bağlantı:__ [TimezoneWizard](https://timezonewizard.com/)
 
 ### **C.O.A.C.H**
-> __Description:__ Tidying up your online security, step by step.   <br/>
-__Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
+> __Tanım:__ Çevrimiçi güvenliğinizi adım adım düzenleme.   <br/>
+__Bağlantı:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 
 ### **Empty Characters**
-> __Description:__ List and methods to Unicode empty characters.   <br/>
-__Link:__ [Empty Characters](https://emptycharacter.com)
+> __Tanım:__ Unicode boş karakterlerin listesi ve yöntemleri.   <br/>
+__Bağlantı:__ [Empty Characters](https://emptycharacter.com)
 
 ### **Awesome**
-> __Description:__ Collection of lists about various topics.   <br/>
-__Link:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
-__Credit:__ @github:sindresorhus
+> __Tanım:__ Çeşitli konular hakkında listelerin toplanması.   <br/>
+__Bağlantı:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
+__Oluşturucu:__ @github:sindresorhus
 
 ### **Internet Slang**
-> __Description:__ A list of slang used across the internet.   <br/>
-__Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
+> __Tanım:__ İnternette kullanılan argoların listesi.   <br/>
+__Bağlantı:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
 ### **Invited** 
-> __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
-__Link:__ [Invited](https://invited.tv/)
+> __Tanım:__ Paylaşılan bir sanal tarayıcı aracılığıyla birlikte film izleyin, Youtube ve hatta müzik dinleyin.   <br/>
+__Bağlantı:__ [Invited](https://invited.tv/)
 
 ### **Obsidian**
-> __Description:__ An advanced note-taking app.  <br/>
-__Link:__ [Obsidian](https://obsidian.md/)
+> __Tanım:__ Gelişmiş bir not alma uygulaması.  <br/>
+__Bağlantı:__ [Obsidian](https://obsidian.md/)
 
 ### **Trello**
-> __Description:__ Manage collaborative projects easily.  <br/>
-__Link:__ [Trello](https://trello.com/)
+> __Tanım:__ Ortak projeleri kolayca yönetin.  <br/>
+__Bağlantı:__ [Trello](https://trello.com/)
 
 ### **Notion**
-> __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
-__Link:__ [Notion](https://www.notion.so/)
+> __Tanım:__ İhtiyaçlarınız için tamamen özelleştirilebilir, iş akışları ve web siteleri oluşturmaya yönelik bir ürün.   <br/>
+__Bağlantı:__ [Notion](https://www.notion.so/)
 
 ### **Tina**
-> __Description:__ Open-source content management tool.  <br/>
-__Link:__ [Tina](https://tina.io/)
+> __Tanım:__ Açık kaynaklı içerik yönetim aracı.  <br/>
+__Bağlantı:__ [Tina](https://tina.io/)
 
 ### **Nord Theme**
-> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
-__Link:__ [Nord Theme](https://www.nordtheme.com/)
+> __Tanım:__ Çeşitli siteler ve uygulamalar için arktikten ilham alan bir renk paleti ve tema koleksiyonu.   <br/>
+__Bağlantı:__ [Nord Theme](https://www.nordtheme.com/)
 
 ### **Pronoun Island**
-> __Description:__ A website for personal pronoun usage examples.   <br/>
-__Link:__ [Pronoun Island](https://pronoun.is/)
+> __Tanım:__ Kişi zamiri kullanım örnekleri için bir web sitesi.   <br/>
+__Bağlantı:__ [Pronoun Island](https://pronoun.is/)
 
 ### **PronounDB**
-> __Description:__ Pronouns intergration for websites and apps.  <br/>
-__Link:__ [ProunounDB](https://pronoundb.org/)  <br/>
-__Credit:__ @94762492923748352
+> __Tanım:__ Web siteleri ve uygulamalar için zamirler entegrasyonu.  <br/>
+__Bağlantı:__ [ProunounDB](https://pronoundb.org/)  <br/>
+__Oluşturucu:__ @94762492923748352
 
 ### **Pronouns.page**
-> __Description:__ Information about nonbinary and gender neutral language.  <br/>
-__Link:__ [Pronouns.page](https://en.pronouns.page/)
+> __Tanım:__ İkili olmayan ve cinsiyetten bağımsız dil hakkında bilgi.  <br/>
+__Bağlantı:__ [Pronouns.page](https://en.pronouns.page/)
 
 ### **Flaticon**
-> __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
-__Link:__ [Flaticon](https://www.flaticon.com/)
+> __Tanım:__ Projeleriniz için ücretsiz vektör simgeleri ve çıkartmalar. Tasarımcılar tarafından ve tasarımcılar için yapılan kaynaklar.   <br/> 
+__Bağlantı:__ [Flaticon](https://www.flaticon.com/)
 
 ### **Photopea**
-> __Description:__ Free online image editor.   <br/>
-__Link:__ [Photopea](https://www.photopea.com/)
+> __Tanım:__ Ücretsiz çevrimiçi resim düzenleyici.   <br/>
+__Bağlantı:__ [Photopea](https://www.photopea.com/)
 
 ### **Random Sites**
-> __Description:__ Generates a small list of random website URLs.   <br/>
-__Link:__ [Random Sites](https://www.randomlists.com/websites)
+> __Tanım:__ Rastgele web sitesi URL'lerinin küçük bir listesini oluşturur.   <br/>
+__Bağlantı:__ [Random Sites](https://www.randomlists.com/websites)
 
 ### **ShareX**
-> __Description:__ Best sharing app.  
-__Link:__ [ShareX](https://getsharex.com/)   <br/>
-__Credit:__ @95576568025329664
+> __Tanım:__ En iyi paylaşma uygulaması. 
+__Bağlantı:__ [ShareX](https://getsharex.com/)   <br/>
+__Oluşturucu:__ @95576568025329664
 
 ### **pfp.lgbt**
-> __Description:__ A tool to "LGBTQ+fy" your images.  <br/>
-__Link:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
-__Credit:__ @109710323094683648 @139836912335716352 
+> __Tanım:__ Resimlerinizi "LGBTQ+fy" için bir araç.  <br/>
+__Bağlantı:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
+__Oluşturucu:__ @109710323094683648 @139836912335716352 
 
 ### **Statista**
-> __Description:__ Statistics and business data platform for over 170 industries.   <br/>
-__Link:__ [Statista](https://statista.com)
+> __Tanım:__ 170'den fazla sektör için istatistik ve iş veri platformu.   <br/>
+__Bağlantı:__ [Statista](https://statista.com)
 
 ### **Semantic Scholar**
-> __Description:__ Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
-__Link:__ [Semantic Scholar](https://www.semanticscholar.org/) 
+> __Tanım:__ Semantic Scholar, aşırı bilgi yükü yaşamadan bilimsel makaleleri bulmanıza yardımcı olmak için yapay zekayı kullanır. <br/>
+__Bağlantı:__ [Semantic Scholar](https://www.semanticscholar.org/) 
 
 ### **Simple Analytics**
-> __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
-__Link:__ [Simple Analytics](https://simpleanalytics.com/)
+> __Tanım:__ Siteler için basit, temiz ve kullanıcı dostu analitik.  <br/>
+__Bağlantı:__ [Simple Analytics](https://simpleanalytics.com/)
 
 ### **Grafana**
-> __Description:__ Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
-__Link:__ [Grafana](https://grafana.com/)
+> __Tanım:__ Grafana verilerinizi sorgulayın, görselleştirin, ayarlayın.  <br/>
+__Bağlantı:__ [Grafana](https://grafana.com/)
 
 ### **The LaTeX Project**
-> __Description:__ LaTeX is a document preparation system, useful for scientific or technical documents. <br/>
-__Link:__ [The LaTeX Project](https://latex-project.org) <br/>
-__Credit:__ @github:latex3 
+> __Tanım:__ LaTeX, bilimsel veya teknik belgeler için kullanışlı bir belge hazırlama sistemidir. <br/>
+__Bağlantı:__ [The LaTeX Project](https://latex-project.org) <br/>
+__Oluşturucu:__ @github:latex3 
 
 ### **Web Archives**
-> __Description:__ Explore web pages saved over time.  <br/>
-__Link:__ <br/>  
+> __Tanım:__ Zaman içinde kaydedilen web sayfalarını keşfedin.  <br/>
+__Bağlantı:__ <br/>  
 [Web Archives](https://web.archive.org/)  <br/>
 [Arvhive.is](https://archive.is/)
 
 ### **AlternativeTo**
-> __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
-__Link:__ [AlternativeTo](https://alternativeto.net/)
+> __Tanım:__ AlternativeTo, çeşitli amaçlar için alternatif yazılımlar bulmaya çalışan, kitle kaynaklı bir web sitesidir. <br/>
+__Bağlantı:__ [AlternativeTo](https://alternativeto.net/)
 
 ### **Internet Download Manager**
-> __Description:__ Tool that makes downloading videos and files through the browser easy.  <br/>
-__Link:__ [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
+> __Tanım:__ Tarayıcı üzerinden video ve dosya indirmeyi kolaylaştıran araç.  <br/>
+__Tanım:__ [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 
 ### **Whois Lookup**
-> __Description:__ Lookup information about domains or IP addresses.  <br/>
-__Link:__ [Whois Lookup](https://whois.domaintools.com/)
+> __Tanım:__ Etki alanları veya IP adresleri hakkında bilgi arayın.  <br/>
+__Bağlantı:__ [Whois Lookup](https://whois.domaintools.com/)
 
 ### **Status Page**
-> __Description:__ Communicate real-time status to your members.   <br/>
-__Link:__ [Status Page](https://statuspage.io)
+> __Tanım:__ Üyelerinize gerçek zamanlı durumu iletin.   <br/>
+__Bağlantı:__ [Status Page](https://statuspage.io)
 
 ### **Tone Indicators Website**
-> __Description:__ Find and understand text tone indicators.   <br/>
-__Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
+> __Tanım:__ Metin tonu göstergelerini bulun ve anlayın.   <br/>
+__Bağlantı:__ [Tone Indicators](https://toneindicators.carrd.co/)
 
 ### **URL Scanner**
-> __Description:__ Scans URLs and gives details about them.   <br/>
-__Link:__ [URL Scan](https://urlscan.io/)
+> __Tanım:__ URL'leri tarar ve onlar hakkında ayrıntılar verir.   <br/>
+__Bağlantı:__ [URL Scan](https://urlscan.io/)
 
 ### **URL Expander**
-> __Description:__ Expand short URLs.   <br/>
-__Link:__ [URL Expander](https://urlex.org/)
+> __Tanım:__ Kısa URL'leri genişletin.   <br/>
+__Bağlantı:__ [URL Expander](https://urlex.org/)
 
 ### **Waifu2x**
-> __Description:__ Image scaling and noise reduction for anime-style art.   <br/>
-__Link:__ [waifu2x](http://waifu2x.udp.jp/)
+> __Tanım:__ Anime tarzı sanat için görüntü ölçekleme ve gürültü azaltma.   <br/>
+__Bağlantı:__ [waifu2x](http://waifu2x.udp.jp/)
 
 ### **True Size**
-> __Description:__ A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
-__Link:__ [True Size](https://thetruesize.com/) 
+> __Tanım:__ Boyut karşılaştırmalarını daha iyi görmek için kara kütlelerini sürükleyip bırakabileceğiniz küresel bir harita. <br/>
+__Bağlantı:__ [True Size](https://thetruesize.com/) 
 
 ### **Visual Center**
-> __Description:__ Find the visual center of your images.  <br/>
-__Link:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
-__Credit:__ @github:javierbyte
+> __Tanım:__ Görüntülerinizin görsel merkezini bulun.  <br/>
+__Bağlantı:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
+__Oluşturucu:__ @github:javierbyte
 
 ### **Lightmode is Necessary**
-> __Description:__ An article explaining why lightmode is an important to software. <br/>
-__Link:__ [Article](https://lightmode.glitch.me) <br/>
+> __Tanım:__ Işık modunun yazılım için neden önemli olduğunu açıklayan bir makale. <br/>
+__Bağlantı:__ [Article](https://lightmode.glitch.me) <br/>
 
 ### **ProtonMail**
-> __Description:__ Open Source E2E encrypted Email Service. <br/>
-__Link:__ [ProtonMail](https://protonmail.com) <br/>
+> __Tanım:__ Açık Kaynak E2E şifreli E-posta Hizmeti. <br/>
+__Bağlantı:__ [ProtonMail](https://protonmail.com) <br/>
 
 ### **dCode**
-> __Description:__ dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
-__Link:__ [dCode Website](https://dcode.fr/en)  <br/>
-__Credit:__ @273906785788624907
+> __Tanım:__ dCode, mesajları kodlamak ve kodunu çözmek için kullanılan evrensel bir web sitesidir. Ayrıca bir dizi ilgili araç sunar.  <br/>
+__Bağlantı:__ [dCode Website](https://dcode.fr/en)  <br/>
+__Oluşturucu:__ @273906785788624907
 
 ### **Computer Hope**
-> __Description:__ Free computer help and support. <br/>
-__Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
+> __Tanım:__ Ücretsiz bilgisayar yardımı ve desteği. <br/>
+__Bağlantı:__ [ComputerHope](https://www.computerhope.com/) <br/>
 
 ### **Skill Icons**
-> __Description:__ Showcase languages, frameworks and tools used on a GitHub profile. <br/>
-__Link:__ [Skill Icons](https://skillicons.dev/) <br/>
-__Credit:__ @276544649148235776
+> __Tanım:__ GitHub profilinde kullanılan dilleri, çerçeveleri ve araçları gösterin. <br/>
+__Bağlantı:__ [Skill Icons](https://skillicons.dev/) <br/>
+__Oluşturucu:__ @276544649148235776
 
 ### **Savefrom**
-> __Description:__ Download any content from popular sites.  <br/>
-__Link:__ [Savefrom](https://savefrom.net/)
+> __Tanım:__ Popüler sitelerden herhangi bir içerik indirin.  <br/>
+__Bağlantı:__ [Savefrom](https://savefrom.net/)
