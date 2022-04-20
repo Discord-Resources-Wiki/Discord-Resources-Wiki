@@ -7,7 +7,7 @@ description: Bot informations and lists
 # Bilgilendirme & Bağlantılar
 
 ## **Unofficial Discord API Docs**
-> __Tanım:__ Belgelenmemiş Uyuşmazlık API'leri için resmi olmayan belgeler. Ayrıca Discord'un altyapısının bir taslağını da içerir.  <br/>
+> __Tanım:__ Belgelenmemiş Discord API'leri için resmi olmayan belgeler. Ayrıca Discord'un altyapısının bir taslağını da içerir.  <br/>
 __Bağlantı:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
 
 ## **Largest Discord Bots**
