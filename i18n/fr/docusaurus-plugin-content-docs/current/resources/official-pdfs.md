@@ -1,18 +1,18 @@
 ---
-title: Official Discord PDFs
+title: Discord Officiel PDFs
 sidebar_position: 5
-description: Official PDFs from discord.
+description: Officiel PDFs de Discord.
 ---
 
-# Official Discord PDFs
-### **How to Start Your Own Server**
-> __Description:__ A guide to starting your own servers.   <br/>
-__Link:__ [How To Start Your Own Server](https://cdn.discordapp.com/attachments/847724269672333323/847727389541793802/Onboarding_Self_Service_Onesheet_1.pdf)
+# Officiel PDFs de Discord
+### **Comment commencer votre propre serveur ?**
+> __Description:__ Un guide pour commencer votre propre serveur.   <br/>
+__Lien:__ [Comment commencer votre propre serveur](https://cdn.discordapp.com/attachments/847724269672333323/847727389541793802/Onboarding_Self_Service_Onesheet_1.pdf)
 
-### **Stage Channel Event Types**
-> __Description:__ Ideas for types of events you can host in your server using Stage Channels.   <br/>
-__Link:__ [Stage Channel Event Types](https://cdn.discordapp.com/attachments/847724269672333323/847727472274309120/Stage_Channel_Event_Types_1_1.pdf)
+### **Types d'événement de Stage Channels**
+> __Description:__ Idées de types d'événements que vous pouvez faire sur votre serveur à l'aide de Stage Channels.   <br/>
+__Lien:__ [Types d'événement de canal d'étape](https://cdn.discordapp.com/attachments/847724269672333323/847727472274309120/Stage_Channel_Event_Types_1_1.pdf)
 
-### **Why should you try out Stage Channels?**
-> __Description:__ An explanation of Stage Channels and why/how they can be useful in your server.   <br/>
-__Link:__ [Why Should You Try Out Stage Channels?](https://cdn.discordapp.com/attachments/847724269672333323/847727607323557888/Stage_Channels_Partner_PDF.pdf)
+### **Pourquoi devriez-vous essayer les Stage Channels ?**
+> __Description:__ Une explication des Stage Channels et pourquoi/comment ils peuvent être utiles dans votre serveur.   <br/>
+__Lien:__ [Pourquoi devriez-vous essayer les chaînes de scène ?](https://cdn.discordapp.com/attachments/847724269672333323/847727607323557888/Stage_Channels_Partner_PDF.pdf)
