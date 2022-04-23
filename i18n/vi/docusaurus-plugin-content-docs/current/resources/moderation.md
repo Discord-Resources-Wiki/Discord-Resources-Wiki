@@ -1,13 +1,13 @@
 ---
-title: Moderation
+title: Điều phối
 sidebar_position: 6
-description: Moderation resources
+description: Tài nguyên dành cho điều phối viên
 ---
 
-# Moderation
+# Điều phối
 
-### **Modcast Podcast** (recently affiliated)
-> __Description:__ A podcast by moderators for moderators.   <br/>
+### **Băng ghi âm ModCast** (hợp tác gần đây)
+> __Mô tả:__ Băng ghi âm làm bởi điều phối viên, cho điều phối viên.   <br/>
 __Link:__ [Modcast Podcast](https://modcast.network/)   <br/>
 __Credit:__ [ModPod team](https://modcast.network/meet-the-team/) 
 
