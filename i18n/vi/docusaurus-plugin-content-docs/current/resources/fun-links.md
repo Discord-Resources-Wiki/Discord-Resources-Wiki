@@ -74,9 +74,9 @@ https://tikolu.net/edit/ | edit the text  <br/>
 https://tikolu.net/emojimix/ | emoji mixer  <br/>
 https://tikolu.net/font-changer/ | font changer  <br/>
 https://tikolu.net/time/ | accurate time  <br/>
-https://yonilerner.wtf/ | wtf  <br/>
-http://needsmorejpeg.com/ |  need more jpeg  <br/>
-https://api.onlyraccoons.com/ | http racoons  <br/>
-https://guthib.com | POV: You just woke up and wanted to open Github  <br/>
-https://no-bitch.es/ | no bitches  <br/>
-https://why-stup.id | Why are you stupid
+https://yonilerner.wtf/ | Cái gì đó?  <br/>
+http://needsmorejpeg.com/ |  Cần thêm jpeg  <br/>
+https://api.onlyraccoons.com/ | Gấu trúc HTTP  <br/>
+https://guthib.com | POV: Bạn vừa ngủ dậy và muốn mở GitHub  <br/>
+https://no-bitch.es/ | Không chồn cái  <br/>
+https://why-stup.id | Tại sao bạn ngốc thế?
