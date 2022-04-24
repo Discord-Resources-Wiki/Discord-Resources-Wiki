@@ -1,20 +1,20 @@
 ---
-title: Official Discord Servers
+title: Những máy chủ chính thức của Discord
 sidebar_position: 2
-description: Official servers owned by discord.
+description: Các máy chủ chính thức của Discord
 ---
 
-# Official Servers
+# Máy chủ chính thức
 
 ## **Discord Testers** 
-> __Description:__ The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
+> __Mô tả:__ Nơi chính thức để thông báo các lỗi! Giúp tìm lỗi, nói chuyện với mọi người và trở thành một phần trong cộng đồng người dùng thử!!   <br/>
 __Link:__ [Discord Testers](https://discord.gg/discord-testers)
 
 @gg/discord-testers
 
 
 ## **Discord Developers**
-> __Description:__ The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
+> __Mô tả:__ Nơi chính thức để thảo luận về API và SDK của Discord với lập trình viên của cộng đồng và nhân viên Discord!   <br/>
 __Link:__ [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
