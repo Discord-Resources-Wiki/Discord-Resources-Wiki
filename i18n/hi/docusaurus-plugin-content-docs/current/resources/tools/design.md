@@ -1,88 +1,88 @@
 ---
-title: Design
+title: डिज़ाइन
 sidebar_position: 5
-description: Design tools
+विवरण: डिज़ाइन टूल्स
 ---
 
-# Design
-### **Material Design Icons**
-> __Description:__ A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
-__Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
-__Credit:__ @github:Templarian
+# डिज़ाइन
+### **मटेरियल डिज़ाइन आइकन्स**
+> __विवरण:__ कस्टम प्रारूप, आकार और रंग की अनुमति देते हुए, सामग्री डिज़ाइन के आसपास केंद्रित आइकन का एक संग्रह । <br/>
+__लिंक:__ [मटेरियल डिज़ाइन आइकन्स)](https://materialdesignicons.com/)  <br/>
+__क्रेडिट:__ @github:Templarian
 
-### **Google Fonts Icons**
-> __Description:__ A collection of common icons based around web actions, provided by Google. <br/>
-__Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
-__Credit:__ @github:google
+### **गूगल फ़ॉन्ट्स आइकन्स**
+> __विवरण:__ वेब क्रियाओं पर आधारित सामान्य चिह्नों का एक संग्रह, जो Google द्वारा प्रदान किया गया है । <br/>
+__लिंक:__ [गूगल फ़ॉन्ट्स आइकन्स](https://fonts.google.com/icons) <br/>
+__क्रेडिट:__ @github:google
 
-### **Branding Style Guides**
-> __Description:__ A collection of different company's branding, including Discords.   <br/>
-__Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
+### **ब्रांडिंग स्टाइल गाइड**
+> __विवरण:__ डिस्कॉर्ड सहित विभिन्न कंपनियों की ब्रांडिंग का संग्रह ।   <br/>
+__लिंक:__ [ब्रांडिंग स्टाइल गाइड](https://brandingstyleguides.com/)
 
-### **Evernote Design Bookmarks**
-> __Description:__ A list of bookmarks for everything design-resources.  <br/>
-__Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
+### **एवरनोट डिजाइन बुकमार्क**
+> __विवरण:__ सब कुछ डिजाइन-संसाधनों के लिए बुकमार्क की एक सूची ।  <br/>
+__लिंक:__ [एवरनोट डिजाइन बुकमार्क](https://www.evernote.design/)  <br/>
 
-### **Simpleicons**
-> __Description:__ A list of simple icons, including brand icons.   <br/>
-__Link:__ [Simpleicons](https://simpleicons.org/)
+### **सिम्पल आइकन्स**
+> __विवरण:__ ब्रांड चिह्नों सहित सरल चिह्नों की सूची ।   <br/>
+__लिंक:__ [सिम्पल आइकन्स](https://simpleicons.org/)
 
-### **Heroicons**
-> __Description:__ Hand-crafted SVG icons.   <br/>
-__Link:__ [Heroicons](https://heroicons.com/)
+### **हीरो आइकन्स**
+> __विवरण:__ हाथ से तैयार एसवीजी आइकन ।   <br/>
+__लिंक:__ [हीरो आइकन्स](https://heroicons.com/)
 
-### **Coolors**
-> __Description:__ Color schemes generator.   <br/>
-__Link:__ [Coolors](https://coolors.co/)
+### **कूलर्स**
+> __विवरण:__ रंग योजना जनरेटर ।   <br/>
+__लिंक:__ [कूलर्स](https://coolors.co/)
 
-### **The Noun Project**
-> __Description:__ Over 3 million community-contributed icons along with icon customization and an API.  <br/>
-__Link:__ [The Noun Project](https://thenounproject.com/)
+### **धी नाउन प्रोजेक्ट**
+> __विवरण:__ आइकन अनुकूलन और एक एपीआई के साथ 3 मिलियन से अधिक समुदाय-योगदान वाले आइकन ।  <br/>
+__लिंक:__ [धी नाउन प्रोजेक्ट](https://thenounproject.com/)
 
-### **Adobe Color**
-> __Description:__ A color theme creator with connectivity across Adobe products.  <br/>
-__Link:__ [Adobe Color](https://color.adobe.com/)
+### **एडोब कलर**
+> __विवरण:__ Adobe उत्पादों में कनेक्टिविटी के साथ एक रंग थीम निर्माता ।  <br/>
+__लिंक:__ [एडोब कलर](https://color.adobe.com/)
 
-### **Open Color**
-> __Description:__ An open-source color scheme and library set optimized for user interfaces.  <br/>
-__Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
-__Credit:__ @github:yeun
+### **ओपन कलर**
+> __विवरण:__ उपयोगकर्ता इंटरफेस के लिए अनुकूलित एक ओपन-सोर्स रंग योजना और लाइब्रेरी सेट ।  <br/>
+__लिंक:__ [ओपन कलर](https://yeun.github.io/open-color/)  <br/>
+__क्रेडिट:__ @github:yeun
 
-### **Teeny Icons**
-> __Description:__ A set of minimal 1px icons.  <br/>
-__Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__CREDIT:__ @github:@teenyicons
+### **टिन्नी आइकन्स**
+> __विवरण:__ न्यूनतम 1px आइकन का एक सेट ।  <br/>
+__लिंक:__ [टिन्नी आइकन्स](https://teenyicons.com/)  <br/>
+__क्रेडिट:__ @github:@teenyicons
 
-### **Streamline**
-> __Description:__ Over 100k icons, illustrations, and emojis.  <br/>
-__Link:__ [Streamline](https://streamlinehq.com/)  
+### **स्ट्रीमलाइन**
+> __विवरण:__ 100k से अधिक आइकन, चित्र और इमोजी ।  <br/>
+__लिंक:__ [स्ट्रीमलाइन](https://streamlinehq.com/)  
 
-### **Feather Icons**
-> __Description:__ Simple, open-source icons.  <br/>
-__Link:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Credit:__ @github:@feathericons
+### **फेथर आइकन्स**
+> __विवरण:__ सरल, ओपन-सोर्स आइकन ।  <br/>
+__लिंक:__ [फेथर आइकन्स](https://feathericons.com/)  <br/>
+__क्रेडिट:__ @github:@feathericons
 
-### **Spectrum**
-> __Description:__ Minimal, consistent UI icons.  <br/>
-__Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
+### **स्पेक्ट्रम**
+> __विवरण:__ न्यूनतम, सुसंगत UI चिह्न ।  <br/>
+__लिंक:__ [स्पेक्ट्रम](https://spectrum.adobe.com/page/icons/)  
 
-### **Font Awesome**
-> __Description:__ Vector icons and social logos.  <br/>
-__Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Credit:__ @github:@FortAwesome
+### **फ़ॉन्ट ओसम**
+> __विवरण:__ सदिश चिह्न और सामाजिक लोगो ।  <br/>
+__लिंक:__ [फ़ॉन्ट ओसम](https://fontawesome.com/)  <br/>
+__क्रेडिट:__ @github:@FortAwesome
 
-### **ICONS8**
-> __Description:__ Icons, illustrations, photos, music, and design tools.  <br/>
-__Link:__ [ICONS8](https://icons8.com/)  
+### **आइकन्स8**
+> __विवरण:__ प्रतीक, चित्र, फोटो, संगीत और डिजाइन उपकरण ।  <br/>
+__लिंक:__ [आइकन्स8](https://icons8.com/)  
 
-### **unDraw**
-> __Description:__ Free, open-source illustrations.  <br/>
-__Link:__ [Feather Icons](https://undraw.co/)  
+### **अनड्रॉ**
+> __विवरण:__ मुक्त, मुक्त स्रोत चित्रण ।  <br/>
+__लिंक:__ [फेथर आइकन्स](https://undraw.co/)  
 
-### **tldraw**
-> __Description:__ A simple drawing app.  <br/>
-__Link:__ [tldraw](https://www.tldraw.com/)
+### **टीएलड्रॉ**
+> __विवरण:__ एक साधारण ड्राइंग ऐप ।  <br/>
+__लिंक:__ [टीएलड्रॉ](https://www.tldraw.com/)
 
-### **Freepik**
-> __Description:__ Free vectors, stock photos, and PSD.  <br/>
-__Link:__ [Freepik](https://freepik.com/) 
+### **फ्रीपिक**
+> __विवरण:__ मुक्त वैक्टर, स्टॉक तस्वीरें, और PSD ।  <br/>
+__लिंक:__ [फ्रीपिक](https://freepik.com/) 
