@@ -1,7 +1,7 @@
 ---
 title: डिज़ाइन
 sidebar_position: 5
-विवरण: डिज़ाइन टूल्स
+description: डिज़ाइन टूल्स
 ---
 
 # डिज़ाइन
