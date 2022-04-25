@@ -11,13 +11,13 @@ description: डिस्कॉर्ड संबंधित उपकरण
 __लिंक:__ [MEE6 के विकल्प](https://www.alternativestomee6.com/)   <br/>
 __क्रेडिट:__ @99787644430475264
 
-### **All Discord Permissions**
-> __Description:__ A list of all the permissions available for users.   <br/>
-__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
+### **सारी डिस्कॉर्ड की अनुमतियाँ**
+> __विवरण:__ उपयोगकर्ताओं के लिए उपलब्ध सभी अनुमतियों की एक सूची ।   <br/>
+__लिंक:__ [सारी डिस्कॉर्ड की अनुमतियाँ ](https://discordapi.com/permissions)
 
 ### **डिस्कॉर्ड के टूल**
 > __विवरण:__ पावर उपयोगकर्ताओं के लिए आपके गिल्ड का विश्लेषण करने के लिए डिस्कॉर्ड टूल का एक संग्रह, स्नोफ्लेक्स के बारे में जानकारी प्राप्त करें, या डिस्कॉर्ड की वर्तमान स्थिति भी देखें. उन गिल्डों की संख्या प्राप्त करें जिनमें आपका अकाउंट है, देखें कि आपके पास कितने सर्वर हैं, मॉडरेट, और जो पार्टनर्ड हैं, और उपरोक्त श्रेणियों में सभी सर्वरों की सूची के साथ-साथ सभी सर्वरों की सूची दिखाएं।   <br/>
-__लिंक:__ [डिस्कॉर्ड के उपकरण](https://discordtools.io/)   <br/>
+__लिंक:__ [डिस्कॉर्ड के टूल](https://discordtools.io/)   <br/>
 __क्रेडिट:__ @276544649148235776
 
 ### **डिस्कॉर्ड के टूलबॉक्स**
@@ -26,191 +26,191 @@ __लिंक:__ [डिस्कॉर्ड के टूलबॉक्स](
 __क्रेडिट:__ @386861188891279362
 
 ### **डिस्कॉर्ड लूकअप**
-> __विवरण:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
+> __विवरण:__ उपयोगकर्ता को देखने, गिल्ड, आमंत्रित करने और आंकड़ों, सर्वर प्रयोग रोलआउट, सुविधाओं और अनुमतियों के दृश्य के साथ अपनी गिल्ड सूची के बारे में जानकारी प्राप्त करने के लिए टूल का उपयोग करना आसान है ।  <br/>
 __लिंक:__ [डिस्कॉर्ड लूकअप](https://discordlookup.com/)  <br/>
 __क्रेडिट:__ @231091710195662848
 
-### **Discord Data Package Explorer**
-> __Description:__ Explore your Discord data easily.   <br/>
-__Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ @github:Androz2091
+### **डिस्कॉर्ड डेटा पैकेट एक्सप्लोरर**
+> __विवरण:__ अपने डिस्कॉर्ड डेटा को आसानी से एक्सप्लोर करें ।   <br/>
+__लिंक:__ [डिस्कॉर्ड डेटा पैकेट एक्सप्लोरर](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+__क्रेडिट:__ @github:Androz2091
 
-### **Discord Simple Avatar Maker**
-> __Description:__ A site to make simple Discord avatars.   <br/>
-__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
-__Credit:__ @github:christian-reichart
+### **डिस्कॉर्ड सरल अवतार निर्माता**
+> __विवरण:__ सरल डिस्कॉर्ड अवतार बनाने के लिए एक साइट ।   <br/>
+__लिंक:__ [डिस्कॉर्ड सरल अवतार निर्माता](https://discord-avatar-maker.app/)   <br/>
+__क्रेडिट:__ @github:christian-reichart
 
-### **Discord Emoji Downloader**
-> __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server.   <br/>
-__Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
-__Credit:__ @152164749868662784
+### **डिस्कॉर्ड इमोजी डाउनलोडर**
+> __विवरण:__ यह छोटा सा टूल आपको एक डिस्कोर्ड सर्वर से सभी इमोजी के साथ एक ज़िप संग्रह डाउनलोड करने की अनुमति देगा ।   <br/>
+__लिंक:__ [डिस्कॉर्ड इमोजी डाउनलोडर](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
+__क्रेडिट:__ @152164749868662784
 
-### **Discord Friends Graph Maker**
-> __Description:__ Make a graph out of your friends and their relations.  <br/>
-__Link:__ [Discord Friends Graph Maker](https://github.com/Maanex/discord-friends-graph)  <br/>
-__Credit:__ @137258778092503042
+### **डिस्कॉर्ड फ्रेंड्स ग्राफ निर्माता**
+> __विवरण:__ अपने दोस्तों और उनके संबंधों का एक ग्राफ बनाएं ।  <br/>
+__लिंक:__ [डिस्कॉर्ड फ्रेंड्स ग्राफ निर्माता](https://github.com/Maanex/discord-friends-graph)  <br/>
+__क्रेडिट:__ @137258778092503042
 
-### **Discord Servers Comparations**
-> __Description:__ Compare stats between Discord servers.  <br/>
-__Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
-__Credit:__ @152164749868662784
+### **डिस्कॉर्ड सर्वर्स तुलना**
+> __विवरण:__ डिस्कॉर्ड सर्वर के बीच आँकड़ों की तुलना करें ।  <br/>
+__लिंक:__ [डिस्कॉर्ड सर्वर्स तुलना](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
+__क्रेडिट:__ @152164749868662784
 
-### **Slash Commands GUI**
-> __Description:__ Graphical User Interface to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS.  <br/>
-__Link:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
-__Credit:__ @422820341791064085
+### **स्लैश कमांड GUI**
+> __विवरण:__ Vue 3 और TailwindCSS पर निर्मित आपके बॉट के स्लैश कमांड का पता लगाने के लिए ग्राफिकल यूजर इंटरफेस ।  <br/>
+__लिंक:__ [स्लैश कमांड GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
+__क्रेडिट:__ @422820341791064085
 
-### **Discord Server Card Generator**
-> __Description:__ Generate a server card you can copy for your email signatures.   <br/>
-__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Credit:__ @github:geisterfurz007
+### **डिस्कॉर्ड सर्वर कार्ड जनरेटर**
+> __विवरण:__ एक सर्वर कार्ड जेनरेट करें जिसे आप अपने ईमेल हस्ताक्षर के लिए कॉपी कर सकते हैं ।   <br/>
+__लिंक:__ [डिस्कॉर्ड सर्वर कार्ड जनरेटर](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
+__क्रेडिट:__ @github:geisterfurz007
 
-### **Discord Bug Report Command Generator**
-> __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
-__Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-__Credit:__  @209769851651227648
+### **डिस्कॉर्ड बग रिपोर्ट कमांड जनरेटर**
+> __विवरण:__ सब कुछ बग रिपोर्टिंग के लिए एक त्वरित और आसान उपकरण। रिपोर्ट जनरेशन शामिल है, पुन: पेश कर सकता है/नहीं कर सकता है, रिपोर्ट संपादित कर सकता है, संलग्न कर सकता है और अलग कर सकता है, और बग रिपोर्ट को मंजूरी दे सकता है, अस्वीकार कर सकता है और रद्द कर सकता है ।   <br/>
+__लिंक:__ [बग रिपोर्ट कमांड जनरेटर](https://brightskyz.github.io/dbug/index.html)   <br/>
+__क्रेडिट:__  @209769851651227648
 
-### **Discord Flags**
-> __Description:__ A document full with all Discord flags and their meanings.   <br/>
-__Link:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
-__Credit:__ @96269247411400704
+### **डिस्कॉर्ड के फ़्लैग**
+> __विवरण:__ सभी डिस्कॉर्ड फ़्लैग और उनके अर्थों से भरा एक दस्तावेज़ ।   <br/>
+__लिंक:__ [डिस्कॉर्ड के फ़्लैग](https://flags.lewistehminerz.dev/)   <br/>
+__क्रेडिट:__ @96269247411400704
 
-### **Dragory's Avatar Preview**
-> __Description:__ This is an avatar preview tool used to optimise your avatar between both light and dark themes.   <br/>
-__Link:__ [Dragory’s Avatar Preview](https://dragory.net/avatar-preview/)   <br/>
-__Credit:__  @106391128718245888
+### **ड्रैगोरी का अवतार पूर्वावलोकन**
+> __विवरण:__ यह एक अवतार पूर्वावलोकन टूल है जिसका उपयोग आपके अवतार को प्रकाश और अंधेरे दोनों विषयों के बीच अनुकूलित करने के लिए किया जाता है ।   <br/>
+__लिंक:__ [ड्रैगोरी का अवतार पूर्वावलोकन](https://dragory.net/avatar-preview/)   <br/>
+__क्रेडिट:__  @106391128718245888
 
-### **Dragory's Role Colour Preview**
-> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes.   <br/>
-__Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/)   <br/>
-__Credit:__  @106391128718245888
+### **ड्रैगरी की भूमिका रंग पूर्वावलोकन**
+> __विवरण:__ यह एक रोल कलर प्रीव्यू टूल है जिसका उपयोग लाइट और डार्क दोनों थीम के बीच आपकी भूमिका के रंगों को अनुकूलित करने के लिए किया जाता है ।   <br/>
+__लिंक:__ [ड्रैगरी की भूमिका रंग पूर्वावलोकन](https://dragory.github.io/role-preview-for-discord/)   <br/>
+__क्रेडिट:__  @106391128718245888
 
-### **Disgradient**
-> __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more.   <br/>
-__Link:__ [Disgradient](https://disgradient.vanished.rocks/)   <br/>
-__Credit:__ @267025484028706816
+### **डिसग्रेडिएंट**
+> __विवरण:__ आपके डिस्कॉर्ड फ़ोल्डरों, भूमिकाओं और अन्य के लिए ग्रेडिएंट बनाने में मदद करने के लिए उपयोग में आसान टूल ।   <br/>
+__लिंक:__ [डिसग्रेडिएंट](https://disgradient.vanished.rocks/)   <br/>
+__क्रेडिट:__ @267025484028706816
 
-### **DeepResearch**
-> __Description:__ Discord status that provides visualisations, analytics, and tools for chat-based communities.   <br/>
-__Link:__ [DeepResearch](https://www.altr.fyi/)
+### **डीपरिसर्च**
+> __विवरण:__ विवाद की स्थिति जो चैट-आधारित समुदायों के लिए विज़ुअलाइज़ेशन, विश्लेषण और उपकरण प्रदान करती है ।   <br/>
+__लिंक:__ [डीपरिसर्च](https://www.altr.fyi/)
 
-### **Experiments Rollouts**
-> __Description:__ Shows the current discord experiments and their rollout percentage.   <br/>
-__Link:__ [Experiments Rollouts](https://rollouts.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+### **एक्सपेरिमेंट्स रोलआउट**
+> __विवरण:__ वर्तमान विवाद प्रयोगों और उनके रोलआउट प्रतिशत को दर्शाता है ।   <br/>
+__लिंक:__ [एक्सपेरिमेंट्स रोलआउट](https://rollouts.advaith.io/)   <br/>
+__क्रेडिट:__ @190916650143318016
 
-### **Find a Guild**
-> __Description:__ Find a guild using it’s ID, through replacing ‘GUILD_ID’ (provided it has widgets on).   <br/>
-__Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
+### **एक गिल्ड खोजें**
+> __विवरण:__ 'GUILD_ID' (बशर्ते उसमें विजेट चालू हों) को बदलकर, अपनी आईडी का उपयोग करके एक गिल्ड खोजें ।   <br/>
+__लिंक:__ [एक गिल्ड खोजें](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
 
-### **Find Guild Features**
-> __Description:__ Check the features of a guild via an instant invite code.   <br/>
-__Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
+### **गिल्ड सुविधाएँ खोजें**
+> __विवरण:__ तत्काल आमंत्रण कोड के माध्यम से गिल्ड की विशेषताओं की जाँच करें ।   <br/>
+__लिंक:__ [गिल्ड सुविधाएँ खोजें](https://discord.com/api/invite/[invitecode])
 
-### **Jagrosh's GitHub -> Discord Webhook Guide**
-> __Description:__ A guide to integrate your GitHub projects to a Discord channel.    <br/>
-__Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
-__Credit:__ @113156185389092864
+### **जगरोश का गिटहब -> डिस्कॉर्ड वेबहुक गाइड**
+> __विवरण:__ अपने GitHub प्रोजेक्ट्स को एक डिस्कॉर्ड चैनल में एकीकृत करने के लिए एक गाइड ।    <br/>
+__लिंक:__ [जगरोश का गिटहब -> डिस्कॉर्ड वेबहुक गाइड](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
+__क्रेडिट:__ @113156185389092864
 
 
-### **Mozzy's Log Sorter** 
-> __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
-__Link:__ [Mozzy’s Log Sorter](https://logsorter.net/)   <br/>
-__Credit:__ @99182302885588992
+### **मोज़्ज़ी का लॉग सॉर्टर** 
+> __विवरण:__ एक आसान लॉग पार्सर जो कई अलग-अलग बॉट लॉग का समर्थन करता है जो आपको लॉग के बड़े वर्गों से उपयोगकर्ता आईडी प्राप्त करने की अनुमति देता है ।   <br/>
+__लिंक:__ [मोज़्ज़ी का लॉग सॉर्टर](https://logsorter.net/)   <br/>
+__क्रेडिट:__ @99182302885588992
 
-### **Webence**
-> __Description:__ A tool that allows you to embed your Discord profile in an iframe.   <br/>
-__Link:__ [Webence](https://panleyent.com/webence/)   <br/>
-__Credit:__  @249287049482338305
+### **वेबेंस**
+> __विवरण:__ एक उपकरण जो आपको अपनी डिस्कॉर्ड प्रोफ़ाइल को एक आईफ्रेम में एम्बेड करने की अनुमति देता है ।   <br/>
+__लिंक:__ [वेबेंस](https://panleyent.com/webence/)   <br/>
+__क्रेडिट:__  @249287049482338305
 
-### **Discordstatus**
-> __Description:__ A tool to create a unique status/about me page using colores squares.  <br/>
-__Link:__ [Discordstatus](https://warze.org/discordstatus)  <br/>
-__Credit:__ @345103284463206400
+### **डिस्कॉर्डस्टेटस**
+> __विवरण:__ एक अद्वितीय स्थिति/मेरे बारे में पृष्ठ बनाने के लिए colores वर्गों का उपयोग करने के लिए एक उपकरण ।  <br/>
+__लिंक:__ [डिस्कॉर्डस्टेटस](https://warze.org/discordstatus)  <br/>
+__क्रेडिट:__ @345103284463206400
 
-### **PreMiD**
-> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
-__Link:__ [PreMiD](https://premid.app/)
+### **प्रीएमआईडी**
+> __विवरण:__ PreMiD एक सरल, विन्यास योग्य उपयोगिता है जो आपको यह दिखाने की अनुमति देती है कि आप अपने Discord "अब चल रही स्थिति" में वेब पर क्या कर रहे हैं ।    <br/>
+__लिंक:__ [प्रीएमआईडी](https://premid.app/)
 
-### **Powercord**
-> __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
-__Link:__ [Powercord](https://powercord.dev/)  <br/>
-[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
+### **पावर कॉर्ड**
+> __विवरण:__ पॉवरकॉर्ड एक हल्का क्लाइंट मॉड है जो सादगी और प्रदर्शन पर केंद्रित है ।   <br/>
+__लिंक:__ [पावर कॉर्ड](https://powercord.dev/)  <br/>
+[पावरकॉर्ड डिस्कॉर्ड टीओएस के खिलाफ है - अधिक पढ़ें](https://dat.place/client-mods/)
 
-### **Presence Maker**
-> __Description:__ Create Discord rich presence with this tool.   <br/>
-__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
-__Credit:__ @454847501787463680
+### **उपस्थिति निर्माता**
+> __विवरण:__ इस टूल के साथ डिस्कॉर्ड रिच उपस्थिति बनाएं ।   <br/>
+__लिंक:__ [उपस्थिति निर्माता](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
+__क्रेडिट:__ @454847501787463680
 
-### **Rauf's Guild Count**
-> __Description:__ Counts the number of guilds you’re in.   <br/>
-__Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount)   <br/>
-__Credit:__ @172557961133162496
+### **रऊफ का गिल्ड काउंट**
+> __विवरण:__ आप जितने गिल्ड में हैं, उनकी संख्या गिनता है ।   <br/>
+__लिंक:__ [रऊफ का गिल्ड काउंट](https://rauf.wtf/guildcount)   <br/>
+__क्रेडिट:__ @172557961133162496
 
-### **Rauf's Slash Command Generator**
-> __Description:__ An easy to use slash command tool which allows bot developers to create slash commands quickly.  <br/>
-__Link:__ [Rauf's Slash Command Generator](https://rauf.wtf/slash)  <br/>
-__Credit:__ @172557961133162496
+### **रऊफ का स्लैश कमांड जनरेटर**
+> __विवरण:__ स्लैश कमांड टूल का उपयोग करना आसान है जो बॉट डेवलपर्स को स्लैश कमांड को जल्दी से बनाने की अनुमति देता है ।  <br/>
+__लिंक:__ [रऊफ का स्लैश कमांड जनरेटर](https://rauf.wtf/slash)  <br/>
+__क्रेडिट:__ @172557961133162496
 
-### **Status**
-> __Description:__ A server that has a collection of announcement channels you can follow for many status pages (including Discord, Cloudflare, GitHub, Hypixel & more) so you can be one of the first to know when one of your favourite service(s) have issues.   <br/>
-__Link(s):__ 
-[Server Invite](https://inv.wtf/statuspages)   <br/>
-__Credit:__ @287698408855044097
+### **स्टेटस**
+> __विवरण:__ एक सर्वर जिसमें घोषणा चैनलों का एक संग्रह है जिसे आप कई स्थिति पृष्ठों (डिस्कॉर्ड, क्लाउडफ्लेयर, गिटहब, हाइपिक्सल और अधिक सहित) के लिए अनुसरण कर सकते हैं, ताकि आप सबसे पहले यह जान सकें कि आपकी पसंदीदा सेवा (ओं) में से कोई एक समस्या है ।   <br/>
+__लिंक्स:__ 
+[सर्वर इनवाइट](https://inv.wtf/statuspages)   <br/>
+__क्रेडिट:__ @287698408855044097
 
-### **Sylveon's Ban Appeal Website (self-host)**
-> __Description:__ Sample ban appeals page with OAuth2 integration.   <br/>
-__Link:__ [Sylveon’s Ban Appeal Website](https://github.com/sylveon/discord-ban-appeals)   <br/>
-__Credit:__  @207123748120166400
+### **सिय्लवोन की प्रतिबंध अपील वेबसाइट (स्व-होस्ट)**
+> __विवरण:__ OAuth2 एकीकरण के साथ नमूना प्रतिबंध अपील पृष्ठ ।   <br/>
+__लिंक:__ [सिय्लवोन की प्रतिबंध अपील वेबसाइट](https://github.com/sylveon/discord-ban-appeals)   <br/>
+__क्रेडिट:__  @207123748120166400
 
-### **Rauf's Embeds Generator**
-> __Description:__ Generate embeds using this site.   <br/>
-__Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/)   <br/>
-__Credit:__ @172557961133162496
+### **रऊफ का एम्बेड जनरेटर**
+> __विवरण:__ इस साइट का उपयोग करके एम्बेड उत्पन्न करें ।   <br/>
+__लिंक:__ [रऊफ का एम्बेड जनरेटर](https://embed.rauf.wtf/)   <br/>
+__क्रेडिट:__ @172557961133162496
 
-### **Webhooks Creator** 
-> __Description:__ A site to create webhooks with.   <br/>
-__Link:__ [Webhooks Creator](https://webhook.site/)
+### **वेबहुक निर्माता** 
+> __विवरण:__ वेबहुक बनाने के लिए एक साइट ।   <br/>
+__लिंक:__ [वेबहुक निर्माता](https://webhook.site/)
 
-### **Google forms -> Discord Webhook**
-> __Description:__ Sends a Google Form response to a Discord channel using webhooks.  <br/>
-__Link__ [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
-__Credit:__ @87599455892692992
+### **गूगल फॉर्म्स -> डिस्कॉर्ड वेबहुक**
+> __विवरण:__ वेबहुक का उपयोग करके एक डिस्कॉर्ड चैनल को Google फ़ॉर्म प्रतिक्रिया भेजता है ।  <br/>
+__लिंक__ [गूगल फॉर्म्स -> डिस्कॉर्ड वेबहुक](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
+__क्रेडिट:__ @87599455892692992
 
-### **Crosslink's Utility Links**
-> __Description:__ Easy to use links to lookup users and domains. Replace "ID" with User ID and "Domain" with the domain name.  <br/>
-__Link(s):__ [User Info](https://crss.link/u/ID) <br/>
-[Domain Info](https://crss.link/d/Domain)  <br/>
-__Credit:__ @249287049482338305
+### **क्रॉसलिंक की उपयोगिता लिंक**
+> __विवरण:__ उपयोगकर्ताओं और डोमेन को देखने के लिए लिंक का उपयोग करना आसान है। "आईडी" को यूजर आईडी से और "डोमेन" को डोमेन नाम से बदलें ।  <br/>
+__लिंक्स:__ [उपयोगकर्ता जानकारी](https://crss.link/u/ID) <br/>
+[डोमेन जानकारी](https://crss.link/d/Domain)  <br/>
+__क्रेडिट:__ @249287049482338305
 
-### **Merlin's Embed Links**
-> __Description:__ Easy to use links to embed users, servers, and invites.<br/>
-__Link:__ [Embeddable Links](https://url.wtf) <br/>
-__Credit:__ @386861188891279362
+### **मर्लिन के एम्बेड लिंक्स**
+> __विवरण:__ उपयोगकर्ताओं, सर्वरों और आमंत्रणों को एम्बेड करने के लिए लिंक का उपयोग करना आसान है ।  <br/>
+__लिंक:__ [एम्बेड करने योग्य लिंक्स](https://url.wtf) <br/>
+__क्रेडिट:__ @386861188891279362
 
-### **Scratch For Discord**
-> __Description:__ Make a Discord bot using blocks with no coding required.  <br/>
-__Link:__ [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
-__Credit:__ @422820341791064085
+### **डिस्कॉर्ड केलिए स्क्रैच**
+> __विवरण:__ बिना कोडिंग के ब्लॉक का उपयोग करके एक डिस्कॉर्ड बॉट बनाएं ।  <br/>
+__लिंक:__ [डिस्कॉर्ड केलिए स्क्रैच ](https://scratch-for-discord.netlify.app/)  <br/>
+__क्रेडिट:__ @422820341791064085
 
-### **Zeppelin in Docker**
-> __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
-__Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
-__Credit:__ @255834596766253057
+### **डोकर में जेपलिन**
+> __विवरण:__ डॉकर में मॉडरेशन बॉट ज़ेपेलिन को सेल्फ-होस्ट करने के लिए आसान सेटअप ।   <br/>
+__लिंक:__ [डोकर में जेपलिन](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
+__क्रेडिट:__ @255834596766253057
 
-### **ANSI Code Block Guide**
-> __Description:__ A quick breakdown of how to use ANSI color codes to add color to your code blocks. <br/>
-__Link(s):__  <br/>
-[ANSI Code Block Guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
-[ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
-__Credit:__ @github:kkrypt0nn @github:fnky
+### **एएनएसआई कोड ब्लॉक गाइड**
+> __विवरण:__ अपने कोड ब्लॉक में रंग जोड़ने के लिए एएनएसआई रंग कोड का उपयोग करने का त्वरित विश्लेषण । <br/>
+__लिंक्स:__  <br/>
+[एएनएसआई कोड ब्लॉक गाइड](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
+[एएनएसआई कोड ब्लॉक गाइड (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
+__क्रेडिट:__ @github:kkrypt0nn @github:fnky
 
-### **Simple Discord Cache Cleaner**
-> __Description:__ A simple to the point Discord cache manager written in java.   <br/>
-__Link:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
-__Credit:__ @272037078919938058
+### **सरल डिस्कॉर्ड कैश क्लीनर**
+> __विवरण:__ जावा में लिखे गए डिस्कॉर्ड कैश मैनेजर के लिए एक सरल ।   <br/>
+__लिंक:__ [सरल डिस्कॉर्ड कैश क्लीनर](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
+__क्रेडिट:__ @272037078919938058
 
-### **Discord Role Icon Creator**
-> __Description:__ Website that allows users to make simple looking role icons for their servers.   <br/>
-__Link:__ [Discord Icon](https://discordicon.com)   <br/>
-__Credit:__ @github:enzostvs
+### **डिस्कॉर्ड भूमिका चिह्न निर्माता**
+> __विवरण:__ वेबसाइट जो उपयोगकर्ताओं को अपने सर्वर के लिए सरल दिखने वाले रोल आइकन बनाने की अनुमति देती है ।   <br/>
+__लिंक:__ [डिस्कॉर्ड चिह्न](https://discordicon.com)   <br/>
+__क्रेडिट:__ @github:enzostvs
