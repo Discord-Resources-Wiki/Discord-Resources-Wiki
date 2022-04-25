@@ -1,16 +1,16 @@
 ---
 title: डिस्कॉर्ड के श्रेष्ठ बॉट्स
 sidebar_postion: 2
-description: डिस्कॉर्ड बॉट्स के सिफारिशों
+विवरण: डिस्कॉर्ड बॉट्स के सिफारिशों
 ---
 
 # बेस्ट डिस्कॉर्ड बॉट्स
 ## **मॉडरेशन**
 ### **ज़ेपेलिन**
-> __विवरण:__ ज़ेपेलिन डिस्कॉर्ड के लिए एक निजी मॉडरेशन बॉट् है, बड़े सर्वर और विश्वसनीयता को ध्यान में रखकर बनाया गया है।   <br/>
+> __विवरण:__ ज़ेपेलिन डिस्कॉर्ड के लिए एक निजी मॉडरेशन बॉट् है, बड़े सर्वर और विश्वसनीयता को ध्यान में रखकर बनाया गया है ।   <br/>
 __लिंक्स:__   <br/>
 [ज़ेपेलिन का वेबसाइट](https://zeppelin.gg/)   <br/>
-[गिठहब](https://github.com/Dragory/ZeppelinBot)   <br/>
+[गिटहब](https://github.com/Dragory/ZeppelinBot)   <br/>
 [कंपेंडियम](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
 [सैटअप टूल](https://setup-tool.zeppelin.gg)   <br/>
 [हैंडबुक](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
@@ -22,29 +22,28 @@ __लिंक:__ [गिसेलेबोट](https://docs.gisellebot.com/)   
 __क्रेडिट:__  @220081163660689408 @200987752794292224
 
 ### **वोर्टेक्स**
-> __विवरण:__  
-वोर्टेक्स एक बॉट है जिसे आपके सर्वर को सुरक्षित रखने और आपकी स्टाफ टीम को व्यवस्थित रखने के लिए डिज़ाइन किया गया है ।  इसका मॉडरेशन और लॉगिंग सूट आपके सदस्यों पर नज़र रखता है और आपके मॉडरेटर को जवाबदेह रखता है।  इसकी ऑटो-मॉडरेटर क्षमताएं इसे मानव हस्तक्षेप की आवश्यकता के बिना कुछ प्रकार के व्यवहार को फ़िल्टर करने की अनुमति देती हैं, स्टाफ टीम के भार को हल्का करती हैं ।  अंत में, वोर्टेक्स को तेज और उपयोग में आसान बनाने के लिए डिज़ाइन किया गया है ।   <br/>
+> __विवरण:__ वोर्टेक्स एक बॉट है जिसे आपके सर्वर को सुरक्षित रखने और आपकी स्टाफ टीम को व्यवस्थित रखने के लिए डिज़ाइन किया गया है ।  इसका मॉडरेशन और लॉगिंग सूट आपके सदस्यों पर नज़र रखता है और आपके मॉडरेटर को जवाबदेह रखता है।  इसकी ऑटो-मॉडरेटर क्षमताएं इसे मानव हस्तक्षेप की आवश्यकता के बिना कुछ प्रकार के व्यवहार को फ़िल्टर करने की अनुमति देती हैं, स्टाफ टीम के भार को हल्का करती हैं ।  अंत में, वोर्टेक्स को तेज और उपयोग में आसान बनाने के लिए डिज़ाइन किया गया है ।   <br/>
 __लिंक:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
 __क्रेडिट:__ @113156185389092864
 
 ### **गियरबॉट**
-> __विवरण:__ भरोसेमंद सामान्य मॉडरेशन बॉट।   <br/>
+> __विवरण:__ भरोसेमंद सामान्य मॉडरेशन बॉट ।   <br/>
 __लिंक्स:__   <br/>
 [गियरबॉट वेबसाइट](https://gearbot.rocks/)   <br/>
 [इनवाइट गियरबॉट](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
 __क्रेडिट:__ @106354106196570112
 
 
-### **Fire**
-> __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
-__Link(s):__   <br/>
-[Fire Website](https://getfire.bot/)   <br/>
-[Invite Fire](https://inv.wtf/bot)   <br/>
-__Credit:__ @287698408855044097
+### **फायर**
+> __विवरण:__ एक अच्छा मॉडरेशन और यूटिलिटी बॉट जो हमेशा अप-टू-डेट रहता है ।   <br/>
+__लिंक्स:__   <br/>
+[फायर वेबसाइट](https://getfire.bot/)   <br/>
+[इनवाइट फायर](https://inv.wtf/bot)   <br/>
+__क्रेडिट:__ @287698408855044097
 
-### **AutoModerator** 
-> __विवरण:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
-__लिंक:__ [AutoModerator Website](https://automoderator.app/)   <br/>
+### **ऑटोमॉडरेटर** 
+> __विवरण:__ बटन और ड्रॉपडाउन के साथ सामान्य ऑटो-मॉडरेशन बॉट ।   <br/>
+__लिंक:__ [ऑटोमॉडरेटर वेबसाइट](https://automoderator.app/)   <br/>
 __क्रेडिट:__ @223703707118731264 @104425482757357568
 
 ### **बीमो**
@@ -52,188 +51,188 @@ __क्रेडिट:__ @223703707118731264 @104425482757357568
 __लिंक:__ [वेबसाइट](https://beemo.gg/)   <br/>
 __क्रेडिट:__ @192048286331437056
 
-### **Beemo Helper (addition)**
-> __Description:__ Beemo Helper is designed to help Beemo (https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
-__Link(s):__   <br/>
-[Invite](https://redirects.polar.blue/beemohelper)   <br/>
-__Credit:__ @619284841187246090
+### **बीमो हेल्पर (addition)**
+> __विवरण:__ Beemo हेल्पर को Beemo (https://beemo.gg/) को उपयोगकर्ता बॉट छापे से निपटने में मदद करने के लिए डिज़ाइन किया गया है । एक बार जब बीमो एक छापे का पता लगाता है, तो बीमो हेल्पर नीचे से ऊपर तक बीमो लॉग्स के उपयोगकर्ताओं को प्रतिबंधित करना शुरू कर देगा, प्रभावी रूप से प्रतिबंधों की गति को दोगुना कर देगा ।   <br/>
+__लिंक्स:__   <br/>
+[इनवाइट](https://redirects.polar.blue/beemohelper)   <br/>
+__क्रेडिट:__ @619284841187246090
 
-### **Red Bot**
-> __Description:__ Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable. This is a self-hosted bot – meaning you will need to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot, and more!   <br/>
-__Link:__ [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot) 
-
-
-### **Crosslink**
-> __Description:__ Crosslink is a smart link detection and reputation service built to make link filtering convenient for moderators and community managers. With convenience at the forefront, configuration on Discord is made to be as simple as possible for the end user. Our reputation system takes third parties into account as well as our own local domain database to keep your community safe! 
-__Link(s):__ 
-[Website](https://panleyent.com/crosslink/)   <br/>
-[Invite CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
-[Full Docs](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
-__Credit:__ @249287049482338305
+### **रेड बॉट**
+> __विवरण:__ रेड पूरी तरह से मॉड्यूलर बॉट है - जिसका अर्थ है कि सभी सुविधाओं और आदेशों को आपकी पसंद के अनुसार सक्षम / अक्षम किया जा सकता है, जिससे यह पूरी तरह से अनुकूलन योग्य हो जाता है । यह एक स्व-होस्टेड बॉट है - जिसका अर्थ है कि आपको अपने स्वयं के उदाहरण को होस्ट करने और बनाए रखने की आवश्यकता होगी । आप रेड को एक एडमिन बॉट, म्यूजिक बॉट, ट्रिविया बॉट और बहुत कुछ में बदल सकते हैं !   <br/>
+__लिंक:__ [रेड बॉट](https://github.com/Cog-Creators/Red-DiscordBot) 
 
 
-### **Safelink** 
-> __Description:__ A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
-__Link:__ [Safelink](https://safelink.gg/)   <br/>
-__Credit:__ @282565295351136256 @684155404078415890
+### **क्रॉसलिंक**
+> __विवरण:__ क्रॉसलिंक एक स्मार्ट लिंक डिटेक्शन और प्रतिष्ठा सेवा है जिसे मॉडरेटर और सामुदायिक प्रबंधकों के लिए लिंक फ़िल्टरिंग को सुविधाजनक बनाने के लिए बनाया गया है । सबसे आगे सुविधा के साथ, डिस्कॉर्ड पर कॉन्फ़िगरेशन को अंतिम उपयोगकर्ता के लिए यथासंभव सरल बनाया गया है । हमारी प्रतिष्ठा प्रणाली आपके समुदाय को सुरक्षित रखने के लिए तीसरे पक्ष के साथ-साथ हमारे अपने स्थानीय डोमेन डेटाबेस को भी ध्यान में रखती है ! 
+__लिंक्स:__ 
+[वेबसाइट](https://panleyent.com/crossलिंक/)   <br/>
+[इनवाइट क्रॉसलिंक](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
+[पूरा डॉक्स](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
+__क्रेडिट:__ @249287049482338305
 
 
-### **Fish**
-> __Description:__ Fish is a bot made for auto-moderating phishing scam links. It has a few configuration options, like what action to take when a user posts a known scam link and the ability to exempt users/roles from link detection.   <br/>
-__Link(s):__   <br/>
-[Github](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
-[Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
-__Credit:__ @255834596766253057
-
-### **OterluBot**
-> __Description:__ A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
-__Link:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
-__Credit:__ @111891236792598528 @352832514819227655
+### **सेफलिंक** 
+> __विवरण:__ एक बॉट जो विभिन्न प्रकार के घोटाले (नाइट्रो घोटाले, स्टीम घोटाले, और कई अन्य) का पता लगा सकता है, स्पष्ट लिंक, और एक कस्टम आंतरिक एपीआई के साथ जो लगातार पहचान में सुधार के लिए एआई का उपयोग करता है ।   <br/>
+__लिंक:__ [सेफलिंक](https://safeलिंक.gg/)   <br/>
+__क्रेडिट:__ @282565295351136256 @684155404078415890
 
 
-## **ModMail**
+### **फिश**
+> __विवरण:__ फिश एक बॉट है जो फ़िशिंग स्कैम लिंक को ऑटो-मॉडरेट करने के लिए बनाया गया है । इसमें कुछ कॉन्फ़िगरेशन विकल्प हैं, जैसे कि जब कोई उपयोगकर्ता एक ज्ञात स्कैम लिंक पोस्ट करता है और लिंक डिटेक्शन से उपयोगकर्ताओं/भूमिकाओं को छूट देने की क्षमता रखता है तो क्या कार्रवाई करनी चाहिए ।   <br/>
+__लिंक्स:__   <br/>
+[गिटहब](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
+[इनवाइट फ़िश](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
+__क्रेडिट:__ @255834596766253057
 
-### **Dragory's ModMail** (self-host)
-> __Description:__ Modmail Bot is a bot for Discord that allows users to DM the bot to contact the server's moderators/staff without messaging them individually or pinging them publicly on the server. These DMs get relayed to ModMail threads, channels where staff members can reply to and talk with the user. To the user, the entire process happens in DMs with the bot.   <br/>
-__Link(s):__   <br/>
-[GitHub](https://github.com/Dragory/modmailbot)   <br/>
-[Config Template](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
-__Credit(s):__  @106391128718245888 @200987752794292224
+### **ओटेरलूबॉट**
+> __विवरण:__ एक मॉडरेशन बॉट जो किसी अन्य उपयोगकर्ता, nsfw सामग्री और अपवित्रता की विषाक्तता का पता लगाने और लॉग इन करने के लिए AI का उपयोग करता है । लॉग के आधार पर आपके सर्वर के स्वास्थ्य पर कुछ आँकड़े प्रदान करता है ।  <br/>
+__लिंक:__ [ओटेरलूबॉट](https://www.oterlu.com/discord-bot)  <br/>
+__क्रेडिट:__ @111891236792598528 @352832514819227655
 
-### **Kyb3r's Modmail** (self-host)
-> __Description:__ Modmail is similar to Reddit's ModMail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.   <br/>
-__Link:__ [Kyb3r’s Modmail](https://github.com/kyb3r/modmail)   <br/>
-__Credit:__ @github:kyb3r
 
-### **Support Bot** (self-host)
-> __Description:__ A simple and lightweight Discord support/automated help desk!   <br/>
-__Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
-__Credit:__ @524371727812263948
+## **मोड़मेल**
 
-## **Utility Bots**
-### **OpenDiscordBots**
-> __Description:__ A collection of self-hostable, open-source simple Discord bots.  <br/>
-__Link(s):__   <br/>
-[OpenDiscordBots](https://opendiscordbots.com/)  <br/>
-[GitHub Org](https://github.com/OpenDiscordBots)  <br/>
-__Credit:__ @297045071457681409 @192060404501839872
+### **ड्रैगरी का मोड़मेल** (स्वयं हॉस्ट)
+> __विवरण:__ मोडमेल बॉट डिस्कॉर्ड के लिए एक बॉट है जो उपयोगकर्ताओं को डीएम बॉट को सर्वर के मॉडरेटर/स्टाफ से व्यक्तिगत रूप से संदेश भेजने या सर्वर पर सार्वजनिक रूप से पिंग किए बिना संपर्क करने की अनुमति देता है । ये डीएम मोडमेल थ्रेड्स, चैनल्स से रिलेटेड हो जाते हैं, जहां स्टाफ सदस्य उपयोगकर्ता को जवाब दे सकते हैं और बात कर सकते हैं । उपयोगकर्ता के लिए, पूरी प्रक्रिया डीएम में बॉट के साथ होती है ।   <br/>
+__लिंक्स:__   <br/>
+[गिटहब](https://github.com/Dragory/modmailbot)   <br/>
+[कॉन्फ़िग टेम्पलेट](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
+__क्रेडिट(s):__  @106391128718245888 @200987752794292224
 
-### **RTS Bot**
-> __Description:__ Bot with mental health & wellness resources.   <br/>
-__Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
-__Credit:__  @177886618714243073
+### **कियबर का मोड़मेल** (स्वयं हॉस्ट)
+> __विवरण:__ Modmail is similar to Reddit's ModMail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.   <br/>
+__लिंक:__ [कियबर का मोड़मेल](https://github.com/kyb3r/modmail)   <br/>
+__क्रेडिट:__ @github:kyb3r
 
-### **Publisher**
-> __Description:__ auto publishes messages in announcements channels.   <br/>
-__Link:__ [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
-__Credit:__ @255834596766253057
+### **सपोर्ट बॉट** (स्वयं हॉस्ट)
+> __विवरण:__ एक सरल और हल्का डिस्कॉर्ड समर्थन/स्वचालित हेल्प डेस्क !   <br/>
+__लिंक:__ [सपोर्ट बॉट](https://github.com/Gideon-foxo/support-bot)   <br/>
+__क्रेडिट:__ @524371727812263948
 
-### **Activities Bot**
-> __Description:__ Starts activities available for voice channels.   <br/>
-__Link:__ [Invite Activities Bot](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
-__Credit:__ @190916650143318016
+## **यूटिलिटी बॉट्स**
+### **ओपनडिस्कॉर्डबॉट्स**
+> __विवरण:__ स्व-होस्ट करने योग्य, ओपन-सोर्स सरल डिस्कॉर्ड बॉट्स का संग्रह ।  <br/>
+__लिंक्स:__   <br/>
+[ओपनडिस्कॉर्डबॉट्स](https://opendiscordbots.com/)  <br/>
+[गिटहब संगठन](https://github.com/OpenDiscordBots)  <br/>
+__क्रेडिट:__ @297045071457681409 @192060404501839872
 
-### **Reaction**
-> __Description:__ Easy-to-use bot to have buttons and dropdowns based reaction roles in your server.  <br/>
-__Link(s):__ <br/>
-[Reaction Docs](https://rr.auttaja.io/)  <br/>
-[Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
-__Credit:__ @109710323094683648
+### **आरटीएस बॉट**
+> __विवरण:__ मानसिक स्वास्थ्य और कल्याण संसाधनों के साथ बॉट ।   <br/>
+__लिंक:__ [आरटीएस बॉट](http://rts.guardiansmh.org/bot)   <br/>
+__क्रेडिट:__  @177886618714243073
 
-### **Discord Status** (webhook)
-> __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
-__Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
-__Credit:__ @255834596766253057
+### **पब्लिशर**
+> __विवरण:__ घोषणा चैनल में संदेशों को स्वतः प्रकाशित करें ।   <br/>
+__लिंक:__ [इनवाइट पब्लिशर](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
+__क्रेडिट:__ @255834596766253057
 
-### **Datamining Updates**
-> __Description:__ The bot publishes any authorized commits in [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
-__Link(s):__   <br/>
-[GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
-[Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
-[Datamining Website](https://datamining.otter.university/)  <br/>
-__Credit:__ @172557961133162496 @562415519454461962
+### **एक्टिविटीज बॉट**
+> __विवरण:__ ध्‍वनि चैनलों के लिए उपलब्‍ध गतिविधियां प्रारंभ करता है ।   <br/>
+__लिंक:__ [इनवाइट एक्टिविटीज बॉट](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
+__क्रेडिट:__ @190916650143318016
 
-### **Jagrosh's Music Bot** (self-host)
-> __Description:__ A music bot with step to step guide on self hosting.  <br/>
-__Link:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
-__Credit:__ @113156185389092864
+### **रिएक्शन**
+> __विवरण:__ आपके सर्वर में बटन और ड्रॉपडाउन आधारित प्रतिक्रिया भूमिकाओं के लिए उपयोग में आसान बॉट ।  <br/>
+__लिंक्स:__ <br/>
+[रिएक्शन डॉक्स](https://rr.auttaja.io/)  <br/>
+[इनवाइट रिएक्शन ](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
+__क्रेडिट:__ @109710323094683648
 
-### **Tone Indicator Bot**
-> __Description:__ Find and understand tone indicators.   <br/>
-__Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
-__Credit:__ @173815235243802624
+### **डिस्कॉर्ड स्टेटस** (वेबहुक)
+> __विवरण:__ स्थिति वेबसाइट से डिस्कॉर्ड के भीतर एम्बेड के रूप में अपडेट प्रदान करता है ।   <br/>
+__लिंक:__ [इनवाइट डिस्कॉर्ड स्टेटस](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
+__क्रेडिट:__ @255834596766253057
+
+### **डेटामाइनिंग अपडेट्स**
+> __विवरण:__ बॉट [Discord Datamining] में किसी भी अधिकृत कमिट को प्रकाशित करता है ।(https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
+__लिंक्स:__   <br/>
+[गिटहब](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
+[इनवाइट डेटामाइनिंग अपडेट्स](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
+[डेटामाइनिंग वेबसाइट](https://datamining.otter.university/)  <br/>
+__क्रेडिट:__ @172557961133162496 @562415519454461962
+
+### **जगरोश का म्यूजिक बॉट** (स्वयं हॉस्ट) 
+> __विवरण:__ सेल्फ होस्टिंग पर स्टेप टू स्टेप गाइड के साथ एक म्यूजिक बॉट ।  <br/>
+__लिंक:__ [जगरोश का म्यूजिक बॉट](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
+__क्रेडिट:__ @113156185389092864
+
+### **टोन संकेतक बॉट**
+> __विवरण:__ टोन संकेतक खोजें और समझें ।   <br/>
+__लिंक:__ [इनवाइट टोन संकेतक](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
+__क्रेडिट:__ @173815235243802624
  
-### **AMA (Ask Me Anything)**
-> __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
-__Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
-__Credit:__ @223703707118731264 @104425482757357568
+### **एएमए (मुझसे कुछ भी पूछो)**
+> __विवरण:__ डिस्कॉर्ड पर एएमए की मेजबानी और प्रबंधन में मदद करने में सहायता करता है ।   <br/>
+__लिंक:__ [एएमए बॉट](https://automoderator.app/ama/)   <br/>
+__क्रेडिट:__ @223703707118731264 @104425482757357568
 
-### **Suggester**
-> __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
-__Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
-[Suggester Docs](https://suggester.js.org/)  <br/>
-__Credit:__ @327887845270487041 @255834596766253057
+### **सजेस्टर**
+> __विवरण:__ सुझावक एक सुझाव-केंद्रित डिस्कॉर्ड बॉट है जिसका मुख्य उद्देश्य सर्वर प्रबंधकों को अपने सदस्यों से प्रतिक्रिया प्राप्त करने की अनुमति देना है।  <br/>
+__लिंक्स:__ [इनवाइट सजेस्टर](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
+[सजेस्टर डॉक्स](https://suggester.js.org/)  <br/>
+__क्रेडिट:__ @327887845270487041 @255834596766253057
 
-### **NSFW-Toggle**
-> __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
-__Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
-__Credit:__ @255834596766253057
+### **एनएसएफडब्ल्यू-टॉगल**
+> __विवरण:__ NSFW टॉगल को पुश करता है । मोबाइल और विशेष रूप से आईओएस के लिए उपयोगी जहां यह संभव नहीं है ।  <br/>
+__लिंक:__ [इनवाइट एनएसएफडब्ल्यू-टॉगल](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
+__क्रेडिट:__ @255834596766253057
 
-### **ThreadPersist**
-> __Description:__ A bot that keeps all threads active, unless manually archived.  <br/>
-__Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
-[Self-Host ThreadPersist](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
-__Credit:__ @297045071457681409
+### **थ्रेडपर्सिस्ट**
+> __विवरण:__ एक बॉट जो सभी थ्रेड्स को सक्रिय रखता है, जब तक कि मैन्युअल रूप से संग्रहीत न हो ।  <br/>
+__लिंक्स:__ [इनवाइट थ्रेडपर्सिस्ट](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
+[स्वयं हॉस्ट थ्रेडपर्सिस्ट](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
+__क्रेडिट:__ @297045071457681409
 
-### **CleanLeave**
-> __Description:__ Automatically remove user join messages when the user leaves the server.  <br/>
-__Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
-[Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
-__Credit:__ @297045071457681409
+### **क्लीनलीव**
+> __विवरण:__ जब उपयोगकर्ता सर्वर छोड़ता है तो उपयोगकर्ता के जुड़ने वाले संदेशों को स्वचालित रूप से हटा दें ।  <br/>
+__लिंक्स:__ [इनवाइट क्लीनलीव](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
+[स्वयं हॉस्ट क्लीनलीव](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
+__क्रेडिट:__ @297045071457681409
 
-### **Iris XP**
-> __Description:__ Easy to use, fully customisable XP bot.  <br/>
-__Link:__ [Invite Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
-__Credit:__ @173815235243802624
+### **आईरिस एक्सपी**
+> __विवरण:__ प्रयोग करने में आसान, पूरी तरह से अनुकूलन योग्य XP बॉट ।  <br/>
+__लिंक:__ [इनवाइट आईरिस एक्सपी](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
+__क्रेडिट:__ @173815235243802624
 
-### **Discord Invite Tracker** (self-host)
-> __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
-__Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
-__Credit:__ @422820341791064085
+### **डिसॉर्डर इनवाइट ट्रैकर** (स्वयं हॉस्ट)
+> __विवरण:__ यह जानने के लिए अपने सर्वर में आमंत्रण ट्रैक करें कि किसने और किसके साथ आमंत्रित किया ।  <br/>
+__लिंक:__ [डिसॉर्डर इनवाइट ट्रैकर](https://github.com/Androz2091/discord-invites-tracker)  <br/>
+__क्रेडिट:__ @422820341791064085
 
-### **WidgetBot**
-> __Description:__ Create good looking widgets for your websites.  <br/>
-__Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
-__Credit:__ @github:widgetbot-io
+### **विजेटबोट**
+> __विवरण:__ अपनी वेबसाइटों के लिए अच्छे दिखने वाले विजेट बनाएं ।  <br/>
+__लिंक:__ [विजेटबोट](https://widgetbot.io/)  <br/>
+__क्रेडिट:__ @github:widgetbot-io
 
-### **Wumplus**
-> __Description:__ Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
-__Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
-__Credit:__ @305647182198079489 @852608147554172928
+### **वुमप्लस**
+> __विवरण:__ उन चीजों के लिए उपयोगिता बॉट जो उपयोगकर्ता नहीं कर सकते, जैसे गतिविधियां खोलना, भावनाओं को लॉक करना और गेम ढूंढना ।  <br/>
+__लिंक:__ [इनवाइट वुमप्लस](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
+__क्रेडिट:__ @305647182198079489 @852608147554172928
 
-### **Antouto**
-> __Description:__ Antouto is a bot that lets you get extensive information about discord invites, servers, users, build overrides, and more!  <br/>
-__Link:__ [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
-__Credit:__ @316860714260234243
+### **ऍनटाऊतू**
+> __विवरण:__ ऍनटाऊतू एक बॉट है जो आपको कलह आमंत्रण, सर्वर, उपयोगकर्ता, बिल्ड ओवरराइड, और बहुत कुछ के बारे में विस्तृत जानकारी प्राप्त करने देता है!  <br/>
+__लिंक:__ [इनवाइट ऍनटाऊतू](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
+__क्रेडिट:__ @316860714260234243
 
-### **Craig**
-> __Description:__ A bot able to record one or more voice channels or stage channel at the time.  <br/>
-__Link(s):__  <br/> 
-[Craig Website](https://craig.chat/home/)  <br/>
-[Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
-__Credit:__ @171244192696238080
+### **क्रेग**
+> __विवरण:__ एक बॉट उस समय एक या एक से अधिक वॉयस चैनल या स्टेज चैनल रिकॉर्ड करने में सक्षम है ।  <br/>
+__लिंक्स:__  <br/> 
+[क्रेग वेबसाइट](https://craig.chat/home/)  <br/>
+[इनवाइट क्रेग](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
+__क्रेडिट:__ @171244192696238080
 
-### **Tunes Ninja**
-> __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
-__Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
-__Credit:__ @657057112593268756
+### **ट्यून्स निंजा**
+> __विवरण:__ जब चैट में एक गीत लिंक पोस्ट किया जाता है, तो ट्यून्स निंजा सभी लोकप्रिय संगीत प्लेटफार्मों में गाने के साथ एक एम्बेड भेजेगा ।  <br/>
+__लिंक:__ [ट्यून्स निंजा वेबसाइट](https://tunes.ninja/)   <br/>
+__क्रेडिट:__ @657057112593268756
 
-### **StatusBot**
-> __Description:__ A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
-__Link:__ [StatusBot](https://www.statusbot.gg/) <br/>
-__Credit:__ @282565295351136256
+### **स्टेटसबॉट**
+> __विवरण:__ एक बॉट जो आपके बॉट के प्रदर्शन को ट्रैक करने की अनुमति देता है, सेवा घटनाओं का पता चलने पर सूचनाएं प्राप्त करता है । <br/>
+__लिंक:__ [स्टेटसबॉट](https://www.statusbot.gg/) <br/>
+__क्रेडिट:__ @282565295351136256
 
-### **Forms**
-> __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
-__Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
-__Credit:__ @316860714260234243
+### **फॉर्म्स**
+> __विवरण:__ अपने सर्वर के लिए कस्टम फ़ॉर्म बनाएं और वेबहुक का उपयोग करके अपनी पसंद के चैनल पर सबमिशन भेजें । <br/>
+__लिंक:__ [डेमो, डॉक्यूमेंटेशन और इनवाइट लिंक](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
+__क्रेडिट:__ @316860714260234243
