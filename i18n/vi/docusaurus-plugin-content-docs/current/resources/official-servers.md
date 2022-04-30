@@ -20,7 +20,7 @@ __Link:__ [Discord Developers](https://discord.gg/discord-developers)
 @gg/discord-developers
 
 ## **Discord Town Hall** 
-> __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
+> __Mô tả:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
 __Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
 
 @gg/discord-townhall
@@ -32,7 +32,7 @@ __Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 @gg/discordgameslab
 
 ## **Discord Safety**
-> __Description:__ Currently under construction.  <br/>
+> Mô tả:__ Đang duới sự cải cách.  <br/>
 __Link:__ [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
