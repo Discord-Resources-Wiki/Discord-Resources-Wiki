@@ -81,3 +81,7 @@ __Link(s):__   <br/>
 __Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
 __Credit:__ The Vaccinator Team (contact: @204414611578028034)
+
+### **Intezer Analyse**
+> __Description:__ Advanced security researching tool to help determine if a file is malicious and much more. (Not entirely free) <br/>
+__Link:__ [Intezer Analyse](https://analyze.intezer.com/)
