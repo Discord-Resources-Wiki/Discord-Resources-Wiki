@@ -63,3 +63,8 @@ __Link:__ [Bots Lists List](https://botblock.org/lists)
 > __Description:__ Get statistics about your Discord bot.   <br/>
 __Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
 __Credit:__ @255834596766253057
+
+### **An Idiot's Guide**
+> __Description:__  The unofficial Discord.js beginner's guide, written by idiots for beginners.<br/>
+__Link:__ [An Idiot's Guide](https://anidiots.guide/) <br/>
+__Credit:__ @github:AnIdiotsGuide
