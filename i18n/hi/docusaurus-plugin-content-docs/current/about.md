@@ -1,40 +1,39 @@
 ---
-title: Wiki
-sidebar_label: About
-sidebar_position: 1
+title: विकी
+sidebar_label: के बारे में
+sidebar_postion: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: शुरुआती से लेकर बिजली उपयोगकर्ताओं तक सभी प्रकार के उपयोगकर्ताओं के लिए उपयोगी कलह संसाधनों और उपयोगिताओं की एक सूची
 ---
 
-# About
+# बारे में
 
-## Welcome to Discord Resources Wiki
+## डिस्कॉर्ड संसाधन विकि में आपका स्वागत है
 
-## So what is this thing?
+## तो यह बात क्या है?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+इस परियोजना के संस्थापक, @755792681313108018, डिस्कॉर्ड संसाधनों की एक अच्छी और आसान सूची की तलाश में थे, जो बुनियादी ज्ञान से लेकर उन्नत उपयोगिताओं तक के विषयों को कवर करेगा; एक सूची जो सभी डिस्कॉर्ड उपयोगकर्ताओं को, शुरुआती से लेकर कुशल तक, उपयोगी लगेगी। लेकिन ऐसी कोई सूची नहीं मिली।
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+और इसलिए, एक विचार आया! कुछ दोस्तों की मदद से, जो डिस्कॉर्ड के आसपास अपना रास्ता जानते हैं, एक साथ **डिस्कॉर्ड रिसोर्स विकी** बनाया गया था। यह परियोजना आज जो है, उसे बनने में महीनों का शोध, संगठन और डिजाइन कार्य करना पड़ा, और हम आशा करते हैं कि आप इसे उपयोगी पाएंगे।
 
-## What am I seeing here?
+## मैं यहाँ क्या देख रहा हूँ?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+हम समान श्रेणियों और विषयों के तहत समान संसाधनों को एक साथ समूहित करते हैं, डेस्कटॉप पर बाईं ओर या मोबाइल पर मेनू आइकन के साथ पहुँचा जा सकता है। प्रत्येक संसाधन का एक संक्षिप्त विवरण होता है कि यह क्या है, इसके बाद लिंक के साथ जहां इसे एक्सेस किया जा सकता है और साथ ही रचनाकारों को क्रेडिट भी दिया जाता है।
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+इस साइट को लगातार और बार-बार अपडेट किया जाएगा क्योंकि हमें और अधिक संसाधन मिलते हैं जो पूरे प्लेटफॉर्म पर उपयोगकर्ताओं को डिस्कॉर्ड करने में मदद करेंगे!
 
-## Disclaimer
+## अस्वीकरण
 
-**We are not affiliated with Discord in any way.**
+**हम किसी भी तरह से डिस्कॉर्ड से संबद्ध नहीं हैं।**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+यह साइट उन अधिकांश संसाधनों का समुच्चय है जो हमें मिल सकते हैं और यह हर तरह से पूरी तरह से विस्तृत सूची नहीं है। हम यहां सूचीबद्ध किसी भी संसाधन पर अधिकार या स्वामित्व का दावा नहीं करते हैं, जब तक कि स्पष्ट रूप से अन्यथा उल्लेख न किया गया हो। संसाधन निर्माताओं के सभी क्रेडिट प्रत्येक लिंक के "क्रेडिट" अनुभाग में सूचीबद्ध हैं।
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+हम जहां भी संभव हो, उपयोगकर्ताओं को क्रेडिट करने की पूरी कोशिश करते हैं, हालांकि, हम मानते हैं कि कुछ संसाधनों में गलत या अपूर्ण क्रेडिट हो सकते हैं। यदि आपको ऐसा कोई संसाधन मिलता है, तो कृपया संपर्क करें ताकि हम समस्या को ठीक कर सकें।
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+हमारी सभी ब्रांडिंग और संपत्तियां हमारे स्वामित्व में हैं और @192060404501839872 द्वारा बनाई गई हैं। आप हमारी स्पष्ट अनुमति के बिना अपने निजी उपयोग या परियोजनाओं के लिए हमारी ब्रांडिंग का उपयोग नहीं कर सकते हैं।
 
-## Personal Note
+## व्यक्तिगत नोट
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+हालांकि वैकल्पिक, अगर हम आपकी मदद करते हैं तो हम वास्तव में श्रेय दिए जाने की सराहना करेंगे। हम लिंक पर शोध करने, संसाधनों को व्यवस्थित करने और वेबसाइट पर उन्हें क्यूरेट करने के लिए अपनी पूरी कोशिश करते हैं, और आप जो देखते हैं वह हमारे महीनों के प्रयास की परिणति है।
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**इस परियोजना को उनके साथ भी साझा करके अपने दोस्तों, आपसी, समुदाय के सदस्यों और अधिक की मदद करें!**
