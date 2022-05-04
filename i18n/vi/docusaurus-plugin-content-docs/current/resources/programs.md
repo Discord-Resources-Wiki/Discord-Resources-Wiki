@@ -1,14 +1,14 @@
 ---
-title: Programs
+title: Kế hoạch
 sidebar_position: 7
-description: Discord programs like Moderation, Partner, HSE and Verification.
+description: Kế hoạch Discord như Điều phối viên, Đối tác và Xác minh
 ---
 
-# Programs
+# Kế hoạch
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link(s):__ [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
+### **Hệ sinh thái của điều phối viên** 
+> __Mô tả:__ Hệ sinh thái chính thức của Discord để thảo luận về <br/>
+__Link(s):__ [Hệ sinh thái của các điều phối viên](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
 [Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
 [Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
 
