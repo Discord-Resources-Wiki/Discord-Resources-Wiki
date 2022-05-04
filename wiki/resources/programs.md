@@ -10,7 +10,8 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 > __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
 __Link(s):__ [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
 [Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
-[Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
+[Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view) <br/>
+[Discord Safety Ecosystem Components](https://docs.google.com/document/d/1rh4gAqymGPAqoi1gnzOw-_nIlgkkLvh233NAgNnq-Sw/edit#heading=h.80lk0cy481v7)
 
 ### **Partner Program**
 > __Description:__ As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
