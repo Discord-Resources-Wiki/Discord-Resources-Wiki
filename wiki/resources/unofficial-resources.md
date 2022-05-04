@@ -11,6 +11,12 @@ description: Unofficial resources for discord.
 __Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
 __Credit:__ @142242854167642122
 
+## **Discord For Designers**
+> __Description:__  A site filled with useful resources for designers such as mockups, icons and UI kits.  <br/>
+__Link:__ [Discord For Designers](https://dfd.muatex.uk/)  <br/>
+__Credit:__ @530408906686726144
+
+
 ## **Discord Guild Features**
 > __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
 __Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
