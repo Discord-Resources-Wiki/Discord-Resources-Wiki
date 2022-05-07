@@ -63,7 +63,7 @@ __Link:__ [Discord Build Logger](https://discord.sale/)
 __Credit:__ @545581357812678656
 
 ## **Discord Markdown Guide**
-> __Desciption:__ An in-depth guide for Discord markdown.  <br/>
+> __Description:__ An in-depth guide for Discord markdown.  <br/>
 __Link:__ [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
 __Credit:__ @github:matthewzring
 
