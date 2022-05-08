@@ -140,6 +140,13 @@ __Link(s):__ <br/>
 [Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
 __Credit:__ @109710323094683648
 
+### **R.Danny**
+> __Description:__ One of the first bots on Discord, with dozenz of utility commands. <br/>
+__Link(s):__  <br/>
+[Invite R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
+[R.Danny Source](https://github.com/Rapptz/RoboDanny)  <br/>
+__Credit:__ @80088516616269824
+
 ### **Discord Status** (webhook)
 > __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
 __Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
@@ -237,3 +244,20 @@ __Credit:__ @282565295351136256
 > __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
 __Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
 __Credit:__ @316860714260234243
+
+
+## **Fun Bots**
+
+### **Truth Or Dare**
+> __Description:__ A bot for playing Truth Or Dare, Never Have I Ever and Would You Rather.  <br/>
+__Link(s):__  <br/>
+[Invite Truth Or Dare](https://discord.com/oauth2/authorize?client_id=692045914436796436&permissions=19456&scope=bot%20applications.commands)  <br/>
+[Truth Or Dare Website](https://truthordarebot.xyz/)  <br/>
+__Credit:__ @276544649148235776
+
+### **TacoShack**
+> __Description:__ A simulation bot where you own & manage a taco shack.  <br/>
+__Link(s):__ <br/>
+[Invite TacoShack](https://discord.com/oauth2/authorize?client_id=490707751832649738&permissions=67497024&scope=bot%20applications.commands)  <br/>
+[TackShack Support](https://discord.gg/tacoshack)  <br/>
+__Credit:__ @280428044156534784
