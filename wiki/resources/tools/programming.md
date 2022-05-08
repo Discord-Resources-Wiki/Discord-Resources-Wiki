@@ -105,3 +105,8 @@ __Credit:__ @github:freeCodeCamp
 > __Description:__ A list of strings to help test for edge cases <br/>
 __Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 __Credit:__ @github:minimaxir
+
+### **Free for developers**
+> __Description:__ List of free offerings for developers <br/>
+__Link:__ [Big List of Nasty Strings](https://free-for.dev/#/) <br/>
+__Credit:__ @github:ripienaar
