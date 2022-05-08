@@ -108,5 +108,5 @@ __Credit:__ @github:minimaxir
 
 ### **Free for developers**
 > __Description:__ List of free offerings for developers <br/>
-__Link:__ [Big List of Nasty Strings](https://free-for.dev/#/) <br/>
+__Link:__ [Free for developers](https://free-for.dev/#/) <br/>
 __Credit:__ @github:ripienaar
