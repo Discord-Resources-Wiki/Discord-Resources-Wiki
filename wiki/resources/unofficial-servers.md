@@ -44,7 +44,7 @@ __Credit:__ The Displace team (owned by @249287049482338305)
 
 ## **How To Discord**
 > __Description:__ How To Discord is a partnered meta server for Discord beginners to ask questions and get news & resources. <br/>
-__Link:__ [How To Discord](https://discord.gg/howto)
+__Link:__ [How To Discord](https://discord.gg/howto)  <br/>
 __Credit:__ The How To Discord team (owned by @730411730571755551)
 
 @gg/howto
