@@ -7,7 +7,7 @@ description: A list of tons of useful discord resources and utilities for all ty
 
 # Contribution
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
+Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors below!<br/>
 To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
 You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
 
