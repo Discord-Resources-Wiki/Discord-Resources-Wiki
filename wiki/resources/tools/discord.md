@@ -205,6 +205,11 @@ __Link(s):__  <br/>
 [ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
 __Credit:__ @github:kkrypt0nn @github:fnky
 
+### **Discord Colored Text Generator**
+> __Description:__ Generate colored ansi text for discord. <br/>
+__Link:__ [Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)  <br/>
+__Credit:__ @github:rebane2001
+
 ### **Simple Discord Cache Cleaner**
 > __Description:__ A simple to the point Discord cache manager written in java.   <br/>
 __Link:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
