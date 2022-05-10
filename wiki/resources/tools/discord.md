@@ -87,7 +87,7 @@ __Credit:__  @106391128718245888
 
 ### **Disgradient**
 > __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more.   <br/>
-__Link:__ [Disgradient](https://disgradient.vanished.rocks/)   <br/>
+__Link:__ [Disgradient](https://disgradient.netlify.app/)   <br/>
 __Credit:__ @267025484028706816
 
 ### **DeepResearch**
