@@ -246,7 +246,7 @@ __Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/
 __Credit:__ @316860714260234243
 
 ### **Emoji Guardian**
-> __Description:__ Emoji Guardian is a bot, especially for emoji servers. You can do things like lock an emoji to a role and create a list of your server's emojis with the emojis and ids, but you can also use a command to add emojis from other servers to your own server. <br/>
+> __Description:__ Manages emojis with various API - only commands. <br/>
 __Link(s):__  <br/> 
 [Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
