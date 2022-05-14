@@ -124,7 +124,7 @@ __Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
 __Credit:__  @177886618714243073
 
 ### **Publisher**
-> __Description:__ auto publishes messages in announcements channels.   <br/>
+> __Description:__ Auto publishes messages in announcements channels.   <br/>
 __Link:__ [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
 __Credit:__ @255834596766253057
 
