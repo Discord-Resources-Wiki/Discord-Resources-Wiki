@@ -1,10 +1,10 @@
 {
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed.",
+    "message": "Bu sayfa çöktü.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again",
+    "message": "Tekrar deneyin.",
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
@@ -92,11 +92,11 @@
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode",
+    "message": "Karanlık",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode",
+    "message": "Aydınlık",
     "description": "The name for the light color mode"
   },
   "theme.docs.DocCard.categoryDescription": {

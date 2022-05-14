@@ -1,38 +1,38 @@
 ---
-title: Official Discord Servers
+title: Resmi Discord Sunucuları
 sidebar_position: 2
 description: Official servers owned by discord.
 ---
 
-# Official Servers
+# Resmi Sunucular
 
 ## **Discord Testers** 
-> __Description:__ The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
-__Link:__ [Discord Testers](https://discord.gg/discord-testers)
+> __Tanım:__ Discord hatalarını bildirmek için resmi yer! Hataları bulmaya yardım edin, başkalarıyla sohbet edin ve test kullanıcıları topluluğunun bir parçası olun!   <br/>
+__Bağlantı:__ [Discord Testers](https://discord.gg/discord-testers)
 
 @gg/discord-testers
 
 
 ## **Discord Developers**
-> __Description:__ The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
-__Link:__ [Discord Developers](https://discord.gg/discord-developers)
+> __Tanım:__ Topluluk geliştiricileri ve Discord çalışanları ile Discord'un API ve SDK'larını tartışmak için resmi yer!   <br/>
+__Bağlantı:__ [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
 ## **Discord Town Hall** 
-> __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-__Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
+> __Tanım:__ Discord'u sevenler için resmi bir genel sohbet sunucusu. En son haberleri, etkinlikleri ve sevdiğiniz bir topluluğu bulun!   <br/>
+__Bağlantı:__ [Discord Town Hall](https://discord.gg/discord-townhall)
 
 @gg/discord-townhall
 
 ## **Discord Games Lab** 
-> __Description:__ The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
-__Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
+> __Tanım:__ Discord'un Oyun Laboratuvarı'nın resmi sunucusu. Gelin, arkadaşlarınızla Poker Gecesi, Satranç veya Birlikte İzleme Partisi oynayın!   <br/>
+__Bağlantı:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
 
 ## **Discord Safety**
-> __Description:__ Currently under construction.  <br/>
-__Link:__ [Discord Safety](https://discord.gg/safety)
+> __Tanım:__ Şu anda yapım aşamasında.  <br/>
+__Bağlantı:__ [Discord Safety](https://discord.gg/safety)
 
 @gg/safety

@@ -1,18 +1,18 @@
 ---
-title: Official Discord PDFs
+title: Resmi Discord PDF'leri
 sidebar_position: 5
 description: Official PDFs from discord.
 ---
 
-# Official Discord PDFs
-### **How to Start Your Own Server**
-> __Description:__ A guide to starting your own servers.   <br/>
-__Link:__ [How To Start Your Own Server](https://cdn.discordapp.com/attachments/847724269672333323/847727389541793802/Onboarding_Self_Service_Onesheet_1.pdf)
+# Resmi Discord PDF'leri
+### **Kendi Sunucunuzu Nasıl Oluşturursunuz?**
+> __Tanım:__ Kendi sunucularınızı oluşturmak için bir rehber.   <br/>
+__Bağlantı:__ [Kendi Sunucunuzu Nasıl Oluşturursunuz?](https://cdn.discordapp.com/attachments/847724269672333323/847727389541793802/Onboarding_Self_Service_Onesheet_1.pdf)
 
-### **Stage Channel Event Types**
-> __Description:__ Ideas for types of events you can host in your server using Stage Channels.   <br/>
-__Link:__ [Stage Channel Event Types](https://cdn.discordapp.com/attachments/847724269672333323/847727472274309120/Stage_Channel_Event_Types_1_1.pdf)
+### **Sahne Kanalı Etkinlik Türleri**
+> __Tanım:__ Sahne Kanallarını kullanarak sunucunuzda başlatabileceğiniz etkinlik türleri için fikirler.   <br/>
+__Bağlantı:__ [Sahne Kanalı Etkinlik Türleri](https://cdn.discordapp.com/attachments/847724269672333323/847727472274309120/Stage_Channel_Event_Types_1_1.pdf)
 
-### **Why should you try out Stage Channels?**
-> __Description:__ An explanation of Stage Channels and why/how they can be useful in your server.   <br/>
-__Link:__ [Why Should You Try Out Stage Channels?](https://cdn.discordapp.com/attachments/847724269672333323/847727607323557888/Stage_Channels_Partner_PDF.pdf)
+### **Neden Sahne Kanallarını Denemelisiniz?**
+> __Tanım:__ Aşama Kanallarının açıklaması ve sunucunuzda neden/nasıl yararlı olabilecekleri.   <br/>
+__Bağlantı:__ [Neden Sahne Kanallarını Denemelisiniz?](https://cdn.discordapp.com/attachments/847724269672333323/847727607323557888/Stage_Channels_Partner_PDF.pdf)
