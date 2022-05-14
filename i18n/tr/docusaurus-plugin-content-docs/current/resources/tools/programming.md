@@ -105,3 +105,8 @@ __Oluşturucu:__ @github:freeCodeCamp
 > __Tanım:__ Stating test etmeye yardımcı olacak dizelerin listesi <br/>
 __Bağlantı:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 __Oluşturucu:__ @github:minimaxir
+
+### **Free for developers**
+> __Tanım:__ Geliştiriciler için ücretsiz tekliflerin listesi. <br/>
+__Bağlantı:__ [Big List of Nasty Strings](https://free-for.dev/#/) <br/>
+__Oluşturucu:__ @github:ripienaar
