@@ -237,3 +237,10 @@ __Oluşturucu:__ @282565295351136256
 > __Tanım:__ Sunucunuz için özel formlar oluşturun ve webhook kullanarak gönderileri seçtiğiniz bir kanala gönderin. <br/>
 __Bağlantı:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
 __Oluşturucu:__ @316860714260234243
+
+### **Emoji Guardian**
+> __Tanım:__ Emoji Guardian, özellikle emoji sunucuları için bir bottur. Bir emojiyi bir role kilitlemek ve emojiler ve kimliklerle sunucunuzun emojilerinin bir listesini oluşturmak gibi şeyler yapabilirsiniz, ancak diğer sunuculardan kendi sunucunuza emoji eklemek için bir komut da kullanabilirsiniz.. <br/>
+__Bağlantı(lar):__  <br/> 
+[Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
+[Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
+__Oluşturucu:__ @537875750955778058 @305647182198079489
