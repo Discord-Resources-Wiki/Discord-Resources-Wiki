@@ -140,10 +140,33 @@ __Bağlantı(lar):__ <br/>
 [Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
 __Oluşturucu:__ @109710323094683648
 
+### **R.Danny**
+> __Tanım:__ Birden fazla yardımcı komutla Discord'daki ilk botlardan biri. <br/>
+__Bağlantı(lar):__  <br/>
+[Invite R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
+[R.Danny Source](https://github.com/Rapptz/RoboDanny)  <br/>
+__Oluşturucu:__ @80088516616269824
+
 ### **Discord Status** (webhook)
 > __Tanım:__ Discord içinde embed olarak durum web sitesinden güncellemeler sağlar.   <br/>
 __Bağlantı:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
 __Oluşturucu:__ @255834596766253057
+
+## **Fun Bots**
+
+### **Truth Or Dare**
+> __Tanım:__ Doğruluk mu Cesaret mi, Hiç Sahip Olmadım ve Tercih Edermiydin oynamak için bir bot.  <br/>
+__Bağlantı(lar):__  <br/>
+[Invite Truth Or Dare](https://discord.com/oauth2/authorize?client_id=692045914436796436&permissions=19456&scope=bot%20applications.commands)  <br/>
+[Truth Or Dare Website](https://truthordarebot.xyz/)  <br/>
+__Oluşturucu:__ @276544649148235776
+
+### **TacoShack**
+> __Tanım:__ Bir taco kulübesine sahip olduğunuz ve yönettiğiniz bir simülasyon botu.  <br/>
+__Bağlantı(lar):__ <br/>
+[Invite TacoShack](https://discord.com/oauth2/authorize?client_id=490707751832649738&permissions=67497024&scope=bot%20applications.commands)  <br/>
+[TackShack Support](https://discord.gg/tacoshack)  <br/>
+__Oluşturucu:__ @280428044156534784
 
 ### **Datamining Updates**
 > __Tanım:__ Bot, yetkilendirilmiş taahhütleri(güncellemeleri) şurada yayınlar: [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
