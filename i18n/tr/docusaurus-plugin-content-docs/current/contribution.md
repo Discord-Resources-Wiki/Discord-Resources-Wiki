@@ -15,6 +15,8 @@ Ayrıca katkıda bulunmak için [Resmi Proje Birliğine](https://discord.gg/yxbq
 
 Bu proje birden fazla el aldı ve bu projede bize yardımcı olan bu katkıda bulunanlardan oluşan bir ekibe sahip olmaktan gurur duyuyoruz!<br/>
 size teşekkür etmek istiyoruz:<br/>
+@885165099847929887 - https://dis.wiki/ Yönlendirme Sahibi
+@480495309491798037 - http://discord.wiki/ Yönlendirme Sahibi
 @856780995629154305 - Web Sitesi Sorumlusu <br/>
 @347727875266576395 - Wiki Geliştiricisi <br/>
 @391660873409888277 - Wiki Düzeltici <br/>
