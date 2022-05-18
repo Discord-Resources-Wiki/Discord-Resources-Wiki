@@ -35,8 +35,10 @@ __Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord)
 
 ## **Discohook** 
 > __Description:__ Allows you to preview embeds and send them via webhooks.   <br/>
-__Link:__ [Discohook](https://discohook.org/)   <br/>
-__Credit:__ @143419667677970434
+__Link(s):__ <br/> 
+[Discohook](https://discohook.org/)   <br/>
+[Discohook Utilities](https://dutils.shay.cat/)  <br/>
+__Credit:__ @143419667677970434 @115238234778370049
 
 ## **Nadeko Embed Builder**
 > __Description:__ Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
