@@ -1,11 +1,9 @@
 import styles from '../css/Tooltip.module.css'
 import React, {useState} from 'react'
 import OutsideClickHandler from "./OutsideClickHandler";
-import useFixedThemeContext from "../hooks/useFixedThemeContext";
 
 export default function Tooltip({children, title, mode = 'hover'}) {
     const [visible, setVisible] = useState(false)
-    const {isDarkTheme} = useFixedThemeContext();
 
     return (
         <OutsideClickHandler onClickOutside={() => setVisible(false)}>
@@ -15,12 +13,12 @@ export default function Tooltip({children, title, mode = 'hover'}) {
                     display: mode === 'click' && visible ? 'block' : 'none',
                 }}>
                     <span className={styles.popupText} style={{
-                        backgroundColor: isDarkTheme ? '#dadae0' : '#2f3136',
-                        color: isDarkTheme ? '#000' : '#fff'
+                        backgroundColor: '#dadae0',
+                        color: '#fff'
                     }}>
                         {title}
                     </span>
-                    <span className={styles.popupTriangle} style={{borderTopColor: isDarkTheme ? '#dadae0' : '#2f3136'}}/>
+                    <span className={styles.popupTriangle} style={{borderTopColor: '#dadae0'}}/>
                 </span>
             </span>
         </OutsideClickHandler>
