@@ -30,7 +30,7 @@ const config = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl: 'https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki/edit/main/',
                     path: 'wiki',
-                    routeBasePath: '/wiki',
+                    routeBasePath: '/',
                     remarkPlugins: [
                         linebreakPlugins,
                         inviteWidgetPlugin,
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // We don't set the description and title here to assure that the right og:tags will be delivered per page.
-            metadatas: [
+            metadata: [
                 {
                     name: 'og:image',
                     content: 'https://discordresources.com/img/logo-background.png'
@@ -75,16 +75,19 @@ const config = {
                     content: 'summary'
                 },
             ],
+            colorMode: {
+                respectPrefersColorScheme: true
+              },
             navbar: {
                 title: 'Discord Resources',
                 logo: {
                     alt: 'My Site Logo',
                     src: 'img/logo-small.png',
-                    href: '/wiki'
+                    href: '/'
                 },
                 items: [
                     {
-                        to: 'wiki',
+                        to: '/',
                         label: 'Wiki',
                         position: 'left',
                     },

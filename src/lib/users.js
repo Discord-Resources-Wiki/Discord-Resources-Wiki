@@ -1,6 +1,8 @@
+require("dotenv").config();
 const {REST} = require('@discordjs/rest');
 const {Routes} = require('discord-api-types/v9');
 const {Octokit} = require("@octokit/rest");
+
 
 const discordToken = process.env.DISCORD_TOKEN
 const discordRest = new REST({version: '9'}).setToken(discordToken)
