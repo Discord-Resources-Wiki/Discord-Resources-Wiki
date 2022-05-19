@@ -30,7 +30,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "url-loader": "^4.1.1",
-    "webpack": "^4.39.2"
+    "webpack": "^4.39.2",
+    "dotenv": "^8.2.0"
   },
   "browserslist": {
     "production": [
