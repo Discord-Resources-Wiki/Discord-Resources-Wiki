@@ -9,13 +9,13 @@ export default function UserWidgetInline({data}) {
             return (
                 <>
                     <span className={styles.userUsername}
-                          style={{color: '#fff'}}>{data.name}</span>
+                          style={{color: '#000'}}>{data.name}</span>
                     <span className={styles.userDiscriminator}>#{data.discriminator}</span>
                 </>
             )
         } else {
             return <span className={styles.userUsername}
-                         style={{color: '#fff'}}>{data.name}</span>
+                         style={{color: '#000'}}>{data.name}</span>
         }
     }
 
