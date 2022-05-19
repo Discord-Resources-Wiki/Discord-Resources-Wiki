@@ -14,7 +14,7 @@ export default function Tooltip({children, title, mode = 'hover'}) {
                 }}>
                     <span className={styles.popupText} style={{
                         backgroundColor: '#dadae0',
-                        color: '#fff'
+                        color: '#000'
                     }}>
                         {title}
                     </span>
