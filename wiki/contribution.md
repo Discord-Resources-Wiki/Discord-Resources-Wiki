@@ -22,6 +22,7 @@ We want to thank:<br/>
 @363481883369013259 - GitHub Manager / Documentation Organizer<br/>
 @337654195526303746 - Resources Researcher / Maintainer<br/>
 @337104786593939456 - Documentation Organizer<br/>
+@135877336804360194 - Website Maintainer <br/>
 @485676072176713729 - Resources Researcher / Maintainer<br/>
 @762387276595724308 - Resources Researcher / Maintainer<br/>
 @378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
