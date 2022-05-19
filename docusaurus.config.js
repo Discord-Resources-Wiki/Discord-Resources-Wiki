@@ -75,6 +75,9 @@ const config = {
                     content: 'summary'
                 },
             ],
+            colorMode: {
+                respectPrefersColorScheme: true
+              },
             navbar: {
                 title: 'Discord Resources',
                 logo: {
