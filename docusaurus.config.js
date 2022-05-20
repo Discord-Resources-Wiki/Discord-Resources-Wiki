@@ -97,7 +97,7 @@ const config = {
                         position: 'left',
                     },
                     {
-                        href: 'https://github.com/rydixulous/Discord-Resources-n-More',
+                        href: 'https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki',
                         className: 'navbar-item-github',
                         position: 'right',
                     },
