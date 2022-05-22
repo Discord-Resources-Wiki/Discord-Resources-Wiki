@@ -112,6 +112,10 @@ __Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
 __Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
 __Credit:__ @113156185389092864
 
+### **Jagrosh's Twitter -> Discord Webhook Guide**
+> __Description:__ A guide to integrate your Twitter posts to a Discord channel.    <br/>
+__Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960)  <br/>
+__Credit:__ @113156185389092864
 
 ### **Mozzy's Log Sorter** 
 > __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
