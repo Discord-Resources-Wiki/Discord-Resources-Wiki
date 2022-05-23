@@ -49,6 +49,13 @@ __Credit:__ @287698408855044097
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
 
+### **Sapphire**
+> __Description:__ Multi - purpose bot with many regulary updated features.
+__Link(s):__  <br/>
+[Sapphire Website](https://sapph.xyz/)  <br/>
+[Invite Sapphire](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https://sapph.xyz/dashboard&permissions=1945627743&client_id=678344927997853742)  <br/>
+__Credit:__ @265236642476982273
+
 ### **Beemo**
 > __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
 __Link:__ [Website](https://beemo.gg/)   <br/>
