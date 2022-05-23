@@ -261,6 +261,13 @@ __Link(s):__  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
 __Credit:__ @537875750955778058 @305647182198079489
 
+### **DownTime Detector**
+> __Description:__ DownTime Detector bot monitors the status of all of your server bots.. <br/>
+__Link(s):__  <br/> 
+[DownTime Detector Discord](https://discord.gg/zGhu4VBtGx)  <br/>
+[Invite DownTime Detector](https://discord.com/api/oauth2/authorize?client_id=967119166387650620&permissions=8&scope=bot)  <br/>
+__Credit:__ @693501893778997290
+
 ## **Fun Bots**
 
 ### **Truth Or Dare**
