@@ -18,7 +18,9 @@ __Credit(s):__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
 > __Description:__ Multi function, general moderation bot.   <br/>
-__Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
+__Link(s):__  <br/>
+[GiselleBot](https://docs.gisellebot.com/)   <br/>
+[Invite GiselleBot](https://discord.com/oauth2/authorize?client_id=356831787445387285&permissions=813034742&scope=bot)  <br/>
 __Credit(s):__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
