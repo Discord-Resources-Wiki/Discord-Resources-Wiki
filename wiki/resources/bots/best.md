@@ -18,7 +18,9 @@ __Credit(s):__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
 > __Description:__ Multi function, general moderation bot.   <br/>
-__Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
+__Link(s):__  <br/>
+[GiselleBot](https://docs.gisellebot.com/)   <br/>
+[Invite GiselleBot](https://discord.com/oauth2/authorize?client_id=356831787445387285&permissions=813034742&scope=bot)  <br/>
 __Credit(s):__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
@@ -46,6 +48,13 @@ __Credit:__ @287698408855044097
 > __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
+
+### **Sapphire**
+> __Description:__ Multi - purpose bot with many regulary updated features.
+__Link(s):__  <br/>
+[Sapphire Website](https://sapph.xyz/)  <br/>
+[Invite Sapphire](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https://sapph.xyz/dashboard&permissions=1945627743&client_id=678344927997853742)  <br/>
+__Credit:__ @265236642476982273
 
 ### **Beemo**
 > __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
