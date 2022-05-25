@@ -16,6 +16,10 @@ __Credit:__ @142242854167642122
 __Link:__ [Discord For Designers](https://dfd.muatex.uk/)  <br/>
 __Credit:__ @530408906686726144
 
+## **Discord Previews**
+> __Description:__ A site filled with the latest Discord news, features, experiments, and updates.  <br/>
+__Link:__ [Discord Previews]](https://discordpreviews.com/)
+__Credit:__ @562415519454461962
 
 ## **Discord Guild Features**
 > __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
