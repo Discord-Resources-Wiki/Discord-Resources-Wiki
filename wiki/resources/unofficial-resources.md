@@ -18,7 +18,7 @@ __Credit:__ @530408906686726144
 
 ## **Discord Previews**
 > __Description:__ A site filled with the latest Discord news, features, experiments, and updates.  <br/>
-__Link:__ [Discord Previews]](https://discordpreviews.com/)
+__Link:__ [Discord Previews](https://discordpreviews.com/)  <br/>
 __Credit:__ @562415519454461962
 
 ## **Discord Guild Features**
