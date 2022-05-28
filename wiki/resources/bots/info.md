@@ -9,7 +9,7 @@ description: Bot informations and lists
 ## **Unofficial Discord API Docs**
 > __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
 __Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)  <br/>
-__Credit:__ @github:luna
+__Credit:__ @github:lun-4
 
 ## **Largest Discord Bots**
 > __Description:__ An easy-to-read list of the top 25 Discord bots by server count.   <br/>
