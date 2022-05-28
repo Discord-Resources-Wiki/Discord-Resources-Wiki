@@ -120,4 +120,4 @@ This command starts the web server (```localhost:3000``` by default) and must be
 It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
 
 Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ```<br/>``` for line break characters<br/>
+Notes: Please use ```<br/>``` for line break characters
