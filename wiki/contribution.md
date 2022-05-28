@@ -5,6 +5,11 @@ slug: /contribution
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
+```mdx-code-block
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+```
+
 # Contribution
 
 Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors below!<br/>
@@ -38,22 +43,81 @@ We want to thank:<br/>
 ## How to test changes locally
 
 Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
 
+Requirements are:<br/>
+Node.js version >= ```16.5.0```<br/>
+
+If you are using Yarn:<br/> 
+Yarn version >= ```1.22.0```
+
+Fork the GitHub repo and then clone it locally.
+
+```bash
+git clone https://github.com/yourusername/Discord-Resources-Wiki
 ```
+
+Then, open the `Discord-Resources-Wiki` directory and run the following command:
+  
+```mdx-code-block
+<Tabs>
+<TabItem value="npm">
+```
+
+```bash
 npm install
+```
+
+```mdx-code-block
+</TabItem>
+<TabItem value="yarn">
+```
+```bash
+yarn install
+```
+```mdx-code-block
+</TabItem>
+</Tabs>
 ```
 
 This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
 
+To see usernames like on the website, you must create new Discord application and make it as a Bot.
+Follow this [link](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) to create a new application.
+
+To get your freshly made bot token, go to your application settings and click on the "Bot" tab.
+Click on the "Token" button and you will see your bot token.
+
+Now create new file called .env in the root directory and paste the following:
+
 ```
+DISCORD_TOKEN=<tokenhere>
+```
+Save the file.
+
+To test your changes locally, run the following command:
+
+```mdx-code-block
+<Tabs>
+<TabItem value="npm">
+```
+
+```bash
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
+```mdx-code-block
+</TabItem>
+<TabItem value="yarn">
+```
+```bash
+yarn start
+```
+```mdx-code-block
+</TabItem>
+</Tabs>
+
+This command starts the web server (```localhost:3000``` by default) and must be ran every time you want to start editing.
 It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
 
 Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``16.5.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Notes: Please use ```<br/>``` for line break characters<br/>
