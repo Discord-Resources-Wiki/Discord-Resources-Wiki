@@ -33,6 +33,6 @@ __Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 
 ## **Discord Safety**
 > __Description:__ Currently under construction.  <br/>
-__Link:__ [Discord Safety](https://discord.gg/safety)
+__Link:__ [Discord Safety](https://discord.gg/safety) (Server is currently private)
 
 @gg/safety
