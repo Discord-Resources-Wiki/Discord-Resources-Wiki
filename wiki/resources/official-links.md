@@ -47,7 +47,10 @@ __Link(s):__
 
 ## **Discord Branding**  
 > __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+__Link(s):__  <br/>
+[Discord Branding](https://discord.com/branding)  <br/>
+[Discord Dribbble Page](https://discord.design/)
+
 
 ## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
