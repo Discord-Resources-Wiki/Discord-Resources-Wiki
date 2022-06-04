@@ -88,9 +88,9 @@ __Credit:__ @712626099141476383
 > __Description:__ A Docs spreadsheet with hourly members stats of the biggest servers on Discord.   <br/>
 __Link:__ [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
 
-## **Discord Assets**
-> __Description:__ All of Discord’s assets.   <br/>
-__Link:__ [Discord Assets](https://www.figma.com/community/file/992144378612759941/Discord-Resources)   <br/>
+## **Discord Library**
+> __Description:__ A collection of Discord assets, icons, characters, colors and more.   <br/>
+__Link:__ [Discord Library](https://www.figma.com/community/file/1114896965920105129)   <br/>
 __Credit:__ @354309005037797376
 
 ## **(more) Discord Assets**
