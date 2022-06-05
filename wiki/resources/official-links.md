@@ -24,7 +24,7 @@ __Link:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Tool**
 > __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
+__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)   <br/>
 __Credit:__ @53905483156684800
 
 ## **Discord Testing Clients**
