@@ -58,7 +58,6 @@ https://downloadmoreram.com/ | download more RAM  <br/>
 https://benisland.neocities.org/petpet/ | petpet  <br/>
 https://thispagewillneverload.com | this page will never load  <br/>
 https://inspirobot.me/ | inspiration quotes <br/>
-https://appeal.bans.gg/ | ban appeal <br/>
 https://shitcord.com/ | shitcord <br/>
 https://ban-cs.xyz/ | Stop doing computer science  <br/>
 https://xkcd.com/ | A webcomic of romance, sarcasm, math, and language.  <br/>
