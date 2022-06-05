@@ -6,7 +6,7 @@ description: Fun links
 
 # Fun Links
 
-https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html | Discord rickroll
+https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html | Discord rickroll   <br/>
 https://tryitands.ee/ | Try and see video   <br/>
 https://shutplea.se/ | Shut bird   <br/>
 https://i-dont-ca.re/ | About docs   <br/>
