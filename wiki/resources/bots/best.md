@@ -50,7 +50,7 @@ __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
 
 ### **Sapphire**
-> __Description:__ Multi - purpose bot with many regulary updated features.
+> __Description:__ Multi - purpose bot with many regulary updated features. <br/>
 __Link(s):__  <br/>
 [Sapphire Website](https://sapph.xyz/)  <br/>
 [Invite Sapphire](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https://sapph.xyz/dashboard&permissions=1945627743&client_id=678344927997853742)  <br/>
