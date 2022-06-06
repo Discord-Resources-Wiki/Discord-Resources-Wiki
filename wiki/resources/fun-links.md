@@ -41,7 +41,6 @@ https://http.dog/ |  HTTP dogs <br/>
 https://thispersondoesnotexist.com/ | this person does not exist   <br/>
 https://thisfursonadoesnotexist.com/ | this fursona does not exist  <br/>
 https://wungus.guru/robots.txt | wungus the guru   <br/>
-https://deadchat.info/ | dead chat info  <br/>
 https://fish-is.me/ | Im a fish....?  <br/> 
 https://discord.ceo/ | Discord CEO  <br/>
 https://discord.com/humans.txt | Discord  <br/>
