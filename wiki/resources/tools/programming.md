@@ -110,3 +110,7 @@ __Credit:__ @github:minimaxir
 > __Description:__ List of free offerings for developers <br/>
 __Link:__ [Free for developers](https://free-for.dev/#/) <br/>
 __Credit:__ @github:ripienaar
+
+### **Paginated discordjs messages**
+> __Description:__ A package that helps make paginated messages easier in discord.js </br>
+__Link:__ [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities)
