@@ -15,6 +15,7 @@ You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to
 
 This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
 We want to thank:<br/>
+@795977947558182954 - Wiki Maintainer <br/>
 @885165099847929887 - https://dis.wiki/ Redirect Owner <br/>
 @856780995629154305 - Website Maintainer <br/>
 @347727875266576395 - Wiki Architect <br/>
