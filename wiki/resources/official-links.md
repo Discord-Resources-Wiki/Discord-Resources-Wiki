@@ -24,7 +24,7 @@ __Link:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Tool**
 > __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
+__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)   <br/>
 __Credit:__ @53905483156684800
 
 ## **Discord Testing Clients**
@@ -47,7 +47,10 @@ __Link(s):__
 
 ## **Discord Branding**  
 > __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+__Link(s):__  <br/>
+[Discord Branding](https://discord.com/branding)  <br/>
+[Discord Dribbble Page](https://discord.design/)
+
 
 ## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
