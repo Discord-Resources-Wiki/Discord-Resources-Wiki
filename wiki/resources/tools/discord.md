@@ -169,6 +169,12 @@ __Link(s):__
 [Server Invite](https://inv.wtf/statuspages)   <br/>
 __Credit:__ @287698408855044097
 
+### **Icons**
+> __Description:__ A guild with free to use emotes.   <br/>
+__Link(s):__ 
+[Server Invite](https://discord.gg/tbzP3XaUF7)   <br/>
+__Credit:__ @537875750955778058
+
 ### **Sylveon's Ban Appeal Website (self-host)**
 > __Description:__ Sample ban appeals page with OAuth2 integration.   <br/>
 __Link:__ [Sylveon’s Ban Appeal Website](https://github.com/sylveon/discord-ban-appeals)   <br/>
