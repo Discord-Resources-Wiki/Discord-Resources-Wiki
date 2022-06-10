@@ -112,22 +112,16 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
-        }),
-
-    plugins: [
-        [
-            require.resolve("@easyops-cn/docusaurus-search-local"),
-            {
-                hashed: true,
-                docsDir: 'wiki',
-                docsRouteBasePath: '/',
-                indexDocs: true,
-                indexBlog: false,
-                indexPages: false,
-                highlightSearchTermsOnTargetPage: false
-            }
-        ]
-    ]
+            algolia: {
+                // The application ID provided by Algolia
+                appId: 'KO08RT1BUB',
+          
+                // Public API key: it is safe to commit it
+                apiKey: '90b11a8ac9c24d6fc6aa7aa88c159215',
+          
+                indexName: 'discordresources'
+              }
+        })
 };
 
 module.exports = config;
