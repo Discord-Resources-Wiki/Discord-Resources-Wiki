@@ -227,6 +227,11 @@ __Credit:__ @github:kkrypt0nn @github:fnky
 __Link:__ [Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)  <br/>
 __Credit:__ @github:rebane2001
 
+### **Rebane's Discord Pin Compressor**
+> __Description:__ A simple app that converts Discord pins to Discord messages.  <br/>
+__Link:__ [Discord Pin Compressor](https://rebane2001.com/discord-pin-compressor/)  <br/>
+__Credit:__ @github:rebane2001
+
 ### **Simple Discord Cache Cleaner**
 > __Description:__ A simple to the point Discord cache manager written in java.   <br/>
 __Link:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
