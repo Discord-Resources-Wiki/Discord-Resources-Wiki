@@ -10,6 +10,10 @@ description: Official links from discord.
 > __Description:__ Imagine a place… where links were not so long.   <br/>
 __Link:__ [Discord Website](https://dis.gd/)
 
+## **Discord Community Resources**
+> __Description:__ Resources for setting up and maintaining a community server <br/>
+__Link:__ [Community Resources](https://discord.com/community) <br/>
+
 ## **How to Report**
 > __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
 __Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
@@ -82,10 +86,6 @@ __Link:__ <br/>
 [Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
 [Discord Branding Page](https://discord.com/branding)
 
-### **Discord Developer Help Center**
+## **Discord Developer Help Center**
 > __Description:__ An official Discord navigation page with support articles for developers. <br/>
 __Link:__ [Developer Help Center](https://support-dev.discord.com)
-
-### **Discord Community Resources**
-> __Description:__ Resources for setting up and maintaining a community server
-__Link:__ [Community Resources](https://discord.com/community)
