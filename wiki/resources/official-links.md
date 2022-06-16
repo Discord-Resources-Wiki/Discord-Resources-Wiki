@@ -10,10 +10,6 @@ description: Official links from discord.
 > __Description:__ Imagine a place… where links were not so long.   <br/>
 __Link:__ [Discord Website](https://dis.gd/)
 
-## **Discord Community Resources**
-> __Description:__ Resources for setting up and maintaining a community server <br/>
-__Link:__ [Community Resources](https://discord.com/community) <br/>
-
 ## **How to Report**
 > __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
 __Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
@@ -35,6 +31,10 @@ __Credit:__ @53905483156684800
 > __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
 __Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
+## **Discord Community Resources**
+> __Description:__ Resources for setting up and maintaining a community server <br/>
+__Link:__ [Community Resources](https://discord.com/community) <br/>
+
 ## **Discord Moderator Academy** 
 > __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
@@ -54,7 +54,6 @@ __Link(s):__
 __Link(s):__  <br/>
 [Discord Branding](https://discord.com/branding)  <br/>
 [Discord Dribbble Page](https://discord.design/)
-
 
 ## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
