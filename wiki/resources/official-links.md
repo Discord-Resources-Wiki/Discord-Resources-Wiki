@@ -85,3 +85,7 @@ __Link:__ <br/>
 ### **Discord Developer Help Center**
 > __Description:__ An official Discord navigation page with support articles for developers. <br/>
 __Link:__ [Developer Help Center](https://support-dev.discord.com)
+
+### **Discord Community Resources**
+> __Description:__ Resources for setting up and maintaining a community server
+__Link:__ [Community Resources](https://discord.com/community)
