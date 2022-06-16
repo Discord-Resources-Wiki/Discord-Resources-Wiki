@@ -31,6 +31,10 @@ __Credit:__ @53905483156684800
 > __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
 __Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
+## **Discord Community Resources**
+> __Description:__ Resources for setting up and maintaining a community server <br/>
+__Link:__ [Community Resources](https://discord.com/community) <br/>
+
 ## **Discord Moderator Academy** 
 > __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
 __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
@@ -50,7 +54,6 @@ __Link(s):__
 __Link(s):__  <br/>
 [Discord Branding](https://discord.com/branding)  <br/>
 [Discord Dribbble Page](https://discord.design/)
-
 
 ## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
@@ -82,6 +85,6 @@ __Link:__ <br/>
 [Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
 [Discord Branding Page](https://discord.com/branding)
 
-### **Discord Developer Help Center**
+## **Discord Developer Help Center**
 > __Description:__ An official Discord navigation page with support articles for developers. <br/>
 __Link:__ [Developer Help Center](https://support-dev.discord.com)
