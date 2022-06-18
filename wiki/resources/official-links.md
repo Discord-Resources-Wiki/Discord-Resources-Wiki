@@ -91,4 +91,4 @@ __Link:__ [Developer Help Center](https://support-dev.discord.com)
 
 ## **Discord Blog RSS Feed**
 > __Description:__ Official RSS Feed of Discords Blog. <br/>
-__Link:__ [Blog RSS Feed]([https://support-dev.discord.com](https://discord.com/blog/rss.xml))
+__Link:__ [Blog RSS Feed](https://discord.com/blog/rss.xml)
