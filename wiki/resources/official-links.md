@@ -88,3 +88,7 @@ __Link:__ <br/>
 ## **Discord Developer Help Center**
 > __Description:__ An official Discord navigation page with support articles for developers. <br/>
 __Link:__ [Developer Help Center](https://support-dev.discord.com)
+
+## **Discord Blog RSS Feed**
+> __Description:__ Official RSS Feed of Discords Blog. <br/>
+__Link:__ [Blog RSS Feed]([https://support-dev.discord.com](https://discord.com/blog/rss.xml))
