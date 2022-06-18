@@ -29,3 +29,7 @@ __Link:__ [Verification Program](https://dis.gd/verification)
 ### **Student Hubs**
 > __Description:__ A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
 __Link:__ [Student Hubs](https://dis.gd/studenthubs)
+
+### **Discord Admin Community**
+> __Description:__ Official server for server admins of all kind to assemble and exchange about community related subjects. <br/>
+__Link:__ [Discord Admin Community](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
