@@ -261,6 +261,11 @@ __Link(s):__  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
 __Credit:__ @537875750955778058 @305647182198079489
 
+### **Now Live**
+> __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently it supports Twitch, YouTube, Trovo! <br/>
+__Link:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
+[Now Live Website](https://nowlivebot.com/)  <br/>
+
 ## **Fun Bots**
 
 ### **Truth Or Dare**
