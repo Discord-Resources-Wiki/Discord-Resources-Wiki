@@ -81,4 +81,5 @@ https://no-bitch.es/ | no bitches  <br/>
 https://why-stup.id | Why are you stupid <br/>
 https://does.discord.work/ | who broke discord  <br/>
 https://cat-bounce.com/ |  cat bounce <br />
-https://txnor.com/mathchallenge | math challenge 
+https://txnor.com/mathchallenge | math challenge <br />
+https://shouldiblamecaching.com/ | should I blame caching?
