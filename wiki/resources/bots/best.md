@@ -18,7 +18,9 @@ __Credit(s):__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
 > __Description:__ Multi function, general moderation bot.   <br/>
-__Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
+__Link(s):__  <br/>
+[GiselleBot](https://docs.gisellebot.com/)   <br/>
+[Invite GiselleBot](https://discord.com/oauth2/authorize?client_id=356831787445387285&permissions=813034742&scope=bot)  <br/>
 __Credit(s):__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
@@ -46,6 +48,13 @@ __Credit:__ @287698408855044097
 > __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
+
+### **Sapphire**
+> __Description:__ Multi - purpose bot with many regulary updated features. <br/>
+__Link(s):__  <br/>
+[Sapphire Website](https://sapph.xyz/)  <br/>
+[Invite Sapphire](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https://sapph.xyz/dashboard&permissions=1945627743&client_id=678344927997853742)  <br/>
+__Credit:__ @265236642476982273
 
 ### **Beemo**
 > __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
@@ -140,6 +149,13 @@ __Link(s):__ <br/>
 [Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
 __Credit:__ @109710323094683648
 
+### **R.Danny**
+> __Description:__ One of the first bots on Discord, with dozenz of utility commands. <br/>
+__Link(s):__  <br/>
+[Invite R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
+[R.Danny Source](https://github.com/Rapptz/RoboDanny)  <br/>
+__Credit:__ @80088516616269824
+
 ### **Discord Status** (webhook)
 > __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
 __Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
@@ -150,7 +166,8 @@ __Credit:__ @255834596766253057
 __Link(s):__   <br/>
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
-__Credit:__ @172557961133162496
+[Datamining Website](https://datamining.otter.university/)  <br/>
+__Credit:__ @172557961133162496 @562415519454461962
 
 ### **Jagrosh's Music Bot** (self-host)
 > __Description:__ A music bot with step to step guide on self hosting.  <br/>
@@ -236,3 +253,26 @@ __Credit:__ @282565295351136256
 > __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
 __Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
 __Credit:__ @316860714260234243
+
+### **Emoji Guardian**
+> __Description:__ Manages emojis with various API - only commands. <br/>
+__Link(s):__  <br/> 
+[Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
+[Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
+__Credit:__ @537875750955778058 @305647182198079489
+
+## **Fun Bots**
+
+### **Truth Or Dare**
+> __Description:__ A bot for playing Truth Or Dare, Never Have I Ever and Would You Rather.  <br/>
+__Link(s):__  <br/>
+[Invite Truth Or Dare](https://discord.com/oauth2/authorize?client_id=692045914436796436&permissions=19456&scope=bot%20applications.commands)  <br/>
+[Truth Or Dare Website](https://truthordarebot.xyz/)  <br/>
+__Credit:__ @276544649148235776
+
+### **TacoShack**
+> __Description:__ A simulation bot where you own & manage a taco shack.  <br/>
+__Link(s):__ <br/>
+[Invite TacoShack](https://discord.com/oauth2/authorize?client_id=490707751832649738&permissions=67497024&scope=bot%20applications.commands)  <br/>
+[TackShack Support](https://discord.gg/tacoshack)  <br/>
+__Credit:__ @280428044156534784

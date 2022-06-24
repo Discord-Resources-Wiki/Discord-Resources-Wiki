@@ -6,6 +6,7 @@ description: Fun links
 
 # Fun Links
 
+https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html | Discord rickroll   <br/>
 https://tryitands.ee/ | Try and see video   <br/>
 https://shutplea.se/ | Shut bird   <br/>
 https://i-dont-ca.re/ | About docs   <br/>
@@ -41,7 +42,6 @@ https://http.dog/ |  HTTP dogs <br/>
 https://thispersondoesnotexist.com/ | this person does not exist   <br/>
 https://thisfursonadoesnotexist.com/ | this fursona does not exist  <br/>
 https://wungus.guru/robots.txt | wungus the guru   <br/>
-https://deadchat.info/ | dead chat info  <br/>
 https://fish-is.me/ | Im a fish....?  <br/> 
 https://discord.ceo/ | Discord CEO  <br/>
 https://discord.com/humans.txt | Discord  <br/>
@@ -58,7 +58,6 @@ https://downloadmoreram.com/ | download more RAM  <br/>
 https://benisland.neocities.org/petpet/ | petpet  <br/>
 https://thispagewillneverload.com | this page will never load  <br/>
 https://inspirobot.me/ | inspiration quotes <br/>
-https://appeal.bans.gg/ | ban appeal <br/>
 https://shitcord.com/ | shitcord <br/>
 https://ban-cs.xyz/ | Stop doing computer science  <br/>
 https://xkcd.com/ | A webcomic of romance, sarcasm, math, and language.  <br/>
@@ -78,4 +77,9 @@ https://yonilerner.wtf/ | wtf  <br/>
 http://needsmorejpeg.com/ |  need more jpeg  <br/>
 https://api.onlyraccoons.com/ | http racoons  <br/>
 https://guthib.com | POV: You just woke up and wanted to open Github  <br/>
-https://no-bitch.es/ | no bitches
+https://no-bitch.es/ | no bitches  <br/>
+https://why-stup.id | Why are you stupid <br/>
+https://does.discord.work/ | who broke discord  <br/>
+https://cat-bounce.com/ |  cat bounce <br />
+https://txnor.com/mathchallenge | math challenge <br />
+https://shouldiblamecaching.com/ | should I blame caching?

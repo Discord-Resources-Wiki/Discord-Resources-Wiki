@@ -111,7 +111,8 @@ __Link:__ [Pronoun Island](https://pronoun.is/)
 
 ### **PronounDB**
 > __Description:__ Pronouns intergration for websites and apps.  <br/>
-__Link:__ [ProunounDB](https://pronoundb.org/)
+__Link:__ [ProunounDB](https://pronoundb.org/)  <br/>
+__Credit:__ @94762492923748352
 
 ### **Pronouns.page**
 > __Description:__ Information about nonbinary and gender neutral language.  <br/>
@@ -162,7 +163,9 @@ __Credit:__ @github:latex3
 
 ### **Web Archives**
 > __Description:__ Explore web pages saved over time.  <br/>
-__Link:__ [Web Archives](https://web.archive.org/)
+__Link:__ <br/>  
+[Web Archives](https://web.archive.org/)  <br/>
+[Arvhive.is](https://archive.is/)
 
 ### **AlternativeTo**
 > __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
@@ -221,3 +224,12 @@ __Credit:__ @273906785788624907
 ### **Computer Hope**
 > __Description:__ Free computer help and support. <br/>
 __Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
+
+### **Skill Icons**
+> __Description:__ Showcase languages, frameworks and tools used on a GitHub profile. <br/>
+__Link:__ [Skill Icons](https://skillicons.dev/) <br/>
+__Credit:__ @276544649148235776
+
+### **Savefrom**
+> __Description:__ Download any content from popular sites.  <br/>
+__Link:__ [Savefrom](https://savefrom.net/)

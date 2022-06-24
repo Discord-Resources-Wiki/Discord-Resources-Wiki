@@ -8,7 +8,8 @@ description: Bot informations and lists
 
 ## **Unofficial Discord API Docs**
 > __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
-__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
+__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)  <br/>
+__Credit:__ @github:lun-4
 
 ## **Largest Discord Bots**
 > __Description:__ An easy-to-read list of the top 25 Discord bots by server count.   <br/>
@@ -63,3 +64,8 @@ __Link:__ [Bots Lists List](https://botblock.org/lists)
 > __Description:__ Get statistics about your Discord bot.   <br/>
 __Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
 __Credit:__ @255834596766253057
+
+### **An Idiot's Guide**
+> __Description:__  The unofficial Discord.js beginner's guide, written by idiots for beginners.<br/>
+__Link:__ [An Idiot's Guide](https://anidiots.guide/) <br/>
+__Credit:__ @github:AnIdiotsGuide

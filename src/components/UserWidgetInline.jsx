@@ -1,11 +1,12 @@
 import React from 'react'
-import styles from '../css/UserWidgetInline.module.css'
 import Tooltip from "./Tooltip";
-import useFixedThemeContext from "../hooks/useFixedThemeContext";
+import styles from '../css/UserWidgetInline.module.css'
+import {
+    useColorMode,
+  } from '@docusaurus/theme-common';
 
 export default function UserWidgetInline({data}) {
-    const {isDarkTheme} = useFixedThemeContext();;
-
+    const {isDarkTheme} = useColorMode();;
     function userName() {
         if (data.type === 'discord') {
             return (
@@ -17,7 +18,7 @@ export default function UserWidgetInline({data}) {
             )
         } else {
             return <span className={styles.userUsername}
-                         style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.name}</span>
+                        style={{color: isDarkTheme ? '#fff' : '#000'}}>{data.name}</span>
         }
     }
 

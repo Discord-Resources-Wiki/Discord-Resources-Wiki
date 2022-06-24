@@ -1,12 +1,13 @@
 import React from 'react';
-import useFixedThemeContext from "../hooks/useFixedThemeContext";
+import {
+    useColorMode,
+  } from '@docusaurus/theme-common';
 
 export default function InviteWidget({invite}) {
-    const {isDarkTheme} = useFixedThemeContext();;
-
+    const {isDarkTheme} = useColorMode();;
     return (
         <a href={`https://discord.gg/${invite}`} target="_blank">
-            <img src={`https://invidget.switchblade.xyz/${invite}?theme=${isDarkTheme ? 'dark' : 'light'}`} alt=""/>
+             <img src={`https://invidget.switchblade.xyz/${invite}?theme=${isDarkTheme ? 'dark' : 'light'}`} alt=""/>
         </a>
     )
 }

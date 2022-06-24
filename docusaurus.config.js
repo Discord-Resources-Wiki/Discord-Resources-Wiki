@@ -30,7 +30,7 @@ const config = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl: 'https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki/edit/main/',
                     path: 'wiki',
-                    routeBasePath: '/wiki',
+                    routeBasePath: '/',
                     remarkPlugins: [
                         linebreakPlugins,
                         inviteWidgetPlugin,
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // We don't set the description and title here to assure that the right og:tags will be delivered per page.
-            metadatas: [
+            metadata: [
                 {
                     name: 'og:image',
                     content: 'https://discordresources.com/img/logo-background.png'
@@ -75,16 +75,19 @@ const config = {
                     content: 'summary'
                 },
             ],
+            colorMode: {
+                defaultMode: 'dark'
+              },
             navbar: {
                 title: 'Discord Resources',
                 logo: {
                     alt: 'My Site Logo',
                     src: 'img/logo-small.png',
-                    href: '/wiki'
+                    href: '/'
                 },
                 items: [
                     {
-                        to: 'wiki',
+                        to: '/',
                         label: 'Wiki',
                         position: 'left',
                     },
@@ -109,22 +112,16 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
-        }),
-
-    plugins: [
-        [
-            require.resolve("@easyops-cn/docusaurus-search-local"),
-            {
-                hashed: true,
-                docsDir: 'wiki',
-                docsRouteBasePath: '/',
-                indexDocs: true,
-                indexBlog: false,
-                indexPages: false,
-                highlightSearchTermsOnTargetPage: false
-            }
-        ]
-    ]
+            algolia: {
+                // The application ID provided by Algolia
+                appId: 'KO08RT1BUB',
+          
+                // Public API key: it is safe to commit it
+                apiKey: '90b11a8ac9c24d6fc6aa7aa88c159215',
+          
+                indexName: 'discordresources'
+              }
+        })
 };
 
 module.exports = config;

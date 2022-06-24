@@ -1,12 +1,13 @@
 import styles from '../css/Tooltip.module.css'
 import React, {useState} from 'react'
 import OutsideClickHandler from "./OutsideClickHandler";
-import useFixedThemeContext from "../hooks/useFixedThemeContext";
+import {
+    useColorMode,
+  } from '@docusaurus/theme-common';
 
 export default function Tooltip({children, title, mode = 'hover'}) {
     const [visible, setVisible] = useState(false)
-    const {isDarkTheme} = useFixedThemeContext();
-
+    const {isDarkTheme} = useColorMode();;
     return (
         <OutsideClickHandler onClickOutside={() => setVisible(false)}>
             <span className={`${styles.container} ${mode === 'hover' ? styles.containerHover : ''}`}>

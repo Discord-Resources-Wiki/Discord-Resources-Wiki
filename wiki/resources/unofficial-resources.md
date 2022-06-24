@@ -11,6 +11,16 @@ description: Unofficial resources for discord.
 __Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
 __Credit:__ @142242854167642122
 
+## **Discord For Designers**
+> __Description:__  A site filled with useful resources for designers such as mockups, icons and UI kits.  <br/>
+__Link:__ [Discord For Designers](https://dfd.muatex.uk/)  <br/>
+__Credit:__ @530408906686726144
+
+## **Discord Previews**
+> __Description:__ A site filled with the latest Discord news, features, experiments, and updates.  <br/>
+__Link:__ [Discord Previews](https://discordpreviews.com/)  <br/>
+__Credit:__ @562415519454461962
+
 ## **Discord Guild Features**
 > __Description:__ A running list of Discord's guild features with detailed descriptions.   <br/>
 __Link:__ [Discord Guild Features](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
@@ -29,8 +39,10 @@ __Link:__ [Discord Wiki](https://discord.fandom.com/wiki/Discord)
 
 ## **Discohook** 
 > __Description:__ Allows you to preview embeds and send them via webhooks.   <br/>
-__Link:__ [Discohook](https://discohook.org/)   <br/>
-__Credit:__ @143419667677970434
+__Link(s):__ <br/> 
+[Discohook](https://discohook.org/)   <br/>
+[Discohook Utilities](https://dutils.shay.cat/)  <br/>
+__Credit:__ @143419667677970434 @115238234778370049
 
 ## **Nadeko Embed Builder**
 > __Description:__ Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
@@ -76,9 +88,9 @@ __Credit:__ @712626099141476383
 > __Description:__ A Docs spreadsheet with hourly members stats of the biggest servers on Discord.   <br/>
 __Link:__ [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
 
-## **Discord Assets**
-> __Description:__ All of Discord’s assets.   <br/>
-__Link:__ [Discord Assets](https://www.figma.com/community/file/992144378612759941/Discord-Resources)   <br/>
+## **Discord Library**
+> __Description:__ A collection of Discord assets, icons, characters, colors and more.   <br/>
+__Link:__ [Discord Library](https://www.figma.com/community/file/1114896965920105129)   <br/>
 __Credit:__ @354309005037797376
 
 ## **(more) Discord Assets**
@@ -95,3 +107,8 @@ __Credit:__ @242385234992037888
 > __Description:__ Exact copy of the discord client (might be outdated).   <br/>
 __Link:__ [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
 __Credit:__ @354309005037797376
+
+## **Discord Payloads**
+> __Description:__ All of Discord's payloads.   <br/>
+__Link:__ [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
+__Credit:__ @184040656761651200

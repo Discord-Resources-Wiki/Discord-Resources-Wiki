@@ -24,12 +24,16 @@ __Link:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Tool**
 > __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
+__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)   <br/>
 __Credit:__ @53905483156684800
 
 ## **Discord Testing Clients**
 > __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
 __Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+
+## **Discord Community Resources**
+> __Description:__ Resources for setting up and maintaining a community server <br/>
+__Link:__ [Community Resources](https://discord.com/community) <br/>
 
 ## **Discord Moderator Academy** 
 > __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
@@ -47,7 +51,9 @@ __Link(s):__
 
 ## **Discord Branding**  
 > __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+__Link(s):__  <br/>
+[Discord Branding](https://discord.com/branding)  <br/>
+[Discord Dribbble Page](https://discord.design/)
 
 ## **Discord Nitro**
 > __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
@@ -75,4 +81,14 @@ __Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transpar
 
 ## **Discord’s (new) Media Kit**
 > __Description:__ Discord’s official assets.   <br/>
-__Link:__ [Discord (New) Media Kit](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)
+__Link:__ <br/>
+[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[Discord Branding Page](https://discord.com/branding)
+
+## **Discord Developer Help Center**
+> __Description:__ An official Discord navigation page with support articles for developers. <br/>
+__Link:__ [Developer Help Center](https://support-dev.discord.com)
+
+## **Discord Blog RSS Feed**
+> __Description:__ Official RSS Feed of Discords Blog. <br/>
+__Link:__ [Blog RSS Feed](https://discord.com/blog/rss.xml)
