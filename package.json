@@ -11,11 +11,11 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "lint": "markdownlint --ignore-path .gitignore **/*.md **/*.markdown **/*.mdx"
   },
   "dependencies": {
     "@discordjs/rest": "0.4.1",
-    "discord-api-types": "^0.33.0",
     "@docusaurus/core": "^2.0.0-beta.21",
     "@docusaurus/preset-classic": "^2.0.0-beta.21",
     "@easyops-cn/docusaurus-search-local": "^0.19.1",
@@ -23,15 +23,17 @@
     "@octokit/rest": "^18.12.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
+    "discord-api-types": "^0.33.0",
+    "dotenv": "^8.2.0",
     "file-loader": "^6.2.0",
     "inter-ui": "^3.19.3",
+    "markdownlint-cli": "^0.31.1",
     "mdast-util-find-and-replace": "^1.1.1",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "url-loader": "^4.1.1",
-    "webpack": "^4.39.2",
-    "dotenv": "^8.2.0"
+    "webpack": "^4.39.2"
   },
   "browserslist": {
     "production": [

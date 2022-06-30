@@ -58,7 +58,7 @@ const config = {
     ],
 
     themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+        /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             // We don't set the description and title here to assure that the right og:tags will be delivered per page.
             metadata: [
@@ -68,7 +68,7 @@ const config = {
                 },
                 {
                     name: 'theme-color',
-                    content: '#ba6ec4'
+                    content: '#C272CC'
                 },
                 {
                     name: 'twitter:card',
@@ -77,7 +77,7 @@ const config = {
             ],
             colorMode: {
                 defaultMode: 'dark'
-              },
+            },
             navbar: {
                 title: 'Discord Resources',
                 logo: {
@@ -115,12 +115,12 @@ const config = {
             algolia: {
                 // The application ID provided by Algolia
                 appId: 'KO08RT1BUB',
-          
+
                 // Public API key: it is safe to commit it
                 apiKey: '90b11a8ac9c24d6fc6aa7aa88c159215',
-          
+
                 indexName: 'discordresources'
-              }
+            }
         })
 };
 
