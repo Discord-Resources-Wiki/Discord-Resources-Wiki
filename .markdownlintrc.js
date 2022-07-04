@@ -1,4 +1,4 @@
-{
+module.exports = {
 	"default": true,
 	"no-inline-html": false,
 	"single-h1": false,
@@ -6,4 +6,4 @@
 	"strong-style": {
 		"style": "asterisk"
 	}
-}
+};

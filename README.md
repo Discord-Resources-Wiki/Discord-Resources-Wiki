@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 MD033 -->
 <p align="center">
   <a href="https://discordresources.com/">
     <img src="https://raw.githubusercontent.com/Discord-Resources-Wiki/Discord-Resources-Wiki/main/static/img/logo-small.png" height="96">
