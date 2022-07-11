@@ -21,7 +21,7 @@ You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to
 This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
 We want to thank:<br/>
 @795977947558182954 - Wiki Maintainer <br/>
-@885165099847929887 - https://dis.wiki/ Redirect Owner <br/>
+@885165099847929887 - <https://dis.wiki/> Redirect Owner <br/>
 @856780995629154305 - Website Maintainer <br/>
 @347727875266576395 - Wiki Architect <br/>
 @391660873409888277 - Wiki fixer <br/>
@@ -37,9 +37,8 @@ We want to thank:<br/>
 @386861188891279362 - Website Architect / Documentation Organizer<br/>
 @102102717165506560 - Growth Consulting / Resource Curator<br/>
 @755792681313108018 - *I had this idea and did all of the above*  <br/>
-@480495309491798037 - http://discord.wiki/ Redirect Owner <br/>
+@480495309491798037 - <http://discord.wiki/> Redirect Owner <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Maker
-
 
 ## How to test changes locally
 
@@ -48,7 +47,7 @@ Got a great PR going but don't know what it looks like? Not a problem!<br/>
 Requirements are:<br/>
 Node.js version >= ```16.5.0```<br/>
 
-If you are using Yarn:<br/> 
+If you are using Yarn:<br/>
 Yarn version >= ```1.22.0```
 
 Fork the GitHub repo and then clone it locally.
@@ -72,9 +71,11 @@ npm install
 </TabItem>
 <TabItem value="yarn">
 ```
+
 ```bash
 yarn install
 ```
+
 ```mdx-code-block
 </TabItem>
 </Tabs>
@@ -90,9 +91,10 @@ Click on the "Token" button and you will see your bot token.
 
 Now create new file called .env in the root directory and paste the following:
 
-```
+```env
 DISCORD_TOKEN=<tokenhere>
 ```
+
 Save the file.
 
 To test your changes locally, run the following command:
@@ -110,9 +112,11 @@ npm start
 </TabItem>
 <TabItem value="yarn">
 ```
+
 ```bash
 yarn start
 ```
+
 ```mdx-code-block
 </TabItem>
 </Tabs>
