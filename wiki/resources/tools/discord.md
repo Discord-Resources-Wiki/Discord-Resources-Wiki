@@ -291,6 +291,6 @@ description: Discord related tools
 
 ## **Aliucord**
 
-> **Description:** Aliucord Aliucord is a modification for the Android Discord app.   <br/>
+> **Description:** Aliucord is a modification for the Android Discord app.   <br/>
 **Link:** [Aliucord](https://github.com/Aliucord/Aliucord)  <br/>
 [Aliucord is against Discord TOS - Read More](https://dat.place/client-mods/)
