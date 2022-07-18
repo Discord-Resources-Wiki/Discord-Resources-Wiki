@@ -38,10 +38,10 @@ It ensures everyone has a positive experience and that users act in a well-behav
 > **Description:** The official Discord page on Twitter.   <br/>
 **Link:** [Discord Twitter Page](https://twitter.com/discord)
 
-## **Discord Youtube Page**
+## **Discord YouTube Page**
 
-> **Description:**  The official Discord page on Youtube.   <br/>
-**Link:** [Discord Youtube Page](https://www.youtube.com/c/discord)
+> **Description:**  The official Discord page on YouTube.   <br/>
+**Link:** [Discord YouTube Page](https://www.youtube.com/c/discord)
 
 ## **Discord Help Center**
 
