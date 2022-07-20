@@ -87,3 +87,11 @@ description: Unofficial servers related to discord.
 **Credit:** The Programmers Hangout team (owned by @335628039302021121)
 
 @gg/programming
+
+## **DCreators**
+
+> **Description:** Private community to mainly connect with verified bot and library developers  <br/>
+**Link:** [DCreators (Access by developing on a verified bot/library)](https://discord.gg/JxTyeKpcaw)   <br/>
+**Credit:** DCreator team (owned by @691288534375596062)
+
+@gg/JxTyeKpcaw
