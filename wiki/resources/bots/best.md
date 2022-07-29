@@ -318,3 +318,11 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 [Invite TacoShack](https://discord.com/oauth2/authorize?client_id=490707751832649738&permissions=67497024&scope=bot%20applications.commands)  <br/>
 [TackShack Support](https://discord.gg/tacoshack)  <br/>
 **Credit:** @280428044156534784
+
+### **Tourney Bot**
+
+> **Description:** Tourney Bot is the best way to host any tournament within Discord. Using our powerful automation features, you can create, customize, and invite players & teams to your bracket, in just a few clicks.  <br/>
+**Link(s):** <br/>
+[Invite Tourney Bot](https://tourneybot.gg/invite-tourney-bot)  <br/>
+[Tourney Bot Support](https://tourneybot.gg/support)  <br/>
+**Credit:** @942821573302304869
