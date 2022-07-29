@@ -171,12 +171,6 @@ description: Discord related tools
 > **Description:** PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
 **Link:** [PreMiD](https://premid.app/)
 
-## **Powercord**
-
-> **Description:** Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
-**Link:** [Powercord](https://powercord.dev/)  <br/>
-[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
-
 ## **Presence Maker**
 
 > **Description:** Create Discord rich presence with this tool.   <br/>
