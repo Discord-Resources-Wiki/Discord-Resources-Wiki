@@ -288,9 +288,3 @@ description: Discord related tools
 > **Description:** Website that allows users to make simple looking role icons for their servers.   <br/>
 **Link:** [Discord Icon](https://discordicon.com)   <br/>
 **Credit:** @github:enzostvs
-
-## **Aliucord**
-
-> **Description:** Aliucord is a modification for the Android Discord app.   <br/>
-**Link:** [Aliucord](https://github.com/Aliucord/Aliucord)  <br/>
-[Aliucord is against Discord TOS - Read More](https://dat.place/client-mods/)
