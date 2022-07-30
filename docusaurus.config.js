@@ -22,6 +22,11 @@ const config = {
 	organizationName: 'Discord-Resources-Wiki',
 	projectName: 'Discord-Resources-Wiki',
 
+	i18n: {
+		defaultLocale: "en",
+		locales: ["en", "fr", "de", "nl", "es", "hi", "tr", "ru", "vi"]
+	  },
+
 	presets: [
 		[
 			'@docusaurus/preset-classic',
@@ -104,6 +109,10 @@ const config = {
 						className: 'navbar-item-discord',
 						position: 'right',
 					},
+					{
+						type: 'localeDropdown',
+						position: 'right',
+					}
 				],
 			},
 			prism: {
