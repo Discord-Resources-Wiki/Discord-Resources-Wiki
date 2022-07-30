@@ -1,29 +1,18 @@
-import styles from '../css/Tooltip.module.css'
-import React, {useState} from 'react'
-import OutsideClickHandler from "./OutsideClickHandler";
-import {
-    useColorMode,
-  } from '@docusaurus/theme-common';
+import React, {useRef, useEffect} from 'react';
 
-export default function Tooltip({children, title, mode = 'hover'}) {
-    const [visible, setVisible] = useState(false)
-    const {isDarkTheme} = useColorMode();;
-    return (
-        <OutsideClickHandler onClickOutside={() => setVisible(false)}>
-            <span className={`${styles.container} ${mode === 'hover' ? styles.containerHover : ''}`}>
-                <span onClick={() => setVisible(!visible)} className={styles.children}>{children}</span>
-                <span className={styles.popup} style={{
-                    display: mode === 'click' && visible ? 'block' : 'none',
-                }}>
-                    <span className={styles.popupText} style={{
-                        backgroundColor: isDarkTheme ? '#dadae0' : '#2f3136',
-                        color: isDarkTheme ? '#000' : '#fff'
-                    }}>
-                        {title}
-                    </span>
-                    <span className={styles.popupTriangle} style={{borderTopColor: isDarkTheme ? '#dadae0' : '#2f3136'}}/>
-                </span>
-            </span>
-        </OutsideClickHandler>
-    )
+export default function OutsideClickHandler({children, onClickOutside}) {
+	const wrapperRef = useRef(null);
+
+	function handleOutsideClick(e) {
+		if (wrapperRef.current && !wrapperRef.current.contains(e.target)) {
+			onClickOutside(e);
+		}
+	}
+
+	useEffect(() => {
+		document.addEventListener('mousedown', handleOutsideClick);
+		return () => document.removeEventListener('mousedown', handleOutsideClick);
+	}, []);
+
+	return <span ref={wrapperRef}>{children}</span>;
 }
