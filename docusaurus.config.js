@@ -74,7 +74,7 @@ const config = {
 				},
 			],
 			colorMode: {
-				respectPrefersColorScheme: true
+				defaultMode: 'dark'
 			},
 			navbar: {
 				title: 'Discord Resources',
