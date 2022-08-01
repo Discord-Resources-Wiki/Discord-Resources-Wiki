@@ -267,3 +267,12 @@ __Bağlantı(lar):__  <br/>
 [Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
 __Oluşturucu:__ @537875750955778058 @305647182198079489
+
+
+### **Tourney Bot**
+
+> **Tanım:** Tourney Bot, Discord içindeki herhangi bir turnuvaya ev sahipliği yapmanın en iyi yoludur. Güçlü otomasyon özelliklerimizi kullanarak, sadece birkaç tıklamayla oyuncuları ve takımları oluşturabilir, özelleştirebilir ve kendi grubunuza davet edebilirsiniz.  <br/>
+**Bağlantı(lar):** <br/>
+[Invite Tourney Bot](https://tourneybot.gg/invite-tourney-bot)  <br/>
+[Tourney Bot Support](https://tourneybot.gg/support)  <br/>
+**Oluşturucu:** @942821573302304869
