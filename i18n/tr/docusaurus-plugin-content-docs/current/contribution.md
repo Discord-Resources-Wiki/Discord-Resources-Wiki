@@ -30,6 +30,7 @@ size teşekkür etmek istiyoruz:<br/>
 @192060404501839872 - Tasarımcı<br/>
 @386861188891279362 - Website Geliştiricisi / Dokümantasyon Düzenleyici<br/>
 @102102717165506560 - Büyüme Danışmanlığı / Kaynak Küratörü<br/>
+@727647625255321731 - Translation / Türkçe Çeviri<br/>
 @755792681313108018 - *Bu fikre sahiptim ve yukarıdakilerin hepsini yaptım*
 
 ## Değişiklikler yerel olarak nasıl test edilir?
