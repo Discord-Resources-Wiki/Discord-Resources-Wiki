@@ -242,7 +242,7 @@ description: Discord related tools
 ## **Scratch For Discord**
 
 > **Description:** Make a Discord bot using blocks with no coding required.  <br/>
-**Link:** [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
+**Link:** [Scratch For Discord](https://scratch-for-discord.com/)  <br/>
 **Credit:** @422820341791064085
 
 ## **Zeppelin in Docker**
