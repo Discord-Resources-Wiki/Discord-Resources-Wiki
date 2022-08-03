@@ -85,3 +85,4 @@ description: Fun links
 <https://shouldiblamecaching.com/> | should I blame caching?  <br/>
 https://emoji.supply/kitchen/ | emoji merger <br/>
 https://touch.grass.lol/ | do it
+https://cuberule.com/ | is it a sandwich?
