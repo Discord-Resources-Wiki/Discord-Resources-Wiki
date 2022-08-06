@@ -54,6 +54,11 @@ description: Unofficial servers related to discord.
 
 @gg/communityarchitects
 
+## **Moderatoren HQ**
+> **Description:** Moderatoren HQ is a place for German (and English) speaking moderators and administrators to hangout with each other and to discuss discord and moderation related topics. They also organize numerous workshops around the topic of moderation to continue educating others on safe and healthy moderation.  <br/>
+**Link:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
+**Credit:** ModHQ team (owned by @160462182344032256)
+
 ## **The Coding Den**
 
 > **Description:**  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
