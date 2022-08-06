@@ -30,6 +30,12 @@ __Oluşturucu:__ @386861188891279362
 __Bağlantı:__ [Discord Lookup](https://discordlookup.com/)  <br/>
 __Oluşturucu:__ @231091710195662848
 
+## **Discord Recap**
+
+> **Tanım:** Discord veri paketinizi keşfetmek için bir araç - orijinal olarak Androz2091'in Discord Veri Paketi Gezgini'nden esinlenilmiştir, ancak çok daha fazla ayrıntı içerir.  <br/>
+**Bağlantı:** [Discord Recap](https://discord-recap.com)  <br/>
+**Oluşturucu:** @github:davidbmaier
+
 ### **Discord Data Package Explorer**
 > __Tanım:__ Discord verilerinizi kolayca keşfedin.   <br/>
 __Bağlantı:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
