@@ -31,7 +31,7 @@ We want to thank:<br/>
 @135877336804360194 - Website Maintainer <br/>
 @485676072176713729 - Resources Researcher / Maintainer<br/>
 @762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
+@378537973215657984 - Project Manager / Documentation Organizer<br/>
 @287711497118023692 - Resources Researcher / Documentation Organizer<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website Architect / Documentation Organizer<br/>
