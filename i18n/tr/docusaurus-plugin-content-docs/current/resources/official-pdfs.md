@@ -15,7 +15,14 @@ description: Official PDFs from discord.
 ### **Her Şeye Erişilebilirlik**
 > **Tanım:** Erişilebilirlik ekibinden bir Discord çalışanı ile erişilebilirlik hakkında bir Discord röportajı (sesli ve yazılı). <br/>
 **Bağlantı(lar):** <br/>
-[Audio](https://dis.gd/RadioDiscord_Accessibility )  <br/>
-[Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)
+[Ses](https://dis.gd/RadioDiscord_Accessibility )  <br/>
+[Yazılı](https://dis.gd/RadioDiscordAccessibilityTranscript)
+
+### **Forum Özelliğini Tartışmak**
+> **Tanım:** Discord topluluk ekibi, testteki yeni bir özellik hakkında konuşuyor: forumlar.  <br/>
+**Bağlantılar:** <br/>
+[Audio](https://dis.gd/Radio-Discord-Forums-Beta)  <br/>
+[Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript)
+
 
 ### 🚧 yapım halinde...
