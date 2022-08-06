@@ -50,6 +50,11 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 [Invite Fire](https://inv.wtf/bot)   <br/>
 **Credit:** @287698408855044097
 
+### **Blargbot**
+> **Description:** A fully customisable multi-purpose bot. <br/>
+**Link:** [Blargbot](https://blargbot.xyz/)  <br/>
+**Credit:** @103347843934212096
+
 ### **AutoModerator**
 
 > **Description:** General auto-moderation bot, with buttons and dropdowns.   <br/>
@@ -305,6 +310,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 > __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently it supports Twitch, YouTube, Trovo! <br/>
 __Link:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
 [Now Live Website](https://nowlivebot.com/)  <br/>
+**Credit:** @148336120936005632
 
 ## **Fun Bots**
 
