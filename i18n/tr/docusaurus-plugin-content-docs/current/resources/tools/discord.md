@@ -138,11 +138,6 @@ __Oluşturucu:__ @345103284463206400
 > __Tanım:__ PreMiD, Web'de ne yaptığınızı Discord "şimdi oynatılıyor durumunuzda" göstermenizi sağlayan basit, yapılandırılabilir bir yardımcı programdır.    <br/>
 __Bağlantı:__ [PreMiD](https://premid.app/)
 
-### **Powercord**
-> __Tanım:__ Powercord, basitlik ve performansa odaklanan hafif bir istemci modudur.   <br/>
-__Bağlantı:__ [Powercord](https://powercord.dev/)  <br/>
-[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
-
 ### **Presence Maker**
 > __Tanım:__ Bu araçla Discord'da rpc bir varlık oluşturun.   <br/>
 __Bağlantı:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
