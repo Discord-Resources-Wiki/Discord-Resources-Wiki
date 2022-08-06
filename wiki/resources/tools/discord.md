@@ -35,6 +35,12 @@ description: Discord related tools
 **Link:** [Discord Lookup](https://discordlookup.com/)  <br/>
 **Credit:** @231091710195662848
 
+## **Discord Recap**
+
+> **Description:** A tool to explore your Discord data package - originally inspired by Androz2091's Discord Data Package Explorer, but with a lot more details.  <br/>
+**Link:** [Discord Recap](https://discord-recap.com)  <br/>
+**Credit:** @github:davidbmaier
+
 ## **Discord Data Package Explorer**
 
 > **Description:** Explore your Discord data easily.   <br/>
