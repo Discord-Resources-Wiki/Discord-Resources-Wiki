@@ -38,8 +38,10 @@ __Oluşturucu:__ @231091710195662848
 
 ### **Discord Data Package Explorer**
 > __Tanım:__ Discord verilerinizi kolayca keşfedin.   <br/>
-__Bağlantı:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Oluşturucu:__ @github:Androz2091
+**Bağlantı(lar):** <br/>
+[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+[Discord Data Package Explorer V2](https://github.com/peterhanania/Discord-Package)  <br/> 
+**Oluşturucu:** @422820341791064085 @github:peterhanania
 
 ### **Discord Simple Avatar Maker**
 > __Tanım:__ Basit Discord avatarları yapmak için bir site.   <br/>
