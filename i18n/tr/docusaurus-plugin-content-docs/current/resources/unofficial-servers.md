@@ -60,13 +60,12 @@ __Oluşturucu:__ ModHQ Takımı (sahip @160462182344032256)
 ## **The Coding Den**
 > __Tanım:__  The Coding Den, hem yeni hem de deneyimli programcılara yardım etmeye odaklanan samimi bir kodlayıcı topluluğudur.   <br/>
 __Bağlantı:__ [The Coding Den](https://discord.gg/code)   <br/>
-__Oluşturucu:__ The Coding Den Takımı (sahip @229334929614438400)  <br/>
-
+__Oluşturucu:__ The Coding Den Takımı (sahip @229334929614438400)  
 @gg/code
 
 ## **How To Discord**
-> __Tanım:__ How To Discord, Discord'a yeni başlayanların soru sorması ve haber ve kaynak alması için ortak bir meta sunucusudur.
-__Bağlantı:__ [How To Discord](https://discord.gg/hotwo)
+> __Tanım:__ How To Discord, Discord'a yeni başlayanların soru sorması ve haber ve kaynak alması için ortak bir meta sunucusudur.  <br/>
+__Bağlantı:__ [How To Discord](https://discord.gg/hotwo)  <br/>
 __Oluşturucu:__ How To Discord Ekibi (sahip @730411730571755551)
 
 @gg/howto
