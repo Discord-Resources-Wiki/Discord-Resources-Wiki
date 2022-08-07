@@ -55,7 +55,7 @@ description: Unofficial servers related to discord.
 @gg/communityarchitects
 
 ## **Moderatoren HQ**
-> **Description:** Moderatoren HQ is a place for German (and English) speaking moderators and administrators to hangout with each other and to discuss discord and moderation related topics. They also organize numerous workshops around the topic of moderation to continue educating others on safe and healthy moderation.  <br/>
+> **Description:** Moderatoren HQ (ModHQ) is a German community where moderators and administrators connect and discuss topics around moderating a Discord server. ModHQ specializes in deep dives in the form of Workshops in various topics around building a safe and inclusive community with a knowledgeable and supportive mod team. English speakers are also welcome!  <br/>
 **Link:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
 **Credit:** ModHQ team (owned by @160462182344032256)
 
