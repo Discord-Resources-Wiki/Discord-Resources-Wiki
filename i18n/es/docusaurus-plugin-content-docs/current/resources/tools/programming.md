@@ -1,5 +1,5 @@
 ---
-title:Relacionado a la programaciòn 
+title: Relacionado a la programaciòn 
 sidebar_position: 2
 description: Herramientas de programación
 ---
