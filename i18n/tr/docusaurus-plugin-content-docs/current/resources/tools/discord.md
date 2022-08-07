@@ -32,9 +32,9 @@ __Oluşturucu:__ @231091710195662848
 
 ## **Discord Recap**
 
-> **Tanım:** Discord veri paketinizi keşfetmek için bir araç - orijinal olarak Androz2091'in Discord Veri Paketi Gezgini'nden esinlenilmiştir, ancak çok daha fazla ayrıntı içerir.  <br/>
-**Bağlantı:** [Discord Recap](https://discord-recap.com)  <br/>
-**Oluşturucu:** @github:davidbmaier
+> __Tanım:__ Discord veri paketinizi keşfetmek için bir araç - orijinal olarak Androz2091'in Discord Veri Paketi Gezgini'nden esinlenilmiştir, ancak çok daha fazla ayrıntı içerir.  <br/>
+__Bağlantı:__ [Discord Recap](https://discord-recap.com)  <br/>
+__Oluşturucu:__ @github:davidbmaier
 
 ### **Discord Data Package Explorer**
 > __Tanım:__ Discord verilerinizi kolayca keşfedin.   <br/>
