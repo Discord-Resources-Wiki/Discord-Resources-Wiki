@@ -42,6 +42,21 @@ __Oluşturucu:__ Displace Takımı(sahip @249287049482338305)
 
 @gg/displace
 
+## **Community Architects**
+
+> __Tanım:__ Topluluklar oluşturmak için paylaşmak ve işbirliği yapmak için topluluk moderatörlerini, yöneticileri, tasarımcıları ve daha fazlasını bir araya getirmeye kararlıyız.  <br/>
+__Bağlantı(lar):__ [Community Architects Discord](https://discord.gg/communityarchitects) | [Community Architects Website](https://communityarchitects.net)   <br/>
+__Oluşturucu:__ Community Architects Takımı (sahip @354309005037797376)
+
+@gg/communityarchitects
+
+## **Moderatoren HQ**
+> __Tanım:__ Moderatoren HQ (ModHQ), moderatörlerin ve yöneticilerin bir Discord sunucusunu denetlemekle ilgili konuları birbirine bağladığı ve tartıştığı bir Alman topluluğudur. ModHQ, bilgili ve destekleyici bir mod ekibiyle güvenli ve kapsayıcı bir topluluk oluşturma konusunda çeşitli konularda Atölyeler şeklinde discord alanında uzmanlaşmıştır. İngilizce konuşanlar da kabul edilir!  <br/>
+__Bağlantı:__ [Moderatoren HQ](https://discord.gg/modhq)  <br/>
+__Oluşturucu:__ ModHQ Takımı (sahip @160462182344032256)
+
+@gg/modhq
+
 ## **The Coding Den**
 > __Tanım:__  The Coding Den, hem yeni hem de deneyimli programcılara yardım etmeye odaklanan samimi bir kodlayıcı topluluğudur.   <br/>
 __Bağlantı:__ [The Coding Den](https://discord.gg/code)   <br/>
