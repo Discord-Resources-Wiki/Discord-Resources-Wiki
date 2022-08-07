@@ -59,6 +59,8 @@ description: Unofficial servers related to discord.
 **Link:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
 **Credit:** ModHQ team (owned by @160462182344032256)
 
+@gg/modhq
+
 ## **The Coding Den**
 
 > **Description:**  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
