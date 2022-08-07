@@ -1,72 +1,89 @@
 ---
-title: Unofficial Servers
+title: Servidores No Oficiales
 sidebar_position: 8
-description: Unofficial servers related to discord.
+description: Servidores no oficiales relacionados a Discord.
 ---
 
-# Unofficial Servers
+# Servidores No Oficiales
 
 ## **Discord API**
-> __Description:__ A server dedicated to information and assistance with the Discord API.   <br/>
-__Link:__ [Discord API](https://discord.gg/discord-api)   <br/>
-__Credit:__ Discord API team (owned by @80088516616269824)
+
+> **Descripción:** Un servidor dedicado a la información y asistencia con la API de Discord.   <br/>
+**Enlace:** [Discord API](https://discord.gg/discord-api)   <br/>
+**Creditos:** el equipo de Discord API (propiedad de @80088516616269824)
 
 @gg/discord-api
 
 ## **Discord Linux**
-> __Description:__ A server dedicated to information and assistance with the Linux version of Discord.   <br/>
-__Link:__ [Discord Linux](https://discord.gg/discord-linux)   <br/>
-__Credit:__ Discord Linux team (owned by @86201442112671744)
+
+> **Descripción:** Un servidor dedicado a la información y asistencia con la versión de Linux de Discord.   <br/>
+**Enlace:** [Discord Linux](https://discord.gg/discord-linux)   <br/>
+**Creditos:** el equipo de Discord Linux (propiedad de @86201442112671744)
 
 @gg/discord-linux
 
 ## **Discord Bots**
-> __Description:__ The Discord server for the oldest bots list on Discord, affiliated with Discord API.   <br/>
-__Link:__ [Discord Bots](https://discord.gg/dbots)   <br/>
-__Credit:__ Discord Bots’ server team (owned by @66237334693085184)
+
+> **Descripción:** El servidor de Discord para la lista de bots mas antigua en Discord, afiliada con Discord API.   <br/>
+**Enlace:** [Discord Bots](https://discord.gg/dbots)   <br/>
+**Creditos:** el equipo del servidor de Discord Bots (propiedad de @66237334693085184)
 
 @gg/dbots
 
 ## **Discord Networking**
-> __Description:__ A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships.   <br/>
-__Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required)   <br/>
-__Credit:__ Discord Networking team (owned by @200987752794292224)
+
+> **Descripción:** Un lugar donde cualquier que ayuda apoya la operación de un servidor de Discord puede conocerse, intercambiar consejos y crear asociaciones duraderas.   <br/>
+**Enlace:** [Discord Networking](https://discord.gg/BcXExxeGVG) (Solicitud de acceso requerida)   <br/>
+**Creditos:** el equipo de Discord Networking (propiedad de @200987752794292224)
 
 @gg/BcXExxeGVG
 
+## **Displace**
 
-## **Displace** 
-> __Description:__ The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-__Link(s):__ [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
-__Credit:__ The Displace team (owned by @249287049482338305)
+> **Descripción:** La mayor comunidad sobre Discord. Obtén todas las noticias de Discord, ayuda y recursos para tu comunidad.   <br/>
+**Enlaces:** [Servidor de Displace](https://discord.gg/displace) | [Pagina Web de Displace](https://dat.place/)   <br/>
+**Creditos:** el equipo de Displace (propiedad de @249287049482338305)
 
 @gg/displace
 
+## **Community Architects**
+
+> **Descripción:** Estamos comprometidos a reunir a moderadores de comunidades, administradores, diseñadores y mas para compartir y colaborar en la construcción de comunidades.   <br/>
+**Enlaces:** [Discord de Community Architects](https://discord.gg/communityarchitects) | [Pagina Web de Community Architects](https://communityarchitects.net)   <br/>
+**Creditos:** el equipo de Community Architects (propiedad de @354309005037797376)
+
+@gg/communityarchitects
+
 ## **The Coding Den**
-> __Description:__  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
-__Link:__ [The Coding Den](https://discord.gg/code)   <br/>
-__Credit:__ The Coding Den team (owned by @229334929614438400)
+
+> **Descripción:**  The Coding Den es una comunidad amigable de desarrolladores concentrados en ayudar a nuevos y experimentados programadores por igual.   <br/>
+**Enlace:** [The Coding Den](https://discord.gg/code)   <br/>
+**Creditos:** el equipo de The Coding Den (propiedad de @229334929614438400)
 
 @gg/code
 
 ## **Discord Hotline**
-> __Description:__ A community for moderators to discuss moderation and Discord meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Discord Hotline team (owned by @108432868149035008)
+
+> **Descripción:** Una comunidad para moderadores para debatir sobre moderación y Discord.   <br/>
+**Enlace:** (only by referral)   <br/>
+**Creditos:** el equipo de Discord Hotline (propiedad de @108432868149035008)
 
 ## **The Fish Project**
-> __Description:__ Providing early detection of new phishing attacks before they can be used to harm users.   <br/>
-__Link:__ (only by referral) (access request required)   <br/>
-__Credit:__ The Fish Project team (owned by @459235187469975572)
+
+> **Descripción:** Proporcionando detección temprana sobre nuevos ataques de phishing antes de que puedan ser usados para dañar usuarios.   <br/>
+**Enlace:** (sólo por referencias) (se requiere solicitud de acceso)   <br/>
+**Creditos:** el equipo de The Fish Project (propiedad de @459235187469975572)
 
 ## **Dev Hub**
-> __Description:__ A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Dev Hub team (owned by @386861188891279362)
 
-## **The Programmers Hangout** 
-> __Description:__ The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
-__Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
-__Credit:__ The Programmers Hangout team (owned by @335628039302021121)
+> **Descripción:** Una comunidad para traer a desarrolladores y expertos juntos para compartir ideas y hablar (sobre Discord).   <br/>
+**Enlace:** (solo por referencias)   <br/>
+**Creditos:** el equipo de Dev Hub (propiedad de @386861188891279362)
+
+## **The Programmers Hangout**
+
+> **Descripción:** The Programmers Hangout es una comunidad de programación de propósito general con énfasis en pasar el rato, que atiende a todos los niveles de experiencia. Con un enfoque en proyectos de código abierto, educación, aprendizaje, progresión profesional y ayuda de programación.  <br/>
+**Enlaces:** [The Programmers Hangout](https://discord.gg/programming) | [Pagina Web de The Programmers Hangout](https://theprogrammershangout.com/)   <br/>
+**Creditos:** el equipo de The Programmers Hangout (propiedad de @335628039302021121)
 
 @gg/programming
