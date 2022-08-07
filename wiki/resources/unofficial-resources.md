@@ -53,7 +53,7 @@ description: Unofficial resources for discord.
 
 ## **Embed Generator**
 
-> **Description:** Allows you to create and preview embed messages with support for buttons and select menus.   <br/>
+> **Description:** Embed builder with support for multiple embeds, buttons, select menus, and sending to webhooks.   <br/>
 **Link:** [Embed Generator](https://message.style/)   <br/>
 **Credit:** @386861188891279362
 
