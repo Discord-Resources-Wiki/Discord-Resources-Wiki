@@ -23,7 +23,7 @@ __Bağlantı:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 __Bağlantı:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Aracı**
-> __Tanım:__ DBug'ın !submit komutu için metin oluşturmaya yönelik resmi araç. Form, sonunda sizin için otomatik olarak bir komut oluşturmak için her girişte size adım adım rehberlik eder.   <br/>
+> __Tanım:__ DBug'ın !submit komutu için metin oluşturmaya yönelik resmi araç. Form, sonunda sizin için otomatik olarak bir komut oluşturmak için her girişte size adım adım rehberlik eder.<br/>
 __Bağlantı:__ [Testers Bug Aracı](https://dis.gd/bug-tool)
 __Oluşturucu:__ @53905483156684800
 
