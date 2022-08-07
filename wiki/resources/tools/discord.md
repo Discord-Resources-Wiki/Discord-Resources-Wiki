@@ -44,8 +44,10 @@ description: Discord related tools
 ## **Discord Data Package Explorer**
 
 > **Description:** Explore your Discord data easily.   <br/>
-**Link:** [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-**Credit:** @github:Androz2091
+**Link(s):** <br/>
+[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+[Discord Data Package Explorer V2](https://github.com/peterhanania/Discord-Package)  <br/> 
+**Credit:** @422820341791064085 @github:peterhanania
 
 ## **Discord Simple Avatar Maker**
 
