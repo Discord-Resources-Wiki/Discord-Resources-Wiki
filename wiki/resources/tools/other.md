@@ -286,3 +286,9 @@ description: Other useful tools
 
 > **Description:** Download any content from popular sites.  <br/>
 **Link:** [Savefrom](https://savefrom.net/)
+
+## **Tixte**
+
+> **Description:** Tixte is a content sharing platform that makes it easy to share files with anyone through personalized links and pages.  <br/>
+**Link:** [Tixte](https://tixte.com/)
+**Credit:** @684155404078415890
