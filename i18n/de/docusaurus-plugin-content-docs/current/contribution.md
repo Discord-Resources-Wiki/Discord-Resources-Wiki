@@ -36,11 +36,10 @@ Ein Dank geht an:<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website-Architekt / Organisator der Dokumentation<br/>
 @102102717165506560 - Wachstumsberatung / RRessourcenkurator<br/>
-@280094303429197844 - Übersetzung ins Deutsche
-@421991668556759042 - Übersetzung ins Deutsche
-@755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*
+@280094303429197844 - Übersetzung ins Deutsche<br/>
+@755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*<br/>
 @480495309491798037 - <http://discord.wiki/> Weiterleit-links Besitzer <br/>
-@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Gründer
+@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Gründer<br/>
 
 ## Wie man Änderungen lokal testet
 
