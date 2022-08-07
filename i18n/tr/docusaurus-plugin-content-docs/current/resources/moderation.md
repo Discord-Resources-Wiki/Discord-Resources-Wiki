@@ -6,11 +6,6 @@ description: Moderation resources
 
 # Moderasyon
 
-### **Modcast Podcast** (Son dönemlerde bağlı)
-> __Tanım:__ Moderatörler için moderatörler tarafından bir podcast.   <br/>
-__Bağlantı:__ [Modcast Podcast](https://modcast.network/)   <br/>
-__Oluşturucu:__ [ModPod team](https://modcast.network/meet-the-team/) 
-
 ### **Discord Moderatör Akademi**
 > __Tanım:__ Moderatörler tarafından yazılmış, moderatörler için Discord'un resmi kaynakları.   <br/>
 __Bağlantı:__ [Discord Moderatör Akademi](https://dis.gd/moderation)   <br/>
