@@ -94,7 +94,7 @@ description: Official links from discord.
 ## **Latest Transparency Report**
 
 > **Description:** The most recent update on the security team’s actions and terminations.   <br/>
-**Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+**Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022)
 
 ## **Discord’s (new) Media Kit**
 
