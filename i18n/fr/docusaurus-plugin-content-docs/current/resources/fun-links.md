@@ -1,7 +1,6 @@
 ---
 title: Liens drôles
 sidebar_position: 12
-description: Fun links
 description: Liens drôles
 ---
 
