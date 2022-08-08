@@ -54,6 +54,13 @@ description: Unofficial servers related to discord.
 
 @gg/communityarchitects
 
+## **Moderatoren HQ**
+> **Description:** Moderatoren HQ (ModHQ) is a German community where moderators and administrators connect and discuss topics around moderating a Discord server. ModHQ specializes in deep dives in the form of Workshops in various topics around building a safe and inclusive community with a knowledgeable and supportive mod team. English speakers are also welcome!  <br/>
+**Link:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
+**Credit:** ModHQ team (owned by @160462182344032256)
+
+@gg/modhq
+
 ## **The Coding Den**
 
 > **Description:**  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>

@@ -6,12 +6,6 @@ description: Moderation resources
 
 # Moderation
 
-## **Modcast Podcast** (recently affiliated)
-
-> **Description:** A podcast by moderators for moderators.   <br/>
-**Link:** [Modcast Podcast](https://modcast.network/)   <br/>
-**Credit:** [ModPod team](https://modcast.network/meet-the-team/)
-
 ## **Discord Moderator Academy**
 
 > **Description:** Discord’s official resources for moderators, written by moderators.   <br/>

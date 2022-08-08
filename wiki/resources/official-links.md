@@ -13,7 +13,7 @@ description: Official links from discord.
 
 ## **How to Report**
 
-> **Description:** A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
+> **Description:** A guide on how to properly report issues to Discord’s Trust and Safety team.   <br/>
 **Link:**  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
 ## **How to get user IDs**
@@ -94,7 +94,7 @@ description: Official links from discord.
 ## **Latest Transparency Report**
 
 > **Description:** The most recent update on the security team’s actions and terminations.   <br/>
-**Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+**Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022)
 
 ## **Discord’s (new) Media Kit**
 
