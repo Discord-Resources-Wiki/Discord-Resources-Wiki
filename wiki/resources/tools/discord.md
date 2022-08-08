@@ -131,8 +131,8 @@ description: Discord related tools
 ## **Experiments Rollouts**
 
 > **Description:** Shows the current discord experiments and their rollout percentage.   <br/>
-**Link:** [Experiments Rollouts](https://rollouts.advaith.io/)   <br/>
-**Credit:** @190916650143318016
+**Link:** [Experiments Rollouts](https://rollouts.advaith.io/) | [List of Experiments](https://gist.github.com/XYZenix/95de40ff80091c0ff7b0cfd610bd10d7)  <br/>
+**Credit:** @190916650143318016 @211270674482724864
 
 ## **Find a Guild**
 
