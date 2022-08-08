@@ -35,11 +35,19 @@ description: Discord related tools
 **Link:** [Discord Lookup](https://discordlookup.com/)  <br/>
 **Credit:** @231091710195662848
 
+## **Discord Recap**
+
+> **Description:** A tool to explore your Discord data package - originally inspired by Androz2091's Discord Data Package Explorer, but with a lot more details.  <br/>
+**Link:** [Discord Recap](https://discord-recap.com)  <br/>
+**Credit:** @github:davidbmaier
+
 ## **Discord Data Package Explorer**
 
 > **Description:** Explore your Discord data easily.   <br/>
-**Link:** [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-**Credit:** @github:Androz2091
+**Link(s):** <br/>
+[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+[Discord Data Package Explorer V2](https://github.com/peterhanania/Discord-Package)  <br/> 
+**Credit:** @422820341791064085 @github:peterhanania
 
 ## **Discord Simple Avatar Maker**
 
@@ -242,7 +250,7 @@ description: Discord related tools
 ## **Scratch For Discord**
 
 > **Description:** Make a Discord bot using blocks with no coding required.  <br/>
-**Link:** [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
+**Link:** [Scratch For Discord](https://scratch-for-discord.com/)  <br/>
 **Credit:** @422820341791064085
 
 ## **Zeppelin in Docker**

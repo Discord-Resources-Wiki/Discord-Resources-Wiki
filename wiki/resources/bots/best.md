@@ -13,7 +13,7 @@ description: Discord bot recommendations
 > **Description:** Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in mind.   <br/>
 **Link(s):**   <br/>
 [Zeppelin Website](https://zeppelin.gg/)   <br/>
-[Github](https://github.com/Dragory/ZeppelinBot)   <br/>
+[GitHub](https://github.com/Dragory/ZeppelinBot)   <br/>
 [Compendium](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
 [Setup Tool](https://setup-tool.zeppelin.gg)   <br/>
 [Handbook](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
@@ -49,6 +49,11 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 [Fire Website](https://getfire.bot/)   <br/>
 [Invite Fire](https://inv.wtf/bot)   <br/>
 **Credit:** @287698408855044097
+
+### **Blargbot**
+> **Description:** A fully customisable multi-purpose bot. <br/>
+**Link:** [Blargbot](https://blargbot.xyz/)  <br/>
+**Credit:** @103347843934212096
 
 ### **AutoModerator**
 
@@ -101,7 +106,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 > **Description:** Fish is a bot made for auto-moderating phishing scam links. It has a few configuration options, like what action to take when a user posts a known scam link and the ability to exempt users/roles from link detection.   <br/>
 **Link(s):**   <br/>
-[Github](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
+[GitHub](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 **Credit:** @255834596766253057
 
@@ -300,6 +305,12 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 [Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
 **Credit:** @537875750955778058 @305647182198079489
+
+### **Now Live**
+> __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently it supports Twitch, YouTube, Trovo! <br/>
+__Link:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
+[Now Live Website](https://nowlivebot.com/)  <br/>
+**Credit:** @148336120936005632
 
 ## **Fun Bots**
 
