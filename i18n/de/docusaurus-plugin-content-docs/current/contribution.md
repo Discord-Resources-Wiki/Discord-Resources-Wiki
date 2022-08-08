@@ -39,7 +39,7 @@ Ein Dank geht an:<br/>
 @280094303429197844 - Übersetzung ins Deutsche<br/>
 @755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*<br/>
 @480495309491798037 - <http://discord.wiki/> Weiterleit-links Besitzer <br/>
-@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Gründer<br/>
+@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Gründer / Übersetzung ins Deutsche<br/>
 
 ## Wie man Änderungen lokal testet
 
