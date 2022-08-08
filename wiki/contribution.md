@@ -31,14 +31,14 @@ We want to thank:<br/>
 @135877336804360194 - Website Maintainer <br/>
 @485676072176713729 - Resources Researcher / Maintainer<br/>
 @762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
+@378537973215657984 - Project Manager / Documentation Organizer<br/>
 @287711497118023692 - Resources Researcher / Documentation Organizer<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website Architect / Documentation Organizer<br/>
 @102102717165506560 - Growth Consulting / Resource Curator<br/>
 @755792681313108018 - *I had this idea and did all of the above*  <br/>
 @480495309491798037 - <http://discord.wiki/> Redirect Owner <br/>
-@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Maker
+@421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker
 
 ## How to test changes locally
 

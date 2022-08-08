@@ -21,5 +21,11 @@ description: Official files from discord.
 [Audio](https://dis.gd/RadioDiscord_Accessibility )  <br/>
 [Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)
 
+### **Discussing The Forums Feature**
+> **Description:** The Discord community team talks about a new feature in testing: forums.  <br/>
+**Links:** <br/>
+[Audio](https://dis.gd/Radio-Discord-Forums-Beta)  <br/>
+[Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript)
+
 
 ### 🚧 under construction...
