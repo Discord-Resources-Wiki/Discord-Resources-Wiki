@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Beitragen
 sidebar_position: 3
 slug: /contribution
 description: Eine Liste mit tonnenweise nützlichen Discord-Ressourcen und -Hilfsmitteln für alle Arten von Nutzern, von Anfängern bis hin zu Power-Usern.

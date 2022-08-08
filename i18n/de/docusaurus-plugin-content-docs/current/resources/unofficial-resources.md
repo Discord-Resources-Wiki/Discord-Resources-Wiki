@@ -20,11 +20,9 @@ description: Inoffizielle Ressourcen für Discord.
 
 ## **Discord Previews**
 
-> **Beschreibung:** Eine Seite mit den neuesten Discord-Nachrichten, Funktionen, Experimenten und Updates.  <br/>
-**Link(s):** <br/>
-[Discohook](https://discohook.org/)   <br/>
-[Discohook Utilities](https://dutils.shay.cat/)  <br/>
-**Credit:** @143419667677970434 @115238234778370049
+> **Beschreibung:** A site filled with the latest Discord news, features, experiments, and updates.
+**Link:** [Discord Previews](https://discordpreviews.com/)
+**Credit:** @562415519454461962
 
 ## **Discord Guild Features**
 
