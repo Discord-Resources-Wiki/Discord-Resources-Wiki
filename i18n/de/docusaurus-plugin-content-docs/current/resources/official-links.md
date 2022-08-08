@@ -92,7 +92,7 @@ description: Offizielle Links von Discord.
 > **Beschreibung:** Die neuesten Informationen über die Maßnahmen des Sicherheitsteams.   <br/>
 **Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022)
 
-## **Discord’s (new) Media Kit**
+## **Discord’s (neues) Media Kit**
 
 > **Beschreibung:** Die offiziellen Assets von Discord.   <br/>
 **Link:** <br/>

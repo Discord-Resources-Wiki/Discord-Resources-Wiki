@@ -110,7 +110,7 @@ description: Inoffizielle Ressourcen für Discord.
 **Link:** [Discord Library](https://www.figma.com/community/file/1114896965920105129)   <br/>
 **Credit:** @354309005037797376
 
-## **(more) Discord Assets**
+## **(Mehr) Discord Assets**
 
 > **Beschreibung:** Eine Liste mit allen Icons aus dem Client.   <br/>
 **Link:** [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>

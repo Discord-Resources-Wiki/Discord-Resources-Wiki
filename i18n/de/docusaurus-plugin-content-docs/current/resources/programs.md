@@ -30,7 +30,7 @@ description: Discord-Programme wie Moderation, Partner, HSE und Verifizierung.
 > **Beschreibung:** Hier findest du Informationen und kannst dich für das Verifications Programm bewerben.   <br/>
 **Link:** [Verification Programm](https://dis.gd/verification)
 
-### **Studenten-Hubs**
+## **Studenten-Hubs**
 
 > **Beschreibung:** Ein Ort, der es einfach macht, Klassenkameraden aus deiner Schule zu treffen, ihre Communities auf Discord zu entdecken und deine eigenen Server für Klassenkameraden freizugeben.   <br/>
 **Link:** [Studenten-Hubs](https://dis.gd/studenthubs)

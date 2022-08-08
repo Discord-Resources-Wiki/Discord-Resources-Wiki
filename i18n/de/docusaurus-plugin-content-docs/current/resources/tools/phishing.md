@@ -86,7 +86,7 @@ Phisherman ist eine zentrale Datenbank für Phishing- und Betrugslinks. Sie wurd
 ## **The Vaccinator**
 
 > **Beschreibung:** Ein Tool zum Aufspüren und Neutralisieren von Discord-Token-Stealern durch Löschen ihres internen Discord-Webhooks. <br/>
-**Notiz**:** Dieses Tool ist **kein** Antivirus. Es ist nur ein Dienstprogramm, das Betrüger daran hindern kann, an die Daten anderer Leute zu gelangen. <br/>
+**Notiz**: Dieses Tool ist **kein** Antivirus. Es ist nur ein Dienstprogramm, das Betrüger daran hindern kann, an die Daten anderer Leute zu gelangen. <br/>
 **Link:** [Webseite](https://sketchy.tel/)  <br/>
 **Credit:** Das Vaccinator Team (Kontakt: @204414611578028034)
 

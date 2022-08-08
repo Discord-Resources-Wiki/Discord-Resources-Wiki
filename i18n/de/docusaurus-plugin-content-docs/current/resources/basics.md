@@ -38,10 +38,10 @@ So wird sichergestellt, dass alle Beteiligten positive Erfahrungen machen und da
 > **Beschreibung:** Die offizielle Discord-Seite auf Twitter.   <br/>
 **Link:** [Discord Twitter](https://twitter.com/discord)
 
-## **Discord Youtube**
+## **Discord YouTube**
 
 > **Beschreibung:**  Die offizielle Discord-Seite auf Youtube.   <br/>
-**Link:** [Discord Youtube](https://www.youtube.com/c/discord)
+**Link:** [Discord YouTube](https://www.youtube.com/c/discord)
 
 ## **Discord Hilfe-Center**
 
