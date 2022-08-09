@@ -24,8 +24,8 @@ __Bağlantı:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Aracı**
 > __Tanım:__  DBug'ın !submit komutu için metin oluşturmaya yönelik resmi araç. Form, sonunda sizin için otomatik olarak bir komut oluşturmak için her girişte size adım adım rehberlik eder.   <br/>
-__Bağlantı:__ [Testers Bug Aracı](https://dis.gd/bug-tool)
-<br>__Oluşturucu:__ @53905483156684800 <br/>
+__Bağlantı:__ [Testers Bug Aracı](https://dis.gd/bug-tool)<br/>
+__Oluşturucu:__ @53905483156684800 <br/>
 
 ## **Discord Deneme İstemcisi**
 > __Tanım:__ Tüm platformlar için Discord test istemcilerini indirme ve kullanma kılavuzu.   <br/>
