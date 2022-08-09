@@ -10,7 +10,7 @@ description: Lustige Links
 <https://shutplea.se/> | Klappe zu Vogel   <br/>
 <https://i-dont-ca.re/> | Über Docs   <br/>
 <https://just-read.it/> | Les den error smh   <br/>
-<https://when.lol/> |Wann habe ich gefragt?   <br/>
+<https://when.lol/> | Wann habe ich gefragt?   <br/>
 <https://getsharex.com/premium> | Sharex Premium   <br/>
 <https://nohello.com/> | Sag nicht nur hallo   <br/>
 <https://nohello.net/> | Sag nicht nur hallo 2.0 <br/>
@@ -79,7 +79,7 @@ description: Lustige Links
 <https://api.onlyraccoons.com/> | http racoons  <br/>
 <https://guthib.com/> | POV: Ydu bist gerade aufgewacht und wolltest Github öffnen.  <br/>
 <https://no-bitch.es/> | no bitches  <br/>
-<https://why-stup.id/> | Warum bist du dumm?
+<https://why-stup.id/> | Warum bist du dumm? <br />
 <https://cat-bounce.com/> |  cat bounce <br />
 <https://txnor.com/mathchallenge> | mathematische Herausforderung <br />
 <https://shouldiblamecaching.com/> | sollte ich das Caching verantwortlich machen?  <br/>
