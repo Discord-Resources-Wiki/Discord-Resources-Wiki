@@ -22,14 +22,6 @@ description: Inoffizielle Server mit Bezug zu Discord.
 
 @gg/discord-linux
 
-## **Discord Bots**
-
->**Beschreibung:** Der Discord-Server für die älteste Bots-Liste auf Discord. Affiliated mit der Discord-API.   <br/>
-**Link:** [Discord Bots](https://discord.gg/dbots)   <br/>
-**Credit:** Discord Bots Serverteam (Gründer: @66237334693085184)
-
-@gg/dbots
-
 ## **Discord Networking**
 
 >**Beschreibung:** Ein Ort, an dem alle, die einen Discord-Server Administrieren, Moderieren oder in einer anderen Art unterstützen, einander kennenlernen, Ratschläge austauschen und dauerhafte Partnerschaften eingehen können.   <br/>
