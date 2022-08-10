@@ -22,7 +22,7 @@ description: Servidores oficiales administrados por Discord.
 
 ## **Discord Town Hall**
 
-> **Descripción:** Un servidor de charla general oficial para las personas que aman Discord. ¡Encuentra las últimas noticias, eventos y una comunidad que te encantara!   <br/>
+> **Descripción:** Un servidor de charla general oficial para las personas que aman Discord. ¡Encuentra las últimas noticias, eventos y una comunidad que te encantará!   <br/>
 **Enlace:** [Discord Town Hall](https://discord.gg/discord-townhall)
 
 @gg/discord-townhall
