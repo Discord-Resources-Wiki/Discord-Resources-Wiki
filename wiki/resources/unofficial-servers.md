@@ -22,13 +22,6 @@ description: Unofficial servers related to discord.
 
 @gg/discord-linux
 
-## **Discord Bots**
-
-> **Description:** The Discord server for the oldest bots list on Discord, affiliated with Discord API.   <br/>
-**Link:** [Discord Bots](https://discord.gg/dbots)   <br/>
-**Credit:** Discord Bots’ server team (owned by @66237334693085184)
-
-@gg/dbots
 
 ## **Discord Networking**
 
