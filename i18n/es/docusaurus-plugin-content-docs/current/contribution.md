@@ -2,7 +2,7 @@
 title: Contribución
 sidebar_position: 3
 slug: /contribution
-description: Una lista de toneladas de útiles recursos y utilidades de Discord para todo tipo de usuarios, desde principiantes hasta usuarios avanzados.
+description: Una lista de toneladas de recursos útiles y utilidades de Discord para todo tipo de usuarios, desde principiantes hasta usuarios avanzados.
 ---
 
 ```mdx-code-block
@@ -12,13 +12,13 @@ import TabItem from '@theme/TabItem';
 
 # Contribución
 
-¿Has encontrado un error o una falta de ortografia? ¿Tienes un buen recurso que encaja en esta lista? ¡Convierte en un contribuyente y esté en la gloriosa lista de contribuyentes abajo!<br/>
-Para contribuir, estas mas que bienvenido a hacer un PR la wiki o enviar un MD a @755792681313108018 para editar la wiki y tu mismo en la lista.
-Tambien puedes unirte al [Servidor Oficial del Proyecto](https://discord.gg/yxbqz9pNxS) para contribuir ahi.
+¿Ha encontrado un error o una falta de ortografía? ¿Tiene un buen recurso que encaje en esta lista? ¡Conviértase en un contribuyente y esté en la gloriosa lista de contribuyentes abajo!<br/>
+Para contribuir, asegúrese de hacer un PR en la wiki o enviar un MD a @755792681313108018 para editar la wiki y añadirse a si mismo en la lista.
+Tambien puede unise al [Servidor Oficial del Proyecto](https://discord.gg/yxbqz9pNxS) para contribuir ahí.
 
 ## Contribuyentes
 
-¡Este proyecto ha necesitado mas de un par de manos y estamos orgullosos de tener este equipo de contribuyentes que nos han ayudado con este proyecto!<br/>
+¡Este proyecto ha necesitado más de un par de manos y estamos orgullosos de tener este equipo de contribuyentes que nos han ayudado con este proyecto!<br/>
 Queremos agradecer a:<br/>
 @795977947558182954 - Mantenedor de la Wiki <br/>
 @885165099847929887 - <https://dis.wiki/> Propietario de la Redirección <br/>
@@ -40,7 +40,7 @@ Queremos agradecer a:<br/>
 @480495309491798037 - <http://discord.wiki/> Propietario de la Redirección <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Creador <br/>
 ## Equipo de Traducción al Español
-@658113072283516939 (Lider)
+@658113072283516939 (Líder)
 @438390132538605589
 @893135042111479808
 @209011861683830787
@@ -49,21 +49,21 @@ Queremos agradecer a:<br/>
 
 ## Como probar cambios localmente
 
-¿Tienes un buen PR pero no sabes como se ve? ¡No hay problema!<br/>
+¿Tiene un buen PR pero no sabes cómo se ve? ¡No hay problema!<br/>
 
-Los requisitos són:<br/>
+Los requisitos son:<br/>
 Node.js version >= ```16.5.0```<br/>
 
 Si estás usando Yarn:<br/>
 Yarn version >= ```1.22.0```
 
-Fork the GitHub repo and then clone it locally.
+Haga un fork del repositorio de GitHub y, posteriormente, un clon local.
 
 ```bash
 git clone https://github.com/tunombredeusuario/Discord-Resources-Wiki
 ```
 
-Despues, abre el directorio de `Discord-Resources-Wiki` y ejecuta el siguiente comando:
+Después, abre el directorio de `Discord-Resources-Wiki` y ejecuta el siguiente comando:
   
 ```mdx-code-block
 <Tabs>
@@ -88,15 +88,15 @@ yarn install
 </Tabs>
 ```
 
-Esto descargará todos los repositorios requeridos por nuestro sistema de documentación (Docusaurus). Solo neecesita ejecutar esto una sola vez.
+Esto descargará todos los repositorios requeridos por nuestro sistema de documentación (Docusaurus). Solo neecesita ejecutar este comando una vez.
 
-Para ver los nombres de usuario como en la pagina web, debes crear una nueva aplicación de Discord y hacerla un Bot.
-Sigue este [enlace](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) para crear una nueva aplicación.
+Para ver los nombres de usuario como en la pagina web, debe crear una nueva aplicación de Discord y hacerla un Bot.
+Siga [este enlace](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) para crear una nueva aplicación.
 
-Para obtener tu nuevo token para el bot, ves a los ajustes de tu aplicación y haz click en el apartado "Bot".
-Haz click en el botón "Token" y verás el token de tu bot.
+Para obtener su nuevo token para el bot, vaya a los ajustes de su aplicación y haga click en el apartado "Bot".
+Haga click en el botón "Token" y verá el token de su bot.
 
-Ahora crea un nuevo archivo llamado .env en el directorio principal y pega lo siguiente:
+Ahora cree un nuevo archivo llamado .env en el directorio principal y pega lo siguiente:
 
 ```env
 DISCORD_TOKEN=<tokenaqui>
@@ -104,7 +104,7 @@ DISCORD_TOKEN=<tokenaqui>
 
 Guarda el archivo.
 
-Para probar tus cambios localmente, ejecuta el siguiente comando:
+Para probar sus cambios localmente, ejecute el siguiente comando:
 
 ```mdx-code-block
 <Tabs>
@@ -129,7 +129,7 @@ yarn start
 </Tabs>
 
 Este comando inicia el servidor web (```localhost:3000``` por predeterminado) y tiene que ser ejecutado cada vez que quieras empezar a editar.
-Sin embargo, no necesitaser ejecutado para cada cambio que hagas, ya que Docusaurus reiniciará automaticamente  el servidor si detecta cambios.
+Sin embargo, no necesita ser ejecutado para cada cambio que hagas, ya que Docusaurus reiniciará automáticamente el servidor si detecta cambios.
 
-Una vez tengas una instancia de la pagina web ejecutandose localmente, ¡estas listo para empezar a contribuir!
-Notas: Porfavor usa ```<br/>``` para los caracteres de salto de linea.
+Una vez tenga una instancia de la pagina web ejecutada localmente, ¡está listo para empezar a contribuir!
+Notas: Porfavor use ```<br/>``` para los carácteres de nueva línea.
