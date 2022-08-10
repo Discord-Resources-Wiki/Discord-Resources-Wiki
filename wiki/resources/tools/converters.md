@@ -83,10 +83,10 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** View SVG files.   <br/>
 **Link:** [SVG Viewer](https://www.svgviewer.dev/)
 
-### **Youtube Downloader**
+### **YouTube Downloader**
 
-> **Description:** Download a Youtube video as a file using its URL (either audio only or video). <br/>
-**Link:** [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
+> **Description:** Download a YouTube video as a file using its URL (either audio only or video). <br/>
+**Link:** [YouTube Downloader](http://youtube.tpcstld.me/) <br/>
 **Credit:** @141065743197405184
 
 ### **Lottie Image Resizer**
