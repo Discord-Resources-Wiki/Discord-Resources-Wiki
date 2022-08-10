@@ -40,6 +40,7 @@ description: Fun links
 <https://http.cat/> | HTTP cats   <br/>
 <https://http.dog/> |  HTTP dogs <br/>
 <https://thispersondoesnotexist.com/> | this person does not exist   <br/>
+https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 <https://thisfursonadoesnotexist.com/> | this fursona does not exist  <br/>
 <https://wungus.guru/robots.txt> | wungus the guru   <br/>
 <https://fish-is.me/> | Im a fish....?  <br/>
