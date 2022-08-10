@@ -18,7 +18,7 @@ description: Formularios oficiales de discord.
 
 ## **Comentarios**
 
-> **Descripción:** Envía comentarios al equipo de Discord. <br/>
+> **Descripción:** Envíe comentarios al equipo de Discord. <br/>
 **Enlace:** [Formulario de comentarios de Discord](https://dis.gd/feedback)
 
 ## **Discord Confianza y seguridad**
