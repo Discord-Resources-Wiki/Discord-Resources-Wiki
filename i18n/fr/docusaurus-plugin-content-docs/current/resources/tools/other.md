@@ -1,7 +1,7 @@
 ---
-title: Other
+title: Autre
 sidebar_position: 3
-description: D'autres outils utiles
+description: D'autres outils utiles.
 ---
 
 # Autre
