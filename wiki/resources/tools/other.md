@@ -100,7 +100,7 @@ description: Other useful tools
 
 ## **Invited**
 
-> **Description:** Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
+> **Description:** Watch movies, YouTube or even listen to music together through a shared virtual browser.   <br/>
 **Link:** [Invited](https://invited.tv/)
 
 ## **Obsidian**
