@@ -13,7 +13,7 @@ description: Enlaces Oficiales de Discord.
 ## **Cómo denunciar**
 
 > **Descripción:** Una guía sobre cómo informar adecuadamente los problemas al equipo de Confianza y Seguridad de Discord. <br/>
-**Enlace:** [Cómo informar](https://dis.gd/howtoreport) | [Artículo de DMA](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+**Enlace:** [Cómo informar](https://dis.gd/howtoreport) | [Artículo de DMA](https://dis.gd/dma104)
 
 ## **Cómo obtener ID de usuario**
 
@@ -38,7 +38,7 @@ description: Enlaces Oficiales de Discord.
 
 ## **Recursos de la comunidad de Discord**
 
-> **Descripción:** Recursos para configurar y mantener un servidor comunitario <br/>
+> **Descripción:** Recursos para configurar y mantener un servidor comunitario. <br/>
 **Enlace:** [Recursos de la comunidad](https://discord.com/community) <br/>
 
 ## **Academia de Moderadores de Discord**
@@ -93,7 +93,7 @@ description: Enlaces Oficiales de Discord.
 ## **Último informe de transparencia**
 
 > **Descripción:** La actualización más reciente sobre las acciones y terminaciones del equipo de seguridad. <br/>
-**Enlace:** [Informe de transparencia más reciente](https://discord.com/blog/discord-transparency-report-h1-2021)
+**Enlace:** [Informe de transparencia más reciente](https://discord.com/blog/discord-transparency-report-q1-2022)
 
 ## **Kit de medios (nuevo) de Discord**
 
