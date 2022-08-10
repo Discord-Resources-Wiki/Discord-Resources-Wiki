@@ -27,15 +27,15 @@ description: Programas de Discord como Moderación, Partner, HSE y Verificación
 
 ## **Programa de Verificación**
 
-> **Descripción:** El lugar para encontrar informacion y aplicar para el programa de Verificación.   <br/>
+> **Descripción:** El lugar para encontrar información y aplicar para el programa de Verificación.   <br/>
 **Enlace:** [Programa de Verificación](https://dis.gd/verification)
 
 ## **Centros de Estudiantes**
 
-> **Descripción:** Un lugar que hace facil conocer compañeros de clase de tu escuela, descubrir sus comunidades en Discord y compartir tus propios servidores para que tus compañeros de clase se unan.   <br/>
+> **Descripción:** Un lugar que hace fácil conocer compañeros de clase de tu escuela, descubrir sus comunidades en Discord y compartir tus propios servidores para que tus compañeros de clase se unan.   <br/>
 **Enlace:** [Centros de Estudiantes](https://dis.gd/studenthubs)
 
 ## **Discord Admin Community**
 
-> **Descripción:** Servidor oficial para administradores de servidores de todo tipo para armar y intercambiar sobre temas relacionados a comunidades. <br/>
+> **Descripción:** Servidor oficial para administradores de servidores de todo tipo para hablar e intercambiar conocimientos sobre temas relacionados a comunidades. <br/>
 **Enlace:** [Discord Admin Community](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
