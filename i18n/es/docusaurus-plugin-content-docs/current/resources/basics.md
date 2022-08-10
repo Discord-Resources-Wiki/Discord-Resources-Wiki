@@ -1,7 +1,7 @@
 ---
 title: Basico
 sidebar_position: 1
-description: Recursos basicos
+description: Recursos básicos.
 ---
 
 # Lo basico
