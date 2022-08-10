@@ -24,7 +24,7 @@
       "description": "The ARIA label for close button of announcement bar"
     },
     "theme.BackToTopButton.buttonAriaLabel": {
-      "message": "Scroll back to top",
+      "message": "ऊपर की तरफ वापस स्क्रॉल करें",
       "description": "The ARIA label for the back to top button"
     },
     "theme.blog.archive.title": {
@@ -175,7 +175,7 @@
       "description": "The sentence used to display when a page has been last updated, and by who"
     },
     "theme.navbar.mobileVersionsDropdown.label": {
-      "message": "वर्जन्स",
+      "message": "Versions",
       "description": "The label for the navbar versions dropdown on mobile view"
     },
     "theme.common.skipToMainContent": {
