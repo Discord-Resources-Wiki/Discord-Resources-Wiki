@@ -12,10 +12,10 @@ description: Una lista de toneladas de útiles recursos y utilidades de Discord 
 
 ## Entonces, ¿que es esto?
 
-El fundador de este proyecto, @755792681313108018, había estado buscando una buena y práctica lista de recursos de Discord que cubriera temas desde conocimientos básicos hasta utilidades avanzadas; una lista que todos los usuarios de Discord, desde principiantes hasta expertos, encontrarán útil. Pero no se pudo encontrar tal lista.
+El fundador de este proyecto, @755792681313108018, había estado buscando una lista de recursos de Discord práctica y buena que cubriera temas desde conocimientos básicos hasta utilidades avanzadas; una lista que todos los usuarios de Discord, desde principiantes hasta expertos, encontrarán útil. Pero no encontraba nada así.
 
 Y así, ¡una idea surgió!
-Con la ayuda de algunos amigos que conocen Discord, se creó **Discord Resources Wiki**. El proyecto terminó tomando meses de trabajo de investigación, organización y diseño para convertirse en lo que es hoy, y esperamos que lo encuentre útil.
+Con la ayuda de algunos amigos que conoce en Discord, se creó **Discord Resources Wiki**. El proyecto ha llevado meses de trabajo de investigación, organización y diseño para convertirse en lo que es hoy, y esperamos que lo encuentre útil.
 
 ## ¿Qué estoy viendo aquí?
 
@@ -35,6 +35,6 @@ Todas nuestras marcas y activos son de nuestra propiedad y fueron creados por @1
 
 ## Nota Personal
 
-Aunque es opcional, realmente agradeceríamos recibir crédito si le fuéramos de ayuda. Hacemos todo lo posible para investigar enlaces, organizar recursos y curarlos en el sitio web, y lo que ve es la culminación de meses de nuestro esfuerzo.
+Aunque es opcional, realmente agradeceríamos recibir crédito si le fuéramos de ayuda. Hacemos todo lo posible para investigar enlaces, organizar recursos y exponerlos en el sitio web, y lo que ve es la culminación de meses de nuestro esfuerzo.
 
 **Ayuda a tus amigos, mutuals, miembros de la comunidad y demás compartiendo este proyecto con ellos también!**
