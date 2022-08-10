@@ -15,22 +15,27 @@ Ayrıca katkıda bulunmak için [Resmi Proje Birliğine](https://discord.gg/yxbq
 
 Bu proje birden fazla el aldı ve bu projede bize yardımcı olan bu katkıda bulunanlardan oluşan bir ekibe sahip olmaktan gurur duyuyoruz!<br/>
 size teşekkür etmek istiyoruz:<br/>
-@885165099847929887 - https://dis.wiki/ Yönlendirme Sahibi
-@480495309491798037 - http://discord.wiki/ Yönlendirme Sahibi
+
+@795977947558182954 - Wiki Bakımcısı <br/>
+@885165099847929887 - <https://dis.wiki/> Yönlendirme Sahibi <br/>
 @856780995629154305 - Web Sitesi Sorumlusu <br/>
 @347727875266576395 - Wiki Geliştiricisi <br/>
-@391660873409888277 - Wiki Düzeltici <br/>
-@363481883369013259 - GitHub Düzenleyici / Dokümantasyon Düzenleyici<br/>
-@337654195526303746 - Kaynaklar Araştırmacısı / Bakım<br/>
-@337104786593939456 - Dokümantasyon Düzenleyici<br/>
-@485676072176713729 - Kaynaklar Araştırmacısı / Bakım<br/>
-@762387276595724308 - Kaynaklar Araştırmacısı / Bakım<br/>
-@378537973215657984 - Topluluk & İçerik Yöneticisi / Dokümantasyon Düzenleyici<br/>
-@287711497118023692 - Kaynaklar Araştırmacısı / Dokümantasyon Düzenleyici<br/>
+@391660873409888277 - Wiki Düzelticisi <br/>
+@363481883369013259 - GitHub Yöneticisi / Dokümantasyon Düzenleyici<br/>
+@337654195526303746 - Kaynak Araştırmacısı / Bakımcı<br/>
+@337104786593939456 - Dökümantasyon Düzenleyici<br/>
+@135877336804360194 - Website Bakımcısı <br/>
+@485676072176713729 - Kaynak Araştırmacısı / Bakımcı<br/>
+@762387276595724308 - Kaynak Araştırmacısı / Bakımcı<br/>
+@378537973215657984 - Proje Yöneticisi / Dokümantasyon Düzenleyici<br/>
+@287711497118023692 - Kaynak Araştırmacısı / Dokümantasyon Düzenleyici<br/>
 @192060404501839872 - Tasarımcı<br/>
 @386861188891279362 - Website Geliştiricisi / Dokümantasyon Düzenleyici<br/>
-@102102717165506560 - Büyüme Danışmanlığı / Kaynak Küratörü<br/>
-@755792681313108018 - *Bu fikre sahiptim ve yukarıdakilerin hepsini yaptım*
+@102102717165506560 - Büyüme Danışmanlığı / Kaynak Araştırmacısı<br/>
+@727647625255321731 - Türkçe Çevirmen<br/>
+@755792681313108018 - *Bu fikre sahiptim ve yukarıdakilerin hepsini yaptım*  <br/>
+@480495309491798037 - <http://discord.wiki/> Yönlendirme Sahibi <br/>
+@421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Yapıcı
 
 ## Değişiklikler yerel olarak nasıl test edilir?
 

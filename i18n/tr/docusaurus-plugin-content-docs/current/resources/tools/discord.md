@@ -30,10 +30,18 @@ __Oluşturucu:__ @386861188891279362
 __Bağlantı:__ [Discord Lookup](https://discordlookup.com/)  <br/>
 __Oluşturucu:__ @231091710195662848
 
+## **Discord Recap**
+
+> __Tanım:__ Discord veri paketinizi keşfetmek için bir araç - orijinal olarak Androz2091'in Discord Veri Paketi Gezgini'nden esinlenilmiştir, ancak çok daha fazla ayrıntı içerir.  <br/>
+__Bağlantı:__ [Discord Recap](https://discord-recap.com)  <br/>
+__Oluşturucu:__ @github:davidbmaier
+
 ### **Discord Data Package Explorer**
 > __Tanım:__ Discord verilerinizi kolayca keşfedin.   <br/>
-__Bağlantı:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Oluşturucu:__ @github:Androz2091
+**Bağlantı(lar):** <br/>
+[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+[Discord Data Package Explorer V2](https://github.com/peterhanania/Discord-Package)  <br/> 
+**Oluşturucu:** @422820341791064085 @github:peterhanania
 
 ### **Discord Simple Avatar Maker**
 > __Tanım:__ Basit Discord avatarları yapmak için bir site.   <br/>
@@ -131,11 +139,6 @@ __Oluşturucu:__ @345103284463206400
 ### **PreMiD**
 > __Tanım:__ PreMiD, Web'de ne yaptığınızı Discord "şimdi oynatılıyor durumunuzda" göstermenizi sağlayan basit, yapılandırılabilir bir yardımcı programdır.    <br/>
 __Bağlantı:__ [PreMiD](https://premid.app/)
-
-### **Powercord**
-> __Tanım:__ Powercord, basitlik ve performansa odaklanan hafif bir istemci modudur.   <br/>
-__Bağlantı:__ [Powercord](https://powercord.dev/)  <br/>
-[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
 
 ### **Presence Maker**
 > __Tanım:__ Bu araçla Discord'da rpc bir varlık oluşturun.   <br/>

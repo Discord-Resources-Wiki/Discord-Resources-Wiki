@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Beitragen
 sidebar_position: 3
 slug: /contribution
 description: Eine Liste mit tonnenweise nützlichen Discord-Ressourcen und -Hilfsmitteln für alle Arten von Nutzern, von Anfängern bis hin zu Power-Usern.
@@ -35,7 +35,7 @@ Ein Dank geht an:<br/>
 @287711497118023692 - Resources Researcher / Organisator der Dokumentation<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website-Architekt / Organisator der Dokumentation<br/>
-@102102717165506560 - Wachstumsberatung / RRessourcenkurator<br/>
+@102102717165506560 - Wachstumsberatung / Ressourcenkurator<br/>
 @280094303429197844 - Übersetzung ins Deutsche<br/>
 @755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*<br/>
 @480495309491798037 - <http://discord.wiki/> Weiterleit-links Besitzer <br/>

@@ -152,7 +152,12 @@ __Oluşturucu:__ @80088516616269824
 __Bağlantı:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
 __Oluşturucu:__ @255834596766253057
 
-## **Fun Bots**
+### **Now Live**
+> __Tanım:__ Now Live, Discord sunucularınıza davet edebileceğiniz, canlı yayınları duyuran bir bottur. Şu anda Twitch, YouTube, Trovo'yu destekliyor! <br/>
+__Bağlantı:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
+[Now Live Website](https://nowlivebot.com/)  <br/>
+
+## **Eğlence Botları**
 
 ### **Truth Or Dare**
 > __Tanım:__ Doğruluk mu Cesaret mi, Hiç Sahip Olmadım ve Tercih Edermiydin oynamak için bir bot.  <br/>
@@ -267,3 +272,12 @@ __Bağlantı(lar):__  <br/>
 [Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
 __Oluşturucu:__ @537875750955778058 @305647182198079489
+
+
+### **Tourney Bot**
+
+> **Tanım:** Tourney Bot, Discord içindeki herhangi bir turnuvaya ev sahipliği yapmanın en iyi yoludur. Güçlü otomasyon özelliklerimizi kullanarak, sadece birkaç tıklamayla oyuncuları ve takımları oluşturabilir, özelleştirebilir ve kendi grubunuza davet edebilirsiniz.  <br/>
+**Bağlantı(lar):** <br/>
+[Invite Tourney Bot](https://tourneybot.gg/invite-tourney-bot)  <br/>
+[Tourney Bot Support](https://tourneybot.gg/support)  <br/>
+**Oluşturucu:** @942821573302304869
