@@ -1,7 +1,7 @@
 ---
 title: Moderación
 sidebar_position: 6
-description: Recursos de moderación
+description: Recursos de moderación.
 ---
 
 # Moderación
