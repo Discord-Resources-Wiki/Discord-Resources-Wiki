@@ -20,13 +20,6 @@ __Credit:__ L'équipe Discord Linux (appartenant à @86201442112671744)
 
 @gg/discord-linux
 
-## **Discord Bots**
-> __Description:__ Le serveur Discord pour la plus ancienne liste de bots sur Discord, affilié à l'API Discord.   <br/>
-__Lien:__ [Discord Bots](https://discord.gg/dbots)   <br/>
-__Credit:__ L'équipe du serveur Discord Bots (appartenant à @66237334693085184)
-
-@gg/dbots
-
 ## **Discord Networking**
 > __Description:__ Un lieu où tous ceux qui contribuent au fonctionnement d'un serveur Discord peuvent apprendre à se connaître, échanger des conseils et créer des partenariats durables.   <br/>
 __Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Demande d'accès requise.)   <br/>
