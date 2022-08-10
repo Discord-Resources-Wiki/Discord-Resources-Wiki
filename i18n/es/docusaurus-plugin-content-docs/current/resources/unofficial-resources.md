@@ -8,13 +8,13 @@ description: Recursos no oficiales sobre Discord.
 
 ## **Discord Lists**
 
-> **Descripción:** Una lista gigante de varias cosas de Discord, que van desde los dominios utilizados actualmente por Discord, hasta indicadores de usuarios no documentados, identificaciones de aplicaciones de actividades conocidas, listas de socios conocidos e invitaciones de servidores verificados.   <br/>
+> **Descripción:** Una lista gigante de varias cosas de Discord, desde los dominios utilizados actualmente por Discord, hasta indicadores de usuarios no documentados, identificaciones de aplicaciones de actividades conocidas, listas de socios conocidos e invitaciones de servidores verificados.   <br/>
 **Enlace:** [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
 **Creditos:** @142242854167642122
 
 ## **Discord For Designers**
 
-> **Descripción:**  Un sitio lleno de recursos útiles para diseñadores, como maquetas, íconos y kits de interfaz de usuario.  <br/>
+> **Descripción:**  Un sitio lleno de recursos útiles para diseñadores, como maquetas, iconos y kits de interfaz de usuario.  <br/>
 **Enlace:** [Discord For Designers](https://dfd.muatex.uk/)  <br/>
 **Creditos:** @530408906686726144
 
@@ -45,7 +45,7 @@ description: Recursos no oficiales sobre Discord.
 
 ## **Discohook**
 
-> **Descripción:** Te permite previsualizar embeds y enviarlos a través de webhooks.   <br/>
+> **Descripción:** Le permite previsualizar embeds y enviarlos a través de webhooks.   <br/>
 **Enlaces:** <br/>
 [Discohook](https://discohook.org/)   <br/>
 [Discohook Utilities](https://dutils.shay.cat/)  <br/>
@@ -70,7 +70,7 @@ description: Recursos no oficiales sobre Discord.
 
 ## **Creating & Growing Communities**
 
-> **Descripción:** Una guia creada por Jagrosh#4824 para ayudar a propietarios de nuevos servidores a crear y crecer sus comunidades.   <br/>
+> **Descripción:** Una guía creada por Jagrosh#4824 para ayudar a propietarios de nuevos servidores a crear y crecer sus comunidades.   <br/>
 **Enlace:** [Growing A Discord Server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
 **Creditos:** @113156185389092864
 
@@ -83,7 +83,7 @@ description: Recursos no oficiales sobre Discord.
 
 ## **Discord Build Logger**
 
-> **Descripción:** Lugar que registra todas las builds de Discord.   <br/>
+> **Descripción:** Registro de todas las builds de Discord.   <br/>
 **Enlace:** [Discord Build Logger](https://discord.sale/)  
 **Creditos:** @545581357812678656
 
@@ -106,7 +106,7 @@ description: Recursos no oficiales sobre Discord.
 
 ## **Discord Library**
 
-> **Descripción:** Una coleccion de assets, iconos, caracteres, colores y mas de Discord.   <br/>
+> **Descripción:** Una colección de assets, iconos, carácteres, colores y más de Discord.   <br/>
 **Enlace:** [Discord Library](https://www.figma.com/community/file/1114896965920105129)   <br/>
 **Creditos:** @354309005037797376
 
@@ -118,13 +118,13 @@ description: Recursos no oficiales sobre Discord.
 
 ## **Discord Basic Templates** (fan-made)
 
-> **Descripción:** Una lista de plantillas basicas hechas por fans para cubrir la mayoria de tipos de comunidades.  <br/>
+> **Descripción:** Una lista de plantillas básicas hechas por fans para cubrir la mayoría de tipos de comunidades.  <br/>
 **Enlace:** [Discord Basic Templates](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
 **Creditos:** @242385234992037888
 
 ## **Discord UI Mockup**
 
-> **Descripción:** Copia exacta del cliente de Discord (podria estar obsoleto).   <br/>
+> **Descripción:** Copia exacta del cliente de Discord (podría estar obsoleto).   <br/>
 **Enlace:** [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
 **Creditos:** @354309005037797376
 
