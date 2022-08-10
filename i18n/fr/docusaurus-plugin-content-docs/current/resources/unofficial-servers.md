@@ -35,6 +35,11 @@ __Credit:__ L'équipe de Displace (appartenant à @249287049482338305)
 
 @gg/displace
 
+## **Community Architects**
+> __Description:__  Nous nous engageons à réunir des modérateurs de communauté, des administrateurs, des concepteurs et bien d'autres pour partager et collaborer à la création de communautés.   <br/>
+__Lien:__ [Community Architects](https://discord.gg/CommunityArchitects)   <br/>
+__Credit:__ L'équipe Community Architects (appartenant à @354309005037797376)
+
 ## **The Coding Den**
 > __Description:__  The Coding Den est une communauté amicale de codeurs qui se concentre sur l'aide aux programmeurs débutants et expérimentés.   <br/>
 __Lien:__ [The Coding Den](https://discord.gg/code)   <br/>
