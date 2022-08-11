@@ -51,6 +51,12 @@ description: Unofficial resources for discord.
 [Discohook Utilities](https://dutils.shay.cat/)  <br/>
 **Credit:** @143419667677970434 @115238234778370049
 
+## **Embed Generator**
+
+> **Description:** Embed builder with support for multiple embeds, buttons, select menus, and sending to webhooks.   <br/>
+**Link:** [Embed Generator](https://message.style/)   <br/>
+**Credit:** @386861188891279362
+
 ## **Nadeko Embed Builder**
 
 > **Description:** Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
