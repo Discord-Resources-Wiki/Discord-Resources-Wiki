@@ -18,7 +18,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages publish build --project-name=discord-resources-wiki --branch=pr-${{ github.run_id }} --commit-dirty=true &> output.txt && echo "::set-output name=stdout::$(cat output.txt)"
+          command: pages publish build --project-name=discord-resources-wiki --branch=pr-${{ github.run_id }} --commit-dirty=true &> output.txt && [[ $(cat output.txt) =~ https://[0-9a-z]+\.[a-z0-9A-Z-]+\.pages\.dev ]] && echo "::set-output name=stdout::$BASH_REMATCH"
 
       - name: Comment PR
         if: always()
