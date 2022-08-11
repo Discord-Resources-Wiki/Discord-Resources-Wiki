@@ -87,3 +87,4 @@ https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 https://emoji.supply/kitchen/ | emoji merger <br/>
 https://touch.grass.lol/ | do it  <br/>
 https://cuberule.com/ | is it a sandwich?
+https://http.capy.pics/ | Capybara HTTP status codes<br/>
