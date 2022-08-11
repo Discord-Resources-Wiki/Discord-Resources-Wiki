@@ -9,7 +9,7 @@ description: Serveurs non officiels liés à discord.
 ## **Discord API**
 > __Description:__ Un serveur dédié à l'information et l'assistance avec l'API Discord.   <br/>
 __Lien:__ [Discord API](https://discord.gg/discord-api)   <br/>
-__Credit:__ L'équipe Discord API (owned by @80088516616269824)
+__Credit:__ L'équipe Discord API (appartenant à @80088516616269824)
 
 @gg/discord-api
 
@@ -38,7 +38,7 @@ __Credit:__ L'équipe de Displace (appartenant à @249287049482338305)
 ## **The Coding Den**
 > __Description:__  The Coding Den est une communauté amicale de codeurs qui se concentre sur l'aide aux programmeurs débutants et expérimentés.   <br/>
 __Lien:__ [The Coding Den](https://discord.gg/code)   <br/>
-__Credit:__ L'équipe The Coding Den(appartenant à @229334929614438400)
+__Credit:__ L'équipe The Coding Den (appartenant à @229334929614438400)
 
 @gg/code
 
