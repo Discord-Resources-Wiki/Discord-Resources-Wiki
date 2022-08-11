@@ -18,7 +18,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages publish build --project-name=discord-resources-wiki --branch=pr-${{ github.run_id }} --commit-dirty=true
+          command: pages publish build --project-name=discord-resources-wiki --branch=pr-${{ github.run_id }} --commit-dirty=true &> output.txt && echo "::set-output name=stdout::${cat output.txt}"
 
       - name: Comment PR
         if: always()
@@ -28,6 +28,5 @@ jobs:
             Test Deployment:
             ```sh
             ${{steps.publish.outputs.stdout}}
-            ${{steps.publish.outputs.stderr}}
             ```
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
