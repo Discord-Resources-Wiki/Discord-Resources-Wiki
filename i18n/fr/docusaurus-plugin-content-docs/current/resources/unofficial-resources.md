@@ -1,7 +1,7 @@
 ---
 title: Ressources non officielles
 sidebar_position: 9
-description: Ressources non officielles pour le discord.
+description: Ressources non officielles discord.
 ---
 
 # Ressources non officielles
@@ -16,8 +16,8 @@ __Credit:__ @142242854167642122
 __Lien:__ [Caractéristiques de la guilde Discord](https://gist.github.com/Techy/ecc60b12e94f8fc8185f09b82aa91dd2)  <br/>
 __Credit:__ @503677457107517442
 
-## **Liste des URLs de dis.gd**
-> __Description:__ Une liste de tous les liens Discord raccourcis.  <br/>
+## **Liste des URLs dis.gd**
+> __Description:__ Une liste de tous les liens Discord en raccourcis.  <br/>
 __Lien:__  <br/>
 [Liste des URLs de dis.gd](https://herogamers.dev/dis.gd/)   <br/>
 [Liste des URLs de dis.gd 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
