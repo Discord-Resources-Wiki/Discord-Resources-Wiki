@@ -22,6 +22,11 @@ const config = {
 	organizationName: 'Discord-Resources-Wiki',
 	projectName: 'Discord-Resources-Wiki',
 
+	i18n: {
+		defaultLocale: "en",
+		locales: ["en", "fr", "de", "es", "tr"]
+	  },
+
 	presets: [
 		[
 			'@docusaurus/preset-classic',
@@ -74,7 +79,7 @@ const config = {
 				},
 			],
 			colorMode: {
-				defaultMode: 'dark',
+				defaultMode: 'dark'
 			},
 			navbar: {
 				title: 'Discord Resources',
@@ -104,6 +109,10 @@ const config = {
 						className: 'navbar-item-discord',
 						position: 'right',
 					},
+					{
+						type: 'localeDropdown',
+						position: 'right',
+					}
 				],
 			},
 			prism: {

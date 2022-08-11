@@ -40,6 +40,7 @@ description: Fun links
 <https://http.cat/> | HTTP cats   <br/>
 <https://http.dog/> |  HTTP dogs <br/>
 <https://thispersondoesnotexist.com/> | this person does not exist   <br/>
+https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 <https://thisfursonadoesnotexist.com/> | this fursona does not exist  <br/>
 <https://wungus.guru/robots.txt> | wungus the guru   <br/>
 <https://fish-is.me/> | Im a fish....?  <br/>
@@ -84,4 +85,5 @@ description: Fun links
 <https://txnor.com/mathchallenge> | math challenge <br />
 <https://shouldiblamecaching.com/> | should I blame caching?  <br/>
 https://emoji.supply/kitchen/ | emoji merger <br/>
-https://touch.grass.lol/ | do it
+https://touch.grass.lol/ | do it  <br/>
+https://cuberule.com/ | is it a sandwich?
