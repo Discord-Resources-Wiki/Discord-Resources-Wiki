@@ -2,12 +2,26 @@ require('dotenv').config();
 const {REST} = require('@discordjs/rest');
 const {Routes} = require('discord-api-types/v9');
 const {Octokit} = require('@octokit/rest');
+const fs = require('fs');
 
 const discordToken = process.env.DISCORD_TOKEN;
 const discordRest = new REST({version: '9'}).setToken(discordToken);
 const octokit = new Octokit();
 
-const users = {};
+const users = loadUsers();
+
+function loadUsers() {
+	try {
+		const rawData = fs.readFileSync('./users.generated.json');
+		return JSON.parse(rawData);
+	} catch (e) {
+		return {};
+	}
+}
+
+function persistUsers() {
+	fs.writeFileSync('./users.generated.json', JSON.stringify(users));
+}
 
 const discordSnowflakeRegex = /^[0-9]+$/;
 const userIdentifierRegex = '((discord:)?[0-9]+|github:[0-9a-zA-Z-_]+)';
@@ -85,6 +99,7 @@ async function fetchUserByIdentifier(identifier) {
 	}
 
 	users[identifier] = user;
+	persistUsers();
 	return user;
 }
 
