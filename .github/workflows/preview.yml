@@ -7,32 +7,27 @@ jobs:
     name: Deploy Preview
     steps:
       - uses: actions/checkout@v3
-      - name: Build
-        id: build
-        uses: actions/setup-node@v2
+      - uses: actions/setup-node@v2
         with:
           node-version: "18"
-      - run: npm install && npm run build
+      - name: Build
+        run: npm install && npm run build
       - name: Publish
         id: publish
         uses: cloudflare/wrangler-action@2.0.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages publish build --project-name=discord-resources-wiki --branch=pr-${{ github.run_id }}
+          command: pages publish build --project-name=discord-resources-wiki --branch=pr-${{ github.run_id }} --commit-dirty=true
 
       - name: Comment PR
         if: always()
         uses: thollander/actions-comment-pull-request@v1
         with:
           message: |
-            Test Build:
-            ```sh
-            ${{join(steps.build.outputs.*, '\n')}}
-            ```
-
             Test Deployment:
             ```sh
-            ${{join(steps.run_tests.outputs.*, '\n')}}
+            ${{steps.publish.outputs.stdout}}
+            ${{steps.publish.outputs.stderr}}
             ```
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
