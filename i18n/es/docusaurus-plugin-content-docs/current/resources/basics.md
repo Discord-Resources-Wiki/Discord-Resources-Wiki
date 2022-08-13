@@ -12,7 +12,7 @@ description: Recursos básicos.
 Incluye información que va desde los derechos de propiedad intelectual hasta la terminación de la cuenta.   <br/>
 **Enlace:** [Términos de servicio](https://dis.gd/terms)
 
-## **Politica de privacidad**
+## **Política de privacidad**
 
 > **Descripción:** Política de privacidad de Discord con respecto a la información de los usuarios.  <br/>
 **Enlace:** [Política de privacidad de Discord](https://discord.com/privacy)
@@ -20,7 +20,7 @@ Incluye información que va desde los derechos de propiedad intelectual hasta la
 ## **Directrices de la comunidad de Discord**
 
 > **Descripción:** Las directrices de la comunidad de Discord aclaran las restricciones y limitaciones dentro de la plataforma. <br/>
-Garantiza que todos los usuarios tengan una experiencia positiva y que los usuarios actúen con disciplina y buen comportamiento.   <br/>
+Garantiza que todos los usuarios tengan una experiencia positiva y actúen con disciplina y buen comportamiento.   <br/>
 **Enlace:** [Directrices de la comunidad](https://dis.gd/guidelines)
 
 ## **Blog de Discord**
