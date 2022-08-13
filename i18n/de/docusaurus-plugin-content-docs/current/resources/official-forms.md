@@ -1,10 +1,10 @@
 ---
-title: Offizielle Formular
+title: Offizielle Formulare
 sidebar_position: 3
 description: Offizielle Formular von Discord.
 ---
 
-# Offizielle Formular
+# Offizielle Formulare
 
 ## **Report Formular**
 
