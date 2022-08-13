@@ -37,4 +37,4 @@ All branding och alla tillgångar ägs av oss och är skapade av @19206040450183
 
 Fastän det är frivilligtm vi skulle uppskatta att bli hedrade om vi var till hjälp. Vi gör vårat bästa att se över länkar, organisera resurser och kurera dem till webbplatsen, och vad du ser är en kulmen av månader med arbete.
 
-**Hjälp dina vänner, ömsesidiga, gruppmedlemmar och andra genom att dela det här projektet med dem också!
+**Hjälp dina vänner, ömsesidiga, gruppmedlemmar och andra genom att dela det här projektet med dem också!**
