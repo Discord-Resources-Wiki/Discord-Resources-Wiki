@@ -29,7 +29,7 @@ description: Enlaces oficiales de Discord.
 
 > **Descripción:** La herramienta oficial para generar texto para el comando !submit de DBug. El formulario lo guía paso a paso a través de cada entrada para generar automáticamente un comando para usted al final. <br/>
 **Enlace:** [Herramienta de errores de probadores](https://dis.gd/bug-tool) <br/>
-**Crédito:** @53905483156684800
+**Créditos:** @53905483156684800
 
 ## **Clientes de prueba de Discord**
 
