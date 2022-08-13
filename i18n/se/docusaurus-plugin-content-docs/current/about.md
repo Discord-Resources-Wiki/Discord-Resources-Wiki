@@ -1,40 +1,40 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: Om
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: En lista med massor av användbara resurser och verktyg för alla typer av användare, från nybörjare till avancerade användare.
 ---
 
-# About
+# Om
 
-## Welcome to Discord Resources Wiki
+## Välkommen till Discord Resources Wiki
 
-## So what is this thing?
+## Vad är det här för något?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+Grundaren av detta projekt, @755792681313108018, hade letat efter en bra och praktisk lista över Discord-resurser som täcker allt från grundläggande kunskaper till avancerade verktyg; en lista som alla Discord-användare, från nybörjare till erfarna, kommer att ha nytta av. Men ingen sådan lista kunde hittas.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+Och så slog en idé till!
+Med hjälp av några vänner som känner sig hemma i Discord, tillsammans skapades **Discord Resources Wiki**. Projektet tog månader av forskning, organisation och designarbete för att bli vad det är idag, och vi hoppas att du kommer att finna det användbart.
 
-## What am I seeing here?
+## Vad ser jag här?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+Vi grupperar liknande resurser under gemensamma kategorier och ämnen, som är tillgängliga till vänster på skrivbordet eller med menyikonen på mobilen. Varje resurs har en kort beskrivning av vad det är, följt av en länk till den plats där den kan nås och en källhänvisning till upphovsmännen.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Den här webbplatsen kommer att uppdateras kontinuerligt och ofta när vi hittar fler resurser som kan vara till hjälp för Discord-användare på hela plattformen!
 
-## Disclaimer
+## Ansvarsfriskrivning
 
-**We are not affiliated with Discord in any way.**
+**Vi är inte anslutna till Discord på något sätt.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+Den här webbplatsen är en sammanställning av de flesta resurser som vi har hittat och är inte på något sätt en helt uttömmande lista. Vi gör inga anspråk på rättigheter eller äganderätt till någon av de resurser som listas här, om inte annat uttryckligen anges. Alla krediter till upphovsmännen anges i avsnittet "krediter" i varje länk.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+Vi gör vårt bästa för kredit ange användarnas namn när det är möjligt, men vi är medvetna om att vissa resurser kan ha felaktiga eller ofullständiga kredits. Om du hittar någon sådan resurs är du välkommen att kontakta oss så att vi kan rätta till problemet.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+Alla våra varumärken och tillgångar ägs av oss och är skapade av @192060404501839872. Du får inte använda vårt varumärke för ditt eget personliga bruk eller projekt utan vårt uttryckliga tillstånd.
 
-## Personal Note
+## Personlig anteckning
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+Även om det är frivilligt, skulle vi verkligen uppskatta att bli krediterade om vi har varit till hjälp för dig. Vi gör vårt bästa för att söka efter länkar, organisera resurser och lägga upp dem på webbplatsen, och det du ser är resultatet av flera månaders arbete.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**Hjälp dina vänner, kollegor, medlemmar i samhället med flera genom att dela det här projektet med dem också!**
