@@ -1,10 +1,10 @@
 ---
-title: Recursos No Oficiales
+title: Recursos no oficiales
 sidebar_position: 9
 description: Recursos no oficiales sobre Discord.
 ---
 
-# Recursos No Oficiales
+# Recursos no oficiales
 
 ## **Discord Lists**
 

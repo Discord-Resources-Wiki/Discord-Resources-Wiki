@@ -1,10 +1,10 @@
 ---
-title: Servidores No Oficiales
+title: Servidores no oficiales
 sidebar_position: 8
 description: Servidores no oficiales relacionados a Discord.
 ---
 
-# Servidores No Oficiales
+# Servidores no oficiales
 
 ## **Discord API**
 
