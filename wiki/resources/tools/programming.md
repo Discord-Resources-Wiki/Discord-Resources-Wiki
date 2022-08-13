@@ -61,10 +61,10 @@ description: Programming related tools
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
-## **Github Education Pack**
+## **GitHub Education Pack**
 
-> **Description:** Free Developer Tools provided by Github Education Pack   <br/>
-**Link:** [Github Education Pack](https://education.github.com/)
+> **Description:** Free Developer Tools provided by GitHub Education Pack   <br/>
+**Link:** [GitHub Education Pack](https://education.github.com/)
 
 ## **Public APIs**
 

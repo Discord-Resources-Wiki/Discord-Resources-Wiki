@@ -77,7 +77,7 @@ https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 <https://yonilerner.wtf/> | wtf  <br/>
 <http://needsmorejpeg.com/> |  need more jpeg  <br/>
 <https://api.onlyraccoons.com/> | http racoons  <br/>
-<https://guthib.com> | POV: You just woke up and wanted to open Github  <br/>
+<https://guthib.com> | POV: You just woke up and wanted to open GitHub  <br/>
 <https://no-bitch.es/> | no bitches  <br/>
 <https://why-stup.id> | Why are you stupid <br/>
 <https://does.discord.work/> | who broke Discord  <br/>
