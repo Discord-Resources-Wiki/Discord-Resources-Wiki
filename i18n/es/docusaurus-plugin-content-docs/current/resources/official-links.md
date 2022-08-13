@@ -1,7 +1,7 @@
 ---
-title: Enlaces Oficiales de Discord
+title: Enlaces oficiales de Discord
 sidebar_position: 4
-description: Enlaces Oficiales de Discord.
+description: Enlaces oficiales de Discord.
 ---
 # Enlaces oficiales de Discord
 

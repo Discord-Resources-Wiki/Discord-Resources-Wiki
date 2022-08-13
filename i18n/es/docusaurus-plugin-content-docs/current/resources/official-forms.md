@@ -1,10 +1,10 @@
 ---
-title: Formularios Oficiales
+title: Formularios oficiales
 sidebar_position: 3
 description: Formularios oficiales de discord.
 ---
 
-# Formularios Oficiales
+# Formularios oficiales
 
 ## **Formulario de informe**
 

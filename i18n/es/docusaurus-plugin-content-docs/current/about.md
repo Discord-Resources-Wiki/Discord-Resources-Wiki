@@ -1,12 +1,12 @@
 ---
 title: Wiki
-sidebar_label: Acerca De
+sidebar_label: Acerca de
 sidebar_position: 1
 slug: /
 description: Una lista de toneladas de útiles recursos y utilidades de Discord para todo tipo de usuarios, desde principiantes hasta usuarios avanzados.
 ---
 
-# Acerca De
+# Acerca de
 
 ## Bienvenido a Discord Resources Wiki
 
