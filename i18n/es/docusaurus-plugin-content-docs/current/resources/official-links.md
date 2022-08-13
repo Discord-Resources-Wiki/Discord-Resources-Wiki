@@ -51,7 +51,7 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** Una página wiki de Reddit que enumera todas las bibliotecas API de Discord. <br/>
 **Enlace:** [Lista de servidores de bibliotecas de Discord](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## **Discord de Código abierto**
+## **Discord de código abierto**
 
 > **Descripción:** Esta es la lista de origen de las comunidades OSS que usan y viven en Discord. <br/>
 **Enlaces:**
