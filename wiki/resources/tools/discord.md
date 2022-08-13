@@ -269,7 +269,7 @@ description: Discord related tools
 
 ## **Discord Colored Text Generator**
 
-> **Description:** Generate colored ansi text for discord. <br/>
+> **Description:** Generate colored ansi text for Discord. <br/>
 **Link:** [Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)  <br/>
 **Credit:** @github:rebane2001
 
