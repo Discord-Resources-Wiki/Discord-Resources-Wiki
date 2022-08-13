@@ -1,14 +1,14 @@
 ---
 title: Otros
 sidebar_position: 3
-description: Otras herramientas utiles
+description: Otras herramientas útiles.
 ---
 
 # Otros
 
 
 ### **Caracteres en blanco**
-> __Descripción:__ Una lista de caracteres Unicode en blanco. <br/>
+> __Descripción:__ Una lista de caracteres unicode en blanco. <br/>
 __Enlace:__ [Caracteres en blanco](https://character.construction/blanks)
 
 ### **Bitwarden**
@@ -82,7 +82,7 @@ __Creditos:__ @github: sindresorhus
 __Enlace:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
 ### **Invited** 
-> __Descripción:__ Ver películas, Youtube o incluso escuchar música juntos a través de un navegador virtual compartido.   <br/>
+> __Descripción:__ Ver películas, YouTube o incluso escuchar música juntos a través de un navegador virtual compartido.   <br/>
 __Enlace:__ [Invited](https://invited.tv/)
 
 ### **Obsidian**
@@ -98,7 +98,7 @@ __Enlace:__ [Trello](https://trello.com/)
 __Enlace:__ [Notion](https://www.notion.so/)
 
 ### **Tina**
-> __Descripción:__ Herramienta de gestión de contenidos de código abierto..  <br/>
+> __Descripción:__ Herramienta de gestión de contenidos de código abierto.  <br/>
 __Enlace:__ [Tina](https://tina.io/)
 
 ### **Nord Theme**
