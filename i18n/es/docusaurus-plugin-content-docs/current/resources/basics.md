@@ -1,10 +1,10 @@
 ---
-title: Basico
+title: Básico
 sidebar_position: 1
 description: Recursos básicos.
 ---
 
-# Lo basico
+# Lo básico
 
 ## **Condiciones de servicio de Discord**
 
