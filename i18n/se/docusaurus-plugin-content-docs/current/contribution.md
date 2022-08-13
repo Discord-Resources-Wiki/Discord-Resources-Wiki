@@ -1,54 +1,54 @@
 ---
-title: Contribution
+title: Bidrag
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: En lista med massor av användbara resurser och verktyg för alla typer av användare, från nybörjare till avancerade användare.
 ---
 
-# Contribution
+# Bidrag
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Har du hittat ett fel eller en stavfel? Har du en bra resurs som passar in i denna lista? Bli en bidragsgivare och kom med på den härliga listan över bidragsgivare ovan!<br/>
+Om du vill bidra, är du mer än välkommen att PR-skriva den här wikin eller skicka ett DM till @755792681313108018 för att redigera wikin, och dig själv i listan.
+Du kan också gå med i [Official Project Guild](https://discord.gg/yxbqz9pNxS) att bidra till detta.
 
-## Contributors
+## Bidragsgivare
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
+Det här projektet krävde mer än ett par händer, och vi är stolta över att ha det här teamet av bidragsgivare som hjälpte oss med det här projektet!<br/>
+Vi vill tacka:<br/>
+@856780995629154305 - Webbplatsansvarig <br/>
+@347727875266576395 - Wiki-arkitekt <br/>
 @391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+@363481883369013259 - GitHub-ansvarig / dokumentationsorganisatör <br/>
+@337654195526303746 - Resursforskare / underhållare <br/>
+@337104786593939456 - Dokumentationsorganisatör <br/>
+@485676072176713729 - Resursforskare / underhållare <br/>
+@762387276595724308 - Resursforskare / underhållare <br/>
+@378537973215657984 - Gemenskap och innehåll Chef / Dokumentationsorganisatör <br/>
+@287711497118023692 - Resursforskare / dokumentationsorganisatör <br/>
+@192060404501839872 - Designer <br/>
+@386861188891279362 - Webbplatsarkitekt / dokumentationsorganisatör <br/>
+@102102717165506560 - Tillväxtrådgivning / resursförvaltare <br/>
+@755792681313108018 - *Jag fick den här idén och gjorde allt ovan.*
 
-## How to test changes locally
+## Hur man testar ändringar lokalt
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
+Du har en  PR på gång men inte vet hur det ser ut? Det är inget problem! <br/>
+Om du har en gaffel av repositoriet är det lika enkelt som att köra dessa två kommandon:
 
 ```
 npm install
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Detta laddar ner alla repositories som behövs för vårt dokumentationssystem (Docusaurus). Du behöver bara köra detta en gång.
 
 ```
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Detta kommando startar webbservern (``localhost:3000`` som standard) och måste köras varje gång du vill börja redigera.
+Den behöver dock inte köras för varje ändring du gör, eftersom Docusaurus automatiskt startar om servern om den upptäcker förändringar!
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+När du har en fungerande instans av webbplatsen lokalt är du redo att börja bidra!
+Anteckningar: Använd följande ``<br/>`` för tecken för radbrytning <br/>
+Kräver Node.js-version >= ``12.13.0``
+Om du använder Yarn: Yarn-version >= ``1.5``
