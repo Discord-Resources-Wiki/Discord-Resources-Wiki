@@ -42,7 +42,7 @@ description: Bot informations and lists
 **Link:** [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
 **Credit:** @460612586061430806
 
-### **Library Rest & WS Coverage Comparisons**
+## **Library Rest & WS Coverage Comparisons**
 
 > **Description:** A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
 (also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
@@ -77,7 +77,7 @@ description: Bot informations and lists
 **Link:** [DStat](https://github.com/benricheson101/dstat) <br/>
 **Credit:** @255834596766253057
 
-### **An Idiot's Guide**
+## **An Idiot's Guide**
 
 > **Description:**  The unofficial Discord.js beginner's guide, written by idiots for beginners.<br/>
 **Link:** [An Idiot's Guide](https://anidiots.guide/) <br/>
