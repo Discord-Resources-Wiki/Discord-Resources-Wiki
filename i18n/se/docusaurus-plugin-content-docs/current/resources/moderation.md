@@ -1,36 +1,36 @@
 ---
-title: Moderation
+title: Moderering
 sidebar_position: 6
-description: Moderation resources
+description: Modereringsresurser
 ---
 
 # Moderation
 
-### **Modcast Podcast** (recently affiliated)
-> __Description:__ A podcast by moderators for moderators.   <br/>
-__Link:__ [Modcast Podcast](https://modcast.network/)   <br/>
-__Credit:__ [ModPod team](https://modcast.network/meet-the-team/) 
+### **Modcast Podcast** (nyligen ansluten)
+> __Beskrivning:__ En podcast av moderatorer för moderatorer   <br/>
+__Länk:__ [Modcast Podcast](https://modcast.network/)   <br/>
+__Medverkande:__ [ModPod team](https://modcast.network/meet-the-team/) 
 
-### **Discord Moderator Academy**
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-__Credit:__ Multiple Authors (Discord Moderator Ecosystem)
+### **Discord Moderator Akademi**
+> __Beskrivning:__ Discords officiella resurser för moderatorer, skriven av moderatorer.   <br/>
+__Länk:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
+__Medverkande:__ Flera författare (Discords Moderator Ekosystem)
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+### **Discords Moderator Ekosystem** 
+> __Beskrivning:__ Officiellt ekosystem för moderatorer att discutera moderering.   <br/>
+__Länk:__ [Discords Moderator Ekosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-### **Naviking’s Moderation Templates & Tools Documentation**
-> __Description:__ A drive file full of moderation resources.   <br/>
-__Link:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-__Credit:__ @200987752794292224
+### **Naviking’s Moderationsmall & verktygsdokumentation**
+> __Beskrivning:__ En drivefil full med modereringsresurser.   <br/>
+__Länk:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+__Medverkande:__ @200987752794292224
 
-### **Moderation Guidelines**
-> __Description:__ A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
-__Link:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-__Credit:__ @366652352125599744
+### **Modereringsriktlinjer**
+> __Beskrivning:__ En mall för att hjälpa ny personal med att förstå serverns modereringsmetoder.   <br/>
+__Länk:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
+__Medverkande:__ @366652352125599744
 
-### **A Guide To Civil Conversation**
-> __Description:__ Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
-__Link:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-__Credit:__ @102102717165506560
+### **En guide om civila samtal**
+> __Beskrivning:__ Omfattande, men fina communityregler, riktade mot att minska moderatorernas arbete.   <br/>
+__Länk:__ [A Guide Om Civila Samtal](https://conversation.guide/)   <br/>
+__Medverkande:__ @102102717165506560
