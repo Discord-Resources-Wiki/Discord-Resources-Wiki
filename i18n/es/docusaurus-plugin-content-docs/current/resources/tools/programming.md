@@ -28,10 +28,10 @@ description: Herramientas de programación.
 **Enlace:** [Some Random API](https://some-random-api.ml/)  <br/>
 **Creditosos:** @423675224395874314
 
-## **Choose A License**
+## **Elige una licencia**
 
 > **Descripción:** Elija una licencia para su proyecto de código abierto.   <br/>
-**Enlace:** [Choose A License](https://choosealicense.com/)
+**Enlace:** [Elige una licencia](https://choosealicense.com/)
 
 ## **Docker**
 
@@ -61,10 +61,10 @@ description: Herramientas de programación.
 [Guias](https://guides.github.com/)   <br/>
 [Ayuda comunitaria](https://github.community/)
 
-## **Github Education Pack**
+## **Pack de educación de GitHub**
 
-> **Descripción:** Herramientas gratuitas para desarrolladores proporcionadas por Github Education Pack.   <br/>
-**Enlace:** [Github Education Pack](https://education.github.com/)
+> **Descripción:** Herramientas gratuitas para desarrolladores proporcionadas por GitHub para estudiantes.   <br/>
+**Enlace:** [Pack de educación de GitHub](https://education.github.com/)
 
 ## **Public APIs**
 
@@ -87,7 +87,7 @@ description: Herramientas de programación.
 **Enlace:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 **Creditos:** github: @pimterry
 
-## **Markdown Guide**
+## **Guía de Markdown**
 
 > **Descripción:** La Guía de Markdown es una guía de referencia gratuita y de código abierto que explica cómo utilizar Markdown, el lenguaje de marcado simple y fácil de usar que puede utilizar para dar formato a prácticamente cualquier documento.   <br/>
 **Enlace:** [Markdown Guide](https://www.markdownguide.org/)
@@ -107,36 +107,36 @@ description: Herramientas de programación.
 > **Descripción:** Construye, prueba y depura regex.   <br/>
 **Enlace:** [Regex101](https://regex101.com/)
 
-## **RegExp Generator**
+## **Generador de RegExp**
 
 > **Descripción:** Generador de RegExp de rango Unicode.   <br/>
-**Enlace:** [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
+**Enlace:** [Generador de RegExp](https://apps.timwhitlock.info/js/regex#)
 
 ## **Regex Crossword**
 
 > **Descripción:** Aprenda regex a través de rompecabezas y desafíos.   <br/>
 **Enlace:** [Regex Crossword](https://regexcrossword.com/)
 
-## **Guide(s) to contributing on Open Source Software**
+## **Guía(s) para contribuir a proyectos de código abierto**
 
 > **Descripción:** Una lista de diversos recursos para ayudar a los contribuyentes de OSS. <br/>
-**Enlace:** [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+**Enlace:** [Cómo contribuir a proyectos de código abierto](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 **Creditos:** @github: freeCodeCamp
 
-## **Big List of Naughty Strings**
+## **Gran lista de secuencias nocivas**
 
-> **Descripción:** Una lista de texto que probablemente sean nocivos. <br/>
-**Enlace:** [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+> **Descripción:** Una lista de secuencias que probablemente sean nocivas. <br/>
+**Enlace:** [Gran lista de secuencias nocivas](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Creditos:** @github:minimaxir
 
-## **Free for developers**
+## **Gratuito para desarrolladores**
 
 > **Descripción:** Lista de ofertas gratuitas para desarrolladores. <br/>
-**Enlace:** [Free for developers](https://free-for.dev/#/) <br/>
+**Enlace:** [Gratuito para desarrolladores](https://free-for.dev/#/) <br/>
 **Creditos:** @github: ripienaar
 
-## **Paginated discordjs messages**
+## **Mensajes paginados de discord.js**
 
 > **Descripción:** Un paquete que ayuda a facilitar los mensajes paginados en discord.js. <br/>
-**Enlace:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
+**Enlace:** [Mensajes paginados de discord.js](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Creditos:** @github: sapphiredev

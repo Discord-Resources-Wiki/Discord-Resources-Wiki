@@ -62,23 +62,23 @@ description: Recursos no oficiales sobre Discord.
 **Enlace:** [List Of Stickers](https://stickers.advaith.io/)   <br/>
 **Creditos:** @190916650143318016
 
-## **All Discord Loading Messages**
+## **Todos los mensajes de carga de Discord**
 
 > **Descripción:** Un gist de Github con todos los mensajes de carga.  <br/>
-**Enlace:** [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
+**Enlace:** [Todos los mensajes de carga de Discord](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
 **Creditos:** @190916650143318016
 
-## **Creating & Growing Communities**
+## **Creando y creciendo comunidades**
 
 > **Descripción:** Una guía creada por Jagrosh#4824 para ayudar a propietarios de nuevos servidores a crear y crecer sus comunidades.   <br/>
-**Enlace:** [Growing A Discord Server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
+**Enlace:** [Creciendo un servidor de Discord](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
 **Creditos:** @113156185389092864
 
-## **Discord Protocol Links**
+## **Enlaces de protocolo de Discord**
 
 > **Descripción:** Lista de todos los enlaces de protocolos de Discord.   <br/>
 *Nota: ¡Los enlaces del protocolo Discord se pueden usar en los botones! Consulta [esta discusión](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) para obtener más información. Los enlaces de protocolo no funcionan en Android, no estoy seguro acerca de iOS. (solo <tel://number> funciona en iOS)*   <br/>
-**Enlace:** [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
+**Enlace:** [Enlaces de protocolo de Discord](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Creditos:** @github:ghostrider-05
 
 ## **Discord Build Logger**
@@ -87,19 +87,19 @@ description: Recursos no oficiales sobre Discord.
 **Enlace:** [Discord Build Logger](https://discord.sale/)  
 **Creditos:** @545581357812678656
 
-## **Discord Markdown Guide**
+## **Guía de Markdown de Discord**
 
 > **Descripción:** Una guía detallada para el uso de markdown en Discord.  <br/>
-**Enlace:** [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
+**Enlace:** [Guía de Markdown de Discord](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
 **Creditos:** @github:matthewzring
 
-## **All Discord Voice Activities**
+## **Todas las actividades de voz de Discord**
 
 > **Descripción:** Una lista que contiene todas las actividades de voz de Discord y sus ID.   <br/>
-**Enlace:** [All Discord Voice Activities](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
+**Enlace:** [Todas las actividades de voz de Discord](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
 **Creditos:** @712626099141476383
 
-## **Discord Top Servers Stats**
+## **Estadísticas de los mejores servidores**
 
 > **Descripción:** Una hoja de cálculo de Docs con estadísticas de miembros por hora de los servidores más grandes en Discord.   <br/>
 **Enlace:** [Discord Top Servers Stats](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
@@ -116,16 +116,16 @@ description: Recursos no oficiales sobre Discord.
 **Enlace:** [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
 **Creditos:** @223518178100248576
 
-## **Discord Basic Templates** (fan-made)
+## **Plantillas Básicas de Discord** (fan-made)
 
 > **Descripción:** Una lista de plantillas básicas hechas por fans para cubrir la mayoría de tipos de comunidades.  <br/>
-**Enlace:** [Discord Basic Templates](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
+**Enlace:** [Plantillas Básicas de Discord](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
 **Creditos:** @242385234992037888
 
-## **Discord UI Mockup**
+## **Mockup de la IU de Discord**
 
 > **Descripción:** Copia exacta del cliente de Discord (podría estar obsoleto).   <br/>
-**Enlace:** [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
+**Enlace:** [Mockup de la IU de Discord](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
 **Creditos:** @354309005037797376
 
 ## **Discord Payloads**

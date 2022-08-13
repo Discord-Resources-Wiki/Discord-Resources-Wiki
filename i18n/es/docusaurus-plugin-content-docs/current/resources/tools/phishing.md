@@ -6,7 +6,7 @@ description: Herramientas de phishing y de seguridad.
 
 # Relacionado con el Pishing
 
-## **Discord Nitro Scams**
+## **Scams de Discord Nitro**
 
 > **Descripción:** Este sitio web **seguro** (*no es una estafa*) compara los regalos reales de Discord Nitro con las estafas. Cuidado.   <br/>
 **Enlace:** [Discord Nitro Informaciòn](https://dicsord.gq/)
@@ -24,7 +24,7 @@ description: Herramientas de phishing y de seguridad.
 [Documentaciòn](https://docs.clearurls.xyz/latest/)  <br/>
 **Creditos:** @github: KevinRoebert
 
-## **Gits of Scam Links**
+## **Gits de Enlaces de Scam**
 
 > **Descripción:** Repositorios de GitHub llenos de enlaces de estafa.   <br/>
 **Enlaces:**  
@@ -36,10 +36,10 @@ description: Herramientas de phishing y de seguridad.
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-## **Database full of malicious links**
+## **Base de datos llena de enlaces nocivos**
 
 > **Descripción:** Se explica por sí mismo. 🔢   <br/>
-**Enlace:** [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
+**Enlace:** [Base de datos llena de enlaces nocivos](https://urlhaus.abuse.ch/browse/)
 
 ## **Phishing Recognizing Tools**
 
@@ -58,7 +58,7 @@ description: Herramientas de phishing y de seguridad.
 [McAfee URL Checker](https://www.trustedsource.org/)  <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
-## Phishing APIs
+## APIs de Phishing
 
 > **Descripción:** Se trata de APIs y herramientas para gestionar los intentos de phishing.   <br/>
 **Enlaces:** <br/>

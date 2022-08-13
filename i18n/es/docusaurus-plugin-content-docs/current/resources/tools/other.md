@@ -182,17 +182,17 @@ __Enlace:__ [Whois Lookup](https://whois.domaintools.com/)
 > __Descripción:__ Comunique el estado en tiempo real a sus afiliados.   <br/>
 __Enlace:__ [Status Page](https://statuspage.io)
 
-### **Tone Indicators Website**
+### **Indicador de tonos**
 > __Descripción:__ Encontrar y comprender los indicadores de tono del texto.   <br/>
-__Enlace:__ [Tone Indicators](https://toneindicators.carrd.co/)
+__Enlace:__ [Indicador de tonos](https://toneindicators.carrd.co/)
 
-### **URL Scanner**
+### **Escáner de enlaces**
 > __Descripción:__ Escanea las URLs y da detalles sobre ellas.   <br/>
-__Enlace:__ [URL Scan](https://urlscan.io/)
+__Enlace:__ [Escáner de enlaces](https://urlscan.io/)
 
-### **URL Expander**
+### **Ampliador de enlaces**
 > __Descripción:__ Ampliar las URLs cortas.   <br/>
-__Enlace:__ [URL Expander](https://urlex.org/)
+__Enlace:__ [Ampliador de enlaces](https://urlex.org/)
 
 ### **Waifu2x**
 > __Descripción:__ Escalado de imágenes y reducción de ruido para el arte de estilo anime.   <br/>
@@ -207,9 +207,9 @@ __Enlace:__ [True Size](https://thetruesize.com/)
 __Enlace:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
 __Creditos:__ @github: javierbyte
 
-### **Lightmode is Necessary**
+### **Modo claro es necesario**
 > __Descripción:__ Un artículo en el que se explica por qué el modo luz es importante para el software. <br/>
-__Enlace:__ [Article](https://lightmode.glitch.me) <br/>
+__Enlace:__ [Artículo](https://lightmode.glitch.me) <br/>
 
 ### **ProtonMail**
 > __Descripción:__ Servicio de correo electrónico cifrado E2E de código abierto. <br/>

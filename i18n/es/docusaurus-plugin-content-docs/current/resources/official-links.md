@@ -70,10 +70,10 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** Información sobre suscripciones a Nitro y Nitro Classic. <br/>
 **Enlace:** [Discord Nitro](https://dis.gd/nitro)
 
-## **Página de estado de Discord**
+## **Estado de Discord**
 
 > **Descripción:** Proporciona información sobre el estado actual de los servicios de Discord. <br/>
-**Enlace:** [Página de estado](https://dis.gd/status)
+**Enlace:** [Estado de Discord](https://dis.gd/status)
 
 ## **Portal para desarrolladores de Discord**
 
