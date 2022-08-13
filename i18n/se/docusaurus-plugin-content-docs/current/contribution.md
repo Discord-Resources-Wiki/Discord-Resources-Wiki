@@ -28,7 +28,9 @@ Vi vill tacka:<br/>
 @192060404501839872 - Designer <br/>
 @386861188891279362 - Webbplatsarkitekt / dokumentationsorganisatör <br/>
 @102102717165506560 - Tillväxtrådgivning / resursförvaltare <br/>
-@755792681313108018 - *Jag fick den här idén och gjorde allt ovan.*
+@755792681313108018 - *Jag fick den här idén och gjorde allt ovan.* <br/>
+@276660996922277890 - Översättning till svenska
+@674945722872889356 - Översättning till svenska
 
 ## Hur man testar ändringar lokalt
 
