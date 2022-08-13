@@ -8,13 +8,13 @@ description: Herramientas de diseño
 
 ## **Iconos de diseño de materiales**
 
-> **Descripción:** Una colección de íconos centrados en el diseño de materiales, que permite personalizar el formato, el tamaño y el color. <br/>
+> **Descripción:** Una colección de iconos centrados en el diseño de materiales, que permite personalizar el formato, el tamaño y el color. <br/>
 **Enlace:** [Iconos de diseño de materiales](https://materialdesignicons.com/) <br/>
 **Créditos:** @github:Templarian
 
 ## **Iconos de fuentes de Google**
 
-> **Descripción:** Una colección de íconos comunes basados ​​en acciones web, proporcionada por Google. <br/>
+> **Descripción:** Una colección de iconos comunes basados ​​en acciones web, proporcionada por Google. <br/>
 **Enlace:** [Iconos de fuentes de Google](https://fonts.google.com/icons) <br/>
 **Créditos:** @github:google
 
@@ -30,12 +30,12 @@ description: Herramientas de diseño
 
 ## **Iconos simples**
 
-> **Descripción:** Una lista de íconos simples, incluidos íconos de marcas. <br/>
+> **Descripción:** Una lista de iconos simples, incluidos iconos de marcas. <br/>
 **Enlace:** [Simpleicons](https://simpleicons.org/)
 
 ## **Heroicons**
 
-> **Descripción:** Íconos SVG hechos a mano. <br/>
+> **Descripción:** Iconos SVG hechos a mano. <br/>
 **Enlace:** [Heroicons](https://heroicons.com/)
 
 ## **Coolors**
@@ -45,7 +45,7 @@ description: Herramientas de diseño
 
 ## **The Noun Project**
 
-> **Descripción:** Más de 3 millones de íconos aportados por la comunidad junto con personalización de íconos y una API. <br/>
+> **Descripción:** Más de 3 millones de iconos aportados por la comunidad junto con personalización de iconos y una API. <br/>
 **Enlace:** [The Noun Project](https://thenounproject.com/)
 
 ## **Color de Adobe**
@@ -61,13 +61,13 @@ description: Herramientas de diseño
 
 ## **Iconos pequeños**
 
-> **Descripción:** Un conjunto de íconos mínimos de 1px. <br/>
+> **Descripción:** Un conjunto de iconos mínimos de 1px. <br/>
 **Enlace:** [Iconos pequeños](https://teenyicons.com/) <br/>
 **Créditos:** @github:@teenyicons
 
 ## **Streamline**
 
-> **Descripción:** Más de 100 000 íconos, ilustraciones y emojis. <br/>
+> **Descripción:** Más de 100.000 iconos, ilustraciones y emojis. <br/>
 **Enlace:** [Streamline](https://streamlinehq.com/)
 
 ## **Iconos de plumas**
