@@ -23,13 +23,13 @@ description: Ressourcen für die Moderation
 **Link:** [Naviking's Moderationsvorlagen & Werkzeuge Dokumentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
 **Credit:** @200987752794292224
 
-## **Moderation Leitlinien**
+## **Moderationsleitlinien**
 
 > **Beschreibung:** Eine Vorlage, die neuen Mitarbeitern bei der Einarbeitung und dem Verständnis der Moderationspraktiken des Servers hilft.   <br/>
 **Link:** [Moderation Leitlinien](https://staff-guidelines.super.site/)   <br/>
 **Credit:** @366652352125599744
 
-## **Leitfaden für zivile Konversation**
+## **Leitfaden für respektvolle Konversationen**
 
 > **Beschreibung:** Umfangreiches, aber ausgefeiltes Community-Regelwerk, das die Arbeit der Moderatoren erleichtern soll.   <br/>
 **Link:** [Leitfaden für zivile Konversation](https://conversation.guide/)   <br/>

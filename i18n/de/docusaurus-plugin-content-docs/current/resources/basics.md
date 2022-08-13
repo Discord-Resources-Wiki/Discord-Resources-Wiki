@@ -8,7 +8,7 @@ description: Grundlegende Ressourcen
 
 ## **Discord-Nutzungsbedingungen**
 
-> **Beschreibung:** ie Nutzungsbedingungen von Discord sind eine Richtlinie, der du zustimmen musst, wenn du die Plattform nutzt.   <br/>
+> **Beschreibung:** Die Nutzungsbedingungen von Discord sind eine Richtlinie, der du zustimmen musst, wenn du die Plattform nutzt.   <br/>
 Die Informationen reichen von Rechten an geistigem Eigentum bis hin zur Kündigung von Konten.   <br/>
 **Link:** [Nutzungsbedingungen](https://dis.gd/terms)
 
