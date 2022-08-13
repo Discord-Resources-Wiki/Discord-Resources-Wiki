@@ -123,10 +123,10 @@ description: Programming related tools
 **Link:** [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 **Credit:** @github:freeCodeCamp
 
-## **Big List of Nasty Strings**
+## **Big List of Naughty Strings**
 
 > **Description:** A list of strings to help test for edge cases <br/>
-**Link:** [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+**Link:** [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Credit:** @github:minimaxir
 
 ## **Free for developers**
