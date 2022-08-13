@@ -1,12 +1,12 @@
 ---
-title: Básico
+title: Básicos
 sidebar_position: 1
 description: Recursos básicos.
 ---
 
-# Lo básico
+# Los básicos
 
-## **Condiciones de servicio de Discord**
+## **Términos de servicio de Discord**
 
 > **Descripción:** Los Términos de servicio de Discord son una política que debe aceptar el usuario al usar la plataforma. <br/>
 Incluye información que va desde los derechos de propiedad intelectual hasta la terminación de la cuenta.   <br/>
@@ -33,15 +33,15 @@ Garantiza que todos los usuarios tengan una experiencia positiva y actúen con d
 > **Descripción:** El Subreddit no oficial de Discord.   <br/>
 **Enlace:** [Subreddit](https://www.reddit.com/r/discordapp/)
 
-## **Pagina de Twitter de Discord**
+## **Perfil de Discord en Twitter**
 
-> **Descripción:** La pagina oficial de Discord en Twitter.   <br/>
-**Enlace:** [Pagina de Twitter](https://twitter.com/discord)
+> **Descripción:** La página oficial de Discord en Twitter.   <br/>
+**Enlace:** [Perfil de Twitter](https://twitter.com/discord)
 
-## **Canal de Youtube de Discord**
+## **Canal de YouTube de Discord**
 
-> **Descripción:**  El canal oficial de Discord en Youtube.   <br/>
-**Enlace:** [Canal de Youtube](https://www.youtube.com/c/discord)
+> **Descripción:**  El canal oficial de Discord en YouTube.   <br/>
+**Enlace:** [Canal de YouTube](https://www.youtube.com/c/discord)
 
 ## **Centro de ayuda de Discord**
 
