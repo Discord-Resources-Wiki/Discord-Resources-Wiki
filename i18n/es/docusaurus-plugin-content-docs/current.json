@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Resources": {
-    "message": "Resources",
+    "message": "Recursos",
     "description": "The label for category Resources in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Bots": {
@@ -12,7 +12,7 @@
     "description": "The label for category Bots in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tools": {
-    "message": "Tools",
+    "message": "Herramientas",
     "description": "The label for category Tools in sidebar tutorialSidebar"
   }
 }
