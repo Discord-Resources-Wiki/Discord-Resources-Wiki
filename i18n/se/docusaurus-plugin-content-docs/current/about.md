@@ -1,9 +1,9 @@
 ---
-titel: Wiki
+title: Wiki
 sidebar_label: Om
 sidebar_position: 1
 slug: /
-beskrivning: En lista full med användbara discordresurser och verktyg för alla sorters användare, från nybörjare till avancerade användare.
+description: En lista full med användbara discordresurser och verktyg för alla sorters användare, från nybörjare till avancerade användare.
 ---
 
 # Om
