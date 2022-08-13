@@ -43,6 +43,12 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   transform-origin: left;
 }
 
+/* Smooth scrolling */
+
+html {
+  scroll-behavior: smooth;
+}
+
 /* Navbar social icons */
 
 .navbar-item-github:hover {
