@@ -10,7 +10,7 @@ description: Herramientas de programación.
 
 > **Descripción:** Autocode convierte las funciones de JavaScript (Node.js) en servicios web escalables en un instante, sin necesidad de configuración.   <br/>
 **Enlace:** [Autocode](https://autocode.com/)  <br/>
-**Creditosos:** @746460957651501196
+**Créditos:** @746460957651501196
 
 ## **Stack Overflow**
 
@@ -26,7 +26,7 @@ description: Herramientas de programación.
 
 > **Descripción:** Variedad de puntos finales divertidos para que los desarrolladores los utilicen.  <br/>
 **Enlace:** [Some Random API](https://some-random-api.ml/)  <br/>
-**Creditosos:** @423675224395874314
+**Créditos:** @423675224395874314
 
 ## **Elige una licencia**
 
@@ -85,7 +85,7 @@ description: Herramientas de programación.
 
 > **Descripción:** Intercepte y vea todos sus endpoints HTTP(S) Mock o servidores enteros. Reescriba, redirija o inyecte errores.  <br/>
 **Enlace:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-**Creditos:** github: @pimterry
+**Créditos:** github: @pimterry
 
 ## **Guía de Markdown**
 
@@ -121,22 +121,22 @@ description: Herramientas de programación.
 
 > **Descripción:** Una lista de diversos recursos para ayudar a los contribuyentes de OSS. <br/>
 **Enlace:** [Cómo contribuir a proyectos de código abierto](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-**Creditos:** @github: freeCodeCamp
+**Créditos:** @github: freeCodeCamp
 
 ## **Gran lista de secuencias nocivas**
 
 > **Descripción:** Una lista de secuencias que probablemente sean nocivas. <br/>
 **Enlace:** [Gran lista de secuencias nocivas](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-**Creditos:** @github:minimaxir
+**Créditos:** @github:minimaxir
 
 ## **Gratuito para desarrolladores**
 
 > **Descripción:** Lista de ofertas gratuitas para desarrolladores. <br/>
 **Enlace:** [Gratuito para desarrolladores](https://free-for.dev/#/) <br/>
-**Creditos:** @github: ripienaar
+**Créditos:** @github: ripienaar
 
 ## **Mensajes paginados de discord.js**
 
 > **Descripción:** Un paquete que ayuda a facilitar los mensajes paginados en discord.js. <br/>
 **Enlace:** [Mensajes paginados de discord.js](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
-**Creditos:** @github: sapphiredev
+**Créditos:** @github: sapphiredev

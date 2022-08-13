@@ -22,7 +22,7 @@ description: Herramientas de phishing y de seguridad.
 **Enlaces:**  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [Documentaciòn](https://docs.clearurls.xyz/latest/)  <br/>
-**Creditos:** @github: KevinRoebert
+**Créditos:** @github: KevinRoebert
 
 ## **Gits de Enlaces de Scam**
 
@@ -63,16 +63,16 @@ description: Herramientas de phishing y de seguridad.
 > **Descripción:** Se trata de APIs y herramientas para gestionar los intentos de phishing.   <br/>
 **Enlaces:** <br/>
 [Got Phish](http://gotphish.com/)   <br/>
-[Hyperphish](https://api.hyperphish.com/docs) (creditos: @297045071457681409)   <br/>
+[Hyperphish](https://api.hyperphish.com/docs) (Créditos: @297045071457681409)   <br/>
 [Phish Report](https://phish.report/)   <br/>
-[SinkingYachts](https://phish.sinking.yachts/docs) (creditos: @204414611578028034)  <br/>
-[Anti - Fish API](https://anti-fish.bitflow.dev/) (creditos: @218508002255306752)   <br/>
-[Spoopy Detector](https://spoopy.oceanlord.me/) (creditos: @240973228632178689)   <br/>
+[SinkingYachts](https://phish.sinking.yachts/docs) (Créditos: @204414611578028034)  <br/>
+[Anti - Fish API](https://anti-fish.bitflow.dev/) (Créditos: @218508002255306752)   <br/>
+[Spoopy Detector](https://spoopy.oceanlord.me/) (Créditos: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
 [Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
 [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
 [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
-[Azrael Phish API](https://phish.azrael.gg/) (creditos: @641795527444529152)  <br/>
+[Azrael Phish API](https://phish.azrael.gg/) (Créditos: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ## **Phisherman**
@@ -88,7 +88,7 @@ Phisherman es una base de datos centralizada de enlaces de phishing y estafa. Es
 > **Descripción:** Una herramienta para detectar y neutralizar a los ladrones de tokens de Discord borrando su webhook interno de Discord. <br/>
 **Nota:** Esta herramienta **no** es un antivirus. Es sólo una utilidad que puede ayudar a evitar que los estafadores obtengan los datos de otras personas. <br/>
 **Enlace:** [Pagina web](https://sketchy.tel/)  <br/>
-**Creditos:** The Vaccinator Team (Contacto @204414611578028034)
+**Créditos:** The Vaccinator Team (Contacto @204414611578028034)
 
 ## **Intezer Analyse**
 

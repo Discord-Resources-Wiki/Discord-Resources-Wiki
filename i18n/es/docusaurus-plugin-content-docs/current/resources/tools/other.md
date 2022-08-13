@@ -18,7 +18,7 @@ __Enlace:__ [Bitwarden](https://bitwarden.com/)
 ### **Blobs**
 > __Descripción:__ Una lista de emojis blob del servidor. <br/>
 __Enlace:__ [Blobs](https://blobs.gg/) <br/>
-__Creditos:__ @69198249432449024
+__Créditos:__ @69198249432449024
 
 ### **CitizenLab**
 > __Descripción:__ Listas de prueba de URL destinadas a ayudar a probar la censura de URL, divididas por códigos de país.   <br/>
@@ -75,7 +75,7 @@ __Enlace:__ [Empty Characters](https://emptycharacter.com)
 ### **Awesome**
 > __Descripción:__ Colección de listas sobre diversos temas.   <br/>
 __Enlace:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
-__Creditos:__ @github: sindresorhus
+__Créditos:__ @github: sindresorhus
 
 ### **Internet Slang**
 > __Descripción:__ Una lista de la jerga utilizada en Internet.   <br/>
@@ -112,7 +112,7 @@ __Enlace:__ [Pronoun Island](https://pronoun.is/)
 ### **PronounDB**
 > __Descripción:__ Integración de pronombres para sitios web y aplicaciones.  <br/>
 __Enlace:__ [ProunounDB](https://pronoundb.org/)  <br/>
-__Creditos:__ @94762492923748352
+__Créditos:__ @94762492923748352
 
 ### **Pronouns.page**
 > __Descripción:__ Información sobre el lenguaje no binario y de género neutro.  <br/>
@@ -133,12 +133,12 @@ __Enlace:__ [Random Sites](https://www.randomlists.com/websites)
 ### **ShareX**
 > __Descripción:__ La mejor app para compartir.  
 __Enlace:__ [ShareX](https://getsharex.com/)   <br/>
-__Creditos:__ @95576568025329664
+__Créditos:__ @95576568025329664
 
 ### **pfp.lgbt**
 > __Descripción:__ Una herramienta para "LGBTQ+fy" sus imágenes.  <br/>
 __Enlace:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
-__Creditos:__ @109710323094683648 @139836912335716352 
+__Créditos:__ @109710323094683648 @139836912335716352 
 
 ### **Statista**
 > __Descripción:__ Plataforma de estadísticas y datos empresariales para más de 170 sectores.   <br/>
@@ -159,7 +159,7 @@ __Enlace:__ [Grafana](https://grafana.com/)
 ### **The LaTeX Project**
 > __Descripción:__ LaTeX es un sistema de preparación de documentos, útil para documentos científicos o técnicos. <br/>
 __Enlace:__ [The LaTeX Project](https://latex-project.org) <br/>
-__Creditos:__ @github:latex3 
+__Créditos:__ @github:latex3 
 
 ### **Web Archives**
 > __Descripción:__ Explora las páginas web guardadas a lo largo del tiempo.  <br/>
@@ -205,7 +205,7 @@ __Enlace:__ [True Size](https://thetruesize.com/)
 ### **Visual Center**
 > __Descripción:__ Encuentra el centro visual de tus imágenes.  <br/>
 __Enlace:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
-__Creditos:__ @github: javierbyte
+__Créditos:__ @github: javierbyte
 
 ### **Modo claro es necesario**
 > __Descripción:__ Un artículo en el que se explica por qué el modo luz es importante para el software. <br/>
@@ -218,7 +218,7 @@ __Enlace:__ [ProtonMail](https://protonmail.com) <br/>
 ### **dCode**
 > __Descripción:__ dCode es un sitio web universal utilizado para codificar y descodificar mensajes. También ofrece un montón de herramientas relacionadas.  <br/>
 __Enlace:__ [dCode Website](https://dcode.fr/en)  <br/>
-__Creditos:__ @273906785788624907
+__Créditos:__ @273906785788624907
 
 ### **Computer Hope**
 > __Descripción:__ Ayuda y soporte informático gratuitos. <br/>
@@ -227,7 +227,7 @@ __Enlace:__ [ComputerHope](https://www.computerhope.com/) <br/>
 ### **Skill Icons**
 > __Descripción:__ Mostrar los lenguajes, marcos y herramientas utilizados en un perfil de GitHub. <br/>
 __Enlace:__ [Skill Icons](https://skillicons.dev/) <br/>
-__Creditos:__ @276544649148235776
+__Créditos:__ @276544649148235776
 
 ### **Savefrom**
 > __Descripción:__ Descargue cualquier contenido de sitios populares.  <br/>
