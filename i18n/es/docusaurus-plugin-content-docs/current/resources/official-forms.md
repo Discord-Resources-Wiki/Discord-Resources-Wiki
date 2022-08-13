@@ -13,7 +13,7 @@ description: Formularios oficiales de discord.
 
 ## **Formulario de soporte**
 
-> **Descripción:** ¿Necesitas ayuda? Envíe una solicitud al equipo de Discord. <br/>
+> **Descripción:** ¿Necesita ayuda? Envíe una solicitud al equipo de Discord. <br/>
 **Enlace:** [Formulario de soporte de Discord](https://dis.gd/contact)
 
 ## **Comentarios**
