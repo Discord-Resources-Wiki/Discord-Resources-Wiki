@@ -4,7 +4,7 @@ sidebar_position: 2
 description: Servidores oficiales administrados por Discord.
 ---
 
-# Servidores oficiales
+# Servidores oficiales de Discord
 
 ## **Discord Testers**
 
