@@ -271,13 +271,13 @@ description: Discord related tools
 
 > **Description:** Generate colored ansi text for discord. <br/>
 **Link:** [Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)  <br/>
-**Credit:** @github:rebane2001
+**Credit:** @80622917083205632
 
 ## **Rebane's Discord Pin Compressor**
 
 > **Description:** A simple app that converts Discord pins to Discord messages.  <br/>
 **Link:** [Discord Pin Compressor](https://rebane2001.com/discord-pin-compressor/)  <br/>
-**Credit:** @github:rebane2001
+**Credit:** @80622917083205632
 
 ## **Simple Discord Cache Cleaner**
 
