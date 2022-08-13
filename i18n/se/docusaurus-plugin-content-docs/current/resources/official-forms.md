@@ -1,24 +1,24 @@
 ---
-title: Official Forms
+title: Officiella blanketter
 sidebar_position: 3
-description: Official forms from discord.
+description: Officiella formulär från discord.
 ---
 
-# Official Forms
+# Officiella blanketter
 
-## **Report Form** 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
-__Link:__ [Discord Report Form](https://dis.gd/report)
+## **Rapporteringsformulär** 
+> __Beskrivning:__ Rapportera ett problem till Discords team för förtroende och säkerhet.   <br/>
+__Länk:__ [Discord-rapportformulär](https://dis.gd/report)
 
-## **Support Form** 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
-__Link:__  [Discord Support Form](https://dis.gd/contact)
+## **Formulär för stöd** 
+> __Beskrivning:__ Behöver du hjälp? Skicka en begäran till Discord-teamet.   <br/>
+__Länk:__  [Stödformulär för Discord](https://dis.gd/contact)
 
-## **Feedback** 
-> __Description:__ Submit feedback to the Discord team.   <br/>
-__Link:__  [Discord Feedback Form](https://dis.gd/feedback)
+## **Återkoppling** 
+> __Beskrivning:__ Skicka feedback till Discord-teamet.   <br/>
+__Länk:__  [Feedbackformulär från Discord](https://dis.gd/feedback)
 
 
-## **Discord Trust & Safety** 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
-__Link:__ [Discord TnS](https://dis.gd/request)
+## **Förtroende och säkerhet i Discord** 
+> __Beskrivning:__ Skicka en begäran till Discords team för förtroende och säkerhet.   <br/>
+__Länk:__ [Discord TnS](https://dis.gd/request)
