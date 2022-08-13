@@ -32,5 +32,5 @@ __Medverkande:__ @366652352125599744
 
 ### **En guide om civila samtal**
 > __Beskrivning:__ Omfattande, men fina communityregler, riktade mot att minska moderatorernas arbete.   <br/>
-__Länk:__ [A Guide Om Civila Samtal](https://conversation.guide/)   <br/>
+__Länk:__ [En Guide Om Civila Samtal](https://conversation.guide/)   <br/>
 __Medverkande:__ @102102717165506560
