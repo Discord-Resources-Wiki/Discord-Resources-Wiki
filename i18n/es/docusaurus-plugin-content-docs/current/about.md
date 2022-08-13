@@ -10,7 +10,7 @@ description: Una lista de toneladas de útiles recursos y utilidades de Discord 
 
 ## Bienvenido a Discord Resources Wiki
 
-## Entonces, ¿que es esto?
+## Entonces, ¿qué es esto?
 
 El fundador de este proyecto, @755792681313108018, había estado buscando una lista de recursos de Discord práctica y buena que cubriera temas desde conocimientos básicos hasta utilidades avanzadas; una lista que todos los usuarios de Discord, desde principiantes hasta expertos, encontrarán útil. Pero no encontraba nada así.
 
