@@ -68,7 +68,7 @@ Descripción: Herramientas relacionadas con Discord
 ## **Gráfico de amigos de Discord**
 
 > **Descripción:** Haz una gráfica con tus amigo y sus relaciones.  <br/>
-**Link(s):**  <br/>
+**Enlace(s):**  <br/>
 [Gráfico de amigos de Discord](https://github.com/Maanex/discord-friends-graph)  <br/>
 [Gráfico de amigos de Discord **version de cliente**](https://github.com/arHSM/discord-friends-graph)  <br/>
 **Crédito:** @137258778092503042 @841509053422632990
@@ -198,14 +198,14 @@ Descripción: Herramientas relacionadas con Discord
 ## **Estado**
 
 > **Descripción:** Un servidor que tiene una colección de canales de anuncios que puedes seguir para muchas actualizaciones de estado de distintas páginas web, incluyendo Discord, Cloudfare, GitHub, Hypixel y más, para que puedas ser uno de los primeros en enterarte de que uno de tus servicios favoritos está tieniendo problemas.   <br/>
-**Link(s):**
+**Enlace(s):**
 [Invitación al servidor](https://inv.wtf/statuspages)   <br/>
 **Crédito:** @287698408855044097
 
 ## **Icons**
 
 > **Descripción:** Un servidor con emoticonos gratuitos.   <br/>
-**Link(s):**
+**Enlace(s):**
 [Server Invite](https://discord.gg/tbzP3XaUF7)   <br/>
 **Crédito:** @537875750955778058
 
@@ -229,13 +229,13 @@ Descripción: Herramientas relacionadas con Discord
 ## **Formularios de Google -> Webhook de Discord**
 
 > **Descripción:** Manda una respuesta de un Formulario de Google a un canal de Discord usando webhooks.  <br/>
-**Link** [Formularios de Google -> Webhook de Discord](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
+**Enlace** [Formularios de Google -> Webhook de Discord](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
 **Crédito:** @87599455892692992
 
 ## **Enlaces de utilidad de Crosslink**
 
 > **Descripción:** Enlaces fáciles de usar para buscar usuarios y dominios. Reemplaza "ID" con un ID de usuario y "Dominio" con el dominio.  <br/>
-**Link(s):** [User Info](https://crss.link/u/ID) <br/>
+**Enlace(s):** [User Info](https://crss.link/u/ID) <br/>
 [Domain Info](https://crss.link/d/Dominio)  <br/>
 **Crédito:** @249287049482338305
 
@@ -260,7 +260,7 @@ Descripción: Herramientas relacionadas con Discord
 ## **Guía de Bloques ANSI**
 
 > **Descripción:** Una rápida descomposición de como usar códigos de color ANSI para añadir color a tus bloques.  <br/>
-**Link(s):**  <br/>
+**Enlace(s):**  <br/>
 [ANSI Code Block Guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
 [ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
 **Crédito:** @github:kkrypt0nn @github:fnky
