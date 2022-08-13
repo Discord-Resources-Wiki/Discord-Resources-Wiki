@@ -268,7 +268,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### **Antouto**
 
-> **Description:** Antouto is a bot that lets you get extensive information about discord invites, servers, users, build overrides, and more!  <br/>
+> **Description:** Antouto is a bot that lets you get extensive information about Discord invites, servers, users, build overrides, and more!  <br/>
 **Link:** [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
 **Credit:** @316860714260234243
 

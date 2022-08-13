@@ -3,7 +3,7 @@ title: Wiki
 sidebar_label: About
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: A list of tons of useful Discord resources and utilities for all types of users, from beginners to power users.
 ---
 
 # About

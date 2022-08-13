@@ -27,7 +27,7 @@ description: Fun links
 <https://tennineeightsevensixfivefourthreetwo.one/> | Counts down rickroll   <br/>
 <https://purpzie.monster/> | purpzie monster   <br/>
 <https://letterh.xyz/> | the letter h   <br/>
-<https://is-discord-dead.xyz/> | is discord dead   <br/>
+<https://is-discord-dead.xyz/> | is Discord dead   <br/>
 <https://chir.ag/projects/tip-of-my-tongue/> | tip my tongue   <br/>
 <https://wungus.guru/> | no wungus   <br/>
 <https://wungus.space/> | yes wungus   <br/>
@@ -66,7 +66,7 @@ https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 <https://ian-deploy.xyz/> | Ian deploy  <br/>
 <https://ian1-deploy.xyz/> | Ian deploy # 2  <br/>
 <https://bubblespop.netlify.app/> | bubble wrap pop  <br/>
-[discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it didn't fit anywhere else  <br/>
+[Discord loading messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88) | idk if it's fun but it didn't fit anywhere else  <br/>
 <https://fax.pics/> | fax pics  <br/>
 <https://tikolu.net/elevation/> | how high are you (above sea level)  <br/>
 <https://tikolu.net/spot-the-difference/gameover> | spot the difference <br/>
@@ -80,7 +80,7 @@ https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 <https://guthib.com> | POV: You just woke up and wanted to open Github  <br/>
 <https://no-bitch.es/> | no bitches  <br/>
 <https://why-stup.id> | Why are you stupid <br/>
-<https://does.discord.work/> | who broke discord  <br/>
+<https://does.discord.work/> | who broke Discord  <br/>
 <https://cat-bounce.com/> |  cat bounce <br />
 <https://txnor.com/mathchallenge> | math challenge <br />
 <https://shouldiblamecaching.com/> | should I blame caching?  <br/>

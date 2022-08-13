@@ -1,7 +1,7 @@
 ---
 title: Unofficial Resources
 sidebar_position: 9
-description: Unofficial resources for discord.
+description: Unofficial resources for Discord.
 ---
 
 # Unofficial Resources
@@ -53,7 +53,7 @@ description: Unofficial resources for discord.
 
 ## **Nadeko Embed Builder**
 
-> **Description:** Another useful tool for generating discord embeds. This tool exports in JSON format.   <br/>
+> **Description:** Another useful tool for generating Discord embeds. This tool exports in JSON format.   <br/>
 **Link:** [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
 
 ## **List of Stickers**
@@ -76,14 +76,14 @@ description: Unofficial resources for discord.
 
 ## **Discord Protocol Links**
 
-> **Description:** List of all discord protocol links.   <br/>
+> **Description:** List of all Discord protocol links.   <br/>
 *Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on Android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
 **Link:** [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Credit:** @github:ghostrider-05
 
 ## **Discord Build Logger**
 
-> **Description:** Site that logs all discord builds.   <br/>
+> **Description:** Site that logs all Discord builds.   <br/>
 **Link:** [Discord Build Logger](https://discord.sale/)  
 **Credit:** @545581357812678656
 
@@ -124,7 +124,7 @@ description: Unofficial resources for discord.
 
 ## **Discord UI Mockup**
 
-> **Description:** Exact copy of the discord client (might be outdated).   <br/>
+> **Description:** Exact copy of the Discord client (might be outdated).   <br/>
 **Link:** [Discord UI Mockup](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
 **Credit:** @354309005037797376
 
