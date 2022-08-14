@@ -4,62 +4,62 @@ sidebar_position: 1
 description: Bot informations and lists
 ---
 
-# Information & Lists
+# Information & listor
 
-## **Unofficial Discord API Docs**
-> __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
-__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
+## **Inofficiella dokument om Discord API**
+> __Beskrivning:__ Inofficiell dokumentation för icke-dokumenterade Discord API. Innehåller också en översikt över Discords infrastruktur.  <br/>
+__Länk:__ [Inofficiella dokument om Discord API](https://luna.gitlab.io/discord-unofficial-docs/)
 
-## **Largest Discord Bots**
-> __Description:__ An easy-to-read list of the top 25 Discord bots by server count.   <br/>
-__Link:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
-__Credit:__ @190916650143318016
+## **Största Discord-botar**
+> __Beskrivning:__ En lättläst lista över de 25 bästa Discord-botarna efter serverantal.   <br/>
+__Länk:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
+__Kredit:__ @190916650143318016
 
-## **Largest Discord Bots (extended version)**
-> __Description:__ A haste link with the 600 biggest bots on Discord, including growth stats.  <br/>
-__Links:__ Get the haste ID from [here](https://unbelievaboat.com/api/botlist), then paste it [here](https://haste.unbelievaboat.com/ID) instead of "ID".  <br/>
-__Credit:__ @261674810914897931
+## **Största Discord-bots (utökad version)**
+> __Beskrivning:__ En snabb länk med de 600 största robotarna på Discord, inklusive tillväxtstatistik.  <br/>
+__Länks:__ Hämta hastighets-ID från [här](https://unbelievaboat.com/api/botlist), klistra sedan in den [här](https://haste.unbelievaboat.com/ID) i stället för "ID".  <br/>
+__Kredit:__ @261674810914897931
 
-## **All Official Discord Bots**
-> __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
-__Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
-__Credit:__ @712626099141476383
+## **Alla officiella Discord-bots**
+> __Beskrivning:__ En lista som innehåller alla bots som officiellt skapats av Discord.   <br/>
+__Länk:__ [Alla officiella Discord-bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
+__Kredit:__ @712626099141476383
 
-## **List of Libraries**
-> __Description:__ List of all Discord API libraries and their features.   <br/>
-__Link:__ [List Of Libraries](https://libs.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+## **Förteckning över bibliotek**
+> __Beskrivning:__ Lista över alla Discord API-bibliotek och deras funktioner.   <br/>
+__Länk:__ [Förteckning över bibliotek](https://libs.advaith.io/)   <br/>
+__Kredit:__ @190916650143318016
 
-## **Discord API Libs**
-> __Description:__ A list of all the Discord API libraries.  <br/>
-__Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
-__Credit:__ @460612586061430806
+## **Libs för Discord API**
+> __Beskrivning:__ En lista över alla bibliotek för Discord API.  <br/>
+__Länk:__ [Libs för Discord API](https://github.com/apacheli/discord-api-libs)  <br/>
+__Kredit:__ @460612586061430806
 
-### **Library Rest & WS Coverage Comparisons**
-> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
-(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
-__Link:__ [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html) 
+### **Jämförelser av bibliotekets vila och WS-täckning**
+> __Beskrivning:__ En gigantisk funktionsjämförelse av vad olika bibliotek för Discord API kan göra både via REST och WS.   <br/>
+(kontrollera också [Discord API inofficiellt](https://discordapi.com/unofficial/) för dokument och bibliotek)   <br/>
+__Länk:__ [Jämförelser av bibliotekets vila och WS-täckning](https://discordapi.com/unofficial/comparison.html) 
 
 ## **Discord Gateway Intents Explainer**
-> __Description:__ Info about Discord bot intents.  <br/>
-__Link:__ [Discord Gateway Intents Explainer](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
-__Credit:__ @190916650143318016
+> __Beskrivning:__ Information om avsiktsförklaringar för Discord-botar.  <br/>
+__Länk:__ [Förklaring av Discord Gateway Intents](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
+__Kredit:__ @190916650143318016
 
-## **Best Bot Practices**
-> __Description:__ Best practices for Discord bots.   <br/>
-__Link:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
-__Credit:__ @66237334693085184
+## **Bästa praxis för botar**
+> __Beskrivning:__ Bästa praxis för Discord-robotar.   <br/>
+__Länk:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
+__Kredit:__ @66237334693085184
 
-## **Discord Bots**
-> __Description:__ A list of publicly available Discord bots.   <br/>
-__Link:__ [Discord Bots](https://discord.bots.gg/)   <br/>
-__Credit:__ Discord Bots’ site team @66237334693085184
+## **Discord-botar**
+> __Beskrivning:__ En lista över allmänt tillgängliga Discord-bots.   <br/>
+__Länk:__ [Discord-botar](https://discord.bots.gg/)   <br/>
+__Kredit:__ Discord Bots' webbplatsgrupp @66237334693085184
 
-## **List of Bot Lists** (BotBlocks)
-> __Description:__ A centralized list of Discord bot lists.   <br/>
-__Link:__ [Bots Lists List](https://botblock.org/lists) 
+## **Förteckning över botlistor** (BotBlocks)
+> __Beskrivning:__ En centraliserad lista över Discord-botlistor.   <br/>
+__Länk:__ [Listor över botar Lista](https://botblock.org/lists) 
 
 ## **DStat**
-> __Description:__ Get statistics about your Discord bot.   <br/>
-__Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
-__Credit:__ @255834596766253057
+> __Beskrivning:__ Få statistik om din Discord-bot.   <br/>
+__Länk:__ [DStat](https://github.com/benricheson101/dstat) <br/>
+__Kredit:__ @255834596766253057
