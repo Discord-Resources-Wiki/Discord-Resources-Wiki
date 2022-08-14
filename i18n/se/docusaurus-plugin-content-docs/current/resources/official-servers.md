@@ -4,35 +4,35 @@ sidebar_position: 2
 description: Official servers owned by discord.
 ---
 
-# Official Servers
+# Officiella servrar
 
-## **Discord Testers** 
-> __Description:__ The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
-__Link:__ [Discord Testers](https://discord.gg/discord-testers)
+## **Discord-testare** 
+> __Beskrivning:__ Den officiella platsen för att rapportera fel i Discord! Hjälp till att hitta fel, chatta med andra och bli en del av testarnas gemenskap!   <br/>
+__Länk:__ [Discord-testare](https://discord.gg/discord-testers)
 
 @gg/discord-testers
 
 
-## **Discord Developers**
-> __Description:__ The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
-__Link:__ [Discord Developers](https://discord.gg/discord-developers)
+## **Discord-utvecklare**
+> __Beskrivning:__ Den officiella platsen för att diskutera Discords API och SDK med utvecklare och Discord-personal!   <br/>
+__Länk:__ [Discord-utvecklare](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
-## **Discord Town Hall** 
-> __Description:__ An official general chatting server for people who love Discord.  Find the latest news, events, and a community you love!   <br/>
-__Link:__ [Discord Town Hall](https://discord.gg/discord-townhall)
+## **Rådhuset i Discord** 
+> __Beskrivning:__ En officiell allmän chattingserver för personer som älskar Discord.  Här hittar du de senaste nyheterna, evenemang och en gemenskap som du älskar!   <br/>
+__Länk:__ [Rådhuset i Discord](https://discord.gg/discord-townhall)
 
 @gg/discord-townhall
 
 ## **Discord Games Lab** 
-> __Description:__ The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
-__Link:__ [Discord Games Lab](https://discord.gg/discordgameslab)
+> __Beskrivning:__ Den officiella servern för Discords Games Lab. Kom och spela Poker Night, schack eller titta tillsammans med dina vänner!   <br/>
+__Länk:__ [Discord Games Lab](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
 
-## **Discord Safety**
-> __Description:__ Currently under construction.  <br/>
-__Link:__ [Discord Safety](https://discord.gg/safety)
+## **Discord Säkerhet**
+> __Beskrivning:__ Byggs för närvarande.  <br/>
+__Länk:__ [Discord Säkerhet](https://discord.gg/safety)
 
 @gg/safety
