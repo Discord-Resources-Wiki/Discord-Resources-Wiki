@@ -1,7 +1,7 @@
 ---
 title: Unofficial Servers
 sidebar_position: 8
-description: Unofficial servers related to discord.
+description: Unofficial servers related to Discord
 ---
 
 # Unofficial Servers
