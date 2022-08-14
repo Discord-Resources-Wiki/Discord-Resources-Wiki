@@ -1,7 +1,7 @@
 ---
 title: Official Discord Links
 sidebar_position: 4
-description: Official links from discord.
+description: Official links from Discord.
 ---
 
 # Official Discord Links

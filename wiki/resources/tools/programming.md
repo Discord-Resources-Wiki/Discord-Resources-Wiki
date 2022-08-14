@@ -61,10 +61,10 @@ description: Programming related tools
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
-## **Github Education Pack**
+## **GitHub Education Pack**
 
-> **Description:** Free Developer Tools provided by Github Education Pack   <br/>
-**Link:** [Github Education Pack](https://education.github.com/)
+> **Description:** Free Developer Tools provided by GitHub Education Pack   <br/>
+**Link:** [GitHub Education Pack](https://education.github.com/)
 
 ## **Public APIs**
 
@@ -135,7 +135,7 @@ description: Programming related tools
 **Link:** [Free for developers](https://free-for.dev/#/) <br/>
 **Credit:** @github:ripienaar
 
-## **Paginated discordjs messages**
+## **Paginated discord.js messages**
 
 > **Description:** A package that helps make paginated messages easier in discord.js <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />

@@ -1,7 +1,7 @@
 ---
 title: Official Discord Servers
 sidebar_position: 2
-description: Official servers owned by discord.
+description: Official servers owned by Discord.
 ---
 
 # Official Servers

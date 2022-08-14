@@ -23,7 +23,7 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 ### **DateTimeCord**
 
-> **Description:** A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
+> **Description:** A useful website to generate date and time formatting Markdown for Discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
 **Link:** [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
 **Credit:** @172557961133162496
 

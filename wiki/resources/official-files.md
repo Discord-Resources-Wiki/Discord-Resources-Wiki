@@ -1,7 +1,7 @@
 ---
 title: Official Discord Files
 sidebar_position: 5
-description: Official files from discord.
+description: Official files from Discord.
 ---
 
 # Official Discord Documents

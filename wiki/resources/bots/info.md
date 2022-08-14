@@ -44,7 +44,7 @@ description: Bot informations and lists
 
 ### **Library Rest & WS Coverage Comparisons**
 
-> **Description:** A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
+> **Description:** A giant feature comparison for what various Discord API libraries do both over REST and WS.   <br/>
 (also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
 **Link:** [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html)
 
