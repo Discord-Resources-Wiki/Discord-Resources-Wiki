@@ -135,7 +135,7 @@ description: Programming related tools
 **Link:** [Free for developers](https://free-for.dev/#/) <br/>
 **Credit:** @github:ripienaar
 
-## **Paginated discordjs messages**
+## **Paginated discord.js messages**
 
 > **Description:** A package that helps make paginated messages easier in discord.js <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
