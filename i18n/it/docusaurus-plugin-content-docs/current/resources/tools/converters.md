@@ -4,103 +4,103 @@ sidebar_position: 6
 description: Converter tools
 ---
 
-# Converters
-## Timestamp Converters 
+# Convertitori
+## Convertitori di timestamp 
 ### **HammerTime**
-> __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
+> __Descrizione:__ Scegli una data, copia il timestamp desiderato dalla colonna della sintassi della chat, quindi incollalo ovunque in un messaggio in chat.   <br/>
+Il risultato sarà un timestamp dinamico che viene visualizzato in modo diverso per tutti in base al proprio fuso orario in cui risiedono.   <br/>
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
 __Credit:__ @140360880079503362
 
 ### **Snow-Stamp (Snowflake to Timestamp Converter)** 
-> __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
+> __Descrizione:__ Converte lo 'Snow-Stamp' di un utente nel timestamp in cui è stato creato l'account.   <br/>
 __Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
 __Credit:__ @86913608335773696
 
 ### **DateTimeCord** 
-> __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
+> __Descrizione:__ Un sito Web utile per generare Markdown di formattazione di data e ora per discord. Supporta tutte le opzioni di formattazione di Discord, oltre a mostrare un'anteprima di come apparirebbe in Discord.   <br/>
 __Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
 __Credit:__ @172557961133162496
 
 ### **Alfred time converters plugins**
-> __Description:__ Alfred plugins to convert time to timestamps and vice versa.   <br/>
+> __Descrizione:__ Plugin per convertire l'ora in timestamp e viceversa.   <br/>
 __Link(s):__   <br/>
 [Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
 __Credit:__ @213023662066892800
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
-> __Description:__ Converts a given time into a Unix timestamp.   <br/>
+### **Epoch Converter (Epoch & Unix timestamp convertitore online)**
+> __Descrizione:__ Converte una data/ora in un timestamp Unix.   <br/>
 __Link:__ [Epoch Converter](https://www.epochconverter.com/) 
 
 ### **Unix Timestamps Decoder**
-> __Description:__ Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
+> __Description:__ Decodifica un timestamp Unix in un formato standard MM/DD/YYYY. (Mese/Giorno/Anno)  <br/>
 __Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
-## File Converters 
+## Convertitori di file 
 
 ### **EzGif**
-> __Description:__ EzGif is An online tool full with media-related utilities.  <br/>
+> __Descrizione:__ EzGif è uno strumento online pieno di utilità relative ai media.  <br/>
 __Link:__ [EzGif](https://ezgif.com)
 
 ### **Text Formatting Tools**
-> __Description:__ A website for converting various text formats.   <br/>
+> __Descrizione:__ Un sito Web per la conversione di vari formati di testo.   <br/>
 __Link:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
 
 ### **Discord Txt**
-> __Description:__ Used to view .txt files that have been uploaded to Discord.   <br/>
+> __Descrizione:__ Utilizzato per visualizzare i file .txt che sono stati caricati su Discord.   <br/>
 __Link:__ [Discord Txt](https://txt.discord.website/)
 
 ### **File Converter**
-> __Description:__ Convert file types to others.   <br/>
+> __Descrizione:__ Converti tipi di file in altri.   <br/>
 __Link:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
 __Credit:__ @Tichau
 
 ### **Color Replacer**
-> __Description:__ Replace a specfic colour of an image.  <br/>
+> __Descrizione:__ Sostituisci un colore specifico di un'immagine.  <br/>
 __Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
 
 ### **SVG Converters**
-> __Description:__ High quality SVG converter.  <br/>
+> __Descrizione:__ Convertitore SVG di alta qualità.  <br/>
 __Link:__ [SVG Converters](https://picsvg.com/)
 
 ### **SVG Viewer**
-> __Description:__ View SVG files.   <br/>
+> __Descrizione:__ Visualizza file SVG.   <br/>
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
 
 ### **Youtube Downloader**
-> __Description:__ Download a Youtube video as a file using its URL (either audio only or video). <br/>
+> __Descrizione:__ Scarica un video di Youtube come file utilizzando il suo URL (solo audio o video). <br/>
 __Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
 __Credit:__ @141065743197405184
 
 ### **Lottie Image Resizer**
-> __Description:__ Lottie image resize so you can get your Lottie files ≤320px.   <br/>
+> __Descrizione:__ Ridimensiona l'immagine in modo da poter ottenere i tuoi file ridotti.   <br/>
 __Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
 
-### **.gif to .apng**
-> __Description:__ Converts .gif files to .apng files.   <br/>
+### **.gif a .apng**
+> __Descrizione:__ Converte i file .gif in file .apng.   <br/>
 __Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
 ### **HTML Color Codes**
-> __Description:__ A site that converts a color into hex code and vice versa.   <br/>
+> __Descrizione:__ Un sito che converte un colore in codice esadecimale e viceversa.   <br/>
 __Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
 
 ### **Image Color Picker**
-> __Description:__ Upload an image and get a specific hex code for a color in the picture.   <br/>
+> __Descrizione:__ Carica un'immagine e ottieni un codice esadecimale specifico per un colore nell'immagine.   <br/>
 __Link:__ [Image Color Picker](https://imagecolorpicker.com/)
 
 ### **Removebg**
- > __Description:__ Remove any background from an image.   <br/>
+ > __Descrizione:__ Rimuovere qualsiasi sfondo da un'immagine.   <br/>
  __Link:__ [Removebg](https://www.remove.bg/upload)
 
 ### **Erase.bg**
-> __Description:__ Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
+> __Descrizione:__ Rimuovi lo sfondo da immagini di esseri umani, animali o oggetti e scarica immagini ad alta risoluzione gratuitamente.   <br/>
 __Link:__ [Erase.bg](https://www.erase.bg/)
 
 ### **Cleanup.pictures**
-> __Description:__ Remove any object, people, text or defects from your pictures.   <br/>
+> __Descrizione:__ Rimuovi qualsiasi oggetto, persona, testo o difetto dalle tue immagini.   <br/>
 __Link:__ [Cleanup.pictures](https://cleanup.pictures/)
 
-### **Video Compressor**
-> __Description:__ A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
+### **Compressore Video**
+> __Descrizione:__ Un compressore video progettato per comprimere i tuoi video alla dimensione perfetta per il caricamento su Discord. Viene fornito con tre opzioni che sono 8 MB, 50 MB e 100 MB, che si adattano a varie restrizioni di caricamento.   <br/>
 __Link:__ [Video Compressor](https://8mb.video/)
