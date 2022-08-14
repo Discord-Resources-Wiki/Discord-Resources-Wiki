@@ -25,7 +25,7 @@ description: Recursos de moderación.
 
 ## **Plantillas y herramientas de moderación de NaviKing**
 
-> **Descricpión:** Un archivo de Drive lleno de recursos de moderación.   <br/>
+> **Descricpión:** Un archivo de Google Drive lleno de recursos de moderación.   <br/>
 **Enlace:** [Plantillas y herramientas de moderación de NaviKing](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
 **Créditos:** @200987752794292224
 
