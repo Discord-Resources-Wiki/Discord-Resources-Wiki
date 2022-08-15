@@ -1,41 +1,41 @@
 ---
-title: Programs
+title: Programmes Discord
 sidebar_position: 7
-description: Discord programs like Moderation, Partner, HSE and Verification.
+description: Programmes Discord tels que Discord Moderator Academy, Discord Partner, HypeSquad Events et Discord Certified Server.
 ---
 
-# Programs
+# Programmes
 
-## **Discord Moderator Ecosystem**
+## **Ecosystème des modérateurs de Discord**
 
-> **Description:** Official ecosystem for moderators to discuss moderation.   <br/>
+> **Description:** Écosystème officiel permettant aux modérateurs de discuter de la modération.   <br/>
 **Link(s):** [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
 [Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
 [Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view) <br/>
 [Discord Safety Ecosystem Components](https://docs.google.com/document/d/1rh4gAqymGPAqoi1gnzOw-_nIlgkkLvh233NAgNnq-Sw/edit#heading=h.80lk0cy481v7)  <br/>
 [Discord Safety Ecosystem Terminology Index](https://drive.google.com/file/d/1MZYnh165Z1d5BBLIq7ax_Ke6cx8WL64_/view)
 
-## **Partner Program**
+## **Programme de partenariat Discord**
 
-> **Description:** As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
-**Link:** [Discord Partner Program](https://dis.gd/partners)
+> **Description:** En tant que modèles pour l'ensemble de Discord, les serveurs partenaires sont des communautés dont les utilisateurs, qu'ils soient nouveaux ou vétérans, peuvent s'inspirer pour créer leurs propres communautés.   <br/>
+**Link:** [Programme de partenariat Discord](https://dis.gd/partners)
 
 ## **Hypesquad Events**
 
-> **Description:** The place to find information and apply for the HypeSquad Events program.   <br/>
+> **Description:** L'endroit où trouver des informations et postuler pour le programme HypeSquad Events.   <br/>
 **Link:** [HypeSquad Events](https://dis.gd/hypesquad)
 
-## **Verification Program**
+## **Programme de vérification**
 
-> **Description:** The place to find information and apply for the Verification program.   <br/>
-**Link:** [Verification Program](https://dis.gd/verification)
+> **Description:** L'endroit pour trouver des informations et postuler pour le programme de vérification.   <br/>
+**Link:** [Programme de vérification](https://dis.gd/verification)
 
-## **Student Hubs**
+## **Pôles étudiants**
 
-> **Description:** A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
-**Link:** [Student Hubs](https://dis.gd/studenthubs)
+> **Description:** Un endroit qui permet de rencontrer facilement des camarades de classe de votre école, de découvrir leurs communautés sur Discord et de partager vos propres serveurs pour que vos camarades de classe les rejoignent.   <br/>
+**Link:** [Pôles étudiants](https://dis.gd/studenthubs)
 
 ## **Discord Admin Community**
 
-> **Description:** Official server for server admins of all kind to assemble and exchange about community related subjects. <br/>
+> **Description:** Serveur officiel pour les administrateurs de serveurs de toutes sortes afin de se réunir et d'échanger sur des sujets liés à la communauté. <br/>
 **Link:** [Discord Admin Community](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
