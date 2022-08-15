@@ -1,7 +1,7 @@
 ---
 title: Enlaces divertidos
 sidebar_position: 12
-description: Enlaces divertidos
+description: Enlaces divertidos.
 ---
 
 # Enlaces divertidos
@@ -83,5 +83,5 @@ description: Enlaces divertidos
 <https://cat-bounce.com/> |  Gato rebotador <br />
 <https://txnor.com/mathchallenge> | Desafio de matematicas <br />
 <https://shouldiblamecaching.com/> | ¿Debo culpar al almacenamiento en caché?  <br/>
-https://emoji.supply/kitchen/ | Fusionador de emojis <br/>
-https://touch.grass.lol/ | Hazlo
+<https://emoji.supply/kitchen/> | Fusionador de emojis <br/>
+<https://touch.grass.lol/> | Hazlo

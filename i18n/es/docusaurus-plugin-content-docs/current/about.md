@@ -1,25 +1,25 @@
 ---
 title: Wiki
-sidebar_label: Acerca De
+sidebar_label: Acerca de
 sidebar_position: 1
 slug: /
 description: Una lista de toneladas de útiles recursos y utilidades de Discord para todo tipo de usuarios, desde principiantes hasta usuarios avanzados.
 ---
 
-# Acerca De
+# Acerca de
 
 ## Bienvenido a Discord Resources Wiki
 
-## Entonces, ¿que es esto?
+## Entonces, ¿qué es esto?
 
-El fundador de este proyecto, @755792681313108018, había estado buscando una buena y práctica lista de recursos de Discord que cubriera temas desde conocimientos básicos hasta utilidades avanzadas; una lista que todos los usuarios de Discord, desde principiantes hasta expertos, encontrarán útil. Pero no se pudo encontrar tal lista.
+El fundador de este proyecto, @755792681313108018, había estado buscando una lista de recursos de Discord útil que cubriera temas desde conocimientos básicos hasta utilidades avanzadas; una lista que todos los usuarios de Discord, desde principiantes hasta expertos, encontrarán útil. Pero no encontraba nada así.
 
 Y así, ¡una idea surgió!
-Con la ayuda de algunos amigos que conocen Discord, se creó **Discord Resources Wiki**. El proyecto terminó tomando meses de trabajo de investigación, organización y diseño para convertirse en lo que es hoy, y esperamos que lo encuentre útil.
+Con la ayuda de algunos amigos que conoce en Discord, se creó **Discord Resources Wiki**. El proyecto ha llevado meses de trabajo de investigación, organización y diseño para convertirse en lo que es hoy, y esperamos que lo encuentre útil.
 
 ## ¿Qué estoy viendo aquí?
 
-Agrupamos recursos similares en categorías y temas comunes, accesibles a la izquierda en el escritorio o con el icono de menú en el móvil. Cada recurso tiene una breve descripción de lo que es, seguido del enlace a donde se puede acceder, así como los créditos a los creadores.
+Agrupamos recursos similares en categorías y temas comunes, accesibles a la izquierda en el escritorio o con el icono de menú en el móvil. Cada recurso tiene una breve descripción de lo que es, seguido del enlace con el que acceder al recurso, así como los créditos a los creadores.
 
 ¡Este sitio se actualizará continua y frecuentemente a medida que encontremos más recursos que serían de ayuda para los usuarios de Discord en toda la plataforma!
 
@@ -35,6 +35,6 @@ Todas nuestras marcas y activos son de nuestra propiedad y fueron creados por @1
 
 ## Nota Personal
 
-Aunque es opcional, realmente agradeceríamos recibir crédito si le fuéramos de ayuda. Hacemos todo lo posible para investigar enlaces, organizar recursos y curarlos en el sitio web, y lo que ve es la culminación de meses de nuestro esfuerzo.
+Aunque es opcional, realmente agradeceríamos recibir crédito si le fuéramos de ayuda. Hacemos todo lo posible para investigar enlaces, organizar recursos y exponerlos en el sitio web, y lo que ve es la culminación de meses de nuestro esfuerzo.
 
 **Ayuda a tus amigos, mutuals, miembros de la comunidad y demás compartiendo este proyecto con ellos también!**

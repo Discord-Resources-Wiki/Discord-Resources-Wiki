@@ -1,10 +1,10 @@
 ---
-title: Formularios Oficiales
+title: Formularios oficiales
 sidebar_position: 3
 description: Formularios oficiales de discord.
 ---
 
-# Formularios Oficiales
+# Formularios oficiales
 
 ## **Formulario de informe**
 
@@ -13,12 +13,12 @@ description: Formularios oficiales de discord.
 
 ## **Formulario de soporte**
 
-> **Descripción:** ¿Necesitas ayuda? Envíe una solicitud al equipo de Discord. <br/>
+> **Descripción:** ¿Necesita ayuda? Envíe una solicitud al equipo de Discord. <br/>
 **Enlace:** [Formulario de soporte de Discord](https://dis.gd/contact)
 
 ## **Comentarios**
 
-> **Descripción:** Envía comentarios al equipo de Discord. <br/>
+> **Descripción:** Envíe comentarios al equipo de Discord. <br/>
 **Enlace:** [Formulario de comentarios de Discord](https://dis.gd/feedback)
 
 ## **Discord Confianza y seguridad**

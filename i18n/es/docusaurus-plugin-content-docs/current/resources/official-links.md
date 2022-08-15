@@ -1,7 +1,7 @@
 ---
-title: Enlaces Oficiales de Discord
+title: Enlaces oficiales de Discord
 sidebar_position: 4
-description: Enlaces Oficiales de Discord.
+description: Enlaces oficiales de Discord.
 ---
 # Enlaces oficiales de Discord
 
@@ -13,7 +13,7 @@ description: Enlaces Oficiales de Discord.
 ## **Cómo denunciar**
 
 > **Descripción:** Una guía sobre cómo informar adecuadamente los problemas al equipo de Confianza y Seguridad de Discord. <br/>
-**Enlace:** [Cómo informar](https://dis.gd/howtoreport) | [Artículo de DMA](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+**Enlace:** [Cómo informar](https://dis.gd/howtoreport) | [Artículo de DMA](https://dis.gd/dma104)
 
 ## **Cómo obtener ID de usuario**
 
@@ -29,7 +29,7 @@ description: Enlaces Oficiales de Discord.
 
 > **Descripción:** La herramienta oficial para generar texto para el comando !submit de DBug. El formulario lo guía paso a paso a través de cada entrada para generar automáticamente un comando para usted al final. <br/>
 **Enlace:** [Herramienta de errores de probadores](https://dis.gd/bug-tool) <br/>
-**Crédito:** @53905483156684800
+**Créditos:** @53905483156684800
 
 ## **Clientes de prueba de Discord**
 
@@ -38,7 +38,7 @@ description: Enlaces Oficiales de Discord.
 
 ## **Recursos de la comunidad de Discord**
 
-> **Descripción:** Recursos para configurar y mantener un servidor comunitario <br/>
+> **Descripción:** Recursos para configurar y mantener un servidor comunitario. <br/>
 **Enlace:** [Recursos de la comunidad](https://discord.com/community) <br/>
 
 ## **Academia de Moderadores de Discord**
@@ -51,7 +51,7 @@ description: Enlaces Oficiales de Discord.
 > **Descripción:** Una página wiki de Reddit que enumera todas las bibliotecas API de Discord. <br/>
 **Enlace:** [Lista de servidores de bibliotecas de Discord](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## **Discord de Código abierto**
+## **Discord de código abierto**
 
 > **Descripción:** Esta es la lista de origen de las comunidades OSS que usan y viven en Discord. <br/>
 **Enlaces:**
@@ -70,10 +70,10 @@ description: Enlaces Oficiales de Discord.
 > **Descripción:** Información sobre suscripciones a Nitro y Nitro Classic. <br/>
 **Enlace:** [Discord Nitro](https://dis.gd/nitro)
 
-## **Página de estado de Discord**
+## **Estado de Discord**
 
 > **Descripción:** Proporciona información sobre el estado actual de los servicios de Discord. <br/>
-**Enlace:** [Página de estado](https://dis.gd/status)
+**Enlace:** [Estado de Discord](https://dis.gd/status)
 
 ## **Portal para desarrolladores de Discord**
 
@@ -93,7 +93,7 @@ description: Enlaces Oficiales de Discord.
 ## **Último informe de transparencia**
 
 > **Descripción:** La actualización más reciente sobre las acciones y terminaciones del equipo de seguridad. <br/>
-**Enlace:** [Informe de transparencia más reciente](https://discord.com/blog/discord-transparency-report-h1-2021)
+**Enlace:** [Informe de transparencia más reciente](https://discord.com/blog/discord-transparency-report-q1-2022)
 
 ## **Kit de medios (nuevo) de Discord**
 

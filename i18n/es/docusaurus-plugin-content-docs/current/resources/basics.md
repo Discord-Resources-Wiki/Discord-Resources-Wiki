@@ -1,18 +1,18 @@
 ---
-title: Basico
+title: Básicos
 sidebar_position: 1
-description: Recursos basicos
+description: Recursos básicos.
 ---
 
-# Lo basico
+# Los básicos
 
-## **Condiciones de servicio de Discord**
+## **Términos de servicio de Discord**
 
 > **Descripción:** Los Términos de servicio de Discord son una política que debe aceptar el usuario al usar la plataforma. <br/>
 Incluye información que va desde los derechos de propiedad intelectual hasta la terminación de la cuenta.   <br/>
 **Enlace:** [Términos de servicio](https://dis.gd/terms)
 
-## **Politica de privacidad**
+## **Política de privacidad**
 
 > **Descripción:** Política de privacidad de Discord con respecto a la información de los usuarios.  <br/>
 **Enlace:** [Política de privacidad de Discord](https://discord.com/privacy)
@@ -20,7 +20,7 @@ Incluye información que va desde los derechos de propiedad intelectual hasta la
 ## **Directrices de la comunidad de Discord**
 
 > **Descripción:** Las directrices de la comunidad de Discord aclaran las restricciones y limitaciones dentro de la plataforma. <br/>
-Garantiza que todos los usuarios tengan una experiencia positiva y que los usuarios actúen con disciplina y buen comportamiento.   <br/>
+Garantiza que todos los usuarios tengan una experiencia positiva y actúen con disciplina y buen comportamiento.   <br/>
 **Enlace:** [Directrices de la comunidad](https://dis.gd/guidelines)
 
 ## **Blog de Discord**
@@ -33,15 +33,15 @@ Garantiza que todos los usuarios tengan una experiencia positiva y que los usuar
 > **Descripción:** El Subreddit no oficial de Discord.   <br/>
 **Enlace:** [Subreddit](https://www.reddit.com/r/discordapp/)
 
-## **Pagina de Twitter de Discord**
+## **Perfil de Discord en Twitter**
 
-> **Descripción:** La pagina oficial de Discord en Twitter.   <br/>
-**Enlace:** [Pagina de Twitter](https://twitter.com/discord)
+> **Descripción:** La página oficial de Discord en Twitter.   <br/>
+**Enlace:** [Perfil de Twitter](https://twitter.com/discord)
 
-## **Canal de Youtube de Discord**
+## **Canal de YouTube de Discord**
 
-> **Descripción:**  El canal oficial de Discord en Youtube.   <br/>
-**Enlace:** [Canal de Youtube](https://www.youtube.com/c/discord)
+> **Descripción:**  El canal oficial de Discord en YouTube.   <br/>
+**Enlace:** [Canal de YouTube](https://www.youtube.com/c/discord)
 
 ## **Centro de ayuda de Discord**
 
