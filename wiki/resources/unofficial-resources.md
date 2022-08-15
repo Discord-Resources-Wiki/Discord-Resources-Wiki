@@ -89,7 +89,7 @@ description: Unofficial resources for Discord.
 
 ## **Discord Markdown Guide**
 
-> **Desciption:** An in-depth guide for Discord markdown.  <br/>
+> **Description:** An in-depth guide for Discord markdown.  <br/>
 **Link:** [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
 **Credit:** @github:matthewzring
 
