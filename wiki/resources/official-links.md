@@ -14,7 +14,7 @@ description: Official links from Discord.
 ## **How to Report**
 
 > **Description:** A guide on how to properly report issues to Discord’s Trust and Safety team.   <br/>
-**Link:**  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+**Link:**  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://dis.gd/dma104)
 
 ## **How to get user IDs**
 
