@@ -1,13 +1,13 @@
 ---
-title: Best Discord Bots
+title: Beste Discord Bots
 sidebar_position: 2
-description: Discord bot recommendations
+description: Discord bot aanbevelingen
 ---
 
-# Best Discord Bots
-## **Moderation**
+# Beste Discord Bots
+## **Moderatie**
 ### **Zeppelin**
-> __Description:__ Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in mind.   <br/>
+> __Omschrijving:__ Zeppelin is a prive moderatie bot voor Discord, ontworpen met grote servers en  with large servers and betrouwbaarheid in gedachten.   <br/>
 __Link(s):__   <br/>
 [Zeppelin Website](https://zeppelin.gg/)   <br/>
 [Github](https://github.com/Dragory/ZeppelinBot)   <br/>
@@ -17,18 +17,18 @@ __Link(s):__   <br/>
 __Credit(s):__ @106391128718245888 @347727875266576395
 
 ### **GiselleBot**
-> __Description:__ Multi function, general moderation bot.   <br/>
+> __Omschrijving:__ Uitgebreide, algemene moderatie bot.   <br/>
 __Link:__ [GiselleBot](https://docs.gisellebot.com/)   <br/>
 __Credit(s):__  @220081163660689408 @200987752794292224
 
 ### **Vortex**
-> __Description:__  
-Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
+> __Omschrijving:__  
+Vortex is een bot ontworpen om je server veilig te houden en je staff team georganiseerd. De moderatie en logging features houden je members bij en houden je moderators verantwoordelijk. Zijn auto/moderatie mogelijkheden staan het toe om bepaalde types of gedrag te filteren zonder de tussenkomst van een persoon, wat de druk op het staffteam verlicht. Vortex is ontworpen om snel en makkelijk te gebruiken te zijn.   <br/>
 __Link:__ [Vortex](https://github.com/jagrosh/Vortex)   <br/>
 __Credit:__ @113156185389092864
 
 ### **GearBot**
-> __Description:__ Trustworthy general moderation bot.   <br/>
+> __Omschrijving:__ Betrouwbare algemene moderatie bot.   <br/>
 __Link(s):__   <br/>
 [GearBot Website](https://gearbot.rocks/)   <br/>
 [Invite GearBot](https://discord.com/oauth2/authorize?client_id=349977940198555660&scope=bot%20applications.commands&permissions=259191598326)   <br/>
@@ -36,57 +36,57 @@ __Credit:__ @106354106196570112
 
 
 ### **Fire**
-> __Description:__ A good moderation and utility bot which is always up-to-date.   <br/>
+> __Omschrijving:__ Een goede moderatie en tool bot welke altijd geupdate is.   <br/>
 __Link(s):__   <br/>
 [Fire Website](https://getfire.bot/)   <br/>
 [Invite Fire](https://inv.wtf/bot)   <br/>
 __Credit:__ @287698408855044097
 
 ### **AutoModerator** 
-> __Description:__ General auto-moderation bot, with buttons and dropdowns.   <br/>
+> __Omschrijving:__ Algemene auto/moderatie bot, met knopjes en dropdowns.   <br/>
 __Link:__ [AutoModerator Website](https://automoderator.app/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
 
 ### **Beemo**
-> __Description:__ Beemo is an anti-spam Discord bot that allows you to equip your server with a powerful anti-bot algorithm that operates in the background to stop user-bot raids against your server. Beemo's anti-bot mitigates bot raid threats automatically and effectively by mass-banning them on-sight with a fine-tuned detection algorithm that avoids real users.   <br/>
+> __Omschrijving:__ Beemo is eem anti-spam Discord bot dat het mogelijk maakt om je server een sterk anti-bot algoritme te geven welke in de achtergrond werkt om user-bot raids tegen te gaan. Beemo's anti-bot mitigates bot raid dreigingen automatisch en effectief door ze te bannen met behulp van een algorithme zodat echte gebruikers er geen last van hebben.   <br/>
 __Link:__ [Website](https://beemo.gg/)   <br/>
 __Credit:__ @192048286331437056
 
 ### **Beemo Helper (addition)**
-> __Description:__ Beemo Helper is designed to help Beemo (https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
+> __Omschrijving:__ Beemo Helper is ontworpen om Beemo (https://beemo.gg/) te helpen met het tegengaan van user bot raids. Zodra Beemo een raid detecteerd zal Beemo Helper helpen met het bannen van gebruikers, waardoor de snelheid verdubbeld wordt.   <br/>
 __Link(s):__   <br/>
 [Invite](https://redirects.polar.blue/beemohelper)   <br/>
 __Credit:__ @619284841187246090
 
 ### **Red Bot**
-> __Description:__ Red is a fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable. This is a self-hosted bot – meaning you will need to host and maintain your own instance. You can turn Red into an admin bot, music bot, trivia bot, and more!   <br/>
+> __Omschrijving:__ Red is een volledig modulaire bot – wat betekend dat alle features en commando's aan en uit gezet kunnen worden naar wens, wat het helemaal aanpasbaar maakt. Dit is een zelf gehoste bot – wat betekend dat je je eigen instance moet hosten en bij moet houden. Je kan Red in een Muziek bot, Trivia bot en nog veel meer veranderen!   <br/>
 __Link:__ [Red Bot](https://github.com/Cog-Creators/Red-DiscordBot) 
 
 
 ### **Crosslink**
-> __Description:__ Crosslink is a smart link detection and reputation service built to make link filtering convenient for moderators and community managers. With convenience at the forefront, configuration on Discord is made to be as simple as possible for the end user. Our reputation system takes third parties into account as well as our own local domain database to keep your community safe! 
+> __Omschrijving:__ Crosslink is een slimme link detectie en reputatie service gemaakt om het filteren van links makkeljk te maken voor moderators en community maangers. Met gemakt op nummer een is het configureren op Discord zo simpel mogelijk gemaakt voor de gebruiker. Onze reputatie systeem maakt maakt gebruik van 3rd parties mee maarr ook van onze eigen lokale database om je community veilig te houden! 
 __Link(s):__ 
 [Website](https://panleyent.com/crosslink/)   <br/>
 [Invite CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
-[Full Docs](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
+[Volledige Documentatie](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
 __Credit:__ @249287049482338305
 
 
 ### **Safelink** 
-> __Description:__ A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
+> __Omschrijving:__ Een bot die veschillende scams )Nitro scams, Steam scams en nog veel meer) kan detecteren, expliciete links, en veel meer met een custom interne API die gebruikmaakt van AI om de detectie constant te verbeteren.   <br/>
 __Link:__ [Safelink](https://safelink.gg/)   <br/>
 __Credit:__ @282565295351136256 @684155404078415890
 
 
 ### **Fish**
-> __Description:__ Fish is a bot made for auto-moderating phishing scam links. It has a few configuration options, like what action to take when a user posts a known scam link and the ability to exempt users/roles from link detection.   <br/>
+> __Omschrijving:__ Fish is een bot gemaakt voor het auto-moderaten op scam en phishing links. Het heeft een aantal configuratie opties, zoals welke actie de bot moet nemen wanneer een gebruiker een gevaarlijke link post en de mogelijkheid om bepaalde gebruikers/rollen niet mee te nemen in de automoderatie.   <br/>
 __Link(s):__   <br/>
 [Github](https://github.com/Benricheson101/anti-phishing-bot)   <br/>
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 __Credit:__ @255834596766253057
 
 ### **OterluBot**
-> __Description:__ A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
+> __Omschrijving:__ Een moderatie bot die gebruikt maakt van AI om haat en ongepast gedrag tegen een andere gebruiker te detecteren en te loggen, nsfw content. Geeft statistieken over de gezondheid van je server gebaseerd op de logs.  <br/>
 __Link:__ [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
 __Credit:__ @111891236792598528 @352832514819227655
 
@@ -94,59 +94,59 @@ __Credit:__ @111891236792598528 @352832514819227655
 ## **ModMail**
 
 ### **Dragory's ModMail** (self-host)
-> __Description:__ Modmail Bot is a bot for Discord that allows users to DM the bot to contact the server's moderators/staff without messaging them individually or pinging them publicly on the server. These DMs get relayed to ModMail threads, channels where staff members can reply to and talk with the user. To the user, the entire process happens in DMs with the bot.   <br/>
+> __Omschrijving:__ Modmail Bot is een bot voor Discord die het mogelijk maakt dat gebruikers de bot DM om de server´s moderators en staff te contacteren zonder hun direct te berichten. Deze DM´s worden naar ModMail threads en kanalen waar staff kan reageren en kan praten met de gebruiker. Voor de gebruiker gebeurd het hele proces in DM met de bot.   <br/>
 __Link(s):__   <br/>
 [GitHub](https://github.com/Dragory/modmailbot)   <br/>
 [Config Template](https://docs.google.com/spreadsheets/d/1YGsc0fTAgCXnV4zksDg4iUBsx_7alAYZZt6ojq3Rc10/edit#gid=0)   <br/>
 __Credit(s):__  @106391128718245888 @200987752794292224
 
 ### **Kyb3r's Modmail** (self-host)
-> __Description:__ Modmail is similar to Reddit's ModMail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.   <br/>
+> __Omschrijving:__ Modmail is vergelijkbaar met Reddit's ModMail, in functionaliteit en gebruik. Hij maakt gebruik van een gedeelde inbox for server staff om met the gebruikers te communiceren op een gemakkelijke manier.   <br/>
 __Link:__ [Kyb3r’s Modmail](https://github.com/kyb3r/modmail)   <br/>
 __Credit:__ @github:kyb3r
 
 ### **Support Bot** (self-host)
-> __Description:__ A simple and lightweight Discord support/automated help desk!   <br/>
+> __Omschrijving:__ Een simpele lichtgewicht helpdesk/support Discord bot!   <br/>
 __Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
 __Credit:__ @524371727812263948
 
-## **Utility Bots**
+## **Nuttige Bots**
 ### **OpenDiscordBots**
-> __Description:__ A collection of self-hostable, open-source simple Discord bots.  <br/>
+> __Omschrijving:__ Een collectie met simpele open-source Discord bots die je zelf kan hosten.  <br/>
 __Link(s):__   <br/>
 [OpenDiscordBots](https://opendiscordbots.com/)  <br/>
 [GitHub Org](https://github.com/OpenDiscordBots)  <br/>
 __Credit:__ @297045071457681409 @192060404501839872
 
 ### **RTS Bot**
-> __Description:__ Bot with mental health & wellness resources.   <br/>
+> __Omschrijving:__ Bot met hulpmiddelen voor je mentale gezondheid.   <br/>
 __Link:__ [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
 __Credit:__  @177886618714243073
 
 ### **Publisher**
-> __Description:__ auto publishes messages in announcements channels.   <br/>
+> __Omschrijving:__ Publiceerd berichten in mededeling kanalen automastich..   <br/>
 __Link:__ [Invite Publisher](https://discord.com/api/oauth2/authorize?client_id=739498075315241050&permissions=8192&scope=bot)   <br/>
 __Credit:__ @255834596766253057
 
 ### **Activities Bot**
-> __Description:__ Starts activities available for voice channels.   <br/>
+> __Omschrijving:__ Starts activiteiten beschikbaar voor spraakkanalen.   <br/>
 __Link:__ [Invite Activities Bot](https://discord.com/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)   <br/>
 __Credit:__ @190916650143318016
 
 ### **Reaction**
-> __Description:__ Easy-to-use bot to have buttons and dropdowns based reaction roles in your server.  <br/>
+> __Omschrijving:__ Een makkelijk te gebruiken bot om knop en dropdown gebaseerde reactie rollen te hebben in je server.  <br/>
 __Link(s):__ <br/>
 [Reaction Docs](https://rr.auttaja.io/)  <br/>
 [Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
 __Credit:__ @109710323094683648
 
 ### **Discord Status** (webhook)
-> __Description:__ Provides updates from the status website as embeds within Discord.   <br/>
+> __Omschrijving:__ Geeft updates vanaf de statuspagina als embeds in Discord.   <br/>
 __Link:__ [Invite Discord Status](https://discord.com/oauth2/authorize?client_id=662416455366737949&redirect_uri=https://discord-status.red-panda.red/auth/callback&response_type=code&scope=webhook.incoming%20applications.commands)   <br/>
 __Credit:__ @255834596766253057
 
 ### **Datamining Updates**
-> __Description:__ The bot publishes any authorized commits in [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
+> __Omschrijving:__ De bot publiceerd elke geauthorizeerde commit in [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
 __Link(s):__   <br/>
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
@@ -154,86 +154,86 @@ __Link(s):__   <br/>
 __Credit:__ @172557961133162496 @562415519454461962
 
 ### **Jagrosh's Music Bot** (self-host)
-> __Description:__ A music bot with step to step guide on self hosting.  <br/>
+> __Omschrijving:__ Een muziek bot met een stappenplan om hem zelf te hosten.  <br/>
 __Link:__ [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
 __Credit:__ @113156185389092864
 
 ### **Tone Indicator Bot**
-> __Description:__ Find and understand tone indicators.   <br/>
+> __Omschrijving:__ Vind en begrijp toon indicatoren.   <br/>
 __Link:__ [Invite Tone Indicator](https://discord.com/api/oauth2/authorize?client_id=896001578388033536&scope=applications.commands)   <br/>
 __Credit:__ @173815235243802624
  
 ### **AMA (Ask Me Anything)**
-> __Description:__ Assists with helping host and manage AMA's on Discord.   <br/>
+> __Omschrijving:__ Helpt met het hosten en beheren van AMA's op Discord.   <br/>
 __Link:__ [AMA Bot](https://automoderator.app/ama/)   <br/>
 __Credit:__ @223703707118731264 @104425482757357568
 
 ### **Suggester**
-> __Description:__ Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
+> __Omschrijving:__ Suggester is een Discord bot gefocust op het verzamelen van suggesties zodat server managers makkelijk feedback kunnen verzamelen.  <br/>
 __Link(s):__ [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
 [Suggester Docs](https://suggester.js.org/)  <br/>
 __Credit:__ @327887845270487041 @255834596766253057
 
 ### **NSFW-Toggle**
-> __Description:__ Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
+> __Omschrijving:__ Voegt the NSFW schakelaar toe. Handig voor de Mobiele app en speciaal iOS waar de schakelaar normaal niet zichtbaar is.  <br/>
 __Link:__ [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
 __Credit:__ @255834596766253057
 
 ### **ThreadPersist**
-> __Description:__ A bot that keeps all threads active, unless manually archived.  <br/>
+> __Omschrijving:__ Een bot die alle threads actief houd, behalve als je ze handmatig archiveert.  <br/>
 __Link(s):__ [Invite ThreadPersist](https://discord.com/api/oauth2/authorize?client_id=905481888318255105&permissions=17179870336&scope=bot)  <br/>
 [Self-Host ThreadPersist](https://github.com/OpenDiscordBots/ThreadPersist)  <br/>
 __Credit:__ @297045071457681409
 
 ### **CleanLeave**
-> __Description:__ Automatically remove user join messages when the user leaves the server.  <br/>
+> __Omschrijving:__ Verwijder automatisch de join berichten van een gebruiken wanneer de gebruiker je server verlaat.  <br/>
 __Link(s):__ [Invite CleanLeave](https://discord.com/api/oauth2/authorize?client_id=905922129571225600&permissions=8192&scope=bot)  <br/>
 [Self-Host CleanLeave](https://github.com/OpenDiscordBots/CleanLeave)  <br/>
 __Credit:__ @297045071457681409
 
 ### **Iris XP**
-> __Description:__ Easy to use, fully customisable XP bot.  <br/>
+> __Omschrijving:__ Makkelijk te gebruiken, compleet te aanpasbare XP bot.  <br/>
 __Link:__ [Invite Iris XP](https://discord.com/oauth2/authorize?client_id=910631134742851644&permissions=268699648&scope=bot%20applications.commands)  <br/>
 __Credit:__ @173815235243802624
 
 ### **Discord Invite Tracker** (self-host)
-> __Description:__ Track the invites in your servers to know who invited who and with which invite.  <br/>
+> __Omschrijving:__ Volg de invites in je servers en weet wie wie geinvite heeft en met welke invites.  <br/>
 __Link:__ [Discord Invite Tracker](https://github.com/Androz2091/discord-invites-tracker)  <br/>
 __Credit:__ @422820341791064085
 
 ### **WidgetBot**
-> __Description:__ Create good looking widgets for your websites.  <br/>
+> __Omschrijving:__ Maak mooie widgets voor je websites.  <br/>
 __Link:__ [WidgetBot](https://widgetbot.io/)  <br/>
 __Credit:__ @github:widgetbot-io
 
 ### **Wumplus**
-> __Description:__ Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
+> __Omschrijving:__ Nuttige bot voor dingen die gebruikers niet kunnen doen, zoals het openen van activiteiten, emotes vergrendelen en spellen zoeken.  <br/>
 __Link:__ [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
 __Credit:__ @305647182198079489 @852608147554172928
 
 ### **Antouto**
-> __Description:__ Antouto is a bot that lets you get extensive information about discord invites, servers, users, build overrides, and more!  <br/>
+> __Omschrijving:__ Antouto is een bot die je uitgebreide informatie geeft over discord invites, servers, users, build overrides en nog veel meer!  <br/>
 __Link:__ [Invite Antouto](https://discord.com/oauth2/authorize?client_id=652555142369116215&permissions=2214972481&scope=bot%20applications.commands)  <br/>
 __Credit:__ @316860714260234243
 
 ### **Craig**
-> __Description:__ A bot able to record one or more voice channels or stage channel at the time.  <br/>
+> __Omschrijving:__ Een bot met de mogelijkheid om een of meerdere spraak of stage kanelen op te nemen.  <br/>
 __Link(s):__  <br/> 
 [Craig Website](https://craig.chat/home/)  <br/>
 [Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
 __Credit:__ @171244192696238080
 
 ### **Tunes Ninja**
-> __Description:__ When a song link is posted in chat, Tunes Ninja will send an embed with the song in all popular music platforms.   <br/>
+> __Omschrijving:__ Als een muzieklink in de chat wordt geplaatst zal Tunes Ninja een embed sturen met links naar dat liedje op alle grote muziek platformen.   <br/>
 __Link:__ [Tunes Ninja Website](https://tunes.ninja/)   <br/>
 __Credit:__ @657057112593268756
 
 ### **StatusBot**
-> __Description:__ A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
+> __Omschrijving:__ Een bot dat het mogelijk maakt om je bot's performance te tracken en krijg notificaties wanneer incidenten gedetecteerd worden. <br/>
 __Link:__ [StatusBot](https://www.statusbot.gg/) <br/>
 __Credit:__ @282565295351136256
 
 ### **Forms**
-> __Description:__ Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
-__Link:__ [Demo, Documentation and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
+> __Omschrijving:__ Creëer unieke formulieren voor je server and verstuur inzendingen naar een channel naar keuze door gebruik te maken van webhooks. <br/>
+__Link:__ [Demo, Documentatie and Invite Link](https://gist.github.com/Antouto/8ab83d83482af7c516f0b2b42eaee940) <br/>
 __Credit:__ @316860714260234243

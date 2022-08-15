@@ -7,101 +7,101 @@ description: Programming related tools
 # Programming Related
 
 ### **Autocode**
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
+> __Omschrijving:__ Autocode veranderd JavaScript (Node.js) functies in een handomdraai in schaalbare webservices, geen configuratie nodig.   <br/>
 __Link:__ [Autocode](https://autocode.com/)  <br/>
 __Credit:__ @746460957651501196
 
 ### **Stack Overflow**
-> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
+> __Omschrijving:__ Een plek om antwoorden te vinden en om coding gerelateerde problemen te bespreken.  <br/>
 __Link:__ [Stack Overflow](https://stackoverflow.com/)
 
 ### **RapidAPI**
-> __Description:__ Find APIs to all purposes.  <br/>
+> __Omschrijving:__ Vind APIs voor alle doeleinden.  <br/>
 __Link:__ [RapidAPI](https://rapidapi.com/)
 
 ### **Some Random API**
-> __Description:__ Variety of fun endpoints for devs to use.  <br/>
+> __Omschrijving:__ Verschillende leuke functies voor programmeurs om te gebruiken.  <br/>
 __Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
 __Credit:__ @423675224395874314 
 
-### **Choose A License**
-> __Description:__ Choose a license for your open source project.   <br/>
-__Link:__ [Choose A License](https://choosealicense.com/)
+### **Kies een Licensie**
+> __Omschrijving:__ Kies een licensie voor je open source project.   <br/>
+__Link:__ [Kies een Licensie](https://choosealicense.com/)
 
 ### **Docker**
-> __Description:__ Simplifies development processes.   <br/>
+> __Omschrijving:__ Simplifies development processes.   <br/>
 __Link:__ [Docker](https://www.docker.com/)
 
 ### **Visual Studio Code**
-> __Description:__ Free and biggest code editing tool. <br/>
+> __Omschrijving:__ Gratis en grootste programma voor het bewerken van code. <br/>
 __Link:__ [Visual studio code](https://code.visualstudio.com)  
 
 ### **Docusaurus**
-> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
+> __Omschrijving:__ Een geoptimaliseerde site generator in React. Docusaurus helpt je om snel en makkelijk content te schrijven.   <br/>
 __Link:__ [Docusaurus](https://docusaurus.io/)
 
 ### **GitBook**
-> __Description:__ Create docs full of utilities and design options.  <br/>
+> __Omschrijving:__ Creëer documenten vol met hulpmiddelen en ontwerp opties.  <br/>
 __Link:__ [GitBook](https://www.gitbook.com/)
 
-### **GitHub’s Guides and Documentation**
-> __Description:__ Self explanatory.   <br/>
+### **GitHub’s Documentatie**
+> __Omschrijving:__ Spreekt voor zichzelf.   <br/>
 __Link(s):__ 
-[Docs](https://docs.github.com/en)   <br/>
-[Guides](https://guides.github.com/)   <br/>
+[Documentatie](https://docs.github.com/en)   <br/>
+[Gidsen](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
 ### **Github Education Pack**
-> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
+> __Omschrijving:__ Gratis Developer Tools geleverd door Github Education Pack   <br/>
 __Link:__ [Github Education Pack](https://education.github.com/)
 
-### **Public APIs**
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
+### **Publiekelijke APIs**
+> __Omschrijving:__ Publiekelijke API's is een goed bijgehoude lijst met API's om te gebruiken in je projecten, waar elke API is gecategoriseerd en gedocumenteerd.   <br/>
 __Link:__ [Public APIs](https://github.com/public-apis/public-apis)
 
 ### **HTTPS Statuses**
-> __Description:__ A list of HTTP status codes.   <br/>
+> __Omschrijving:__ Een lijst met HTTP status codes.   <br/>
 __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 
-### **Does My Site Need HTTPS?**
-> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
-__Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+### **Heeft mijn site HTTPS nodig?**
+> __Omschrijving:__ Een informatieve website die je uitlegd waarvoor je HTTPS nodig hebt..  <br/>
+__Link:__ [Heeft mijn site HTTPS nodig?](https://doesmysiteneedhttps.com/)
 
 ### **HTTP Toolkit**
-> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
+> __Omschrijving:__ Onderschep & bekijk al je HTTP(S) endpoints of complete servers. Herschrijf, Leid om of voeg errors toe.  <br/>
 __Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 __Credit:__ github:@pimterry
 
-### **Markdown Guide**
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
-__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+### **Markdown Gids**
+> __Omschrijving:__ De Markdown Gids is een gratis en open-source referentie gids die je uitlegd hoe je Markdown gebruikt. Markdown is een simpele en makkelijk te gebruiken taal die je kan gebruiken om virtueel elk document op te maken.   <br/>
+__Link:__ [Markdown Gids](https://www.markdownguide.org/)
 
 ### **Qwerty.dev**
-> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
+> __Omschrijving:__ Qwerty.dev (voorheen beautifuldingbats.com) is een collectie met unicode tools die je helpen online op te vallen.   <br/>
 __Link:__ [Qwerty.dev](https://qwerty.dev/)
 
 ### **replit**
-> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
+> __Omschrijving:__ Een in-browser IDE, compiler, en code-interpreter die meer dan 50+ talen support.   <br/>
 __Link:__ [replit](https://replit.com/)
 
 ### **Regex101**
-> __Description:__ Build, test, and debug regex.   <br/>
+> __Omschrijving:__ Bouw, test, en debug regex.   <br/>
 __Link:__ [Regex101](https://regex101.com/)
 
 ### **RegExp Generator**
-> __Description:__ Unicode range RegExp generator.   <br/>
+> __Omschrijving:__ Unicode RegExp generator.   <br/>
 __Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
 ### **Regex Crossword**
-> __Description:__ Learn regex through puzzles and challenges.   <br/>
+> __Omschrijving:__ Leer regex door puzzels en challenges.   <br/>
 __Link:__ [Regex Crossword](https://regexcrossword.com/)
 
-### **Guide(s) to contributing on Open Source Software**
-> __Description:__ A list of various resources to help OSS contributors. <br/>
-__Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+### **Gidsen over het bijdragen aan open source software**
+> __Omschrijving:__ Een lijst met verschillende hulpbronnen om OSS bijdragers te helpen. <br/>
+__Link:__ [Hoe draag je bij aan open source software](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 __Credit:__ @github:freeCodeCamp
 
-### **Big List of Nasty Strings**
-> __Description:__ A list of strings to help test for edge cases <br/>
+### **Grote lijst met vervelende woorden**
+> __Omschrijving:__ Een lijst met woorden om je te helpen te testen voor A list of strings to help test for edge cases <br/>
 __Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 __Credit:__ @github:minimaxir

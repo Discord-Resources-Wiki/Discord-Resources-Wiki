@@ -2,53 +2,53 @@
 title: Contribution
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Een lijst met heel veel handige discord hulpbronnen voor alle gebruikers, van beginners tot powerusers.
 ---
 
 # Contribution
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Heb je een error of typfout gevonden? Heb je een goede hulpbron gevonden die in deze lijst past? Wordt een bijdrager en kom op de roemrijke lijst met bijdragers hieronder!<br/>
+Om bij te dragen ben je meer dan welkom om een PR te maken of om een DM te sturen naar @755792681313108018 om de wiki te bewerken.
+Je kan ook de [Officiële Project Guild](https://discord.gg/yxbqz9pNxS) om daar bijdrages te doen.
 
 ## Contributors
 
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@856780995629154305 - Website Maintainer <br/>
+Dit project heeft meer dan één paar handen gekost, en we zijn er trots op dat dit team van bijdragers ons heeft geholpen met dit project!<br/>
+We willen de volgende personen graag bedanken:<br/>
+@856780995629154305 - Website Onderhouder <br/>
 @347727875266576395 - Wiki Architect <br/>
 @391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Community & Content Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
+@363481883369013259 - GitHub Manager / Documentatie Organizateur<br/>
+@337654195526303746 - Hulpbronnen Onderzoeker / Onderhouder<br/>
+@337104786593939456 - Documentatie Organizateur<br/>
+@485676072176713729 - Hulpbronnen Onderzoeker / Onderhouder<br/>
+@762387276595724308 - Hulpbronnen Onderzoeker / Onderhouder<br/>
+@378537973215657984 - Community & Content Manager / Documentatie Organizateur<br/>
+@287711497118023692 - Hulpbronnen Onderzoeker / Documentatie Organizateur<br/>
 @192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*
+@386861188891279362 - Website Architect / Documentatie Organizateur<br/>
+@102102717165506560 - Groeiadvies en Hulpbron curator<br/>
+@755792681313108018 - *Ik had dit idee en heb al het bovenstaande gedaan*
 
-## How to test changes locally
+## Hoe veranderen lokaal te testen
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
-If you're in a fork of the repository it's as easy as running these 2 commands:
+Heb je een geweldige PR maar weet je niet hoe het eruit ziet? Geen probleem!<br/>
+Als je in een fork van de repository zit dan hoef je alleen deze 2 commando's uit te voeren:
 
 ```
 npm install
 ```
 
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
+Dit downloads alle respositories die ons documentatie systeem (Docusaurus) nodig heeft. Dit hoef je maar een keer uit te voeren.
 
 ```
 npm start
 ```
 
-This command starts the web server (``localhost:3000`` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
+Dit commando start de webserver (Standaard op ``localhost:3000``) en moet je elke keer als je iets wil aanpassen uitvoeren.
+Je hoeft het niet voor elke wijziging opnieuw uit te voeren, omdat Docusaurus de webserver automatisch herstart als het wijzigingen detecteert.
 
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Als het gelukt is om lokaal de website te draaien ben je klaar om bij te dragen!
+Notities: Gebruik ``<br/>`` voor regeleindes<br/>
+Vereist Node.js versie >= ``12.13.0``
+Als je Yarn gebruikt: Yarn versie >= ``1.5``

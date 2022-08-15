@@ -1,44 +1,44 @@
 ---
 title: Phishing Related 
 sidebar_position: 4
-description: Phishing and Security tools
+description: Phishing en Veiligheid tools
 ---
 
-# Phishing Related
+# Phishing Gerelateerd
 
 ### **Discord Nitro Scams**
-> __Description:__ This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-__Link:__ [Discord Nitro Information](https://dicsord.gq/)
+> __Omschrijving:__ Deze **veilige** website (*geen scam*) vergelijkt echte Discord Nitro gifts tegen scams. Pas op!   <br/>
+__Link:__ [Discord Nitro Informatie](https://dicsord.gq/)
 
-### **Virus Total**
-> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
-__Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
+### **Virus Totaal**
+> __Omschrijving:__ Virus Totaal analyseerd verdachte bestanden en URL's tegen verschillende type malware.   <br/>
+__Link:__ [Virus Totaal](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+> __Omschrijving:__ ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologien en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
 __Link(s):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
 __Credit:__ @github:KevinRoebert
 
 
-### **Gits of Scam Links**
-> __Description:__ GitHub repositories full of scam links.   <br/>
+### **Gits met Scam Links**
+> __Omschrijving:__ GitHub repositories vol met scam links.   <br/>
 __Link(s):__  
-[Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
+[Block Lijst Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
-[ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/)   <br/>
-[Jagrosh's List](https://github.com/jagrosh/Vortex/tree/master/lists)   <br/>
+[ZeroTwo Bot Lijst](https://github.com/ZeroTwo-Bot/anti-fish-lists/)   <br/>
+[Jagrosh's Lijst](https://github.com/jagrosh/Vortex/tree/master/lists)   <br/>
 [Pihole Blocklist](https://github.com/mhhakim/pihole-blocklist/)   <br/>
-[Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
-[WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
+[Elkbr's Lijst](https://github.com/elbkr/bad-websites)  <br/>
+[WalshyDev's Lijst](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### **Database full of malicious links**
-> __Description:__ Self explanatory. 🔢   <br/>
-__Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
+### **Database vol met kwaadaardige links**
+> __Omschrijving:__ Spreekt voor zichzelf.. 🔢   <br/>
+__Link:__ [Kwaadaardige Links Database](https://urlhaus.abuse.ch/browse/)
 
-### **Phishing Recognizing Tools**
-> __Description:__ Many tools to help you recognize phishing and compromised sites.  <br/>
+### **Phishing Herkennings Tools**
+> __Omschrijving:__ Veel tools om je te helpen phising en gehackte sites te herkennen.  <br/>
 __Link(s):__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
@@ -54,7 +54,7 @@ __Link(s):__ <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ### Phishing APIs 
-> __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
+> __Omschrijving:__ Dit zijn APIs en tools om phishing pogingen tegen te gaan.   <br/>
 __Link(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
@@ -63,21 +63,21 @@ __Link(s):__ <br/>
 [Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
 [Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
-[Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
+[Zwarte lijst met domeinen](https://api.hyperphish.com/gimme-domains) <br/>
 [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
 [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
 [Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ### **Phisherman** 
-> __Description:__   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
+> __Omschrijving:__   <br/>
+Phisherman is een centrale database met phising en scam linkjes. Het is ontworpen om gebruikt te worden in Discord bots, wat hen de mogelijkheid geeft om met de Phisherman API URL's te checken of ze in de Phisherman database staan.   <br/>
 __Link(s):__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
 ### **The Vaccinator**
-> __Description:__ A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-__Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
+> __Omschrijving:__ Een tool om Discord token grabbers te detecteren en te neutraliseren door hun interne Discord webhook te verwijderen. <br/>
+__Note:__ Dit is **geen** antivirus. Het is alleen een tool die kan helpen dat scammers andere mensen hun data krijgen. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
-__Credit:__ The Vaccinator Team (contact: @204414611578028034)
+__Credit:__ Het Vaccinator Team (contact: @204414611578028034)
