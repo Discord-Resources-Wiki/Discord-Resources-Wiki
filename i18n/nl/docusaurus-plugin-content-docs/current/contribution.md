@@ -28,7 +28,7 @@ We willen de volgende personen graag bedanken:<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website Architect / Documentatie Organizateur<br/>
 @102102717165506560 - Groeiadvies en Hulpbron curator<br/>
-@755792681313108018 - *Ik had dit idee en heb al het bovenstaande gedaan*
+@755792681313108018 - *Ik had dit idee en heb al het bovenstaande gedaan*<br/>
 @480495309491798037 - <http://discord.wiki/> Doorstuur eigenaar <br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker
 
@@ -49,7 +49,7 @@ git clone https://github.com/jouwgebruikersnaam/Discord-Resources-Wiki
 ```
 
 Daarna, open de `Discord-Resources-Wiki` folder en run het volgende command:
-  
+
 ```mdx-code-block
 <Tabs>
 <TabItem value="npm">
