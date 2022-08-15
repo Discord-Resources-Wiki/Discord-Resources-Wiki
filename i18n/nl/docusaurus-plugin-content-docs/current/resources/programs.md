@@ -20,9 +20,9 @@ __Link:__ [Discord Partner Programma](https://dis.gd/partners)
 > __Beschrijving:__ De plek om informatie te vinden en je aan te melden voor het HypeSquad Events programma.   <br/>
 __Link:__ [HypeSquad Evenementen](https://dis.gd/hypesquad)
 
-### **Verificatie Programma**
+### **Verificatieprogramma**
 > __Beschrijving:__ De plek om informatie te vinden en het Verificatieprogramma aan te vragen.   <br/>
-__Link:__ [Verificatie Programma](https://dis.gd/verification)
+__Link:__ [Verificatieprogramma](https://dis.gd/verification)
 
 ### **Studentenhubs**
 > __Beschrijving:__ Een plek die het gemakkelijk maakt om klasgenoten van je school te ontmoeten, hun gemeenschappen op Discord te ontdekken en je eigen servers te delen zodat klasgenoten lid kunnen worden.   <br/>
