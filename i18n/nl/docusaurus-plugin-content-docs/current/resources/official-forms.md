@@ -1,24 +1,24 @@
 ---
-title: Official Forms
+title: Officiële formulieren
 sidebar_position: 3
-description: Official forms from discord.
+description: Officiële formulieren van Discord.
 ---
 
-# Official Forms
+# Officiële formulieren
 
-## **Report Form** 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
+## **Rapporteer formulier** 
+> __Description:__ Rapporteer een probleem aan het Trust & Safety Team van Discord.   <br/>
 __Link:__ [Discord Report Form](https://dis.gd/report)
 
-## **Support Form** 
+## **Support formulier** 
 > __Description:__ Need help? Submit a request to the Discord team.   <br/>
 __Link:__  [Discord Support Form](https://dis.gd/contact)
 
 ## **Feedback** 
-> __Description:__ Submit feedback to the Discord team.   <br/>
+> __Description:__ Verstuur feedback naar het Discord team.   <br/>
 __Link:__  [Discord Feedback Form](https://dis.gd/feedback)
 
 
 ## **Discord Trust & Safety** 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
+> __Description:__ Dien een verzoek in bij Discord's Trust & Safety-team.   <br/>
 __Link:__ [Discord TnS](https://dis.gd/request)
