@@ -1,18 +1,18 @@
 ---
-title: Programming Related 
+title: Programmeer gerelateerd 
 sidebar_position: 2
-description: Programming related tools
+description: Programmeer gerelateerde tools
 ---
 
 # Programming Related
 
 ### **Autocode**
-> __Omschrijving:__ Autocode veranderd JavaScript (Node.js) functies in een handomdraai in schaalbare webservices, geen configuratie nodig.   <br/>
+> __Omschrijving:__ Autocode verandert JavaScript (Node.js) functies in een handomdraai in schaalbare webservices, geen configuratie nodig.   <br/>
 __Link:__ [Autocode](https://autocode.com/)  <br/>
 __Credit:__ @746460957651501196
 
 ### **Stack Overflow**
-> __Omschrijving:__ Een plek om antwoorden te vinden en om coding gerelateerde problemen te bespreken.  <br/>
+> __Omschrijving:__ Een plek om antwoorden te vinden en om programmeer gerelateerde problemen te bespreken.  <br/>
 __Link:__ [Stack Overflow](https://stackoverflow.com/)
 
 ### **RapidAPI**
@@ -29,7 +29,7 @@ __Credit:__ @423675224395874314
 __Link:__ [Kies een Licensie](https://choosealicense.com/)
 
 ### **Docker**
-> __Omschrijving:__ Simplifies development processes.   <br/>
+> __Omschrijving:__ Versimpelt programmeer processen.   <br/>
 __Link:__ [Docker](https://www.docker.com/)
 
 ### **Visual Studio Code**
@@ -68,7 +68,7 @@ __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 __Link:__ [Heeft mijn site HTTPS nodig?](https://doesmysiteneedhttps.com/)
 
 ### **HTTP Toolkit**
-> __Omschrijving:__ Onderschep & bekijk al je HTTP(S) endpoints of complete servers. Herschrijf, Leid om of voeg errors toe.  <br/>
+> __Omschrijving:__ Onderschep & bekijk al je HTTP(S) endpoints of complete servers. Herschrijf, leid om of voeg errors toe.  <br/>
 __Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 __Credit:__ github:@pimterry
 
