@@ -161,7 +161,7 @@ description: Other useful tools
 
 ## **ShareX**
 
-> **Description:** Best sharing app.  
+> **Description:** Screen capture, file sharing and productivity tool.
 **Link:** [ShareX](https://getsharex.com/)   <br/>
 **Credit:** @95576568025329664
 
