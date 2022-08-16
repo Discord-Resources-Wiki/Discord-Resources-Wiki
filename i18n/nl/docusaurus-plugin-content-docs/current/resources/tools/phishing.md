@@ -1,21 +1,21 @@
 ---
-title: Phishing Related 
+title: Phishing gerelateerd 
 sidebar_position: 4
-description: Phishing en Veiligheid tools
+description: Phishing en veiligheid tools
 ---
 
-# Phishing Gerelateerd
+# Phishing gerelateerd
 
 ### **Discord Nitro Scams**
 > __Omschrijving:__ Deze **veilige** website (*geen scam*) vergelijkt echte Discord Nitro gifts tegen scams. Pas op!   <br/>
 __Link:__ [Discord Nitro Informatie](https://dicsord.gq/)
 
 ### **Virus Totaal**
-> __Omschrijving:__ Virus Totaal analyseerd verdachte bestanden en URL's tegen verschillende type malware.   <br/>
+> __Omschrijving:__ Virus Totaal analyseert verdachte bestanden en URL's tegen verschillende type malware.   <br/>
 __Link:__ [Virus Totaal](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
-> __Omschrijving:__ ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologien en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
+> __Omschrijving:__ ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologieën en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
 __Link(s):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
@@ -78,6 +78,6 @@ __Link(s):__   <br/>
 
 ### **The Vaccinator**
 > __Omschrijving:__ Een tool om Discord token grabbers te detecteren en te neutraliseren door hun interne Discord webhook te verwijderen. <br/>
-__Note:__ Dit is **geen** antivirus. Het is alleen een tool die kan helpen dat scammers andere mensen hun data krijgen. <br/>
+__Note:__ Dit is **geen** antivirus. Het is alleen een hulpprogramma dat kan helpen voorkomen dat oplichters gegevens van andere mensen krijgen. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
 __Credit:__ Het Vaccinator Team (contact: @204414611578028034)
