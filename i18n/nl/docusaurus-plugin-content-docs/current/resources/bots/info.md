@@ -1,7 +1,7 @@
 ---
-title: Information & Lists
+title: Informatie & lijsten
 sidebar_position: 1
-description: Bot informations and lists
+description: Bot informatie en lijsten
 ---
 
 # Information & Lists
