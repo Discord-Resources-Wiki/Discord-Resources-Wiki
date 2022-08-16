@@ -13,7 +13,7 @@ __Credit:__ [ModPod team](https://modcast.network/meet-the-team/)
 
 ### **Discord Moderator Academy**
 > __Description:__ Discord's officiële bronnen voor moderators, geschreven door moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
+__Link:__ [Discord Moderator Academy](https://dis.gd/moderation) 
 __Credit:__ Multiple Authors (Discord Moderator Ecosystem)
 
 ### **Discord Moderator Ecosystem** 
