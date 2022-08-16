@@ -58,7 +58,7 @@ description: Phishing and Security tools
 [McAfee URL Checker](https://www.trustedsource.org/)  <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
-## Phishing APIs
+## **Phishing APIs**
 
 > **Description:** These are APIs and tools to handle phishing attempts.   <br/>
 **Link(s):** <br/>
