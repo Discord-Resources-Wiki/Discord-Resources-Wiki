@@ -1,36 +1,36 @@
 ---
-title: Moderation
+title: Moderacja
 sidebar_position: 6
-description: Moderation resources
+description: Zasoby moderacyjne
 ---
 
-# Moderation
+# Moderacja
 
-### **Modcast Podcast** (recently affiliated)
-> __Description:__ A podcast by moderators for moderators.   <br/>
-__Link:__ [Modcast Podcast](https://modcast.network/)   <br/>
-__Credit:__ [ModPod team](https://modcast.network/meet-the-team/) 
+### **Podcast Modcast** (ostatnio stowarzyszony)
+> __Opis:__ Podcast autorstwa moderatorów dla moderatorów.   <br/>
+__Link:__ [Podcast Modcast](https://modcast.network/)   <br/>
+__Uznanie:__ [Zespół ModPod](https://modcast.network/meet-the-team/) 
 
-### **Discord Moderator Academy**
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-__Credit:__ Multiple Authors (Discord Moderator Ecosystem)
+### **Akademia Moderatorów Discorda**
+> __Opis:__ Oficjalne zasoby Discorda dla moderatorów, napisane przez moderatorów.   <br/>
+__Link:__ [Akademia Moderatorów Discorda](https://dis.gd/moderation)   <br/>
+__Uznanie:__ Wielu autorów (Ekosystem moderatorów Discorda)
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+### **Ekosystem moderatorów Discorda** 
+> __Opis:__ Oficjalny ekosystem dla moderatorów do dyskusji o moderacji.   <br/>
+__Link:__ [Ekosystem moderatorów Discorda](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-### **Naviking’s Moderation Templates & Tools Documentation**
-> __Description:__ A drive file full of moderation resources.   <br/>
-__Link:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-__Credit:__ @200987752794292224
+### **Dokumentacja szablonów i narzędzi moderacyjnych Navikinga**
+> __Opis:__ Dysk pełen zasobów moderacyjnych.   <br/>
+__Link:__ [Dokumentacja szablonów i narzędzi Navikinga](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+__Uznanie:__ @200987752794292224
 
-### **Moderation Guidelines**
-> __Description:__ A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
-__Link:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-__Credit:__ @366652352125599744
+### **Wytyczne dotyczące moderowania**
+> __Opis:__ Szablon pomagający nowym pracownikom w onboardingu i zrozumieniu praktyk moderacyjnych serwera.   <br/>
+__Link:__ [Wytyczne dotyczące moderowania](https://staff-guidelines.super.site/)   <br/>
+__Uznanie:__ @366652352125599744
 
-### **A Guide To Civil Conversation**
-> __Description:__ Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
+### **Przewodnik po cywilnej rozmowie**
+> __Opis:__ Rozbudowany, a zarazem dopracowany zestaw zasad społecznościowych, mający na celu zmniejszenie pracy moderatorów.   <br/>
 __Link:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-__Credit:__ @102102717165506560
+__Uznanie:__ @102102717165506560
