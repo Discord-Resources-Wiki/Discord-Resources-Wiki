@@ -1,49 +1,49 @@
 ---
-title: Basics
+title: Podstawy
 sidebar_position: 1
-description: Basic resources
+description: Podstawowe zasoby
 ---
 
-# The Basics
+# Podstawy
 
-## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## **Warunki korzystania z serwisu Discord** 
+> __Opis:__ Warunki korzystania z serwisu Discord to zasady, na które musisz się zgodzić, korzystając z platformy.   <br/>
+Zawierają one informacje od praw własności intelektualnej po likwidację konta.   <br/>
+__Link:__ [Warunki korzystania z serwisu](https://dis.gd/terms)
 
-## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
-__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+## **Polityka prywatności Discorda**
+> __Opis:__ Polityka prywatności Discorda dotycząca informacji o użytkownikach.  <br/>
+__Link:__ [Polityka prywatności Discorda](https://discord.com/privacy)
 
-## **Discord Community Guidelines**
-> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
-It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-__Link:__ [Community Guidelines](https://dis.gd/guidelines)
+## **Wytyczne dla społeczności Discorda**
+> __Opis:__ W zasadach dla społeczności Discorda wyjaśniono ograniczenia i restrykcje dotyczące tej platformy.   <br/>
+Dzięki temu wszyscy mają pozytywne doświadczenia, a użytkownicy zachowują się w sposób zdyscyplinowany i dobrze wychowany.   <br/>
+__Link:__ [Wytyczne dla społeczności](https://dis.gd/guidelines)
 
-## **Discord Blog**
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-__Link:__ [Discord Blog](https://discord.com/blog)
+## **Blog Discorda**
+> __Opis:__ Blog Discorda zawiera ogłoszenia, aktualizacje, poradniki i zasoby; wszystko związane z Discordem.   <br/>
+__Link:__ [Blog Discorda](https://discord.com/blog)
  
-## **Discord Subreddit**
-> __Description:__ The unofficial Discord Subreddit.   <br/>
-__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+## **Subreddit Discorda**
+> __Opis:__ Nieoficjalny subreddit Discorda.   <br/>
+__Link:__ [Subreddit Discorda](https://www.reddit.com/r/discordapp/)
 
-## **Discord Twitter Page**
-> __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+## **Strona Twitter Discorda**
+> __Opis:__ Oficjalna strona Discorda na Twitterze.   <br/>
+__Link:__ [Strona Twitter Discorda](https://twitter.com/discord)
 
-## **Discord Youtube Page**
-> __Description:__  The official Discord page on Youtube.   <br/>
-__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+## **Strona Youtube Discorda**
+> __Opis:__  Oficjalna strona Discorda na Youtube.   <br/>
+__Link:__ [Strona Youtube Discorda](https://www.youtube.com/c/discord)
 
-## **Discord Help Center**
-> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
-__Link:__ [Discord Help Center](https://support.discord.com)
+## **Centrum pomocy Discorda**
+> __Opis:__ Oficjalna strona nawigacyjna Discorda pełna przydatnych artykułów pomocniczych na każdy temat.   <br/>
+__Link:__ [Centrum pomocy Discorda](https://support.discord.com)
 
-## **Discord Safety Center**
-> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-__Link:__ [Discord Safety Center](https://discord.com/safety)
+## **Centrum Bezpieczeństwa Discorda**
+> __Opis:__ Strona zawierająca informacje o ochronie prywatności w Internecie oraz informacje dla rodziców i wychowawców o tym, jak chronić siebie i swoje dzieci w sieci.  <br/>
+__Link:__ [Centrum Bezpieczeństwa Discorda](https://discord.com/safety)
 
-## **Client Downloads**
-> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discord.com/download)
+## **Pobrania dla klientów**
+> __Opis:__ Wszystkie oficjalne klienty Discorda do pobrania. (Pobierz Discord!)   <br/>
+__Link:__ [Klienty Discorda](https://discord.com/download)
