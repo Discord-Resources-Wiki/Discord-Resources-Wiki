@@ -12,11 +12,11 @@ __Link:__ [Discord Website](https://dis.gd/)
 
 ## **Hoe te rapporteren**
 > __Description:__ Een handleiding voor het correct melden van problemen aan het Trust and Safety-team van Discord.   <br/>
-__Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+__Link:__  [How te rapporteren](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
 ## **Hoe krijg je een ID** 
 > __Description:__Een handleiding voor het vinden van ID's.   <br/>
-__Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
+__Link:__  [Hoe krijg je een User/Server/Berichten ID](https://dis.gd/findmyid)
 
 ## **Discord Bugs**
 > __Description:__ De officiële tool om gemelde en geaccepteerde bugs te bekijken. <br/>
@@ -29,7 +29,7 @@ __Credit:__ @53905483156684800
 
 ## **Discord-testclients**
 > __Description:__ Een handleiding voor het downloaden en gebruiken van Discord-testclients voor alle platformen.   <br/>
-__Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+__Link:__ [Testclients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
 ## **Discord Moderator Academy** 
 > __Description:__ Discord’s officiële bronnen voor moderatoren, geschreven door moderatoren.   <br/>
@@ -37,7 +37,7 @@ __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
 
 ## **Discord Libraries Servers Lijst**
 > __Description:__ Een Reddit-wikipagina met alle Discord API-bibliotheken.   <br/>
-__Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+__Link:__ [Discord Libraries Server Lijst](https://www.reddit.com/r/discordapp/wiki/developers)
 
 ## **Discord Open Source**
 > __Description:__ Dit is de bronlijst van OSS-gemeenschappen die Discord gebruiken en er op leven.   <br/>
@@ -55,15 +55,15 @@ __Link:__ [Discord Nitro](https://dis.gd/nitro)
 
 ## **Discord Status Pagina**
 > __Description:__ Geeft informatie over de huidige status van de Discord-services.   <br/>
-__Link:__ [Status Page](https://dis.gd/status)
+__Link:__ [Status Pagina](https://dis.gd/status)
 
 ## **Discord Developer Portaal**
 > __Description:__ De belangrijkste website voor ontwikkelaars om hun apps, teams, OAuth2-scopes en meer te beheren.    <br/>
-__Link:__ [Discord Developer Portal](https://discord.com/developers/)
+__Link:__ [Discord Developer Portaal](https://discord.com/developers/)
 
 ## **Discord Developer Documenten**
 > __Description:__ De documenten waarin wordt beschreven hoe alle soorten interacties worden afgehandeld, en een hulpmiddel voor botontwikkelaars.   <br/>
-__Link:__ [Discord Developer Docs](https://discord.dev/)
+__Link:__ [Discord Developer Documenten](https://discord.dev/)
 
 ## **Discord Security Bug Bounties**
 > __Description:__ De plek om beveiligingsproblemen binnen Discord in te dienen.   <br/>
