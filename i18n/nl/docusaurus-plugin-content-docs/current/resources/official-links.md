@@ -12,7 +12,7 @@ __Link:__ [Discord Website](https://dis.gd/)
 
 ## **Hoe te rapporteren**
 > __Description:__ Een handleiding voor het correct melden van problemen aan het Trust and Safety-team van Discord.   <br/>
-__Link:__  [How te rapporteren](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+__Link:__  [Hoe te rapporteren](https://dis.gd/howtoreport) | [DMA artikel](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
 ## **Hoe krijg je een ID** 
 > __Description:__Een handleiding voor het vinden van ID's.   <br/>
@@ -76,6 +76,6 @@ __Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transpar
 ## **Discord’s (nieuwe) Media Kit**
 > __Description:__ Discord’s officiële middelen.   <br/>
 __Link:__ <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
+[Discord (New) Media Kit - Directe Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[Discord Branding Pagina](https://discord.com/branding)
 
