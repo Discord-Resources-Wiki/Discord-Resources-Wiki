@@ -1,81 +1,81 @@
 ---
-title: Official Discord Links
+title: Oficjalne linki od Discorda
 sidebar_position: 4
-description: Official links from discord.
+description: Oficjalne linki od Discorda.
 ---
 
-# Official Discord Links
+# Oficjalne linki Discorda
 
-## **Discord Website**
-> __Description:__ Imagine a place… where links were not so long.   <br/>
-__Link:__ [Discord Website](https://dis.gd/)
+## **Strona internetowa Discorda**
+> __Opis:__ Wyobraź sobie miejsce... gdzie linki nie są tak długie.   <br/>
+__Link:__ [Strona internetowa Discord](https://dis.gd/)
 
-## **How to Report**
-> __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
-__Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+## **Jak zgłaszać**
+> __Opis:__ Poradnik, jak prawidłowo zgłaszać problemy zespołowi ds. zaufania i bezpieczeństwa Discorda.   <br/>
+__Link:__  [Jak zgłaszać](https://dis.gd/howtoreport) | [Artykuł DMA](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## **How to get user IDs** 
-> __Description:__ A guide on how to find IDs.   <br/>
-__Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
+## **Jak uzyskać identyfikatory użytkowników** 
+> __Opis:__ Poradnik, jak znaleźć identyfikatory.   <br/>
+__Link:__  [Jak uzyskać identyfikatory użytkownika/serwera/wiadomości](https://dis.gd/findmyid)
 
-## **Discord Bugs**
-> __Description:__  The official tool to look up reported and approved bugs.   <br/>
-__Link:__ [Discord Bugs](https://bugs.discord.com/)
+## **Błędy na Discordzie**
+> __Opis:__  Oficjalne narzędzie do wyszukiwania zgłoszonych i zatwierdzonych błędów.   <br/>
+__Link:__ [Błędy na Discordzie](https://bugs.discord.com/)
 
-## **Discord Testers Bug Tool**
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
-__Credit:__ @53905483156684800
+## **Narzędzie dla testerów Discorda**
+> __Opis:__ Oficjalne narzędzie do generowania tekstu dla polecenia !submit DBuga. Formularz prowadzi Cię krok po kroku przez każde dane do wprowadzenia, aby na końcu automatycznie wygenerować dla Ciebie polecenie.   <br/>
+__Link:__ [Narzędzie dla testerów](https://dis.gd/bug-tool)
+__Uznanie:__ @53905483156684800
 
-## **Discord Testing Clients**
-> __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
-__Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+## **Klienty Discorda do testowania**
+> __Opis:__ Przewodnik po pobieraniu i używaniu klientów testowych Discord dla wszystkich platform.   <br/>
+__Link:__ [Klienty do testowania](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
-## **Discord Moderator Academy** 
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
+## **Akademia Moderatorów Discorda** 
+> __Opis:__ Oficjalne zasoby Discorda dla moderatorów, napisane przez moderatorów.   <br/>
+__Link:__ [Akademia Moderatorów Discorda](https://dis.gd/moderation)
 
-## **Discord Libraries Servers List**
-> __Description:__ A Reddit wiki page that lists all of the Discord API libraries.   <br/>
-__Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+## **Lista serwerów bibliotek Discorda**
+> __Opis:__ Strona wiki Reddita, która wymienia wszystkie biblioteki API Discorda.   <br/>
+__Link:__ [Lista serwerów bibliotek Discorda](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## **Discord Open Source**
-> __Description:__ This is the source list of OSS communities that use and live on Discord.   <br/>
-__Link(s):__
-[Discord Open Source](https://discord.com/open-source)   <br/>
-[Discord Open Source Github](https://github.com/discord/discord-open-source)
+## **Otwarty kod źródłowy Discord**
+> __Opis:__ To jest lista społeczności OSS, które używają Discorda.   <br/>
+__Link(i):__
+[Otwarty kod źródłowy Discorda](https://discord.com/open-source)   <br/>
+[Github otwartego kodu źródłowego Discorda](https://github.com/discord/discord-open-source)
 
-## **Discord Branding**  
-> __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+## **Branding Discorda**  
+> __Opis:__ Zasoby i wytyczne dotyczące brandingu Discorda.   <br/>
+__Link:__ [Branding Discorda](https://discord.com/branding)
 
-## **Discord Nitro**
-> __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
-__Link:__ [Discord Nitro](https://dis.gd/nitro)
+## **Nitro Discord**
+> __Opis:__  Informacje na temat subskrypcji Nitro & Nitro Classic.   <br/>
+__Link:__ [Nitro Discord](https://dis.gd/nitro)
 
-## **Discord Status Page**
-> __Description:__ Provides information on the current status of the Discord services.   <br/>
-__Link:__ [Status Page](https://dis.gd/status)
+## **Strona statusu Discorda**
+> __Opis:__ Udostępnia informacje o aktualnym stanie usług Discorda.   <br/>
+__Link:__ [Strona statusu](https://dis.gd/status)
 
-## **Discord Developer Portal**
-> __Description:__ The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
-__Link:__ [Discord Developer Portal](https://discord.com/developers/)
+## **Portal dla deweloperów Discorda**
+> __Opis:__ Główna strona internetowa dla programistów do zarządzania swoimi aplikacjami, zespołami, zakresami OAuth2 i innymi.    <br/>
+__Link:__ [Portal dla deweloperów](https://discord.com/developers/)
 
-## **Discord Developer Docs**
-> __Description:__ The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
-__Link:__ [Discord Developer Docs](https://discord.dev/)
+## **Dokumenty dla programistów na Discordzie**
+> __Opis:__ Dokumenty szczegółowo opisujące, w jaki sposób obsługiwane są wszystkie rodzaje interakcji, a także zasoby dla twórców botów.   <br/>
+__Link:__ [Dokumenty dla programistów](https://discord.dev/)
 
-## **Discord Security Bug Bounties**
-> __Description:__ The place to submit security vulnerabilities within Discord.   <br/>
-__Link:__ [Discord Security Bug Bounties](https://discord.com/security)
+## **Nagrody za błędy w bezpieczeństwie Discorda**
+> __Opis:__ Miejsce, w którym można zgłaszać luki w zabezpieczeniach Discorda.   <br/>
+__Link:__ [Nagrody za błędy w bezpieczeństwie Discorda](https://discord.com/security)
 
-## **Latest Transparency Report** 
-> __Description:__ The most recent update on the security team’s actions and terminations.   <br/>
-__Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+## **Najnowszy raport o bezpieczeństwie** 
+> __Opis:__ Najnowsza aktualizacja działań i wypowiedzeń zespołu bezpieczeństwa.   <br/>
+__Link:__ [Najnowszy raport o bezpieczeństwie](https://discord.com/blog/discord-transparency-report-h1-2021)
 
-## **Discord’s (new) Media Kit**
-> __Description:__ Discord’s official assets.   <br/>
+## **(Nowy) Media Kit Discorda**
+> __Opis:__ Oficjalne zasoby Discorda.   <br/>
 __Link:__ <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
+[(Nowy) Media Kit Discorda - Bezpośrednie pobieranie](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[Strona brandingowa Discorda](https://discord.com/branding)
 
