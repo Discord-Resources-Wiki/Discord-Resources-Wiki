@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Dalej",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Resources": {
+    "message": "Zasoby",
+    "description": "The label for category Resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bots": {
+    "message": "Boty",
+    "description": "The label for category Bots in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tools": {
+    "message": "Narzędzia",
+    "description": "The label for category Tools in sidebar tutorialSidebar"
+  }
+}
