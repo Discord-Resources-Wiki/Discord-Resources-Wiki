@@ -1,49 +1,49 @@
 ---
-title: Basics
+title: Basis
 sidebar_position: 1
-description: Basic resources
+description: Basis hulpbronnen
 ---
 
-# The Basics
+# De Basis
 
-## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## **Discord Servicevoorwaarden** 
+> **Omschrijving:** Discord’s Servicevoorwaarden zijn voorwaarden waar je akkoord mee moet gaan tijdens het gebruiken van het platform.   <br/>
+Het bevat informatie van intellectuele eigendomsrechten tot account beëindiging.   <br/>
+**Link:** [Terms Of Service](https://dis.gd/terms)
 
-## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
-__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+## **Discord Privacybeleid**
+> **Omschrijving:** Discord's Privacybeleid over gebruikers hun informatie.  <br/>
+**Link:** [Discord Privacy Policy](https://discord.com/privacy)
 
-## **Discord Community Guidelines**
-> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
-It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-__Link:__ [Community Guidelines](https://dis.gd/guidelines)
+## **Discord Gemeenschapsrichtlijnen**
+> **Omschrijving:** Discord’s Gemeenschapsrichtlijnen verduidelijken beperkingen en limitaties binnen het platform.   <br/>
+Het zorgt ervoor dat iedereen een positieve ervaring heeft en dat gebruikers zich netjes en gedisciplineerd gedragen.   <br/>
+**Link:** [Community Guidelines](https://dis.gd/guidelines)
 
 ## **Discord Blog**
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-__Link:__ [Discord Blog](https://discord.com/blog)
+> **Omschrijving:** Discord’s Blog bevat aankondigingen, updates, tutorials en bronnen; alles wat met Discord te maken heeft.   <br/>
+**Link:** [Discord Blog](https://discord.com/blog)
  
 ## **Discord Subreddit**
-> __Description:__ The unofficial Discord Subreddit.   <br/>
-__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+> **Omschrijving:** De onofficiële Discord Subreddit.   <br/>
+**Link:** [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
-## **Discord Twitter Page**
-> __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+## **Discord Twitter Pagina**
+> **Omschrijving:** De officiële Discord pagina op Twitter.   <br/>
+**Link:** [Discord Twitter Pagina](https://twitter.com/discord)
 
-## **Discord Youtube Page**
-> __Description:__  The official Discord page on Youtube.   <br/>
-__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+## **Discord Youtube Pagina**
+> **Omschrijving:**  De officiële Discord pagina op Youtube.   <br/>
+**Link:** [Discord Youtube Pagina](https://www.youtube.com/c/discord)
 
 ## **Discord Help Center**
-> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
-__Link:__ [Discord Help Center](https://support.discord.com)
+> **Omschrijving:** Een officiële Discord navigatiepagina vol met nuttige en ondersteunende artikelen over elk onderwerp.   <br/>
+**Link:** [Discord Help Center](https://support.discord.com)
 
 ## **Discord Safety Center**
-> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-__Link:__ [Discord Safety Center](https://discord.com/safety)
+> **Omschrijving:** Pagina met informatie over internetprivacy en informatie voor ouders en opvoeders over hoe ze zichzelf/hun kinderen online kunnen beschermen  <br/>
+**Link:** [Discord Safety Center](https://discord.com/safety)
 
-## **Client Downloads**
-> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discord.com/download)
+## **Cliëntdownloads**
+> **Omschrijving:** Alle officiële downloadbare Discord-clients. (Download Discord!)   <br/>
+**Link:** [Discord Cliënten](https://discord.com/download)
