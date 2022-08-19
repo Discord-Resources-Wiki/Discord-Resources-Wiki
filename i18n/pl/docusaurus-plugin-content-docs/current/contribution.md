@@ -29,6 +29,8 @@ Chcemy podziękować:<br/>
 @386861188891279362 - Architekt strony internetowej / Organizator dokumentacji<br/>
 @102102717165506560 - Doradca ds. przyrostu & kurator zasobów<br/>
 @755792681313108018 - *Miałem taki pomysł i zrobiłem wszystko*
+@975494496852795412 - Polski Tłumacz
+@937438695429144656 - Polski Tłumacz
 
 ## Jak testować zmiany lokalnie
 
