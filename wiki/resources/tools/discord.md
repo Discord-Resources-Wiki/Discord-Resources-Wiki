@@ -200,7 +200,7 @@ description: Discord related tools
 ## **Status**
 
 > **Description:** A server that has a collection of announcement channels you can follow for many status pages (including Discord, Cloudflare, GitHub, Hypixel & more) so you can be one of the first to know when one of your favourite service(s) have issues.   <br/>
-**Link(s):**
+**Link:**
 [Server Invite](https://inv.wtf/statuspages)   <br/>
 **Credit:** @287698408855044097
 
