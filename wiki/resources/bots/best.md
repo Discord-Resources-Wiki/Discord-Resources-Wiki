@@ -90,7 +90,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 ### **Crosslink**
 
 > **Description:** Crosslink is a smart link detection and reputation service built to make link filtering convenient for moderators and community managers. With convenience at the forefront, configuration on Discord is made to be as simple as possible for the end user. Our reputation system takes third parties into account as well as our own local domain database to keep your community safe!
-**Link(s):**
+**Link(s):**   <br/>
 [Website](https://panleyent.com/crosslink/)   <br/>
 [Invite CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
 [Full Docs](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
