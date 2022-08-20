@@ -207,7 +207,7 @@ description: Discord related tools
 ## **Icons**
 
 > **Description:** A guild with free to use emotes.   <br/>
-**Link(s):**
+**Link:**
 [Server Invite](https://discord.gg/tbzP3XaUF7)   <br/>
 **Credit:** @537875750955778058
 
