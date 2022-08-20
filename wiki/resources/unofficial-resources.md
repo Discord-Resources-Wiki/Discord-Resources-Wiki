@@ -54,7 +54,7 @@ description: Unofficial resources for Discord.
 ## **Nadeko Embed Builder**
 
 > **Description:** Another useful tool for generating Discord embeds. This tool exports in JSON format.   <br/>
-**Link:** [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
+**Link:** [Nadeko Embed Builder](https://eb.nadeko.bot/)
 
 ## **List of Stickers**
 
