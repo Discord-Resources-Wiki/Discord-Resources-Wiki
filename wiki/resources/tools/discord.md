@@ -237,7 +237,8 @@ description: Discord related tools
 ## **Crosslink's Utility Links**
 
 > **Description:** Easy to use links to lookup users and domains. Replace "ID" with User ID and "Domain" with the domain name.  <br/>
-**Link(s):** [User Info](https://crss.link/u/ID) <br/>
+**Link(s):** <br />
+[User Info](https://crss.link/u/ID) <br/>
 [Domain Info](https://crss.link/d/Domain)  <br/>
 **Credit:** @249287049482338305
 
