@@ -1,76 +1,76 @@
 ---
-title: Discord Related
+title: Discordrelaterat
 sidebar_position: 1
-description: Discord related tools
+description: Discord relaterade verktyg
 ---
 
-# Discord Related
+# Discordrelaterat
 
-### **Alternatives to MEE6**
-> __Description:__ A list of Discord bots that can be used in place of MEE6.   <br/>
-__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
-__Credit:__ @99787644430475264
+### **Alternativ till MEE6**
+> __Beskrivning:__ En lista på alla Discordbottar som kan användas istället för MEE6.   <br/>
+__Länk:__ [Alternativ till MEE6](https://www.alternativestomee6.com/)   <br/>
+__Tack till:__ @99787644430475264
 
-### **All Discord Permissions**
-> __Description:__ A list of all the permissions available for users.   <br/>
-__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
+### **Alla Discordbehörigheter**
+> __Beskrivning:__ En lista på alla behörigheter som finns tillgängliga för användare.   <br/>
+__Länk:__ [Alla Discordbehörigheter](https://discordapi.com/permissions)
 
-### **Discord Tools**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
-__Link:__ [Discord Tools](https://discordtools.io/)   <br/>
-__Credit:__ @276544649148235776
+### **Discordverktyg**
+> __Beskrivning:__ En samling av Discordverktyg för avancerade användare för att analysera dina grupper, få information om snöflingor, eller till och med se Discords nuvarande status. Få numret av grupper som ditt konto är med i, se hur många servrar du äger, modererar, och sammarbetar med, och visa en lista av alla servrar i kategorier ovan såväl som en lista av alla servrar.   <br/>
+__Länk:__ [Discordverktyg](https://discordtools.io/)   <br/>
+__Tack till:__ @276544649148235776
 
-### **Discord Toolbox**
-> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup.   <br/>
-__Link:__ [Discord Toolbox](https://distools.app/)   <br/>
-__Credit:__ @386861188891279362
+### **Discord verktygslåda**
+> __Beskrivning:__ Discordverktyg som till exempel Discords statusuppdateringar, experimentinfo och servrar/snöflingesökning.   <br/>
+__Länk:__ [Discordverktygslåda](https://distools.app/)   <br/>
+__Tack till:__ @386861188891279362
 
-### **Discord Lookup**
-> __Description:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
-__Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
-__Credit:__ @231091710195662848
+### **Discordsökning**
+> __Description:__ Ett enkelt verktyg för att söka efter användare, grupper, inbjudningar och få information om din grupplista med statistik, serverexperimentlanseringar, funktioner och behörighetsvy.  <br/>
+__Länk:__ [Discordsökning](https://discordlookup.com/)  <br/>
+__Tack till:__ @231091710195662848
 
-### **Discord Data Package Explorer**
-> __Description:__ Explore your Discord data easily.   <br/>
-__Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ @github:Androz2091
+### **Discord datapaketsutforskare**
+> __Beskrivning:__ Utforska enkelt din data hos Discord.   <br/>
+__Länk:__ [Discord datapaketsutforskare](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+__Tack till:__ @github:Androz2091
 
-### **Discord Simple Avatar Maker**
-> __Description:__ A site to make simple Discord avatars.   <br/>
-__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
-__Credit:__ @github:christian-reichart
+### **Discord simpel avatarskapare**
+> __Beskrivning:__ En sida där man kan göra simpla Discordavatarer.   <br/>
+__Länk:__ [Discord simpel avatarskapare](https://discord-avatar-maker.app/)   <br/>
+__Tack till:__ @github:christian-reichart
 
-### **Discord Emoji Downloader**
-> __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server.   <br/>
-__Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
-__Credit:__ @152164749868662784
+### **Discord emojinedladdare**
+> __Beskrivning:__ Det här lilla verktyget tillåter dig att ladda ned ett ZIP-arkiv med alla emojis från en Discordserver.   <br/>
+__Länk:__ [Discord emojinedladdare](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
+__Tack till:__ @152164749868662784
 
-### **Discord Friends Graph Maker**
-> __Description:__ Make a graph out of your friends and their relations.  <br/>
-__Link:__ [Discord Friends Graph Maker](https://github.com/Maanex/discord-friends-graph)  <br/>
-__Credit:__ @137258778092503042
+### **Discord vändiagramskapare**
+> __Beskrivning:__ Gör ett diagram av dina vänner och deras relationer.  <br/>
+__Länk:__ [Discord vändiagramskapare](https://github.com/Maanex/discord-friends-graph)  <br/>
+__Tack till:__ @137258778092503042
 
-### **Discord Servers Comparations**
-> __Description:__ Compare stats between Discord servers.  <br/>
-__Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
-__Credit:__ @152164749868662784
+### **Discord serverjämförning**
+> __Beskrivning:__ Jämför statistik mellan Discord servrar.  <br/>
+__Länk:__ [Discord serverjämförning](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
+__Tack till:__ @152164749868662784
 
-### **Slash Commands GUI**
-> __Description:__ Graphical User Interface to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS.  <br/>
-__Link:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
-__Credit:__ @422820341791064085
+### **Slashkommando GUI**
+> __Beskrivning:__ "Graphical User Interface" för att utforska slashkommandon för din bot, byggd på Vue 3 och TailwindCSS.  <br/>
+__Länk:__ [Slashkommando GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
+__Tack till:__ @422820341791064085
 
-### **Discord Server Card Generator**
-> __Description:__ Generate a server card you can copy for your email signatures.   <br/>
-__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Credit:__ @github:geisterfurz007
+### **Discord serverkortsgenerator**
+> __Beskrivning:__ Generera ett serverkort som du kan kopiera för din epostunderskrift.   <br/>
+__Länk:__ [Discord serverkortsgenerator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
+__Tack till:__ @github:geisterfurz007
 
-### **Discord Bug Report Command Generator**
-> __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
-__Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-__Credit:__  @209769851651227648
+### **Discord bugrapporteringsrapportkommandogenerator**
+> __Beskrivning:__ Ett snabbt och enkelt verktyg för allting om bugrapportering. Innehåller rapportgenerering, kan/kan inte reproducera, redigering av rapporter, bifogningar och lögörningar, och godkännande, nekande, och återkallning av buggrapporter.   <br/>
+__Länk:__ [Bugrapporteringsrapportkommandogenerator](https://brightskyz.github.io/dbug/index.html)   <br/>
+__Tack till:__  @209769851651227648
 
-### **Discord Flags**
+### **Discordflaggningar**
 > __Description:__ A document full with all Discord flags and their meanings.   <br/>
 __Link:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
 __Credit:__ @96269247411400704
