@@ -208,6 +208,18 @@ __Bağlantı(lar):__  <br/>
 [ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
 __Oluşturucu:__ @github:kkrypt0nn @github:fnky
 
+## **Discord Colored Text Generator**
+
+> __Tanım:__ Discord için renkli ansi metni oluşturun. <br/>
+__Bağlantılar:__ [Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)  <br/>
+__Oluşturucu:__ @80622917083205632
+
+## **Rebane's Discord Pin Compressor**
+
+> __Tanım:__ Discord pinlerini Discord mesajlarına dönüştüren basit bir uygulama. <br/>
+__Bağlantılar:__ [Discord Pin Compressor](https://rebane2001.com/discord-pin-compressor/)  <br/>
+__Oluşturucu:__ @80622917083205632
+
 ### **Simple Discord Cache Cleaner**
 > __Tanım:__ Java ile yazılmış basit bir Discord önbellek yöneticisi.   <br/>
 __Bağlantı:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
