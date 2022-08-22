@@ -1,7 +1,7 @@
 ---
 title: Programy
 sidebar_position: 7
-description: Programy Discord, takie jak Moderacja, Partner, Wydarzenia HypeSquad i Weryfikacja.
+description: Programy Discord, takie jak Moderacja, Partnerstwa, Wydarzenia HypeSquad i Weryfikacja.
 ---
 
 # Programy
@@ -20,8 +20,8 @@ __Link:__ [Program partnerski Discorda](https://dis.gd/partners)
 > __Opis:__ Miejsce, w którym można znaleźć informacje i zgłosić się do programu HypeSquad Events.   <br/>
 __Link:__ [Wydarzenia HypeSquad](https://dis.gd/hypesquad)
 
-### **Program Weryfikacja**
-> __Opis:__ Miejsce, w którym można znaleźć informacje i zgłosić się do programu Weryfikacja.   <br/>
+### **Program Weryfikacji**
+> __Opis:__ Miejsce, w którym można znaleźć informacje i zgłosić się do Programu Weryfikacji.   <br/>
 __Link:__ [Program Weryfikacja](https://dis.gd/verification)
 
 ### **Centra uczniowskie**
