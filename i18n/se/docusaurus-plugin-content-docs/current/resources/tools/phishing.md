@@ -1,30 +1,30 @@
 ---
-title: Phishing Related 
+title: Phishing Relaterat 
 sidebar_position: 4
-description: Phishing and Security tools
+description: Verktyg för nätfiske och säkerhet
 ---
 
-# Phishing Related
+# Phishing Relaterat
 
 ### **Discord Nitro Scams**
-> __Description:__ This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-__Link:__ [Discord Nitro Information](https://dicsord.gq/)
+> __Beskrivning:__ Denna **säkra och trygga** webbplats (*inte en bluff*) jämför riktiga Discord Nitro-gåvor med bedrägerier. Se upp!   <br/>
+__Länk:__ [Discord Nitro Information](https://dicsord.gq/)
 
 ### **Virus Total**
-> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
-__Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
+> __Beskrivning:__ Virus Total analyserar misstänkta filer och webbadresser för att upptäcka typer av skadlig kod.   <br/>
+__Länk:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
-__Link(s):__  <br/>
+> __Beskrivning:__ ClearURLs är ett tillägg som bygger på den nya WebExtensions-tekniken och tar automatiskt bort spårningselement från webbadresser för att skydda din integritet.  <br/>
+__Länk(s):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Credit:__ @github:KevinRoebert
+__Kredit:__ @github:KevinRoebert
 
 
 ### **Gits of Scam Links**
-> __Description:__ GitHub repositories full of scam links.   <br/>
-__Link(s):__  
+> __Beskrivning:__ GitHub-arkiv fulla av blufflänkar.   <br/>
+__Länk(s):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
 [ZeroTwo Bot List](https://github.com/ZeroTwo-Bot/anti-fish-lists/)   <br/>
@@ -34,12 +34,12 @@ __Link(s):__
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
 ### **Database full of malicious links**
-> __Description:__ Self explanatory. 🔢   <br/>
+> __Beskrivning:__ Självförklarande. 🔢   <br/>
 __Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
 ### **Phishing Recognizing Tools**
-> __Description:__ Many tools to help you recognize phishing and compromised sites.  <br/>
-__Link(s):__ <br/>
+> __Beskrivning:__ Många verktyg som hjälper dig att känna igen nätfiske och komprometterade webbplatser.  <br/>
+__Länk(s):__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
 [BrightCloud URL Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)  <br/>
@@ -54,8 +54,8 @@ __Link(s):__ <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ### Phishing APIs 
-> __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
-__Link(s):__ <br/>
+> __Beskrivning:__ Detta är APIs och verktyg för att hantera nätfiskeförsök.   <br/>
+__Länk(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
 [Phish Report](https://phish.report/)   <br/>
@@ -70,14 +70,14 @@ __Link(s):__ <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ### **Phisherman** 
-> __Description:__   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
-__Link(s):__   <br/>
-[Phisherman Website](https://phisherman.gg/)   <br/>
+> __Beskrivning:__   <br/>
+Phisherman är en centraliserad databas med länkar för nätfiske och bedrägerier. Den är utformad för användning med Discord-robotar så att de kan använda Phisherman API för att dubbelkontrollera webbadresser mot Phisherman-databasen.   <br/>
+__Länk(s):__   <br/>
+[Phisherman Webbplats](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
 ### **The Vaccinator**
-> __Description:__ A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-__Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
-__Link:__ [Website](https://sketchy.tel/)  <br/>
-__Credit:__ The Vaccinator Team (contact: @204414611578028034)
+> __Beskrivning:__ Ett verktyg för att upptäcka och neutralisera Discord-tokenstölder genom att radera deras interna Discord-webhook. <br/>
+__Obs:__ Det här verktyget är **inte** ett antivirusprogram. Det är bara ett verktyg som kan hjälpa till att förhindra att bedragare får tag på andras data. <br/>
+__Länk:__ [Webbplats](https://sketchy.tel/)  <br/>
+__Kredit:__ The Vaccinator Team (contact: @204414611578028034)
