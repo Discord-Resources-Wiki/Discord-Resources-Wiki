@@ -22,7 +22,7 @@ description: Officiële bestanden van Discord.
 > [Audio](https://dis.gd/RadioDiscord_Accessibility) <br/>
 > [Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)
 
-### **Discussing The Forums Feature**
+### **De Forum-Functie Bespreken**
 
 > **Omschrijving:** Het Discord-communityteam praat over een nieuwe functie dat wordt getest: forums. <br/>
 > **Links:** <br/>
