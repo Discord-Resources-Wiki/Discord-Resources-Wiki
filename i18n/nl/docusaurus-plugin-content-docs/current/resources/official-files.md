@@ -24,7 +24,7 @@ description: Officiële bestanden van Discord.
 
 ### **Discussing The Forums Feature**
 
-> **Omschrijving:** The Discord community team talks about a new feature in testing: forums. <br/>
+> **Omschrijving:** Het Discord-communityteam praat over een nieuwe functie dat wordt getest: forums. <br/>
 > **Links:** <br/>
 > [Audio](https://dis.gd/Radio-Discord-Forums-Beta) <br/>
 > [Transcript](https://dis.gd/Radio-Discord-Forums-Beta-Transcript)
