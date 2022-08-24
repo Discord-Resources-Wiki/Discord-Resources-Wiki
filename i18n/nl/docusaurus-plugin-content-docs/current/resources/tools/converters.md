@@ -5,15 +5,15 @@ description: Converter tools
 ---
 
 # Converters
-## Timestamp Converters 
+## Tijdstempelconverters
 ### **HammerTime**
-> __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
+> __Description:__ Kies een datum, kopieer het gewenste tijdstempel uit de kolom Chatsyntaxis en plak het ergens in een chatbericht.   <br/>
+Het resultaat is een dynamische tijdstempel die voor iedereen anders wordt weergegeven op basis van hun eigen tijdzone.   <br/>
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
 __Credit:__ @140360880079503362
 
-### **Snow-Stamp (Snowflake to Timestamp Converter)** 
-> __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
+### **Snow-Stamp (Snowflake naar Tijdstempel Converter)** 
+> __Description:__ Veranderd de sneeuwvlok van een gebruiker naar het tijdstempel waarop het account is gemaakt.   <br/>
 __Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
 __Credit:__ @86913608335773696
 

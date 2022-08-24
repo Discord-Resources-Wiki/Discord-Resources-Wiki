@@ -1,22 +1,22 @@
 ---
-title: Discord Related
+title: Discord Gerelateerd
 sidebar_position: 1
-description: Discord related tools
+description: Discord gerelateerde gereedschappen
 ---
 
-# Discord Related
+# Discord Gerelateerd
 
-### **Alternatives to MEE6**
-> __Description:__ A list of Discord bots that can be used in place of MEE6.   <br/>
-__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
+### **Alternatieven voor MEE6**
+> __Description:__ Een lijst of Discord bots die je kunt gebruiken in plaats van MEE6.   <br/>
+__Link:__ [Alternatieven voor MEE6](https://www.alternativestomee6.com/)   <br/>
 __Credit:__ @99787644430475264
 
-### **All Discord Permissions**
-> __Description:__ A list of all the permissions available for users.   <br/>
-__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
+### **Alle Discord Permissies**
+> __Description:__ Een lijst van alle beschikbare permissies voor gebruikers.   <br/>
+__Link:__ [Alle Discord Permissies](https://discordapi.com/permissions)
 
-### **Discord Tools**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
+### **Discord Gereedschap**
+> __Description:__ Een verzameling Discord-tools voor ervaren gebruikers om je servers te analyseren, informatie over snowflakes te krijgen of zelfs de huidige status van Discord te bekijken. Bekijk het aantal servers waarin je account zich bevindt, bekijk hoeveel servers je bezit, beheert en partner bent, en toon lijsten van alle servers in de bovenstaande categorieën, evenals een lijst van alle servers.   <br/>
 __Link:__ [Discord Tools](https://discordtools.io/)   <br/>
 __Credit:__ @276544649148235776
 
