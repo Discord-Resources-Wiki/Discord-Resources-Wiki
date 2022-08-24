@@ -1,7 +1,7 @@
 ---
 title: Discordrelaterat
 sidebar_position: 1
-description: Discord relaterade verktyg
+description: Discordrelaterade verktyg
 ---
 
 # Discordrelaterat
