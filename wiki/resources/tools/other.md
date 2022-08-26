@@ -161,7 +161,7 @@ description: Other useful tools
 
 ## **ShareX**
 
-> **Description:** Screen capture, file sharing and productivity tool.
+> **Description:** Screen capture, file sharing and productivity tool. <br/>
 **Link:** [ShareX](https://getsharex.com/)   <br/>
 **Credit:** @95576568025329664
 
@@ -200,7 +200,7 @@ description: Other useful tools
 ## **Web Archives**
 
 > **Description:** Explore web pages saved over time.  <br/>
-**Link:** <br/>  
+**Links:**   
 [Web Archives](https://web.archive.org/)  <br/>
 [Arvhive.is](https://archive.is/)
 
@@ -290,5 +290,5 @@ description: Other useful tools
 ## **Tixte**
 
 > **Description:** Tixte is a content sharing platform that makes it easy to share files with anyone through personalized links and pages.  <br/>
-**Link:** [Tixte](https://tixte.com/)
+**Link:** [Tixte](https://tixte.com/)<br/>
 **Credit:** @684155404078415890
