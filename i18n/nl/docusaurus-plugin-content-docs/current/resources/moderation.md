@@ -4,7 +4,7 @@ sidebar_position: 6
 description: Moderatie hulpmiddelen
 ---
 
-# Moderation
+# Moderatie
 
 ### **Discord Moderator Academy**
 > **Beschrijving:** Discord's officiële bronnen voor moderatoren, geschreven door moderatoren.   <br/>
