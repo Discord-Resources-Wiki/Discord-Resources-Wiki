@@ -78,4 +78,3 @@ description: Officiële links van Discord.
 **Link:** <br/>
 [Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
 [Discord Branding Page](https://discord.com/branding)
-

@@ -10,9 +10,9 @@ description: Phishing en veiligheid tools
 > **Omschrijving:** Deze **veilige** website (*geen scam*) vergelijkt echte Discord Nitro gifts tegen scams. Pas op!   <br/>
 **Link:** [Discord Nitro Informatie](https://dicsord.gq/)
 
-### **Virus Totaal**
-> **Omschrijving:** Virus Totaal analyseert verdachte bestanden en URL's tegen verschillende type malware.   <br/>
-**Link:** [Virus Totaal](https://www.virustotal.com/gui/home/upload)
+### **VirusTotal**
+> **Omschrijving:** VirusTotal analyseert verdachte bestanden en URL's tegen verschillende type malware.   <br/>
+**Link:** [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
 > **Omschrijving:** ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologieën en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>

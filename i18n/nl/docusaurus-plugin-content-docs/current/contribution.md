@@ -18,15 +18,15 @@ We willen de volgende personen graag bedanken:<br/>
 @856780995629154305 - Website Onderhouder <br/>
 @347727875266576395 - Wiki Architect <br/>
 @391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentatie Organizateur<br/>
+@363481883369013259 - GitHub Manager / Documentatie Organisator<br/>
 @337654195526303746 - Hulpbronnen Onderzoeker / Onderhouder<br/>
-@337104786593939456 - Documentatie Organizateur<br/>
+@337104786593939456 - Documentatie Organisator<br/>
 @485676072176713729 - Hulpbronnen Onderzoeker / Onderhouder<br/>
 @762387276595724308 - Hulpbronnen Onderzoeker / Onderhouder<br/>
-@378537973215657984 - Community & Content Manager / Documentatie Organizateur<br/>
-@287711497118023692 - Hulpbronnen Onderzoeker / Documentatie Organizateur<br/>
+@378537973215657984 - Community & Content Manager / Documentatie Organisator<br/>
+@287711497118023692 - Hulpbronnen Onderzoeker / Documentatie Organisator<br/>
 @192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentatie Organizateur<br/>
+@386861188891279362 - Website Architect / Documentatie Organisator<br/>
 @102102717165506560 - Groeiadvies en Hulpbron curator<br/>
 @755792681313108018 - *Ik had dit idee en heb al het bovenstaande gedaan*<br/>
 @480495309491798037 - <http://discord.wiki/> Doorstuur eigenaar <br/>
