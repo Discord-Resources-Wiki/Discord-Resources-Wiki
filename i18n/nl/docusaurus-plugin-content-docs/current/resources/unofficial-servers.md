@@ -1,7 +1,7 @@
 ---
 title: Niet-officiële Servers
 sidebar_position: 8
-Beschrijving: Niet-officiële servers gerelateerd aan Discord
+description: Niet-officiële servers gerelateerd aan Discord
 ---
 
 # Niet-officiële Servers
