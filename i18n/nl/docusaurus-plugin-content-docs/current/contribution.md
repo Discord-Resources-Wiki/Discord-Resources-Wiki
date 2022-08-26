@@ -31,6 +31,12 @@ We willen de volgende personen graag bedanken:<br/>
 @755792681313108018 - *Ik had dit idee en heb al het bovenstaande gedaan*<br/>
 @480495309491798037 - <http://discord.wiki/> Doorstuur eigenaar <br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker
+@427146305651998721 - Onderhouder
+@209609796704403456 - Nederlandse vertaling 
+@357156679684718592 - Nederlandse vertaling 
+@857161228882018304 - Nederlandse vertaling 
+@426809593922846731 - Nederlandse vertaling 
+@460085286567936001 - Nederlandse vertaling 
 
 ## Hoe test je veranderingen lokaal
 
