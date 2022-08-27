@@ -9,7 +9,7 @@ description: Design tools
 ## **Material Design Icons**
 
 > **Description:** A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
-**Link:** [Material Design Icons)](https://materialdesignicons.com/)  <br/>
+**Link:** [Material Design Icons](https://materialdesignicons.com/)  <br/>
 **Credit:** @github:Templarian
 
 ## **Google Fonts Icons**
