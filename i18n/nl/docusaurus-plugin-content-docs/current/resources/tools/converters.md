@@ -1,106 +1,106 @@
 ---
 title: Converters
 sidebar_position: 6
-description: Converter tools
+description: Converter-tools
 ---
 
 # Converters
 ## Tijdstempelconverters
 ### **HammerTime**
-> **Description:** Kies een datum, kopieer het gewenste tijdstempel uit de kolom Chatsyntaxis en plak het ergens in een chatbericht.   <br/>
+> **Omschrijving:** Kies een datum, kopieer het gewenste tijdstempel uit de kolom Chatsyntaxis en plak het ergens in een chatbericht.   <br/>
 Het resultaat is een dynamische tijdstempel die voor iedereen anders wordt weergegeven op basis van hun eigen tijdzone.   <br/>
 **Link:** [HammerTime](https://hammertime.djdavid98.art/)   <br/>
 **Credit:** @140360880079503362
 
 ### **Snow-Stamp (Snowflake naar Tijdstempel Converter)** 
-> **Description:** Veranderd de sneeuwvlok van een gebruiker naar het tijdstempel waarop het account is gemaakt.   <br/>
+> **Omschrijving:** Veranderd de sneeuwvlok van een gebruiker naar het tijdstempel waarop het account is gemaakt.   <br/>
 **Link:** [Snow-Stamp](https://snowsta.mp/)   <br/>
 **Credit:** @86913608335773696
 
 ### **DateTimeCord** 
-> **Description:** A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
+> **Omschrijving:** Een handige website voor het genereren van datum- en tijdnotatie markdown in Discord. Ondersteunt alle opmaakopties die Discord doet, samen met een voorbeeld van hoe het er zou uit zien in Discord. <br/>
 **Link:** [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
 **Credit:** @172557961133162496
 
-### **Alfred time converters plugins**
-> **Description:** Alfred plugins to convert time to timestamps and vice versa.   <br/>
+### **Alfred tijdconverters plugins**
+> **Omschrijving:** Alfred plugins om tijd naar tijdstempels te converteren en vice versa.   <br/>
 **Link(s):**   <br/>
 [Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
 **Credit:** @213023662066892800
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
-> **Description:** Converts a given time into a Unix timestamp.   <br/>
+### **Epoch Converter (Epoch & Unix tijdstempel conversietools)**
+> **Omschrijving:** Converteert een bepaalde tijd naar een Unix-tijdstempel.   <br/>
 **Link:** [Epoch Converter](https://www.epochconverter.com/) 
 
-### **Unix Timestamps Decoder**
-> **Description:** Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
-**Link:** [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
+### **Unix Tijdstempel Decoder**
+> **Omschrijving:** Decodeert een Unix-tijdstempel in een standaard MM/DD/JJJJ formaat.   <br/>
+**Link:** [Unix Tijdstempel Decoder](https://www.unixtimestamp.com/)
 
-## File Converters 
+## Bestand Converters 
 
 ### **EzGif**
-> **Description:** EzGif is An online tool full with media-related utilities.  <br/>
+> **Omschrijving:** EzGif is een online tool vol met mediagerelateerde hulpprogramma's.  <br/>
 **Link:** [EzGif](https://ezgif.com)
 
-### **Text Formatting Tools**
-> **Description:** A website for converting various text formats.   <br/>
-**Link:** [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
+### **Tekst Formattering Hulpmiddelen**
+> **Omschrijving:** Een website voor het converteren van verschillende tekstformaten.   <br/>
+**Link:** [Tekst Formattering Hulpmiddelen](http://www.unit-conversion.info/texttools/)
 
 ### **Discord Txt**
-> **Description:** Used to view .txt files that have been uploaded to Discord.   <br/>
+> **Omschrijving:** Wordt gebruikt om .txt-bestanden te bekijken die zijn geüpload naar Discord.   <br/>
 **Link:** [Discord Txt](https://txt.discord.website/)
 
-### **File Converter**
-> **Description:** Convert file types to others.   <br/>
-**Link:** [File Converter](https://github.com/Tichau/FileConverter)   <br/>
+### **Bestandsconverter**
+> **Omschrijving:** Bestandstypen converteren naar andere.   <br/>
+**Link:** [Bestandsconverter](https://github.com/Tichau/FileConverter)   <br/>
 **Credit:** @Tichau
 
-### **Color Replacer**
-> **Description:** Replace a specfic colour of an image.  <br/>
-**Link:** [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
+### **Kleurvervanger**
+> **Omschrijving:** Een specifieke kleur van een afbeelding vervangen.  <br/>
+**Link:** [Kleurvervanger](https://www2.lunapic.com/editor/?action=replace-color)
 
 ### **SVG Converters**
-> **Description:** High quality SVG converter.  <br/>
+> **Omschrijving:** SVG-converter van hoge kwaliteit.  <br/>
 **Link:** [SVG Converters](https://picsvg.com/)
 
-### **SVG Viewer**
-> **Description:** View SVG files.   <br/>
-**Link:** [SVG Viewer](https://www.svgviewer.dev/)
+### **SVG Bekijker**
+> **Omschrijving:** Bekijk SVG bestanden.   <br/>
+**Link:** [SVG Bekijker](https://www.svgviewer.dev/)
 
 ### **Youtube Downloader**
-> **Description:** Download a Youtube video as a file using its URL (either audio only or video). <br/>
+> **Omschrijving:** Download een YouTube-video als een bestand met behulp van de URL (alleen audio of video). <br/>
 **Link:** [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
 **Credit:** @141065743197405184
 
-### **Lottie Image Resizer**
-> **Description:** Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-**Link:** [Lottie Image Resizer](https://lottieresizer.tech/)
+### **Lottie Afbeelding Resizer**
+> **Omschrijving:** Formaat van Lottie-afbeelding wijzigen zodat u uw Lottie-bestanden ≤320px. kunt krijgen.   <br/>
+**Link:** [Lottie Afbeelding Resizer](https://lottieresizer.tech/)
 
-### **.gif to .apng**
-> **Description:** Converts .gif files to .apng files.   <br/>
+### **.gif naar .apng**
+> **Omschrijving:** Converteer .gif bestanden naar .apng bestanden.   <br/>
 **Link:** [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
-### **HTML Color Codes**
-> **Description:** A site that converts a color into hex code and vice versa.   <br/>
+### **HTML Kleuren Codes**
+> **Omschrijving:** Een site die een kleur omzet in hex code en vice versa.   <br/>
 **Link:** [HTML Color Codes](https://htmlcolorcodes.com/)
 
-### **Image Color Picker**
-> **Description:** Upload an image and get a specific hex code for a color in the picture.   <br/>
+### **Afbeelding Kleurkiezer**
+> **Omschrijving:** Upload een afbeelding en ontvang een specifieke hex code voor een kleur in de afbeelding.   <br/>
 **Link:** [Image Color Picker](https://imagecolorpicker.com/)
 
 ### **Removebg**
- > **Description:** Remove any background from an image.   <br/>
+ > **Omschrijving:** Een achtergrond van een afbeelding verwijderen.   <br/>
  **Link:** [Removebg](https://www.remove.bg/upload)
 
 ### **Erase.bg**
-> **Description:** Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
+> **Omschrijving:** Verwijder de achtergrond van afbeeldingen van mensen, dieren of objecten en download gratis afbeeldingen in hoge resolutie..   <br/>
 **Link:** [Erase.bg](https://www.erase.bg/)
 
 ### **Cleanup.pictures**
-> **Description:** Remove any object, people, text or defects from your pictures.   <br/>
+> **Omschrijving:** Verwijder alle objecten, mensen, tekst of defecten van uw foto's.   <br/>
 **Link:** [Cleanup.pictures](https://cleanup.pictures/)
 
-### **Video Compressor**
-> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
-**Link:** [Video Compressor](https://8mb.video/)
+### **Videocompressor**
+> **Omschrijving:** Een videocompressor die is ontworpen om je video's te comprimeren tot de perfecte grootte voor het uploaden van Discord. Het wordt geleverd met drie opties, namelijk 8 MB, 50 MB en 100 MB, die aan verschillende uploadbeperkingen voldoen.   <br/>
+**Link:** [Videocompressor](https://8mb.video/)
