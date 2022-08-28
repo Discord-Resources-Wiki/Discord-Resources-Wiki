@@ -7,15 +7,15 @@ description: Phishing en veiligheid tools
 # Phishing gerelateerd
 
 ### **Discord Nitro Scams**
-> **Omschrijving:** Deze **veilige** website (*geen scam*) vergelijkt echte Discord Nitro gifts tegen scams. Pas op!   <br/>
+> **Beschrijving:** Deze **veilige** website (*geen scam*) vergelijkt echte Discord Nitro gifts tegen scams. Pas op!   <br/>
 **Link:** [Discord Nitro Informatie](https://dicsord.gq/)
 
 ### **VirusTotal**
-> **Omschrijving:** VirusTotal analyseert verdachte bestanden en URL's tegen verschillende type malware.   <br/>
+> **Beschrijving:** VirusTotal analyseert verdachte bestanden en URL's tegen verschillende type malware.   <br/>
 **Link:** [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
-> **Omschrijving:** ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologieën en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
+> **Beschrijving:** ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologieën en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
 **Link(s):**  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
@@ -23,7 +23,7 @@ description: Phishing en veiligheid tools
 
 
 ### **Gits met Scam Links**
-> **Omschrijving:** GitHub repositories vol met scam links.   <br/>
+> **Beschrijving:** GitHub repositories vol met scam links.   <br/>
 **Link(s):**  
 [Block Lijst Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
@@ -34,11 +34,11 @@ description: Phishing en veiligheid tools
 [WalshyDev's Lijst](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
 ### **Database vol met kwaadaardige links**
-> **Omschrijving:** Spreekt voor zichzelf.. 🔢   <br/>
+> **Beschrijving:** Spreekt voor zichzelf.. 🔢   <br/>
 **Link:** [Kwaadaardige Links Database](https://urlhaus.abuse.ch/browse/)
 
 ### **Phishing Herkennings Tools**
-> **Omschrijving:** Veel tools om je te helpen phising en gehackte sites te herkennen.  <br/>
+> **Beschrijving:** Veel tools om je te helpen phising en gehackte sites te herkennen.  <br/>
 **Link(s):** <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
@@ -54,7 +54,7 @@ description: Phishing en veiligheid tools
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ### Phishing APIs 
-> **Omschrijving:** Dit zijn APIs en tools om phishing pogingen tegen te gaan.   <br/>
+> **Beschrijving:** Dit zijn APIs en tools om phishing pogingen tegen te gaan.   <br/>
 **Link(s):** <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
@@ -70,14 +70,14 @@ description: Phishing en veiligheid tools
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ### **Phisherman** 
-> **Omschrijving:**   <br/>
+> **Beschrijving:**   <br/>
 Phisherman is een centrale database met phising en scam linkjes. Het is ontworpen om gebruikt te worden in Discord bots, wat hen de mogelijkheid geeft om met de Phisherman API URL's te checken of ze in de Phisherman database staan.   <br/>
 **Link(s):**   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
 ### **The Vaccinator**
-> **Omschrijving:** Een tool om Discord token grabbers te detecteren en te neutraliseren door hun interne Discord webhook te verwijderen. <br/>
+> **Beschrijving:** Een tool om Discord token grabbers te detecteren en te neutraliseren door hun interne Discord webhook te verwijderen. <br/>
 **Note:** Dit is **geen** antivirus. Het is alleen een hulpprogramma dat kan helpen voorkomen dat oplichters gegevens van andere mensen krijgen. <br/>
 **Link:** [Website](https://sketchy.tel/)  <br/>
 **Credit:** Het Vaccinator Team (contact: @204414611578028034)
