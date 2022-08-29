@@ -102,6 +102,6 @@ description: Programmeer gerelateerde tools
 **Credit:** @github:freeCodeCamp
 
 ### **Grote lijst met vervelende woorden**
-> **Beschrijving:** Een lijst met woorden om je te helpen te testen voor A list of strings to help test for edge cases <br/>
+> **Beschrijving:** Een lijst met woorden om te helpen bij het testen op edge cases <br/>
 **Link:** [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Credit:** @github:minimaxir
