@@ -5,6 +5,11 @@ slug: /contribution
 description: Een lijst met heel veel handige discord hulpbronnen voor alle gebruikers, van beginners tot powerusers.
 ---
 
+```mdx-code-block
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+```
+
 # Contribution
 
 Heb je een error of typfout gevonden? Heb je een goede hulpbron gevonden die in deze lijst past? Wordt een bijdrager en kom op de roemrijke lijst met bijdragers hieronder!<br/>
