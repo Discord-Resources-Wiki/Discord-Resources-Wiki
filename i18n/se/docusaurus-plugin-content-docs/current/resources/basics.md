@@ -6,54 +6,44 @@ description: Basic resources
 
 # The Basics
 
-## **Discord Terms of Service**
-
-> **Description:** Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
+## **Discord Terms of Service** 
+> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
 It includes information ranging from intellectual property rights to account termination.   <br/>
-**Link:** [Terms Of Service](https://dis.gd/terms)
+__Link:__ [Terms Of Service](https://dis.gd/terms)
 
 ## **Discord Privacy Policy**
-
-> **Description:** Discord's privacy policy regarding users' information.  <br/>
-**Link:** [Discord Privacy Policy](https://discord.com/privacy)
+> __Description:__ Discord's privacy policy regarding users' information.  <br/>
+__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
 
 ## **Discord Community Guidelines**
-
-> **Description:** Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
+> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
 It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-**Link:** [Community Guidelines](https://dis.gd/guidelines)
+__Link:__ [Community Guidelines](https://dis.gd/guidelines)
 
 ## **Discord Blog**
-
-> **Description:** Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-**Link:** [Discord Blog](https://discord.com/blog)
-
+> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
+__Link:__ [Discord Blog](https://discord.com/blog)
+ 
 ## **Discord Subreddit**
-
-> **Description:** The unofficial Discord Subreddit.   <br/>
-**Link:** [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+> __Description:__ The unofficial Discord Subreddit.   <br/>
+__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
 ## **Discord Twitter Page**
+> __Description:__ The official Discord page on Twitter.   <br/>
+__Link:__ [Discord Twitter Page](https://twitter.com/discord)
 
-> **Description:** The official Discord page on Twitter.   <br/>
-**Link:** [Discord Twitter Page](https://twitter.com/discord)
-
-## **Discord YouTube Page**
-
-> **Description:**  The official Discord page on YouTube.   <br/>
-**Link:** [Discord YouTube Page](https://www.youtube.com/c/discord)
+## **Discord Youtube Page**
+> __Description:__  The official Discord page on Youtube.   <br/>
+__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
 
 ## **Discord Help Center**
-
-> **Description:** An official Discord navigation page full with useful support articles on every topic.   <br/>
-**Link:** [Discord Help Center](https://support.discord.com)
+> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
+__Link:__ [Discord Help Center](https://support.discord.com)
 
 ## **Discord Safety Center**
-
-> **Description:** Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-**Link:** [Discord Safety Center](https://discord.com/safety)
+> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
+__Link:__ [Discord Safety Center](https://discord.com/safety)
 
 ## **Client Downloads**
-
-> **Description:** All official downloadable Discord clients. (Download Discord!)   <br/>
-**Link:** [Discord Clients](https://discord.com/download)
+> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
+__Link:__ [Discord Clients](https://discord.com/download)

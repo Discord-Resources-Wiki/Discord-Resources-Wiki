@@ -1,114 +1,81 @@
 ---
-title: Official Discord Links
+title: Officiella Discord-länkar
 sidebar_position: 4
-description: Official links from discord.
+description: Officiella länkar från discord.
 ---
 
-# Official Discord Links
+# Officiella Discord-länkar
 
-## **Discord Website**
+## **Webbplats för Discord**
+> __Beskrivning:__ Föreställ dig en plats... där länkarna inte var så långa.   <br/>
+__Länk:__ [Webbplats för Discord](https://dis.gd/)
 
-> **Description:** Imagine a place… where links were not so long.   <br/>
-**Link:** [Discord Website](https://dis.gd/)
+## **Hur man rapporterar**
+> __Beskrivning:__ En guide om hur du rapporterar problem på rätt sätt till Discords team för förtroende och säkerhet.   <br/>
+__Länk:__  [Hur man rapporterar](https://dis.gd/howtoreport) | [Artikel från DMA](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## **How to Report**
+## **Hur man får fram användar-IDs** 
+> __Beskrivning:__ En guide om hur man hittar IDs.   <br/>
+__Länk:__  [Hur man får fram användar-, server- och meddelande-IDs](https://dis.gd/findmyid)
 
-> **Description:** A guide on how to properly report issues to Discord’s Trust and Safety team.   <br/>
-**Link:**  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+## **Fel i Discord**
+> __Beskrivning:__  Det officiella verktyget för att söka efter rapporterade och godkända fel.   <br/>
+__Länk:__ [Fel i Discord](https://bugs.discord.com/)
 
-## **How to get user IDs**
+## **Discord-testare Bug Tool**
+> __Beskrivning:__ Det officiella verktyget för att generera text för DBugs !submit-kommando. Formuläret vägleder dig steg för steg genom varje inmatning för att automatiskt generera ett kommando åt dig i slutet.   <br/>
+__Länk:__ [Testare Bug Tool](https://dis.gd/bug-tool)
+__Kredit:__ @53905483156684800
 
-> **Description:** A guide on how to find IDs.   <br/>
-**Link:**  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
+## **Testklienter för Discord**
+> __Beskrivning:__ En guide för nedladdning och användning av testklienter för Discord för alla plattformar.   <br/>
+__Länk:__ [Testklienter](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
-## **Discord Bugs**
-
-> **Description:**  The official tool to look up reported and approved bugs.   <br/>
-**Link:** [Discord Bugs](https://bugs.discord.com/)
-
-## **Discord Testers Bug Tool**
-
-> **Description:** The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-**Link:** [Testers Bug Tool](https://dis.gd/bug-tool)   <br/>
-**Credit:** @53905483156684800
-
-## **Discord Testing Clients**
-
-> **Description:** A guide on downloading and using Discord testing clients for all platforms.   <br/>
-**Link:** [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
-
-## **Discord Community Resources**
-
-> **Description:** Resources for setting up and maintaining a community server <br/>
-**Link:** [Community Resources](https://discord.com/community) <br/>
-
-## **Discord Moderator Academy**
-
-> **Description:** Discord’s official resources for moderators, written by moderators.   <br/>
-**Link:** [Discord Moderator Academy](https://dis.gd/moderation)
+## **Discord Moderator Academy** 
+> __Beskrivning:__ Discords officiella resurser för moderatorer, skrivna av moderatorer.   <br/>
+__Länk:__ [Discord Moderator Academy](https://dis.gd/moderation)
 
 ## **Discord Libraries Servers List**
+> __Beskrivning:__ En wikisida på Reddit som listar alla Discord API:er.   <br/>
+__Länk:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
 
-> **Description:** A Reddit wiki page that lists all of the Discord API libraries.   <br/>
-**Link:** [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+## **Discord öppen källkod**
+> __Beskrivning:__ Detta är källförteckningen över OSS-grupper som använder och lever på Discord.   <br/>
+__Länk(s):__
+[Discord öppen källkod](https://discord.com/open-source)   <br/>
+[Discord öppen källkod Github](https://github.com/discord/discord-open-source)
 
-## **Discord Open Source**
-
-> **Description:** This is the source list of OSS communities that use and live on Discord.   <br/>
-**Link(s):**
-[Discord Open Source](https://discord.com/open-source)   <br/>
-[Discord Open Source Github](https://github.com/discord/discord-open-source)
-
-## **Discord Branding**  
-
-> **Description:** Discord’s branding assets and guidelines.   <br/>
-**Link(s):**  <br/>
-[Discord Branding](https://discord.com/branding)  <br/>
-[Discord Dribbble Page](https://discord.design/)
+## **Varumärke för Discord**  
+> __Beskrivning:__ Discords varumärkestillgångar och riktlinjer.   <br/>
+__Länk:__ [Varumärke för Discord](https://discord.com/branding)
 
 ## **Discord Nitro**
+> __Beskrivning:__  Information om prenumerationer på Nitro och Nitro Classic.   <br/>
+__Länk:__ [Discord Nitro](https://dis.gd/nitro)
 
-> **Description:**  Information on Nitro & Nitro Classic subscriptions.   <br/>
-**Link:** [Discord Nitro](https://dis.gd/nitro)
+## **Discords statussida**
+> __Beskrivning:__ Här finns information om den aktuella statusen för Discord-tjänsterna.   <br/>
+__Länk:__ [Statussida](https://dis.gd/status)
 
-## **Discord Status Page**
+## **Discord-utvecklarportalen**
+> __Beskrivning:__ Huvudwebbplatsen för utvecklare där de kan hantera sina appar, team, OAuth2-områden med mera.    <br/>
+__Länk:__ [Discord-utvecklarportalen](https://discord.com/developers/)
 
-> **Description:** Provides information on the current status of the Discord services.   <br/>
-**Link:** [Status Page](https://dis.gd/status)
+## **Docs för Discord-utvecklare**
+> __Beskrivning:__ Dokumenten som beskriver hur alla typer av interaktioner hanteras och en resurs för botutvecklare.   <br/>
+__Länk:__ [Docs för Discord-utvecklare](https://discord.dev/)
 
-## **Discord Developer Portal**
+## **Bug Bounties för säkerhet i Discord**
+> __Beskrivning:__ Platsen för att skicka in säkerhetsbrister i Discord.   <br/>
+__Länk:__ [Discord Security Bug Bounties](https://discord.com/security)
 
-> **Description:** The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
-**Link:** [Discord Developer Portal](https://discord.com/developers/)
+## **Senaste insynsrapporten** 
+> __Beskrivning:__ Den senaste uppdateringen av säkerhetsgruppens åtgärder och uppsägningar.   <br/>
+__Länk:__ [Senaste insynsrapporten](https://discord.com/blog/discord-transparency-report-q1-2022)
 
-## **Discord Developer Docs**
+## **Discords (nya) mediepaket**
+> __Beskrivning:__ Discords officiella tillgångar.   <br/>
+__Länk:__ <br/>
+[Mediapaket för Discord (nytt) - Direktnedladdning](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[Discords varumärkessida](https://discord.com/branding)
 
-> **Description:** The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
-**Link:** [Discord Developer Docs](https://discord.dev/)
-
-## **Discord Security Bug Bounties**
-
-> **Description:** The place to submit security vulnerabilities within Discord.   <br/>
-**Link:** [Discord Security Bug Bounties](https://discord.com/security)
-
-## **Latest Transparency Report**
-
-> **Description:** The most recent update on the security team’s actions and terminations.   <br/>
-**Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022)
-
-## **Discord’s (new) Media Kit**
-
-> **Description:** Discord’s official assets.   <br/>
-**Link:** <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
-
-## **Discord Developer Help Center**
-
-> **Description:** An official Discord navigation page with support articles for developers. <br/>
-**Link:** [Developer Help Center](https://support-dev.discord.com)
-
-## **Discord Blog RSS Feed**
-
-> **Description:** Official RSS Feed of Discords Blog. <br/>
-**Link:** [Blog RSS Feed](https://discord.com/blog/rss.xml)

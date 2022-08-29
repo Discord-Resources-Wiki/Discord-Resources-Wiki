@@ -1,128 +1,56 @@
 ---
-title: Contribution
+title: Bidrag
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: En lista med massor av användbara resurser och verktyg för alla typer av användare, från nybörjare till avancerade användare.
 ---
 
-```mdx-code-block
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-```
+# Bidrag
 
-# Contribution
+Har du hittat ett fel eller en stavfel? Har du en bra resurs som passar in i denna lista? Bli en bidragsgivare och kom med på den härliga listan över bidragsgivare ovan!<br/>
+Om du vill bidra, är du mer än välkommen att PR-skriva den här wikin eller skicka ett DM till @755792681313108018 för att redigera wikin, och dig själv i listan.
+Du kan också gå med i [Official Project Guild](https://discord.gg/yxbqz9pNxS) att bidra till detta.
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors below!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+## Bidragsgivare
 
-## Contributors
-
-This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
-We want to thank:<br/>
-@795977947558182954 - Wiki Maintainer <br/>
-@885165099847929887 - <https://dis.wiki/> Redirect Owner <br/>
-@856780995629154305 - Website Maintainer <br/>
-@347727875266576395 - Wiki Architect <br/>
+Det här projektet krävde mer än ett par händer, och vi är stolta över att ha det här teamet av bidragsgivare som hjälpte oss med det här projektet!<br/>
+Vi vill tacka:<br/>
+@856780995629154305 - Webbplatsansvarig <br/>
+@347727875266576395 - Wiki-arkitekt <br/>
 @391660873409888277 - Wiki fixer <br/>
-@363481883369013259 - GitHub Manager / Documentation Organizer<br/>
-@337654195526303746 - Resources Researcher / Maintainer<br/>
-@337104786593939456 - Documentation Organizer<br/>
-@135877336804360194 - Website Maintainer <br/>
-@485676072176713729 - Resources Researcher / Maintainer<br/>
-@762387276595724308 - Resources Researcher / Maintainer<br/>
-@378537973215657984 - Project Manager / Documentation Organizer<br/>
-@287711497118023692 - Resources Researcher / Documentation Organizer<br/>
-@192060404501839872 - Designer<br/>
-@386861188891279362 - Website Architect / Documentation Organizer<br/>
-@102102717165506560 - Growth Consulting / Resource Curator<br/>
-@755792681313108018 - *I had this idea and did all of the above*  <br/>
-@480495309491798037 - <http://discord.wiki/> Redirect Owner <br/>
-@421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker
+@363481883369013259 - GitHub-ansvarig / dokumentationsorganisatör <br/>
+@337654195526303746 - Resursforskare / underhållare <br/>
+@337104786593939456 - Dokumentationsorganisatör <br/>
+@485676072176713729 - Resursforskare / underhållare <br/>
+@762387276595724308 - Resursforskare / underhållare <br/>
+@378537973215657984 - Gemenskap och innehåll Chef / Dokumentationsorganisatör <br/>
+@287711497118023692 - Resursforskare / dokumentationsorganisatör <br/>
+@192060404501839872 - Designer <br/>
+@386861188891279362 - Webbplatsarkitekt / dokumentationsorganisatör <br/>
+@102102717165506560 - Tillväxtrådgivning / resursförvaltare <br/>
+@755792681313108018 - *Jag fick den här idén och gjorde allt ovan.* <br/>
+@276660996922277890 - Översättning till svenska
+@674945722872889356 - Översättning till svenska
 
-## How to test changes locally
+## Hur man testar ändringar lokalt
 
-Got a great PR going but don't know what it looks like? Not a problem!<br/>
+Du har en  PR på gång men inte vet hur det ser ut? Det är inget problem! <br/>
+Om du har en gaffel av repositoriet är det lika enkelt som att köra dessa två kommandon:
 
-Requirements are:<br/>
-Node.js version >= ```16.5.0```<br/>
-
-If you are using Yarn:<br/>
-Yarn version >= ```1.22.0```
-
-Fork the GitHub repo and then clone it locally.
-
-```bash
-git clone https://github.com/yourusername/Discord-Resources-Wiki
 ```
-
-Then, open the `Discord-Resources-Wiki` directory and run the following command:
-  
-```mdx-code-block
-<Tabs>
-<TabItem value="npm">
-```
-
-```bash
 npm install
 ```
 
-```mdx-code-block
-</TabItem>
-<TabItem value="yarn">
+Detta laddar ner alla repositories som behövs för vårt dokumentationssystem (Docusaurus). Du behöver bara köra detta en gång.
+
 ```
-
-```bash
-yarn install
-```
-
-```mdx-code-block
-</TabItem>
-</Tabs>
-```
-
-This downloads all the repositories needed by our documentation system (Docusaurus). You only need to run this once.
-
-To see usernames like on the website, you must create new Discord application and make it as a Bot.
-Follow this [link](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) to create a new application.
-
-To get your freshly made bot token, go to your application settings and click on the "Bot" tab.
-Click on the "Token" button and you will see your bot token.
-
-Now create new file called .env in the root directory and paste the following:
-
-```env
-DISCORD_TOKEN=<tokenhere>
-```
-
-Save the file.
-
-To test your changes locally, run the following command:
-
-```mdx-code-block
-<Tabs>
-<TabItem value="npm">
-```
-
-```bash
 npm start
 ```
 
-```mdx-code-block
-</TabItem>
-<TabItem value="yarn">
-```
+Detta kommando startar webbservern (``localhost:3000`` som standard) och måste köras varje gång du vill börja redigera.
+Den behöver dock inte köras för varje ändring du gör, eftersom Docusaurus automatiskt startar om servern om den upptäcker förändringar!
 
-```bash
-yarn start
-```
-
-```mdx-code-block
-</TabItem>
-</Tabs>
-
-This command starts the web server (```localhost:3000``` by default) and must be ran every time you want to start editing.
-It does not need to be ran for every change you make however, as Docusaurus will automatically restart the server if it detects changes!
-
-Once you've got a running instance of the website locally, you're ready to start contributing!
-Notes: Please use ```<br/>``` for line break characters.
+När du har en fungerande instans av webbplatsen lokalt är du redo att börja bidra!
+Anteckningar: Använd följande ``<br/>`` för tecken för radbrytning <br/>
+Kräver Node.js-version >= ``12.13.0``
+Om du använder Yarn: Yarn-version >= ``1.5``

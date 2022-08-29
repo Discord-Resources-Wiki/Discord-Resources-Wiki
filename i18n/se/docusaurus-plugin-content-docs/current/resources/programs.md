@@ -4,38 +4,26 @@ sidebar_position: 7
 description: Discord programs like Moderation, Partner, HSE and Verification.
 ---
 
-# Programs
+# Program
 
-## **Discord Moderator Ecosystem**
+### **Ecosystemet för Discord-moderatorer** 
+> __Beskrivning:__ Officiellt ekosystem för moderatorer för att diskutera moderering.   <br/>
+__Länk(s):__ [Ecosystemet för Discord-moderatorer](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
+[Handbok för diskordmoderatorns ekosystem](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
+[Spicklapp för diskordmoderatorns ekosystem](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
 
-> **Description:** Official ecosystem for moderators to discuss moderation.   <br/>
-**Link(s):** [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
-[Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
-[Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view) <br/>
-[Discord Safety Ecosystem Components](https://docs.google.com/document/d/1rh4gAqymGPAqoi1gnzOw-_nIlgkkLvh233NAgNnq-Sw/edit#heading=h.80lk0cy481v7)  <br/>
-[Discord Safety Ecosystem Terminology Index](https://drive.google.com/file/d/1MZYnh165Z1d5BBLIq7ax_Ke6cx8WL64_/view)
+### **Partnerprogram**
+> __Beskrivning:__ Som förebilder för hela Discord är partnerservrarna gemenskaper som både nya och erfarna användare kan använda som inspiration för att skapa sina egna gemenskaper.   <br/>
+__Länk:__ [Discord partnerprogram](https://dis.gd/partners)
 
-## **Partner Program**
+### **Hypesquad-evenemang**
+> __Beskrivning:__ Här hittar du information och kan ansöka om att delta i programmet HypeSquad Events.   <br/>
+__Länk:__ [Hypesquad-evenemang](https://dis.gd/hypesquad)
 
-> **Description:** As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
-**Link:** [Discord Partner Program](https://dis.gd/partners)
+### **Program för verifiering**
+> __Beskrivning:__ Här hittar du information och kan ansöka om verifieringsprogrammet.   <br/>
+__Länk:__ [Program för verifiering](https://dis.gd/verification)
 
-## **Hypesquad Events**
-
-> **Description:** The place to find information and apply for the HypeSquad Events program.   <br/>
-**Link:** [HypeSquad Events](https://dis.gd/hypesquad)
-
-## **Verification Program**
-
-> **Description:** The place to find information and apply for the Verification program.   <br/>
-**Link:** [Verification Program](https://dis.gd/verification)
-
-## **Student Hubs**
-
-> **Description:** A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
-**Link:** [Student Hubs](https://dis.gd/studenthubs)
-
-## **Discord Admin Community**
-
-> **Description:** Official server for server admins of all kind to assemble and exchange about community related subjects. <br/>
-**Link:** [Discord Admin Community](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
+### **Student Nav**
+> __Beskrivning:__ En plats som gör det enkelt att träffa klasskamrater från din skola, upptäcka deras gemenskaper på Discord och dela dina egna servrar så att dina klasskamrater kan ansluta sig till dem.   <br/>
+__Länk:__ [Student Nav](https://dis.gd/studenthubs)

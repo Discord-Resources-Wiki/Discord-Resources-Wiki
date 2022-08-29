@@ -1,130 +1,106 @@
 ---
 title: Converters
 sidebar_position: 6
-description: Converter tools
+description: Verktyg för omvandlare
 ---
 
-# Converters
-
-## Timestamp Converters
-
+# Omvandlare
+## Tidsstämpelomvandlare 
 ### **HammerTime**
+> __Beskrivning:__ Välj ett datum, kopiera önskad tidsstämpel från kolumnen Chatsyntax och klistra sedan in den var som helst i ett chattmeddelande.   <br/>
+Resultatet blir en dynamisk tidsstämpel som visas på olika sätt för alla beroende på deras egen tidszon.   <br/>
+__Länk:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
+__Kredit:__ @140360880079503362
 
-> **Description:** Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
-**Link:** [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-**Credit:** @140360880079503362
+### **Snow-Stamp (Snowflake till Timestamp Converter)** 
+> __Beskrivning:__ Konverterar en användares snöflinga till den tidsstämpel som kontot skapades.   <br/>
+__Länk:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
+__Kredit:__ @86913608335773696
 
-### **Snow-Stamp (Snowflake to Timestamp Converter)**
-
-> **Description:** Converts a user’s snowflake into the timestamp the account was created.   <br/>
-**Link:** [Snow-Stamp](https://snowsta.mp/)   <br/>
-**Credit:** @86913608335773696
-
-### **DateTimeCord**
-
-> **Description:** A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
-**Link:** [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
-**Credit:** @172557961133162496
+### **DateTimeCord** 
+> __Beskrivning:__ En användbar webbplats för att generera datum- och tidsformatering Markdown för discord. Stöder alla formateringsalternativ som Discord har, och visar en förhandsgranskning av hur det skulle se ut i Discord.   <br/>
+__Länk:__ [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
+__Kredit:__ @172557961133162496
 
 ### **Alfred time converters plugins**
-
-> **Description:** Alfred plugins to convert time to timestamps and vice versa.   <br/>
-**Link(s):**   <br/>
+> __Beskrivning:__ Alfred plugins för att konvertera tid till tidsstämplar och vice versa.   <br/>
+__Länk(s):__   <br/>
 [Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
-**Credit:** @213023662066892800
+__Kredit:__ @213023662066892800
 
-### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
-
-> **Description:** Converts a given time into a Unix timestamp.   <br/>
-**Link:** [Epoch Converter](https://www.epochconverter.com/)
+### **Epoch Converter (Verktyg för konvertering av epok- och Unix-tidsstämplar)**
+> __Beskrivning:__ Converts a given time into a Unix timestamp.   <br/>
+__Länk:__ [Epoch Converter](https://www.epochconverter.com/) 
 
 ### **Unix Timestamps Decoder**
+> __Beskrivning:__ Avkodar en Unix-tidsstämpel till ett standardformat MM/DD/YYYYY.   <br/>
+__Länk:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
-> **Description:** Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
-**Link:** [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
-
-## File Converters
+## File Converters 
 
 ### **EzGif**
-
-> **Description:** EzGif is An online tool full with media-related utilities.  <br/>
-**Link:** [EzGif](https://ezgif.com)
+> __Beskrivning:__ EzGif är ett online-verktyg med många medierelaterade verktyg.  <br/>
+__Länk:__ [EzGif](https://ezgif.com)
 
 ### **Text Formatting Tools**
-
-> **Description:** A website for converting various text formats.   <br/>
-**Link:** [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
+> __Beskrivning:__ En webbplats för konvertering av olika textformat.   <br/>
+__Länk:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
 
 ### **Discord Txt**
-
-> **Description:** Used to view .txt files that have been uploaded to Discord.   <br/>
-**Link:** [Discord Txt](https://txt.discord.website/)
+> __Beskrivning:__ Används för att visa .txt-filer som har laddats upp till Discord.   <br/>
+__Länk:__ [Discord Txt](https://txt.discord.website/)
 
 ### **File Converter**
-
-> **Description:** Convert file types to others.   <br/>
-**Link:** [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-**Credit:** @Tichau
+> __Beskrivning:__ Konvertera filtyper till andra filtyper.   <br/>
+__Länk:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
+__Kredit:__ @Tichau
 
 ### **Color Replacer**
-
-> **Description:** Replace a specfic colour of an image.  <br/>
-**Link:** [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
+> __Beskrivning:__ Ersätt en viss färg i en bild.  <br/>
+__Länk:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
 
 ### **SVG Converters**
-
-> **Description:** High quality SVG converter.  <br/>
-**Link:** [SVG Converters](https://picsvg.com/)
+> __Beskrivning:__ SVG-omvandlare av hög kvalitet.  <br/>
+__Länk:__ [SVG Converters](https://picsvg.com/)
 
 ### **SVG Viewer**
+> __Beskrivning:__ Visa SVG-filer.   <br/>
+__Länk:__ [SVG Viewer](https://www.svgviewer.dev/)
 
-> **Description:** View SVG files.   <br/>
-**Link:** [SVG Viewer](https://www.svgviewer.dev/)
-
-### **YouTube Downloader**
-
-> **Description:** Download a YouTube video as a file using its URL (either audio only or video). <br/>
-**Link:** [YouTube Downloader](http://youtube.tpcstld.me/) <br/>
-**Credit:** @141065743197405184
+### **Youtube Downloader**
+> __Beskrivning:__ Ladda ner en Youtube-video som en fil med hjälp av dess URL (antingen enbart ljud eller video). <br/>
+__Länk:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
+__Kredit:__ @141065743197405184
 
 ### **Lottie Image Resizer**
-
-> **Description:** Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-**Link:** [Lottie Image Resizer](https://lottieresizer.tech/)
+> __Beskrivning:__ Förändring av Lottie-bilden så att du kan få dina Lottie-filer ≤320px.   <br/>
+__Länk:__ [Lottie Image Resizer](https://lottieresizer.tech/)
 
 ### **.gif to .apng**
-
-> **Description:** Converts .gif files to .apng files.   <br/>
-**Link:** [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
+> __Beskrivning:__ Konverterar .gif-filer till .apng-filer.   <br/>
+__Länk:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
 ### **HTML Color Codes**
-
-> **Description:** A site that converts a color into hex code and vice versa.   <br/>
-**Link:** [HTML Color Codes](https://htmlcolorcodes.com/)
+> __Beskrivning:__ A site that converts a color into hex code and vice versa.   <br/>
+__Länk:__ [HTML Color Codes](https://htmlcolorcodes.com/)
 
 ### **Image Color Picker**
-
-> **Description:** Upload an image and get a specific hex code for a color in the picture.   <br/>
-**Link:** [Image Color Picker](https://imagecolorpicker.com/)
+> __Beskrivning:__ Ladda upp en bild och få en specifik hex-kod för en färg i bilden.   <br/>
+__Länk:__ [Image Color Picker](https://imagecolorpicker.com/)
 
 ### **Removebg**
-
- > **Description:** Remove any background from an image.   <br/>
- **Link:** [Removebg](https://www.remove.bg/upload)
+ > __Beskrivning:__ Ta bort all bakgrund från en bild.   <br/>
+ __Länk:__ [Removebg](https://www.remove.bg/upload)
 
 ### **Erase.bg**
-
-> **Description:** Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
-**Link:** [Erase.bg](https://www.erase.bg/)
+> __Beskrivning:__ Ta bort bakgrunden från bilder av människor, djur eller föremål och ladda ner högupplösta bilder gratis.   <br/>
+__Länk:__ [Erase.bg](https://www.erase.bg/)
 
 ### **Cleanup.pictures**
-
-> **Description:** Remove any object, people, text or defects from your pictures.   <br/>
-**Link:** [Cleanup.pictures](https://cleanup.pictures/)
+> __Beskrivning:__ Ta bort föremål, personer, text eller defekter från dina bilder.   <br/>
+__Länk:__ [Cleanup.pictures](https://cleanup.pictures/)
 
 ### **Video Compressor**
-
-> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
-**Link:** [Video Compressor](https://8mb.video/)
+> __Beskrivning:__ En videokompressor som är utformad för att komprimera dina videor till den perfekta storleken för uppladdning till Discord. IDet finns tre alternativ, 8 MB, 50 MB och 100 MB, som passar olika uppladdningsbegränsningar.   <br/>
+__Länk:__ [Video Compressor](https://8mb.video/)

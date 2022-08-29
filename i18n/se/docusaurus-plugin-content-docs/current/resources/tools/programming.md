@@ -1,142 +1,107 @@
 ---
-title: Programming Related 
+title: Programmering Relaterat 
 sidebar_position: 2
-description: Programming related tools
+description: Programmeringsrelaterade verktyg
 ---
 
-# Programming Related
+# Programmering Relaterat
 
-## **Autocode**
+### **Autocode**
+> __Beskrivning:__ Autocode omvandlar JavaScript-funktioner (Node.js) till skalbara webbtjänster på ett ögonblick, utan att det krävs någon konfiguration.   <br/>
+__Länk:__ [Autocode](https://autocode.com/)  <br/>
+__Kredit:__ @746460957651501196
 
-> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
-**Link:** [Autocode](https://autocode.com/)  <br/>
-**Credit:** @746460957651501196
+### **Stack Overflow**
+> __Beskrivning:__ En plats för att hitta lösningar och diskutera kodningsrelaterade problem.  <br/>
+__Länk:__ [Stack Overflow](https://stackoverflow.com/)
 
-## **Stack Overflow**
+### **RapidAPI**
+> __Beskrivning:__ Hitta APIs för alla ändamål.  <br/>
+__Länk:__ [RapidAPI](https://rapidapi.com/)
 
-> **Description:** A place to find solutions and discuss coding related problems.  <br/>
-**Link:** [Stack Overflow](https://stackoverflow.com/)
+### **Some Random API**
+> __Beskrivning:__ Många roliga slutpunkter för utvecklare att använda.  <br/>
+__Länk:__ [Some Random API](https://some-random-api.ml/)  <br/>
+__Kredit:__ @423675224395874314 
 
-## **RapidAPI**
+### **Choose A License**
+> __Beskrivning:__ Välj en licens för ditt projekt med öppen källkod.   <br/>
+__Länk:__ [Choose A License](https://choosealicense.com/)
 
-> **Description:** Find APIs to all purposes.  <br/>
-**Link:** [RapidAPI](https://rapidapi.com/)
+### **Docker**
+> __Beskrivning:__ Förenklar utvecklingsprocesserna.   <br/>
+__Länk:__ [Docker](https://www.docker.com/)
 
-## **Some Random API**
+### **Visual Studio Code**
+> __Beskrivning:__ Gratis och största kodredigeringsverktyget. <br/>
+__Länk:__ [Visual studio code](https://code.visualstudio.com)  
 
-> **Description:** Variety of fun endpoints for devs to use.  <br/>
-**Link:** [Some Random API](https://some-random-api.ml/)  <br/>
-**Credit:** @423675224395874314
+### **Docusaurus**
+> __Beskrivning:__ En optimerad webbplatsgenerator i React. Docusaurus hjälper dig att gå snabbt fram och skriva innehåll.   <br/>
+__Länk:__ [Docusaurus](https://docusaurus.io/)
 
-## **Choose A License**
+### **GitBook**
+> __Beskrivning:__ Skapa dokument med många verktyg och designalternativ.  <br/>
+__Länk:__ [GitBook](https://www.gitbook.com/)
 
-> **Description:** Choose a license for your open source project.   <br/>
-**Link:** [Choose A License](https://choosealicense.com/)
-
-## **Docker**
-
-> **Description:** Simplifies development processes.   <br/>
-**Link:** [Docker](https://www.docker.com/)
-
-## **Visual Studio Code**
-
-> **Description:** Free and biggest code editing tool. <br/>
-**Link:** [Visual studio code](https://code.visualstudio.com)  
-
-## **Docusaurus**
-
-> **Description:** An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
-**Link:** [Docusaurus](https://docusaurus.io/)
-
-## **GitBook**
-
-> **Description:** Create docs full of utilities and design options.  <br/>
-**Link:** [GitBook](https://www.gitbook.com/)
-
-## **GitHub’s Guides and Documentation**
-
-> **Description:** Self explanatory.   <br/>
-**Link(s):**
+### **GitHub’s Guides and Documentation**
+> __Beskrivning:__ Självförklarande.   <br/>
+__Länk(s):__ 
 [Docs](https://docs.github.com/en)   <br/>
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
-## **Github Education Pack**
+### **Github Education Pack**
+> __Beskrivning:__ Gratis utvecklarverktyg från Github Education Pack.   <br/>
+__Länk:__ [Github Education Pack](https://education.github.com/)
 
-> **Description:** Free Developer Tools provided by Github Education Pack   <br/>
-**Link:** [Github Education Pack](https://education.github.com/)
+### **Public APIs**
+> __Beskrivning:__ Offentliga API:er är en väl underhållen lista över APIs som du kan använda i dina projekt, där varje API kategoriseras och dokumenteras.   <br/>
+__Länk:__ [Public APIs](https://github.com/public-apis/public-apis)
 
-## **Public APIs**
+### **HTTPS Statuses**
+> __Beskrivning:__ En lista över HTTP-statuskoder.   <br/>
+__Länk:__ [HTTPS Statuses](https://httpstatuses.com/)
 
-> **Description:** Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
-**Link:** [Public APIs](https://github.com/public-apis/public-apis)
+### **Does My Site Need HTTPS?**
+> __Beskrivning:__ En informativ sida som förklarar vikten av HTTPS.  <br/>
+__Länk:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
 
-## **HTTPS Statuses**
+### **HTTP Toolkit**
+> __Beskrivning:__ Uppfatta och visa alla dina HTTP(S) Mock-slutpunkter eller hela servrar Skriv om, omdirigera eller injicera fel.  <br/>
+__Länk:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
+__Credit:__ github:@pimterry
 
-> **Description:** A list of HTTP status codes.   <br/>
-**Link:** [HTTPS Statuses](https://httpstatuses.com/)
+### **Markdown Guide**
+> __Beskrivning:__ Markdown Guide är en gratis referensguide med öppen källkod som förklarar hur man använder Markdown, ett enkelt och lättanvänt markupspråk som du kan använda för att formatera praktiskt taget alla dokument.   <br/>
+__Länk:__ [Markdown Guide](https://www.markdownguide.org/)
 
-## **Does My Site Need HTTPS?**
+### **Qwerty.dev**
+> __Beskrivning:__ Qwerty.dev (tidigare beautifuldingbats.com) är en samling av Unicode-verktyg som hjälper dig att sticka ut på nätet.   <br/>
+__Länk:__ [Qwerty.dev](https://qwerty.dev/)
 
-> **Description:** An informative page explaining the importance of HTTPS.  <br/>
-**Link:** [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+### **replit**
+> __Beskrivning:__ En IDE, kompilator och tolk i webbläsaren med stöd för mer än 50 språk.   <br/>
+__Länk:__ [replit](https://replit.com/)
 
-## **HTTP Toolkit**
+### **Regex101**
+> __Beskrivning:__ Skapa, testa och felsöka regex.   <br/>
+__Länk:__ [Regex101](https://regex101.com/)
 
-> **Description:** Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
-**Link:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-**Credit:** github:@pimterry
+### **RegExp Generator**
+> __Beskrivning:__ RegExp-generator för Unicode-områden.   <br/>
+__Länk:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
-## **Markdown Guide**
+### **Regex Crossword**
+> __Beskrivning:__ Lär dig regex genom pussel och utmaningar.   <br/>
+__Länk:__ [Regex Crossword](https://regexcrossword.com/)
 
-> **Description:** The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
-**Link:** [Markdown Guide](https://www.markdownguide.org/)
+### **Guide(s) to contributing on Open Source Software**
+> __Beskrivning:__ En förteckning över olika resurser för att hjälpa OSS-bidragsgivare. <br/>
+__Länk:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+__Credit:__ @github:freeCodeCamp
 
-## **Qwerty.dev**
-
-> **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
-**Link:** [Qwerty.dev](https://qwerty.dev/)
-
-## **replit**
-
-> **Description:** An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
-**Link:** [replit](https://replit.com/)
-
-## **Regex101**
-
-> **Description:** Build, test, and debug regex.   <br/>
-**Link:** [Regex101](https://regex101.com/)
-
-## **RegExp Generator**
-
-> **Description:** Unicode range RegExp generator.   <br/>
-**Link:** [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
-
-## **Regex Crossword**
-
-> **Description:** Learn regex through puzzles and challenges.   <br/>
-**Link:** [Regex Crossword](https://regexcrossword.com/)
-
-## **Guide(s) to contributing on Open Source Software**
-
-> **Description:** A list of various resources to help OSS contributors. <br/>
-**Link:** [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-**Credit:** @github:freeCodeCamp
-
-## **Big List of Nasty Strings**
-
-> **Description:** A list of strings to help test for edge cases <br/>
-**Link:** [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-**Credit:** @github:minimaxir
-
-## **Free for developers**
-
-> **Description:** List of free offerings for developers <br/>
-**Link:** [Free for developers](https://free-for.dev/#/) <br/>
-**Credit:** @github:ripienaar
-
-## **Paginated discordjs messages**
-
-> **Description:** A package that helps make paginated messages easier in discord.js <br/>
-**Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
-**Credit:** @github:sapphiredev
+### **Big List of Nasty Strings**
+> __Beskrivning:__ En lista med strängar för att hjälpa till att testa kantfall. <br/>
+__Länk:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+__Kredit:__ @github:minimaxir
