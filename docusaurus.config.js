@@ -24,7 +24,7 @@ const config = {
 
 	i18n: {
 		defaultLocale: "en",
-		locales: ["en", "fr", "de", "es", "tr", "nl", "hi"]
+		locales: ["en", "fr", "de", "es", "tr", "nl", "hi", "se", "pl"]
 	  },
 
 	presets: [
