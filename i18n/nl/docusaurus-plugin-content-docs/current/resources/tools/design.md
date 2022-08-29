@@ -51,7 +51,7 @@ __Credit(s):__ @github:yeun
 ### **Teeny Icons**
 > __Omschrijving:__ Een set van minimale 1px iconen.  <br/>
 __Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__Credit(s):__ @github:@teenyicons
+__Credit(s):__ @github:teenyicons
 
 ### **Streamline**
 > __Omschrijving:__ Meer dan 100.000 iconen, illustraties en emoji's.  <br/>
@@ -60,7 +60,7 @@ __Link:__ [Streamline](https://streamlinehq.com/)
 ### **Feather Icons**
 > __Omschrijving:__ Eenvoudige, open source-iconen.  <br/>
 __Link:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Credit(s):__ @github:@feathericons
+__Credit(s):__ @github:feathericons
 
 ### **Spectrum**
 > __Omschrijving:__ Minimale, consistente UI-Iconen.  <br/>
@@ -69,7 +69,7 @@ __Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)
 ### **Font Awesome**
 > __Omschrijving:__ Vector iconen en sociale logo's.  <br/>
 __Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Credit(s):__ @github:@FortAwesome
+__Credit(s):__ @github:FortAwesome
 
 ### **ICONS8**
 > __Omschrijving:__ Iconen, illustraties, foto's, muziek en ontwerptools.  <br/>

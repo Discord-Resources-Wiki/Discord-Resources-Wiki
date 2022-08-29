@@ -63,7 +63,7 @@ description: डिज़ाइन टूल्स
 
 > **विवरण:** न्यूनतम 1px आइकन का एक सेट ।  <br/>
 **लिंक:** [टिन्नी आइकन्स](https://teenyicons.com/)  <br/>
-**क्रेडिट:** @github:@teenyicons
+**क्रेडिट:** @github:teenyicons
 
 ### **स्ट्रीमलाइन**
 
@@ -74,7 +74,7 @@ description: डिज़ाइन टूल्स
 
 > **विवरण:** सरल, ओपन-सोर्स आइकन ।  <br/>
 **लिंक:** [फेथर आइकन्स](https://feathericons.com/)  <br/>
-**क्रेडिट:** @github:@feathericons
+**क्रेडिट:** @github:feathericons
 
 ### **स्पेक्ट्रम**
 
@@ -85,7 +85,7 @@ description: डिज़ाइन टूल्स
 
 > **विवरण:** सदिश चिह्न और सामाजिक लोगो ।  <br/>
 **लिंक:** [फ़ॉन्ट ओसम](https://fontawesome.com/)  <br/>
-**क्रेडिट:** @github:@FortAwesome
+**क्रेडिट:** @github:FortAwesome
 
 ### **आइकन्स8**
 

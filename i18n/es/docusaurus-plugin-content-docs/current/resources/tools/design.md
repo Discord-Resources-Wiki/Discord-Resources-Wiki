@@ -63,7 +63,7 @@ description: Herramientas de diseño
 
 > **Descripción:** Un conjunto de iconos mínimos de 1px. <br/>
 **Enlace:** [Iconos pequeños](https://teenyicons.com/) <br/>
-**Créditos:** @github:@teenyicons
+**Créditos:** @github:teenyicons
 
 ## **Streamline**
 
@@ -74,7 +74,7 @@ description: Herramientas de diseño
 
 > **Descripción:** Iconos simples de código abierto. <br/>
 **Enlace:** [Iconos de plumas](https://feathericons.com/) <br/>
-**Créditos:** @github:@feathericons
+**Créditos:** @github:feathericons
 
 ## **Spectrum**
 
@@ -85,7 +85,7 @@ description: Herramientas de diseño
 
 > **Descripción:** Iconos vectoriales y logos sociales. <br/>
 **Enlace:** [Fuente Awesome](https://fontawesome.com/) <br/>
-**Créditoss:** @github:@FortAwesome
+**Créditoss:** @github:FortAwesome
 
 ## **ICONS8**
 

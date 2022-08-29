@@ -62,7 +62,7 @@ description: Entwurfswerkzeuge
 
 > **Beschreibung:** Eine Reihe von minimalen 1px Icons.  <br/>
 **Link:** [Teeny Icons](https://teenyicons.com/)  <br/>
-**CREDIT:** @github:@teenyicons
+**CREDIT:** @github:teenyicons
 
 ## **Streamline**
 
@@ -73,7 +73,7 @@ description: Entwurfswerkzeuge
 
 > **Beschreibung:** Simple Open-Source-Symbole.  <br/>
 **Link:** [Feather Icons](https://feathericons.com/)  <br/>
-**Credit:** @github:@feathericons
+**Credit:** @github:feathericons
 
 ## **Spectrum**
 
@@ -84,7 +84,7 @@ description: Entwurfswerkzeuge
 
 > **Beschreibung:** Vektorensymbole und Soziallogos.  <br/>
 **Link:** [Font Awesome](https://fontawesome.com/)  <br/>
-**Credit:** @github:@FortAwesome
+**Credit:** @github:github:
 
 ## **ICONS8**
 

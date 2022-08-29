@@ -51,7 +51,7 @@ __Credit:__ @github:yeun
 ### **Teeny Icons**
 > __Description:__ Un ensemble d'icônes minimales 1px.  <br/>
 __Lien:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__CREDIT:__ @github:@teenyicons
+__CREDIT:__ @github:teenyicons
 
 ### **Streamline**
 > __Description:__ Plus de 100k icônes, illustrations et emojis.  <br/>
@@ -60,7 +60,7 @@ __Lien:__ [Streamline](https://streamlinehq.com/)
 ### **Feather Icons**
 > __Description:__ Des icônes simples et open-source.  <br/>
 __Lien:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Credit:__ @github:@feathericons
+__Credit:__ @github:feathericons
 
 ### **Spectrum**
 > __Description:__ Des icônes d'interface utilisateur minimales et cohérentes.  <br/>
@@ -69,7 +69,7 @@ __Lien:__ [Spectrum](https://spectrum.adobe.com/page/icons/)
 ### **Font Awesome**
 > __Description:__ Icônes vectorielles et logos sociaux.  <br/>
 __Lien:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Credit:__ @github:@FortAwesome
+__Credit:__ @github:FortAwesome
 
 ### **ICONS8**
 > __Description:__ Icônes, illustrations, photos, musique et outils de conception.  <br/>

@@ -51,7 +51,7 @@ __Oluşturucu:__ @github:yeun
 ### **Teeny Icons**
 > __Tanım:__ Minimum 1 piksellik simgelerden oluşan bir set.  <br/>
 __Bağlantı:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__OLUŞTURUCU:__ @github:@teenyicons
+__OLUŞTURUCU:__ @github:teenyicons
 
 ### **Streamline**
 > __Tanım:__ 100.000'den fazla simge, illüstrasyon ve emoji.  <br/>
@@ -60,7 +60,7 @@ __Bağlantı:__ [Streamline](https://streamlinehq.com/)
 ### **Feather Icons**
 > __Tanım:__ Basit, açık kaynaklı simgeler.  <br/>
 __Bağlantı:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Oluşturucu:__ @github:@feathericons
+__Oluşturucu:__ @github:feathericons
 
 ### **Spectrum**
 > __Tanım:__ Minimal, tutarlı UI simgeleri.  <br/>
@@ -69,7 +69,7 @@ __Bağlantı:__ [Spectrum](https://spectrum.adobe.com/page/icons/)
 ### **Font Awesome**
 > __Tanım:__ Vektör simgeleri ve sosyal logolar.  <br/>
 __Bağlantı:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Oluşturucu:__ @github:@FortAwesome
+__Oluşturucu:__ @github:FortAwesome
 
 ### **ICONS8**
 > __Tanım:__ Simgeler, çizimler, fotoğraflar, müzik ve tasarım araçları.  <br/>
