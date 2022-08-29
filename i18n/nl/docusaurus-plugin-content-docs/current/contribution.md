@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Bijdrage
 sidebar_position: 3
 slug: /contribution
 description: Een lijst met heel veel handige discord hulpbronnen voor alle gebruikers, van beginners tot powerusers.
@@ -10,13 +10,13 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 ```
 
-# Contribution
+# Bijdrage
 
 Heb je een error of typfout gevonden? Heb je een goede hulpbron gevonden die in deze lijst past? Wordt een bijdrager en kom op de roemrijke lijst met bijdragers hieronder!<br/>
 Om bij te dragen ben je meer dan welkom om een PR te maken of om een DM te sturen naar @755792681313108018 om de wiki te bewerken.
 Je kan ook onderdeel worden van de [Officiële Project Server](https://discord.gg/yxbqz9pNxS) om daar bijdrages te doen.
 
-## Contributors
+## Bijdragers
 
 Dit project heeft meer dan één paar handen gekost, en we zijn er trots op dat dit team van bijdragers ons heeft geholpen met dit project!<br/>
 We willen de volgende personen graag bedanken:<br/>
