@@ -63,7 +63,7 @@ description: Design tools
 
 > **Description:** A set of minimal 1px icons.  <br/>
 **Link:** [Teeny Icons](https://teenyicons.com/)  <br/>
-**CREDIT:** @github:@teenyicons
+**CREDIT:** @github:teenyicons
 
 ## **Streamline**
 
@@ -74,7 +74,7 @@ description: Design tools
 
 > **Description:** Simple, open-source icons.  <br/>
 **Link:** [Feather Icons](https://feathericons.com/)  <br/>
-**Credit:** @github:@feathericons
+**Credit:** @github:feathericons
 
 ## **Spectrum**
 
@@ -85,7 +85,7 @@ description: Design tools
 
 > **Description:** Vector icons and social logos.  <br/>
 **Link:** [Font Awesome](https://fontawesome.com/)  <br/>
-**Credit:** @github:@FortAwesome
+**Credit:** @github:FortAwesome
 
 ## **ICONS8**
 
