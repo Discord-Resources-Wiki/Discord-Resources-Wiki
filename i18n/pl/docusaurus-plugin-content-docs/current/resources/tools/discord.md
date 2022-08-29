@@ -6,54 +6,54 @@ description: Discord related tools
 
 # Discord Related
 
-### **Alternatives to MEE6**
-> __Description:__ A list of Discord bots that can be used in place of MEE6.   <br/>
-__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
-__Credit:__ @99787644430475264
+### **Zamienniki dla MEE6**
+> __Description:__ Lista botów na Discordzie, które można użyć zamiast MEE6.   <br/>
+__Link:__ [Zamienniki do MEE6](https://www.alternativestomee6.com/)   <br/>
+__Podziękowania:__ @99787644430475264
 
-### **All Discord Permissions**
-> __Description:__ A list of all the permissions available for users.   <br/>
-__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
+### **Wszystkie Permisje na Discordzie**
+> __Description:__ Kompletna lista permisji dostępnych na Discordzie dla jego użytkowników.   <br/>
+__Podziękowania:__ [Wszystkie Permisje na Discordzie](https://discordapi.com/permissions)
 
-### **Discord Tools**
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
-__Link:__ [Discord Tools](https://discordtools.io/)   <br/>
-__Credit:__ @276544649148235776
+### **Narzędzia do Discorda**
+> __Description:__ Zbiór narzędzi do Discorda, za pomocą których można analizować serwery, sprawdzać różne ID, a nawet sprawdzić obecny status serwerów Discorda. Możesz dowiedzieć się na ilu serwerach jesteś, ile moderujesz, a ile z nich ma partnerstwo z Discordem, ale również pokazuje listę wszystkich serwerów w kategoriach wyżej, tak samo jak listę wszystkich serwerów.   <br/>
+__Link:__ [Narzędzia do Discorda](https://discordtools.io/)   <br/>
+__Podziękowania:__ @276544649148235776
 
-### **Discord Toolbox**
-> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup.   <br/>
-__Link:__ [Discord Toolbox](https://distools.app/)   <br/>
-__Credit:__ @386861188891279362
+### **Zbiór narzędzi do Discorda**
+> __Description:__ Narzędzia do Discorda takie jak aktualizacja statusu serwerów Discorda, informacje dotyczące eksperymentów na Discordzie oraz wyszukiwanie z użyciem ID.   <br/>
+__Link:__ [Zbiór narzędzi do Discorda](https://distools.app/)   <br/>
+__Podziękowania:__ @386861188891279362
 
-### **Discord Lookup**
-> __Description:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
-__Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
-__Credit:__ @231091710195662848
+### **Wyszukiwanie na Discordzie**
+> __Description:__ Łatwe w użyciu narzędzie do wyszukiwania użytkowników, serwerów, zaproszeń i zdobywania informacji odnośnie listy serwerów wraz ze statystykami, wypuszczeniem nowych eksperymentów, funkcji i widok permisji.  <br/>
+__Link:__ [Wyszukiwanie na Discordzie](https://discordlookup.com/)  <br/>
+__Podziękowania:__ @231091710195662848
 
-### **Discord Data Package Explorer**
-> __Description:__ Explore your Discord data easily.   <br/>
-__Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ @github:Androz2091
+### **Eksplorator pakietów danych Discord**
+> __Description:__ Eksploruj swoje dane na Discordzie z łatwością.   <br/>
+__Link:__ [Eksplorator pakietów danych Discord](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
+__Podziękowania:__ @github:Androz2091
 
-### **Discord Simple Avatar Maker**
-> __Description:__ A site to make simple Discord avatars.   <br/>
-__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
-__Credit:__ @github:christian-reichart
+### **Łatwy kreator profilowych na Discorda**
+> __Description:__ Strona do robienia prostych profilowych na Discorda.   <br/>
+__Link:__ [Łatwy kreator profilowych na Discorda](https://discord-avatar-maker.app/)   <br/>
+__Podziękowania:__ @github:christian-reichart
 
-### **Discord Emoji Downloader**
-> __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server.   <br/>
-__Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
-__Credit:__ @152164749868662784
+### **Pobieranie Emoji z Discorda**
+> __Description:__ Te proste narzędzie pozwoli na pobranie wszystkich emotek z serwera Discord w formacie ZIP.   <br/>
+__Link:__ [Pobieranie Emoji z Discorda](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
+__Podziękowania:__ @152164749868662784
 
-### **Discord Friends Graph Maker**
-> __Description:__ Make a graph out of your friends and their relations.  <br/>
-__Link:__ [Discord Friends Graph Maker](https://github.com/Maanex/discord-friends-graph)  <br/>
-__Credit:__ @137258778092503042
+### **Tworzenie grafu z kolegami z Discorda**
+> __Description:__ Stwórz graf z twoimi kolegami i relacjami pomiędzy nimi.  <br/>
+__Link:__ [Tworzenie grafu z kolegami](https://github.com/Maanex/discord-friends-graph)  <br/>
+__Podziękowania:__ @137258778092503042
 
-### **Discord Servers Comparations**
-> __Description:__ Compare stats between Discord servers.  <br/>
-__Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
-__Credit:__ @152164749868662784
+### **Porównanie serwerów Discord**
+> __Description:__ Porównaj statystyki pomiędzy serwerami Discord  <br/>
+__Link:__ [Porównanie serwerów Discord](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
+__Podziękowania:__ @152164749868662784
 
 ### **Slash Commands GUI**
 > __Description:__ Graphical User Interface to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS.  <br/>
