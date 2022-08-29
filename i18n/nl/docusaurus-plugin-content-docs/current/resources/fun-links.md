@@ -11,7 +11,7 @@ https://shutplea.se/ | Zwijg vogel   <br/>
 https://i-dont-ca.re/ | Over docs   <br/>
 https://just-read.it/ | Lees de error smh   <br/>
 https://when.lol/ | When did I ask   <br/>
-https://getsharex.com/premium | Sharex premium   <br/>
+https://getsharex.com/premium | ShareX Premium   <br/>
 https://nohello.com/ | Zeg niet zomaar hallo   <br/>
 https://nohello.net/ | Zeg niet zomaar hallo 2.0 <br/>
 https://dtesters.glitch.me/pin | Bekijk de pins smh   <br/>
