@@ -84,7 +84,7 @@ description: Entwurfswerkzeuge
 
 > **Beschreibung:** Vektorensymbole und Soziallogos.  <br/>
 **Link:** [Font Awesome](https://fontawesome.com/)  <br/>
-**Credit:** @github:github:
+**Credit:** @github:FortAwesome
 
 ## **ICONS8**
 
