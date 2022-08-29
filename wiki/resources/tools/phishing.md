@@ -11,10 +11,10 @@ description: Phishing and Security tools
 > **Description:** This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
 **Link:** [Discord Nitro Information](https://dicsord.gq/)
 
-## **Virus Total**
+## **VirusTotal**
 
-> **Description:** Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
-**Link:** [Virus Total](https://www.virustotal.com/gui/home/upload)
+> **Description:** VirusTotal analyses suspicious files and URLs to detect types of malware.   <br/>
+**Link:** [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ## **CleanURLs**
 
