@@ -56,7 +56,8 @@ description: Phishing and Security tools
 [URL Scan](https://urlscan.io/)  <br/>
 [ThreatMiner](https://www.threatminer.org/)  <br/>
 [McAfee URL Checker](https://www.trustedsource.org/)  <br/>
-[IP Logger URL Checker](https://iplogger.com/url-checker)
+[IP Logger URL Checker](https://iplogger.com/url-checker) <br/>
+[Kaspersky Threat Intelligence Portal](https://opentip.kaspersky.com)
 
 ## Phishing APIs
 
