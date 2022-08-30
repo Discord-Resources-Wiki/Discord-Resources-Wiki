@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Wkład
 sidebar_position: 3
 slug: /contribution
 description: Lista ton przydatnych zasobów discord i narzędzi dla wszystkich typów użytkowników, od początkujących do power userów.
