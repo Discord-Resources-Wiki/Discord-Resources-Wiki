@@ -1,40 +1,40 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: Over
 sidebar_position: 1
 slug: /
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Een lijst met heel veel handige discord hulpbronnen voor alle gebruikers, van beginners tot powerusers.
 ---
 
-# About
+# Over
 
-## Welcome to Discord Resources Wiki
+## Welkom op de Discord Hulpbronnen Wiki
 
-## So what is this thing?
+## Dus wat is dit voor site?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+De bedenker van dit project, @755792681313108018, was aan het kijken naar een goede en makkelijke lijst met Discord hulpbronnen die alles tussen standaard kennis en geavanceerde kennis zou hebben; een lijst die iedereen, beginners en doorgewinterde Discord gebruikers handig zullen vinden. Maar zo'n lijst was niet te vinden.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+En dat is hoe het idee bedacht is!
+Met de hulp van een aantal vrienden die hun weg door Discord konden vinden, werd samen de **Discord Hulpbronnen Wiki** gecreëerd. Het project vergde maanden van onderzoek, organisatie en ontwerp werk om het te laten worden wat het nu is, en wij hopen dat je het handig vindt.
 
-## What am I seeing here?
+## Wat zie ik hier?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+We groeperen gelijkaardige bronnen onder gemeenschappelijke categorieën en onderwerpen, toegankelijk aan de linkerkant op desktop of met het menu-icoon op mobiel. Elke bron heeft een korte beschrijving van wat het is, gevolgd door de link naar waar het kan worden benaderd, evenals de credits naar de makers.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+Deze site zal voortdurend en regelmatig worden bijgewerkt als we meer middelen tegenkomen die nuttig zouden kunnen zijn voor Discord gebruikers over het hele platform!
 
 ## Disclaimer
 
-**We are not affiliated with Discord in any way.**
+**We zijn op geen enkele manier gelieerd aan Discord.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+Deze site is een verzamelijk van de meeste hulpbronnen die we tegenkwamen en het is zeker geen volledig uitgeputte lijst. We claimen geen rechten of eigendom op de hier vermelde bronnen, tenzij uitdrukkelijk anders vermeld. Alle credits voor de maken van bronnen worden vermeld in het 'credit' stukje van elke link.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+We doen ons best om gebruikers credits tegeven wanneer mogelijk, echter realiseren we dat sommige hulpbronnen mogelijk foute of incomplete credits hebben. Neem alsjeblieft contact met ons op als je een fout vind, zodat we het kunnen oplossen.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+We zijn eigenaar van alle logo's en andere marketingstukken, deze stukken zijn door @192060404501839872 gemaakt. Je mag niet onze marketingstukken gebruiken voor eigen gebruik of projecten zonder onze uitdrukkele toestemming.
 
-## Personal Note
+## Persoonlijke Note
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
+Hoewel het optioneel is, we zouden het erg op prijs stellen als we genoemd kunnen worden als we je hebben kunnen helpen. We doen ons best om links te onderzoeken, bronnen te organiseren en ze op de website te beheren, en wat u ziet is de uitkomst van maanden van onze inspanningen en samenwerking.
 
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+**Help je vrienden, community leden en meer door dit project met hun te delen!**

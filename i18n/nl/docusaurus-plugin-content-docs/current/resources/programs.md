@@ -1,29 +1,29 @@
 ---
-title: Programs
+title: Programma's
 sidebar_position: 7
-description: Discord programs like Moderation, Partner, HSE and Verification.
+description: Discord-programma's zoals Moderatie, Partner, HSE en Verificatie.
 ---
 
-# Programs
+# Programma's
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link(s):__ [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
-[Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
-[Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
+### **Discord Moderator Ecosysteem** 
+> **Beschrijving:** Officieel ecosysteem voor moderators om moderatie te bespreken.  <br/>
+**Link(s):** [Discord Moderator Ecosysteem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
+[Discord Moderator Ecosysteem Handboek](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
+[Discord Moderator Ecosysteem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
 
-### **Partner Program**
-> __Description:__ As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
-__Link:__ [Discord Partner Program](https://dis.gd/partners)
+### **Partner Programma**
+> **Beschrijving:** Als rolmodellen voor heel Discord zijn partnerservers gemeenschappen die zowel onze nieuwe als ervaren gebruikers kunnen gebruiken als inspiratie om hun eigen gemeenschappen te creëren.   <br/>
+**Link:** [Discord Partner Programma](https://dis.gd/partners)
 
-### **Hypesquad Events**
-> __Description:__ The place to find information and apply for the HypeSquad Events program.   <br/>
-__Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
+### **Hypesquad Evenementen**
+> **Beschrijving:** De plek om informatie te vinden en je aan te melden voor het HypeSquad Events programma.   <br/>
+**Link:** [HypeSquad Evenementen](https://dis.gd/hypesquad)
 
-### **Verification Program**
-> __Description:__ The place to find information and apply for the Verification program.   <br/>
-__Link:__ [Verification Program](https://dis.gd/verification)
+### **Verificatieprogramma**
+> **Beschrijving:** De plek om informatie te vinden en het Verificatieprogramma aan te vragen.   <br/>
+**Link:** [Verificatieprogramma](https://dis.gd/verification)
 
-### **Student Hubs**
-> __Description:__ A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
-__Link:__ [Student Hubs](https://dis.gd/studenthubs)
+### **Studentenhubs**
+> **Beschrijving:** Een plek die het gemakkelijk maakt om klasgenoten van je school te ontmoeten, hun gemeenschappen op Discord te ontdekken en je eigen servers te delen zodat klasgenoten lid kunnen worden.   <br/>
+**Link:** [Studentenhubs](https://dis.gd/studenthubs)

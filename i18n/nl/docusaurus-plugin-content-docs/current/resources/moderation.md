@@ -1,36 +1,31 @@
 ---
-title: Moderation
+title: Moderatie
 sidebar_position: 6
-description: Moderation resources
+description: Moderatie hulpmiddelen
 ---
 
-# Moderation
-
-### **Modcast Podcast** (recently affiliated)
-> __Description:__ A podcast by moderators for moderators.   <br/>
-__Link:__ [Modcast Podcast](https://modcast.network/)   <br/>
-__Credit:__ [ModPod team](https://modcast.network/meet-the-team/) 
+# Moderatie
 
 ### **Discord Moderator Academy**
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-__Credit:__ Multiple Authors (Discord Moderator Ecosystem)
+> **Beschrijving:** Discord's officiële bronnen voor moderatoren, geschreven door moderatoren.   <br/>
+**Link:** [Discord Moderator Academy](https://dis.gd/moderation) 
+**Credit:** Multiple Authors (Discord Moderator Ecosystem)
 
 ### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+> **Beschrijving:** Officieel ecosysteem voor moderators om moderatie te bespreken.   <br/>
+**Link:** [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
 ### **Naviking’s Moderation Templates & Tools Documentation**
-> __Description:__ A drive file full of moderation resources.   <br/>
-__Link:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-__Credit:__ @200987752794292224
+> **Beschrijving:** Een stationsbestand vol moderatiebronnen.   <br/>
+**Link:** [Naviking’s sjablonen en hulpmiddelen documentatie](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+**Credit:** @200987752794292224
 
-### **Moderation Guidelines**
-> __Description:__ A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
-__Link:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-__Credit:__ @366652352125599744
+### **Moderatie richtlijnen**
+> **Beschrijving:** Een sjabloon om nieuw personeel te helpen bij de onboarding en het begrijpen van de moderatiepraktijken van de server.   <br/>
+**Link:** [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
+**Credit:** @366652352125599744
 
-### **A Guide To Civil Conversation**
-> __Description:__ Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
-__Link:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-__Credit:__ @102102717165506560
+### **Een gids voor civiele gesprekken**
+> **Beschrijving:** Uitgebreide, maar gepolijste community-regelset, gericht op het verminderen van het werk van moderators.   <br/>
+**Link:** [Een gids voor burgerlijke conversatie](https://conversation.guide/)   <br/>
+**Credit:** @102102717165506560

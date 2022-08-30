@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Dalej",
+    "description": "Etykieta dla wersji bieżącej"
+  },
+  "sidebar.tutorialSidebar.category.Resources": {
+    "message": "Zasoby",
+    "description": "Etykieta dla kategorii Zasoby na pasku bocznym tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bots": {
+    "message": "Boty",
+    "description": "Etykieta dla kategorii Boty na pasku bocznym tutorialaSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tools": {
+    "message": "Narzędzia",
+    "description": "Etykieta dla kategorii Narzędzia na pasku bocznym tutorialSidebar"
+  }
+}
