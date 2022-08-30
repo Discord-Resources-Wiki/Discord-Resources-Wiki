@@ -8,7 +8,7 @@ description: A list of tons of useful discord resources and utilities for all ty
 # Contributo
 
 Hai trovato un problema o un errore di battitura? Hai una buona risorsa da aggiungere che si adatta a questo elenco? Diventa un collaboratore ed entra nella gloriosa lista dei contributori!<br/>
-Per contribuire, sei più che il benvenuto, crea una PR (Pull request) su questa wiki o invia un DM a @755792681313108018 per modificare la wiki o te stesso nell'elenco.
+Per contribuire, sei più che il benvenuto, crea una PR (Pull Request) su questa wiki o invia un DM a @755792681313108018 per modificare la wiki o te stesso nell'elenco.
 Puoi anche unirti al [Official Project Guild](https://discord.gg/yxbqz9pNxS) per contribuire lì.
 
 ## Contributori
@@ -49,6 +49,6 @@ Questo comando avvia il server web (``localhost:3000`` di default) e deve essere
 Tuttavia, non è necessario eseguirlo per ogni modifica apportata, poiché Docusaurus riavvierà automaticamente il server se rileva modifiche!
 
 Una volta che hai un'istanza in esecuzione del sito Web in locale, sei pronto per iniziare a contribuire!
-Nota: Si prega di utilizzare ``<br/>`` per andare a capo.(<br/>
+Nota: Si prega di utilizzare ``<br/>`` per andare a capo.<br/>
 Richiede Node.js versione >= ``12.13.0``
 Se stai usando Yarn: versione Yarn  >= ``1.5``
