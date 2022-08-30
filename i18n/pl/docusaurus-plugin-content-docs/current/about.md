@@ -1,6 +1,6 @@
 ---
 title: Wiki
-sidebar_label: About
+sidebar_label: O stronie
 sidebar_position: 1
 slug: /
 description: Lista ton przydatnych zasobów discord i narzędzi dla wszystkich typów użytkowników, od początkujących do power userów.
