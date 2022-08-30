@@ -14,7 +14,7 @@ description: Unofficial resources for Discord.
 
 ## **Discord For Designers**
 
-> **Description:**  A site filled with useful resources for designers such as mockups, icons and UI kits.  <br/>
+> **Description:** A site filled with useful resources for designers such as mockups, icons and UI kits.  <br/>
 **Link:** [Discord For Designers](https://dfd.muatex.uk/)  <br/>
 **Credit:** @530408906686726144
 
@@ -33,7 +33,7 @@ description: Unofficial resources for Discord.
 ## **List of dis.gd URLs**
 
 > **Description:** A list of all the shortened Discord links.   <br/>
-**Link:**  <br/>
+**Link(s):**  <br/>
 [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
 [List Of Dis.gd URLs 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
 **Credit:** @179655253392621569 @641795527444529152
@@ -77,7 +77,7 @@ description: Unofficial resources for Discord.
 ## **Discord Protocol Links**
 
 > **Description:** List of all Discord protocol links.   <br/>
-*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on Android, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
+*Note: Discord protocol links can be used in buttons! Check out [this discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) for more info. Protocol links don't work on older versions of Android Discord, not sure about iOS. (only <tel://number> works on iOS)*   <br/>
 **Link:** [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Credit:** @github:ghostrider-05
 
