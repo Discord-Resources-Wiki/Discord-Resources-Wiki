@@ -82,7 +82,7 @@ description: Andere handige tools
 **Link:** [Internet Woorden](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
 ### **Invited** 
-> **Beschrijving:** Bekijk films, Youtube of luister zelfs samen muziek doormiddel van een gedeelde virtuele browser.   <br/>
+> **Beschrijving:** Bekijk films, YouTube of luister zelfs samen muziek doormiddel van een gedeelde virtuele browser.   <br/>
 **Link:** [Invited](https://invited.tv/)
 
 ### **Obsidian**
@@ -163,7 +163,7 @@ description: Andere handige tools
 
 ### **Web Archives**
 > **Beschrijving:** Ontdek opgeslagen webpagina's door de jaren heen.  <br/>
-**Link:** <br/>  
+**Links:**  
 [Web Archives](https://web.archive.org/)  <br/>
 [Arvhive.is](https://archive.is/)
 
