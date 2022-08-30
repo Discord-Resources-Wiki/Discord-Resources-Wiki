@@ -4,104 +4,104 @@ sidebar_position: 2
 description: Programming related tools
 ---
 
-# Programming Related
+# Correlati alla programmazione
 
 ### **Autocode**
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
+> __Descrizione:__ Il codice automatico trasforma le funzioni JavaScript (Node.js) in servizi Web scalabili in un istante, senza necessità di configurazione.   <br/>
 __Link:__ [Autocode](https://autocode.com/)  <br/>
 __Credit:__ @746460957651501196
 
 ### **Stack Overflow**
-> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
+> __Descrizione:__ Un luogo dove trovare soluzioni e discutere problemi relativi alla codifica.  <br/>
 __Link:__ [Stack Overflow](https://stackoverflow.com/)
 
 ### **RapidAPI**
-> __Description:__ Find APIs to all purposes.  <br/>
+> __Descrizione:__ Trova API per tutti gli scopi.  <br/>
 __Link:__ [RapidAPI](https://rapidapi.com/)
 
 ### **Some Random API**
-> __Description:__ Variety of fun endpoints for devs to use.  <br/>
+> __Descrizione:__ Varietà di endpoint divertenti da utilizzare per gli sviluppatori.  <br/>
 __Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
 __Credit:__ @423675224395874314 
 
 ### **Choose A License**
-> __Description:__ Choose a license for your open source project.   <br/>
+> __Descrizione:__ Scegli una licenza per il tuo progetto open source.   <br/>
 __Link:__ [Choose A License](https://choosealicense.com/)
 
 ### **Docker**
-> __Description:__ Simplifies development processes.   <br/>
+> __Descrizione:__ Semplifica i processi di sviluppo.   <br/>
 __Link:__ [Docker](https://www.docker.com/)
 
 ### **Visual Studio Code**
-> __Description:__ Free and biggest code editing tool. <br/>
+> __Descrizione:__ Strumento di modifica del codice gratuito, il più grande e conosciuto. <br/>
 __Link:__ [Visual studio code](https://code.visualstudio.com)  
 
 ### **Docusaurus**
-> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
+> __Descrizione:__ Un generatore di siti ottimizzato in React. Docusaurus ti aiuta a muoverti velocemente e a scrivere contenuti.   <br/>
 __Link:__ [Docusaurus](https://docusaurus.io/)
 
 ### **GitBook**
-> __Description:__ Create docs full of utilities and design options.  <br/>
+> __Descrizione:__ Crea documenti in formato pagina pieni di utilità e opzioni di progettazione.  <br/>
 __Link:__ [GitBook](https://www.gitbook.com/)
 
-### **GitHub’s Guides and Documentation**
-> __Description:__ Self explanatory.   <br/>
+### **GitHub’s Guides e Documentazione**
+> __Descrizione:__ Si spiega da solo.   <br/>
 __Link(s):__ 
 [Docs](https://docs.github.com/en)   <br/>
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
 ### **Github Education Pack**
-> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
+> __Descrizione:__ Strumenti per sviluppatori gratuiti forniti da Github Education Pack   <br/>
 __Link:__ [Github Education Pack](https://education.github.com/)
 
-### **Public APIs**
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
+### **APIs Pubbliche**
+> __Descrizione:__ Le API pubbliche sono un elenco ben mantenuto di API da utilizzare nei tuoi progetti, in cui ognuna di esse è classificata e documentata.   <br/>
 __Link:__ [Public APIs](https://github.com/public-apis/public-apis)
 
 ### **HTTPS Statuses**
-> __Description:__ A list of HTTP status codes.   <br/>
+> __Descrizione:__ Un elenco di codici di stato HTTP.   <br/>
 __Link:__ [HTTPS Statuses](https://httpstatuses.com/)
 
-### **Does My Site Need HTTPS?**
-> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
+### **Il mio sito ha bisogno dell'HTTPS?**
+> __Descrizione:__ Una pagina informativa che spiega l'importanza dell'HTTPS.  <br/>
 __Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
 
 ### **HTTP Toolkit**
-> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
+> __Descrizione:__ Intercetta e visualizza tutti i tuoi endpoint HTTP(S) Mock o interi server. Riscrivi, reindirizza o interpreta errori.  <br/>
 __Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 __Credit:__ github:@pimterry
 
-### **Markdown Guide**
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
+### **Guida all'uso della formattazione (markdown)**
+> __Descrizione:__ Il Markdown Guide è una guida di riferimento gratuita e open source che spiega come utilizzare Markdown, il linguaggio di markup semplice e facile da usare che puoi utilizzare per formattare praticamente qualsiasi documento.   <br/>
 __Link:__ [Markdown Guide](https://www.markdownguide.org/)
 
 ### **Qwerty.dev**
-> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
+> __Descrizione:__ Qwerty.dev (precedentemente **beautifuldingbats.com**) è una raccolta di strumenti Unicode per aiutarti a distinguerti online.   <br/>
 __Link:__ [Qwerty.dev](https://qwerty.dev/)
 
 ### **replit**
-> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
+> __Descrizione:__ Un IDE, un compilatore e un interpretatore nel browser che supporta oltre 50 lingue. <br/>
 __Link:__ [replit](https://replit.com/)
 
 ### **Regex101**
-> __Description:__ Build, test, and debug regex.   <br/>
+> __Descrizione:__ Crea, testa ed esegui il debug di espressioni regolari.   <br/>
 __Link:__ [Regex101](https://regex101.com/)
 
 ### **RegExp Generator**
-> __Description:__ Unicode range RegExp generator.   <br/>
+> __Descrizione:__ Generatore di RegEx della gamma Unicode.   <br/>
 __Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
-### **Regex Crossword**
-> __Description:__ Learn regex through puzzles and challenges.   <br/>
+### **Cruciverba con Regex**
+> __Descrizione:__ Impara la regex attraverso enigmi e sfide.   <br/>
 __Link:__ [Regex Crossword](https://regexcrossword.com/)
 
-### **Guide(s) to contributing on Open Source Software**
-> __Description:__ A list of various resources to help OSS contributors. <br/>
+### **Guida(e) per contribuire al software Open Source**
+> __Descrizione:__ Un elenco di varie risorse per aiutare i contributori di OSS. <br/>
 __Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 __Credit:__ @github:freeCodeCamp
 
-### **Big List of Nasty Strings**
-> __Description:__ A list of strings to help test for edge cases <br/>
+### **Grande elenco delle 'Nasty Strings'**
+> __Descrizione:__ Un elenco corposo di stringhe di codice per testare i casi limite <br/>
 __Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 __Credit:__ @github:minimaxir
