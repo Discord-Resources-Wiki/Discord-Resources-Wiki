@@ -4,7 +4,7 @@ sidebar_position: 3
 description: Other useful tools
 ---
 
-# Other
+# Altro
 
 
 ### **Blank Characters**
