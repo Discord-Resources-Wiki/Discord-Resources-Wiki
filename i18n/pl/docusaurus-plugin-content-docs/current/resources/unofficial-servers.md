@@ -7,7 +7,7 @@ description: Nieoficjalne serwery związane z Discordem.
 # Nieoficjalne serwery
 
 ## **Discord API**
-> __Description:__ Serwer poświęcony informacjom i pomocy w zakresie API Discorda.   <br/>
+> __Opis:__ Serwer poświęcony informacjom i pomocy w zakresie API Discorda.   <br/>
 __Link:__ [Discord API](https://discord.gg/discord-api)   <br/>
 __Podziękowania:__ Zespół Discord API (właścicielem jest @80088516616269824)
 
