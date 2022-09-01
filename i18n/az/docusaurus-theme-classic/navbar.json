@@ -4,11 +4,11 @@
     "description": "The title in the navbar"
   },
   "item.label.Wiki": {
-    "message": "Wiki",
+    "message": "Viki",
     "description": "Navbar item with label Wiki"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "Bloq",
     "description": "Navbar item with label Blog"
   }
 }
