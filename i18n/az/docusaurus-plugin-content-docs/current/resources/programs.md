@@ -4,26 +4,26 @@ sidebar_position: 7
 description: Discord programs like Moderation, Partner, HSE and Verification.
 ---
 
-# Programs
+# Programlar
 
-### **Discord Moderator Ecosystem** 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
+### **Discord Moderator Ekosistemi** 
+> __Description:__ Moderatorlar üçünRəsmi Discord moderator ekosistemi.   <br/>
 __Link(s):__ [Discord Moderator Ecosystem](https://blog.discord.com/announcing-the-discord-moderator-academy-exam-a1bcb5b9d405)   <br/>
 [Discord Moderator Ecosystem Handbook](https://drive.google.com/file/d/1rCCi7UZ3BAS38T-zwBVpmTb13m8z7avW/view)   <br/>
 [Discord Moderator Ecosystem Cheat-sheet](https://drive.google.com/file/d/1ir-H91-yfskFO4wjEQCtc81ip9XErl9l/view)
 
-### **Partner Program**
-> __Description:__ As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
-__Link:__ [Discord Partner Program](https://dis.gd/partners)
+### **Partnyor Programı**
+> __Description:__ Bütün Discordun rol  modeli olan partnyor serverlər, Discord'da vacib bir yerə sahibdir.   <br/>
+__Link:__ [Discord Partnyor Programı](https://dis.gd/partners)
 
-### **Hypesquad Events**
-> __Description:__ The place to find information and apply for the HypeSquad Events program.   <br/>
-__Link:__ [HypeSquad Events](https://dis.gd/hypesquad)
+### **Hypesquad Tədbirləri**
+> __Description:__ HypeSquad tədbirlərinə qatılmaq üçün olan program.   <br/>
+__Link:__ [HypeSquad Tədbirləri](https://dis.gd/hypesquad)
 
-### **Verification Program**
-> __Description:__ The place to find information and apply for the Verification program.   <br/>
-__Link:__ [Verification Program](https://dis.gd/verification)
+### **Verifikasiya Programı**
+> __Description:__ Verifikasiya programına qatılmaq və doğrulanmış olmaq üçün bir program.   <br/>
+__Link:__ [Verifikasiya Programı](https://dis.gd/verification)
 
-### **Student Hubs**
-> __Description:__ A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
-__Link:__ [Student Hubs](https://dis.gd/studenthubs)
+### **Şagird Mərkəzi**
+> __Description:__ Şagird Mərkəzi sinif yoldaşlarınızla və məktəbinizda olan şagirdlərlə danışmağı asanlaşdıran bir programdır.   <br/>
+__Link:__ [Şagird Mərkəzi](https://dis.gd/studenthubs)
