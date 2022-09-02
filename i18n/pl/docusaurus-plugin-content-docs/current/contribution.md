@@ -7,9 +7,9 @@ description: Lista ton przydatnych zasobów discord i narzędzi dla wszystkich t
 
 # Wkład
 
-Znalazłeś błąd lub literówkę?  Masz dobry zasób, który pasuje do tej listy?  Zostań współtwórcą i znajdź się na wspaniałej liście współtwórców powyżej!<br/>
-Aby wnieść swój wkład, zapraszamy do PR tej wiki lub wyślij wiadomość DM na adres @755792681313108018 w celu edycji wiki i siebie na liście.
-Możesz także dołączyć do naszego [oficjalnego serwera](https://discord.gg/yxbqz9pNxS) przyczynić się do tego.
+Znalazłeś błąd lub literówkę?  Masz dobry zasób, który pasuje do tej listy?  Zostań współtwórcą i znajdź się na wspaniałej liście współtwórców poniżej!<br/>
+Aby wprowadzić swoje zmiany, zapraszamy do pull requestowania tej wiki lub wysłania wiadomości prywatnej do @755792681313108018 w celu edycji wiki i dodania siebie na listę.
+Możesz także dołączyć do naszego [oficjalnego serwera](https://discord.gg/yxbqz9pNxS), aby przyczynić się do tego projektu.
 
 ## Współtwórcy
 
@@ -35,7 +35,7 @@ Chcemy podziękować:<br/>
 
 ## Jak testować zmiany lokalnie
 
-Masz świetny PR, ale nie wiesz jak wygląda? Nie ma problemu!<br/>
+Masz świetny pull request, ale nie wiesz jak wygląda? Nie ma problemu!<br/>
 Jeśli jesteś w forku repozytorium, jest to tak proste, jak uruchomienie tych 2 komend:
 
 ```
