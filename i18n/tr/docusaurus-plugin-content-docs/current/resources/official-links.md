@@ -19,7 +19,7 @@ __Bağlantı:__  [Nasıl Rapor Edilir?](https://dis.gd/howtoreport) | [DMA Makal
 __Bağlantı:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 
 ## **Discord Bugs**
-> __Tanım:__  The official tool to look up reported and approved bugs.   <br/>
+> __Tanım:__  Bildirilen ve onaylanan hataları aramak için resmi araç.   <br/>
 __Bağlantı:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## **Discord Testers Bug Aracı**
@@ -50,7 +50,7 @@ __Bağlantı(lar):__
 __Bağlantı:__ [Discord Markası](https://discord.com/branding)
 
 ## **Discord Nitro**
-> __Tanım:__  Nitro ve Nitro Classic abonelikleri hakkında bilgi.   <br/>
+> __Tanım:__  Nitro Boost ve Nitro Classic abonelikleri hakkında bilgi.   <br/>
 __Bağlantılar:__ [Discord Nitro](https://dis.gd/nitro)
 
 ## **Discord Durum Sayfası**
