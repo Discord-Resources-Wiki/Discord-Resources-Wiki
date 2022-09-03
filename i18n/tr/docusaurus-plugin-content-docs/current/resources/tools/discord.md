@@ -99,7 +99,7 @@ __Bağlantı:__ [Disgradient](https://disgradient.vanished.rocks/)   <br/>
 __Oluşturucu:__ @267025484028706816
 
 ### **DeepResearch**
-> _Tanım:__ Sohbet tabanlı topluluklar için görselleştirmeler, analizler ve araçlar sağlayan Discord durumu.   <br/>
+> __Tanım:__ Sohbet tabanlı topluluklar için görselleştirmeler, analizler ve araçlar sağlayan Discord durumu.   <br/>
 __Bağlantı:__ [DeepResearch](https://www.altr.fyi/)
 
 ### **Experiments Rollouts**
