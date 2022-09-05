@@ -6,13 +6,6 @@ description: Oficjalne serwery należące do Discorda.
 
 # Oficjalne serwery
 
-## **Testerzy Discorda** 
-> __Opis:__ Oficjalne miejsce do zgłaszania błędów na Discordzie! Pomóż znaleźć błędy, porozmawiaj z innymi i bądź częścią społeczności testerów!   <br/>
-__Link:__ [Testerzy Discorda](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
-
 ## **Deweloperzy Discorda**
 > __Opis:__ Oficjalne miejsce do dyskusji o API i SDK Discorda z deweloperami na społecznościach i pracownikami Discorda!   <br/>
 __Link:__ [Deweloperzy Discorda](https://discord.gg/discord-developers)
