@@ -1,49 +1,49 @@
 ---
-title: Basics
+title: Grundläggande
 sidebar_position: 1
-description: Basic resources
+description: Grundläggande resurser
 ---
 
-# The Basics
+# Grunderna
 
-## **Discord Terms of Service** 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## $1 $2 
+> __Beskrivning:__ Discords användarvillkor är en policy som du måste gå med på när du använder plattformen.   <br/>
+Den innehåller information allt från immatriella rättigheter till kontoterminering.   <br/>
+__Länk:__ [Användarvillkor](https://dis.gd/terms)
 
-## **Discord Privacy Policy**
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
-__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+## Discord intergritetspolicy
+> __Beskrivning:__ Discords integritetspolicy angående användarnas information.  <br/>
+__Länk:__ [Discord integritetspolicy](https://discord.com/privacy)
 
-## **Discord Community Guidelines**
-> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
-It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-__Link:__ [Community Guidelines](https://dis.gd/guidelines)
+## Discord gemenskapsriktlinjer
+> __Beskrivning:__ Discords gemenskapsriktlinjer klargör restriktioner och begränsningar inom dess plattform.   <br/>
+Den säkerställer att alla har en positiv upplevelse och att alla användare agerar skötsamt och disciplinerat.   <br/>
+__Länk:__ [Gemenskapsriktlinjer](https://dis.gd/guidelines)
 
-## **Discord Blog**
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-__Link:__ [Discord Blog](https://discord.com/blog)
+## Discords Blog
+> __Beskrivning:__ Discords blog innehåller meddelanden, uppdateringar, handledningar och resurser; allt Discordrelaterat.   <br/>
+__Länk:__ [Discords Blog](https://discord.com/blog)
  
-## **Discord Subreddit**
-> __Description:__ The unofficial Discord Subreddit.   <br/>
-__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+## Discords Subreddit
+> __Beskrivning:__ Den inofficiella Discord subredditen.   <br/>
+__Länk:__ [Discords Subreddit](https://www.reddit.com/r/discordapp/)
 
-## **Discord Twitter Page**
-> __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+## Discords Twittersida
+> __Beskrivning:__ Den officiella Discordsidan på Twitter.   <br/>
+__Länk:__ [Discords Twittersida](https://twitter.com/discord)
 
-## **Discord Youtube Page**
-> __Description:__  The official Discord page on Youtube.   <br/>
-__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+## Discords Youtubekanal
+> __Beskrivning:__  Den officiella Discordsidan på Youtube.   <br/>
+__Link:__ [Discords Youtubekanal](https://www.youtube.com/c/discord)
 
-## **Discord Help Center**
-> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
-__Link:__ [Discord Help Center](https://support.discord.com)
+## $1 $2
+> __Beskrivning:__ En officiell Discord navigeringssida full med användbara supportartiklar om varje ämne.   <br/>
+__Länk:__ [Discord Hjälpcenter](https://support.discord.com)
 
-## **Discord Safety Center**
-> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-__Link:__ [Discord Safety Center](https://discord.com/safety)
+## $1 $2
+> __Beskrivning:__ En sida som förser dig med information om internetsäkerhet & information för föräldrar och lärare om hur man kan skydda sig själv/sina barn på nätet.  <br/>
+__Länk:__ [Discord säkerhetscenter](https://discord.com/safety)
 
-## **Client Downloads**
-> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discord.com/download)
+## Klientnedladdningar
+> __Beskrivning:__ Alla officiella nedladdningsbara Discordklienter. (Ladda ned Discord!)   <br/>
+__Länk:__ [Discordklienter](https://discord.com/download)

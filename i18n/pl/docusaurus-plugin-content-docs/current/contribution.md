@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Wkład
 sidebar_position: 3
 slug: /contribution
 description: Lista ton przydatnych zasobów discord i narzędzi dla wszystkich typów użytkowników, od początkujących do power userów.
@@ -7,9 +7,9 @@ description: Lista ton przydatnych zasobów discord i narzędzi dla wszystkich t
 
 # Wkład
 
-Found an error or a typo? Have a good resource that fits this list? Become a contributor and be on the glorious list of contributors above!<br/>
-To contribute, you are more than welcome to PR this wiki or send a DM to @755792681313108018 in order to edit the wiki, and yourself into the list.
-You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to contribute there.
+Znalazłeś błąd lub literówkę?  Masz dobry zasób, który pasuje do tej listy?  Zostań współtwórcą i znajdź się na wspaniałej liście współtwórców poniżej!<br/>
+Aby wprowadzić swoje zmiany, zapraszamy do pull requestowania tej wiki lub wysłania wiadomości prywatnej do @755792681313108018 w celu edycji wiki i dodania siebie na listę.
+Możesz także dołączyć do naszego [oficjalnego serwera](https://discord.gg/yxbqz9pNxS), aby przyczynić się do tego projektu.
 
 ## Współtwórcy
 
@@ -28,13 +28,14 @@ Chcemy podziękować:<br/>
 @192060404501839872 - Grafik<br/>
 @386861188891279362 - Architekt strony internetowej / Organizator dokumentacji<br/>
 @102102717165506560 - Doradca ds. przyrostu & kurator zasobów<br/>
-@755792681313108018 - *Miałem taki pomysł i zrobiłem wszystko*
-@975494496852795412 - Polski Tłumacz
-@937438695429144656 - Polski Tłumacz
+@755792681313108018 - *Miałem taki pomysł i zrobiłem wszystko*<br/>
+@975494496852795412 - Tłumacz<br/>
+@937438695429144656 - Tłumacz<br/>
+@648666977614823444 - Tłumacz
 
 ## Jak testować zmiany lokalnie
 
-Masz świetny PR, ale nie wiesz jak wygląda? Nie ma problemu!<br/>
+Masz świetny pull request, ale nie wiesz jak wygląda? Nie ma problemu!<br/>
 Jeśli jesteś w forku repozytorium, jest to tak proste, jak uruchomienie tych 2 komend:
 
 ```

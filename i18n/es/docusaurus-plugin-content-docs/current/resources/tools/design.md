@@ -6,103 +6,103 @@ description: Herramientas de diseño
 
 # Diseño
 
-## **Iconos de diseño de materiales**
+## Iconos de diseño de materiales
 
 > **Descripción:** Una colección de iconos centrados en el diseño de materiales, que permite personalizar el formato, el tamaño y el color. <br/>
 **Enlace:** [Iconos de diseño de materiales](https://materialdesignicons.com/) <br/>
 **Créditos:** @github:Templarian
 
-## **Iconos de fuentes de Google**
+## Iconos de fuentes de Google
 
 > **Descripción:** Una colección de iconos comunes basados ​​en acciones web, proporcionada por Google. <br/>
 **Enlace:** [Iconos de fuentes de Google](https://fonts.google.com/icons) <br/>
 **Créditos:** @github:google
 
-## **Guías de estilo de marca**
+## Guías de estilo de marca
 
 > **Descripción:** Una colección de la marca de diferentes empresas, incluido Discord. <br/>
 **Enlace:** [Guías de estilo de marca](https://brandingstyleguides.com/)
 
-## **Marcadores de diseño de Evernote**
+## Marcadores de diseño de Evernote
 
 > **Descripción:** Una lista de marcadores para todo el diseño-recursos. <br/>
 **Enlace:** [Diseño de Evernote](https://www.evernote.design/) <br/>
 
-## **Iconos simples**
+## Iconos simples
 
 > **Descripción:** Una lista de iconos simples, incluidos iconos de marcas. <br/>
 **Enlace:** [Simpleicons](https://simpleicons.org/)
 
-## **Heroicons**
+## Heroicons
 
 > **Descripción:** Iconos SVG hechos a mano. <br/>
 **Enlace:** [Heroicons](https://heroicons.com/)
 
-## **Coolors**
+## Coolors
 
 > **Descripción:** Generador de esquemas de color. <br/>
 **Enlace:** [Coolors](https://coolors.co/)
 
-## **The Noun Project**
+## The Noun Project
 
 > **Descripción:** Más de 3 millones de iconos aportados por la comunidad junto con personalización de iconos y una API. <br/>
 **Enlace:** [The Noun Project](https://thenounproject.com/)
 
-## **Color de Adobe**
+## Color de Adobe
 
 > **Descripción:** Un creador de temas de color con conectividad entre los productos de Adobe. <br/>
 **Enlace:** [Adobe Color](https://color.adobe.com/)
 
-## **Color abierto**
+## Color abierto
 
 > **Descripción:** Un esquema de color de código abierto y un conjunto de biblioteca optimizado para interfaces de usuario. <br/>
 **Enlace:** [Color abierto](https://yeun.github.io/open-color/) <br/>
 **Créditos:** @github:yeun
 
-## **Iconos pequeños**
+## $1 $2
 
 > **Descripción:** Un conjunto de iconos mínimos de 1px. <br/>
 **Enlace:** [Iconos pequeños](https://teenyicons.com/) <br/>
 **Créditos:** @github:teenyicons
 
-## **Streamline**
+## Streamline
 
 > **Descripción:** Más de 100.000 iconos, ilustraciones y emojis. <br/>
 **Enlace:** [Streamline](https://streamlinehq.com/)
 
-## **Iconos de plumas**
+## Iconos de plumas
 
 > **Descripción:** Iconos simples de código abierto. <br/>
 **Enlace:** [Iconos de plumas](https://feathericons.com/) <br/>
 **Créditos:** @github:feathericons
 
-## **Spectrum**
+## Spectrum
 
 > **Descripción:** Iconos de interfaz de usuario uniformes y mínimos. <br/>
 **Enlace:** [Spectrum](https://spectrum.adobe.com/page/icons/)
 
-## **Font Awesome**
+## Font Awesome
 
 > **Descripción:** Iconos vectoriales y logos sociales. <br/>
 **Enlace:** [Fuente Awesome](https://fontawesome.com/) <br/>
 **Créditoss:** @github:FortAwesome
 
-## **ICONS8**
+## ICONS8
 
 > **Descripción:** Iconos, ilustraciones, fotos, música y herramientas de diseño. <br/>
 **Enlace:** [ICONS8](https://icons8.com/)
 
-## **unDraw**
+## unDraw
 
 > **Descripción:** Ilustraciones gratuitas de código abierto. <br/>
 **Enlace:** [Feather Icons](https://undraw.co/)
 
-## **tldraw**
+## tldraw
 
 > **Descripción:** Una sencilla aplicación de dibujo. <br/>
 **Enlace:** [tldraw](https://www.tldraw.com/)
 
-## **Freepik**
+## Freepik
 
 > **Descripción:** Vectores, fotos de stock y PSD gratis. <br/>
 **Enlace:** [Freepik](https://freepik.com/)

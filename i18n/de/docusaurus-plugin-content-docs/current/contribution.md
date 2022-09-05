@@ -37,6 +37,7 @@ Ein Dank geht an:<br/>
 @386861188891279362 - Website-Architekt / Organisator der Dokumentation<br/>
 @102102717165506560 - Wachstumsberatung / Ressourcenkurator<br/>
 @280094303429197844 - Übersetzung ins Deutsche<br/>
+@605760781664911380 - Übersetzung ins Deutsche<br/>
 @755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*<br/>
 @480495309491798037 - <http://discord.wiki/> Weiterleit-links Besitzer <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Gründer / Übersetzung ins Deutsche<br/>

@@ -2,7 +2,7 @@
 title: Bijdrage
 sidebar_position: 3
 slug: /contribution
-description: Een lijst met heel veel handige discord hulpbronnen voor alle gebruikers, van beginners tot powerusers.
+description: Een lijst met heel veel handige Discord hulpbronnen voor alle gebruikers, van beginners tot powerusers.
 ---
 
 ```mdx-code-block
@@ -28,7 +28,7 @@ We willen de volgende personen graag bedanken:<br/>
 @337104786593939456 - Documentatie Organisator<br/>
 @485676072176713729 - Hulpbronnen Onderzoeker / Onderhouder<br/>
 @762387276595724308 - Hulpbronnen Onderzoeker / Onderhouder<br/>
-@378537973215657984 - Community & Content Manager / Documentatie Organisator<br/>
+@378537973215657984 - Project Manager / Documentatie Organisator<br/>
 @287711497118023692 - Hulpbronnen Onderzoeker / Documentatie Organisator<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website Architect / Documentatie Organisator<br/>
