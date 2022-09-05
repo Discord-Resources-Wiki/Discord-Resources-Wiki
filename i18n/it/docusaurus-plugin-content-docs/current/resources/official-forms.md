@@ -4,21 +4,21 @@ sidebar_position: 3
 description: Official forms from discord.
 ---
 
-# Official Forms
+# Moduli ufficiali
 
-## **Report Form** 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
+## **Modulo di segnalazione** 
+> __Descrizione:__ Segnala un problema al team Trust and Safety di Discord.   <br/>
 __Link:__ [Discord Report Form](https://dis.gd/report)
 
-## **Support Form** 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
+## **Modulo di supporto** 
+> __Descrizione:__ Hai bisogno di aiuto? Invia una richiesta al team Discord.   <br/>
 __Link:__  [Discord Support Form](https://dis.gd/contact)
 
 ## **Feedback** 
-> __Description:__ Submit feedback to the Discord team.   <br/>
+> __Descrizione:__ Invia feedback al team Discord.   <br/>
 __Link:__  [Discord Feedback Form](https://dis.gd/feedback)
 
 
 ## **Discord Trust & Safety** 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
+> __Descrizione:__ Invia una richiesta al team Trust & Safety di Discord.   <br/>
 __Link:__ [Discord TnS](https://dis.gd/request)
