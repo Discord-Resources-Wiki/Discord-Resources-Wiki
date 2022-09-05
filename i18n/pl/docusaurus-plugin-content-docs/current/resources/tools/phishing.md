@@ -6,15 +6,15 @@ description: Phishing and Security tools
 
 # Phishing Related
 
-### **Discord Nitro Scams**
+### Discord Nitro Scams
 > __Opis:__ Ta **bezpieczna** strona internetowa (*nie jest to oszustwo*) porównuje prawdziwe prezenty Discord Nitro z oszustwami.  Strzec się!   <br/>
 __Link:__ [Informacje Discord Nitro](https://dicsord.gq/)
 
-### **Virus Total**
+### Virus Total
 > __Opis:__ Virus Total analizuje podejrzane pliki i adresy URL w celu wykrycia typów złośliwego oprogramowania.   <br/>
 __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### **CleanURLs**
+### CleanURLs
 > __Opis:__ ClearURLs to dodatek oparty na nowej technologii WebExtensions, który automatycznie usuwa elementy śledzące z adresów URL, aby chronić Twoją prywatność.  <br/>
 __Linki:__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
@@ -22,7 +22,7 @@ __Linki:__  <br/>
 __Podziękowanie:__ @github:KevinRoebert
 
 
-### **Gits of Scam Links**
+### Gits of Scam Links
 > __Opis:__ Repozytoria GitHub pełne fałszywych linków.   <br/>
 __Linki:__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
@@ -33,11 +33,11 @@ __Linki:__
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### **Baza danych pełna złośliwych linków**
+### Baza danych pełna złośliwych linków
 > __Opis:__ Nie wymaga wyjaśnień. 🔢   <br/>
 __Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
-### **Phishing Recognizing Tools**
+### Phishing Recognizing Tools
 > __Opis:__ Wiele narzędzi ułatwiających rozpoznawanie witryn wyłudzających informacje i przejętych.  <br/>
 __Linki:__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
@@ -69,14 +69,14 @@ __Linki:__ <br/>
 [Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
-### **Phisherman** 
+### Phisherman 
 > __Opis:__   <br/>
 Phisherman to scentralizowana baza danych odsyłaczy do phishingu i oszustw.  Jest przeznaczony do użytku z botami Discord, co pozwala im korzystać z interfejsu API Phisherman do sprawdzania adresów URL w bazie danych Phisherman.   <br/>
 __Linki:__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
-### **The Vaccinator**
+### The Vaccinator
 > __Opis:__ Narzędzie do wykrywania i neutralizowania złodziei tokenów Discord poprzez usunięcie ich wewnętrznego webhooka Discord. <br/>
 __Notatka:__ To narzędzie **nie** jest antywirusem.  To tylko narzędzie, które może pomóc w zapobieganiu zdobywaniu przez oszustów danych innych osób. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
