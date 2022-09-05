@@ -6,13 +6,6 @@ description: Officiële servers beheerd door discord.
 
 # Officiële Servers
 
-## **Discord Testers** 
-> **Beschrijving:** De officiële plaats om Discord-bugs te melden! Help bugs te vinden, chat met anderen en maak deel uit van de testerscommunity!   <br/>
-**Link:** [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
-
 ## **Discord Developers**
 > **Beschrijving:** De officiële plek om de API en SDK's van Discord te bespreken met zowel communityontwikkelaars als Discord-medewerkers!   <br/>
 **Link:** [Discord Developers](https://discord.gg/discord-developers)
