@@ -1,8 +1,8 @@
 ---
-title: Contribution
+title: Contributo
 sidebar_position: 3
 slug: /contribution
-description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
+description: Una lista di numerose risorse e utilities di Discord per qualsiasi tipo di utente, dai novellini ai più esperti.
 ---
 
 # Contributo
@@ -29,6 +29,8 @@ Vogliamo ringraziare:<br/>
 @386861188891279362 - Website Architect / Organizzatore di documenti<br/>
 @102102717165506560 - Consultatore per la crescita / Curatore delle risorse<br/>
 @755792681313108018 - *Ho avuto questa idea e ho fatto tutto elencato qua sopra*
+@965691347958911057 - Traduttore italiano
+@799769798216253441 - Traduttore italiano
 
 ## Come testare le modifiche in locale
 
