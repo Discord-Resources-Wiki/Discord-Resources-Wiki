@@ -274,11 +274,11 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### **Craig**
 
-> **Description:** A bot able to record one or more voice channels or stage channel at the time.  <br/>
+> **Description:** A bot able to record voice channels or stage channels.  <br/>
 **Link(s):**  <br/>
-[Craig Website](https://craig.chat/home/)  <br/>
-[Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&scope=bot)  <br/>
-**Credit:** @171244192696238080
+[Craig Website](https://craig.chat/)  <br/>
+[Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&permissions=68159488&scope=bot%20applications.commands)  <br/>
+**Credit:** @158049329150427136 @135923847147945985
 
 ### **Tunes Ninja**
 
