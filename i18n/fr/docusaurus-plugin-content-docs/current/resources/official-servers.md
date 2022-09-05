@@ -6,12 +6,6 @@ description: Serveurs officiels appartenant à discord.
 
 # Serveurs Officiels
 
-## Discord Testers 
-> __Description:__ L'endroit officiel pour signaler les bugs sur Discord ! Aidez à trouver des bugs, discutez avec les autres et faites partie de la communauté des testeurs !   <br/>
-__Link:__ [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
 ## Discord Developers
 > __Description:__ L'endroit officiel pour discuter de l'API et des SDK de Discord avec les développeurs de la communauté et le personnel de Discord !   <br/>
 __Link:__ [Discord Developers](https://discord.gg/discord-developers)
