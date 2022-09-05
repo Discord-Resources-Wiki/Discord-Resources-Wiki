@@ -6,15 +6,15 @@ description: Phishing and Security tools
 
 # Kimlik Avı İle İlgili
 
-### Discord Nitro Scams
+### **Discord Nitro Scams**
 > __Tanım:__ Bu **güvenlik ve güvenli** web sitesi (*dolandırıcılık değildir*), gerçek Discord Nitro hediyelerini dolandırıcılıkla karşılaştırır. Dikkat!   <br/>
 __Bağlantı:__ [Discord Nitro Information](https://dicsord.gq/)
 
-### Virus Total
+### **Virus Total**
 > __Tanım:__ Virustotal, kötü amaçlı yazılım türlerini tespit etmek için şüpheli dosyaları ve URL'leri analiz eder.   <br/>
 __Bağlantı:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
+### **CleanURLs**
 > __Tanım:__ ClearURLs, yeni WebExtensions teknolojisine dayalı bir eklentidir ve gizliliğinizin korunmasına yardımcı olmak için izleme öğelerini URL'lerden otomatik olarak kaldırır.  <br/>
 __Bağlantı(lar):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
@@ -22,7 +22,7 @@ __Bağlantı(lar):__  <br/>
 __Credit:__ @github:KevinRoebert
 
 
-### Gits of Scam Links
+### **Gits of Scam Links**
 > __Tanım:__ Dolandırıcılık bağlantılarıyla dolu GitHub Dökümanları.   <br/>
 __Bağlantı(lar):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
@@ -33,11 +33,11 @@ __Bağlantı(lar):__
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### Database full of malicious links
+### **Database full of malicious links**
 > __Tanım:__ Kendi kendini açıklayıcı. 🔢   <br/>
 __Bağlantı:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
-### Kimlik Avı Tanıma Araçları
+### **Kimlik Avı Tanıma Araçları**
 > __Tanım:__ Kimlik avını ve güvenliği ihlal edilmiş siteleri tanımanıza yardımcı olacak birçok araç.  <br/>
 __Bağlantı(lar):__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
@@ -69,14 +69,14 @@ __Bağlantı(lar):__ <br/>
 [Azrael Phish API](https://phish.azrael.gg/) (sahip: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
-### Phisherman 
+### **Phisherman** 
 > __Tanım:__   <br/>
 Phisherman, kimlik avı ve dolandırıcılık bağlantılarının merkezi bir veritabanıdır. Discord botlarıyla kullanılmak üzere tasarlanmıştır ve URL'leri Phisherman veritabanına karşı kontrol etmek için Phisherman API'sini kullanmalarına izin verir.   <br/>
 __Bağlantı(lar):__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
-### The Vaccinator
+### **The Vaccinator**
 > __Tanım:__ Dahili Discord webhook silerek Discord belirteç hırsızlarını tespit etmek ve etkisiz hale getirmek için bir araç. <br/>
 __Not:__ Bu araç bir antivirüs **değildir.** Bu sadece dolandırıcıların başkalarının verilerini almasını önlemeye yardımcı olabilecek bir yardımcı programdır. <br/>
 __Bağlantı:__ [Website](https://sketchy.tel/)  <br/>

@@ -6,17 +6,17 @@ description: Herramientas de phishing y de seguridad.
 
 # Relacionado con el Pishing
 
-## Scams de Discord Nitro
+## **Scams de Discord Nitro**
 
 > **Descripción:** Este sitio web **seguro** (*no es una estafa*) compara los regalos reales de Discord Nitro con las estafas. Cuidado.   <br/>
 **Enlace:** [Discord Nitro Informaciòn](https://dicsord.gq/)
 
-## Virus Total
+## **Virus Total**
 
 > **Descripción:** Virus Total analiza archivos y URLs sospechosas para detectar tipos de malware.   <br/>
 **Enlace:** [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-## CleanURLs
+## **CleanURLs**
 
 > **Descripción:** ClearURLs es un complemento basado en la nueva tecnología de WebExtensions y eliminará automáticamente los elementos de seguimiento de las URL para ayudar a proteger su privacidad.  <br/>
 **Enlaces:**  <br/>
@@ -24,7 +24,7 @@ description: Herramientas de phishing y de seguridad.
 [Documentaciòn](https://docs.clearurls.xyz/latest/)  <br/>
 **Créditos:** @github: KevinRoebert
 
-## Gits de Enlaces de Scam
+## **Gits de Enlaces de Scam**
 
 > **Descripción:** Repositorios de GitHub llenos de enlaces de estafa.   <br/>
 **Enlaces:**  
@@ -36,12 +36,12 @@ description: Herramientas de phishing y de seguridad.
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-## Base de datos llena de enlaces nocivos
+## **Base de datos llena de enlaces nocivos**
 
 > **Descripción:** Se explica por sí mismo. 🔢   <br/>
 **Enlace:** [Base de datos llena de enlaces nocivos](https://urlhaus.abuse.ch/browse/)
 
-## Phishing Recognizing Tools
+## **Phishing Recognizing Tools**
 
 > **Descripción:** Muchas herramientas para ayudarle a reconocer sitios de phishing y comprometidos.  <br/>
 **Enlaces:** <br/>
@@ -75,7 +75,7 @@ description: Herramientas de phishing y de seguridad.
 [Azrael Phish API](https://phish.azrael.gg/) (Créditos: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
-## Phisherman
+## **Phisherman**
 
 > **Descripción:**   <br/>
 Phisherman es una base de datos centralizada de enlaces de phishing y estafa. Está diseñada para su uso con los bots de Discord, permitiéndoles utilizar la API de Phisherman para cruzar las URLs con la base de datos de Phisherman.   <br/>
@@ -83,14 +83,14 @@ Phisherman es una base de datos centralizada de enlaces de phishing y estafa. Es
 [Phisherman](https://phisherman.gg/)   <br/>
 [Documentaciòn](https://docs.phisherman.gg/)
 
-## The Vaccinator
+## **The Vaccinator**
 
 > **Descripción:** Una herramienta para detectar y neutralizar a los ladrones de tokens de Discord borrando su webhook interno de Discord. <br/>
 **Nota:** Esta herramienta **no** es un antivirus. Es sólo una utilidad que puede ayudar a evitar que los estafadores obtengan los datos de otras personas. <br/>
 **Enlace:** [Pagina web](https://sketchy.tel/)  <br/>
 **Créditos:** The Vaccinator Team (Contacto @204414611578028034)
 
-## Intezer Analyse
+## **Intezer Analyse**
 
 > **Descripción:** Herramienta avanzada de investigación de seguridad para ayudar a determinar si un archivo es malicioso y mucho más. (No es totalmente gratuito) <br/>
 **Enlace:** [Intezer Analyse](https://analyze.intezer.com/)

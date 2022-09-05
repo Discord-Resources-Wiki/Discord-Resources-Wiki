@@ -6,7 +6,7 @@ description: Unofficial servers related to Discord
 
 # Unofficial Servers
 
-## Discord API
+## **Discord API**
 
 > **Description:** A server dedicated to information and assistance with the Discord API.   <br/>
 **Link:** [Discord API](https://discord.gg/discord-api)   <br/>
@@ -14,7 +14,7 @@ description: Unofficial servers related to Discord
 
 @gg/discord-api
 
-## Discord Linux
+## **Discord Linux**
 
 > **Description:** A server dedicated to information and assistance with the Linux version of Discord.   <br/>
 **Link:** [Discord Linux](https://discord.gg/discord-linux)   <br/>
@@ -23,7 +23,7 @@ description: Unofficial servers related to Discord
 @gg/discord-linux
 
 
-## Discord Networking
+## **Discord Networking**
 
 > **Description:** A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships.   <br/>
 **Link:** [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required)   <br/>
@@ -31,7 +31,7 @@ description: Unofficial servers related to Discord
 
 @gg/BcXExxeGVG
 
-## Displace
+## **Displace**
 
 > **Description:** The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
 **Link(s):** [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
@@ -39,7 +39,7 @@ description: Unofficial servers related to Discord
 
 @gg/displace
 
-## Community Architects
+## **Community Architects**
 
 > **Description:** We are committed to bringing together community moderators, admins, designers and more to share and collaborate on building communities.   <br/>
 **Link(s):** [Community Architects Discord](https://discord.gg/communityarchitects) | [Community Architects Website](https://communityarchitects.net)   <br/>
@@ -47,14 +47,14 @@ description: Unofficial servers related to Discord
 
 @gg/communityarchitects
 
-## Moderatoren HQ
+## **Moderatoren HQ**
 > **Description:** Moderatoren HQ (ModHQ) is a German community where moderators and administrators connect and discuss topics around moderating a Discord server. ModHQ specializes in deep dives in the form of Workshops in various topics around building a safe and inclusive community with a knowledgeable and supportive mod team. English speakers are also welcome!  <br/>
 **Link:** [Moderatoren HQ](https://discord.gg/modhq)  <br/>
 **Credit:** ModHQ team (owned by @160462182344032256)
 
 @gg/modhq
 
-## The Coding Den
+## **The Coding Den**
 
 > **Description:**  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
 **Link:** [The Coding Den](https://discord.gg/code)   <br/>
@@ -62,25 +62,25 @@ description: Unofficial servers related to Discord
 
 @gg/code
 
-## Discord Hotline
+## **Discord Hotline**
 
 > **Description:** A community for moderators to discuss moderation and Discord meta.   <br/>
 **Link:** (only by referral)   <br/>
 **Credit:** Discord Hotline team (owned by @108432868149035008)
 
-## The Fish Project
+## **The Fish Project**
 
 > **Description:** Providing early detection of new phishing attacks before they can be used to harm users.   <br/>
 **Link:** (only by referral) (access request required)   <br/>
 **Credit:** The Fish Project team (owned by @459235187469975572)
 
-## Dev Hub
+## **Dev Hub**
 
 > **Description:** A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
 **Link:** (only by referral)   <br/>
 **Credit:** Dev Hub team (owned by @386861188891279362)
 
-## The Programmers Hangout
+## **The Programmers Hangout**
 
 > **Description:** The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
 **Link(s):** [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>

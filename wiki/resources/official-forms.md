@@ -6,22 +6,22 @@ description: Official forms from Discord.
 
 # Official Forms
 
-## Report Form
+## **Report Form**
 
 > **Description:** Report an issue to Discord’s Trust and Safety team.   <br/>
 **Link:** [Discord Report Form](https://dis.gd/report)
 
-## Support Form
+## **Support Form**
 
 > **Description:** Need help? Submit a request to the Discord team.   <br/>
 **Link:**  [Discord Support Form](https://dis.gd/contact)
 
-## Feedback
+## **Feedback**
 
 > **Description:** Submit feedback to the Discord team.   <br/>
 **Link:**  [Discord Feedback Form](https://dis.gd/feedback)
 
-## Discord Trust & Safety
+## **Discord Trust & Safety**
 
 > **Description:** Submit a request to Discord’s Trust & Safety team.   <br/>
 **Link:** [Discord TnS](https://dis.gd/request)

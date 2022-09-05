@@ -6,7 +6,7 @@ description: Servidores no oficiales relacionados a Discord.
 
 # Servidores no oficiales
 
-## Discord API
+## **Discord API**
 
 > **Descripción:** Un servidor dedicado a la información y asistencia con la API de Discord.   <br/>
 **Enlace:** [Discord API](https://discord.gg/discord-api)   <br/>
@@ -14,7 +14,7 @@ description: Servidores no oficiales relacionados a Discord.
 
 @gg/discord-api
 
-## Discord Linux
+## **Discord Linux**
 
 > **Descripción:** Un servidor dedicado a la información y asistencia con la versión de Linux de Discord.   <br/>
 **Enlace:** [Discord Linux](https://discord.gg/discord-linux)   <br/>
@@ -22,7 +22,7 @@ description: Servidores no oficiales relacionados a Discord.
 
 @gg/discord-linux
 
-## Discord Networking
+## **Discord Networking**
 
 > **Descripción:** Un lugar donde cualquiera que ayuda a operar un servidor de Discord puede conocerse, intercambiar consejos y crear asociaciones duraderas.   <br/>
 **Enlace:** [Discord Networking](https://discord.gg/BcXExxeGVG) (Solicitud de acceso requerida)   <br/>
@@ -30,7 +30,7 @@ description: Servidores no oficiales relacionados a Discord.
 
 @gg/BcXExxeGVG
 
-## Displace
+## **Displace**
 
 > **Descripción:** La mayor comunidad sobre Discord. Obtén todas las noticias de Discord, ayuda y recursos para su comunidad.   <br/>
 **Enlaces:** [Servidor de Displace](https://discord.gg/displace) | [Pagina Web de Displace](https://dat.place/)   <br/>
@@ -38,7 +38,7 @@ description: Servidores no oficiales relacionados a Discord.
 
 @gg/displace
 
-## Community Architects
+## **Community Architects**
 
 > **Descripción:** Estamos comprometidos a reunir a moderadores de comunidades, administradores, diseñadores y más para compartir y colaborar en la construcción de comunidades.   <br/>
 **Enlaces:** [Discord de Community Architects](https://discord.gg/communityarchitects) | [Pagina Web de Community Architects](https://communityarchitects.net)   <br/>
@@ -46,7 +46,7 @@ description: Servidores no oficiales relacionados a Discord.
 
 @gg/communityarchitects
 
-## The Coding Den
+## **The Coding Den**
 
 > **Descripción:**  The Coding Den es una comunidad amigable de desarrolladores concentrados en ayudar a nuevos y experimentados programadores por igual.   <br/>
 **Enlace:** [The Coding Den](https://discord.gg/code)   <br/>
@@ -54,25 +54,25 @@ description: Servidores no oficiales relacionados a Discord.
 
 @gg/code
 
-## Discord Hotline
+## **Discord Hotline**
 
 > **Descripción:** Una comunidad para moderadores para debatir sobre moderación y Discord.   <br/>
 **Enlace:** (Solo por referencias)   <br/>
 **Créditos:** El equipo de Discord Hotline (propiedad de @108432868149035008)
 
-## The Fish Project
+## **The Fish Project**
 
 > **Descripción:** Proporción de detección temprana sobre nuevos ataques de phishing antes de que puedan ser usados para dañar usuarios.   <br/>
 **Enlace:** (Solo por referencias) (se requiere solicitud de acceso)   <br/>
 **Créditos:** El equipo de The Fish Project (propiedad de @459235187469975572)
 
-## Dev Hub
+## **Dev Hub**
 
 > **Descripción:** Una comunidad para unir a desarrolladores y expertos para compartir ideas y hablar (sobre Discord).   <br/>
 **Enlace:** (Solo por referencias)   <br/>
 **Créditos:** El equipo de Dev Hub (propiedad de @386861188891279362)
 
-## The Programmers Hangout
+## **The Programmers Hangout**
 
 > **Descripción:** The Programmers Hangout es una comunidad de programación de propósito general con énfasis en pasar el rato, que atiende a todos los niveles de experiencia. Con un enfoque en proyectos de código abierto, educación, aprendizaje, progresión profesional y ayuda de programación.  <br/>
 **Enlaces:** [The Programmers Hangout](https://discord.gg/programming) | [Pagina Web de The Programmers Hangout](https://theprogrammershangout.com/)   <br/>

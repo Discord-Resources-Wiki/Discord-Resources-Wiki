@@ -6,15 +6,15 @@ description: Verktyg för nätfiske och säkerhet
 
 # Phishing Relaterat
 
-### Discord Nitro Scams
+### **Discord Nitro Scams**
 > __Beskrivning:__ Denna **säkra och trygga** webbplats (*inte en bluff*) jämför riktiga Discord Nitro-gåvor med bedrägerier. Se upp!   <br/>
 __Länk:__ [Discord Nitro Information](https://dicsord.gq/)
 
-### Virus Total
+### **Virus Total**
 > __Beskrivning:__ Virus Total analyserar misstänkta filer och webbadresser för att upptäcka typer av skadlig kod.   <br/>
 __Länk:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
+### **CleanURLs**
 > __Beskrivning:__ ClearURLs är ett tillägg som bygger på den nya WebExtensions-tekniken och tar automatiskt bort spårningselement från webbadresser för att skydda din integritet.  <br/>
 __Länk(s):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
@@ -22,7 +22,7 @@ __Länk(s):__  <br/>
 __Kredit:__ @github:KevinRoebert
 
 
-### Gits of Scam Links
+### **Gits of Scam Links**
 > __Beskrivning:__ GitHub-arkiv fulla av blufflänkar.   <br/>
 __Länk(s):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
@@ -33,11 +33,11 @@ __Länk(s):__
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### Database full of malicious links
+### **Database full of malicious links**
 > __Beskrivning:__ Självförklarande. 🔢   <br/>
 __Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
-### Phishing Recognizing Tools
+### **Phishing Recognizing Tools**
 > __Beskrivning:__ Många verktyg som hjälper dig att känna igen nätfiske och komprometterade webbplatser.  <br/>
 __Länk(s):__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
@@ -69,14 +69,14 @@ __Länk(s):__ <br/>
 [Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
-### Phisherman 
+### **Phisherman** 
 > __Beskrivning:__   <br/>
 Phisherman är en centraliserad databas med länkar för nätfiske och bedrägerier. Den är utformad för användning med Discord-robotar så att de kan använda Phisherman API för att dubbelkontrollera webbadresser mot Phisherman-databasen.   <br/>
 __Länk(s):__   <br/>
 [Phisherman Webbplats](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
-### The Vaccinator
+### **The Vaccinator**
 > __Beskrivning:__ Ett verktyg för att upptäcka och neutralisera Discord-tokenstölder genom att radera deras interna Discord-webhook. <br/>
 __Obs:__ Det här verktyget är **inte** ett antivirusprogram. Det är bara ett verktyg som kan hjälpa till att förhindra att bedragare får tag på andras data. <br/>
 __Länk:__ [Webbplats](https://sketchy.tel/)  <br/>
