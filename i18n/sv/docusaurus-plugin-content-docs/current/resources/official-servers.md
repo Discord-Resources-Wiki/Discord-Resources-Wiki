@@ -6,13 +6,6 @@ description: Official servers owned by discord.
 
 # Officiella servrar
 
-## Discord-testare 
-> __Beskrivning:__ Den officiella platsen för att rapportera fel i Discord! Hjälp till att hitta fel, chatta med andra och bli en del av testarnas gemenskap!   <br/>
-__Länk:__ [Discord-testare](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
-
 ## Discord-utvecklare
 > __Beskrivning:__ Den officiella platsen för att diskutera Discords API och SDK med utvecklare och Discord-personal!   <br/>
 __Länk:__ [Discord-utvecklare](https://discord.gg/discord-developers)
