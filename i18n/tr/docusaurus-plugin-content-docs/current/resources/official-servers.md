@@ -6,13 +6,6 @@ description: Official servers owned by discord.
 
 # Resmi Sunucular
 
-## **Discord Testers** 
-> __Tanım:__ Discord hatalarını bildirmek için resmi yer! Hataları bulmaya yardım edin, başkalarıyla sohbet edin ve test kullanıcıları topluluğunun bir parçası olun!   <br/>
-__Bağlantı:__ [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
-
 ## **Discord Developers**
 > __Tanım:__ Topluluk geliştiricileri ve Discord çalışanları ile Discord'un API ve SDK'larını tartışmak için resmi yer!   <br/>
 __Bağlantı:__ [Discord Developers](https://discord.gg/discord-developers)
