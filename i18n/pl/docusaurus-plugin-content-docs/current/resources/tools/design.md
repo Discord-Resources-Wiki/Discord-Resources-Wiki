@@ -5,84 +5,84 @@ description: Design tools
 ---
 
 # Design
-### **Material Design Icons**
+### Material Design Icons
 > __Opis:__ Kolekcja ikon skupionych wokół projektowania materiałów, pozwalająca na niestandardowy format, rozmiar i kolor. <br/>
 __Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
 __Podziękowania:__ @github:Templarian
 
-### **Google Fonts Icons**
+### Google Fonts Icons
 > __Opis:__ Zbiór typowych ikon opartych na działaniach w sieci, dostarczony przez Google. <br/>
 __Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
 __Podziękowania:__ @github:google
 
-### **Branding Style Guides**
+### Branding Style Guides
 > __Opis:__ Zbiór różnych brandingów firmy, w tym Discords.   <br/>
 __Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
 
-### **Evernote Design Bookmarks**
+### Evernote Design Bookmarks
 > __Opis:__ Lista zakładek do wszystkich zasobów projektowych.  <br/>
 __Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
 
-### **Simpleicons**
+### Simpleicons
 > __Opis:__ Lista prostych ikon, w tym ikon marek.   <br/>
 __Link:__ [Simpleicons](https://simpleicons.org/)
 
-### **Heroicons**
+### Heroicons
 > __Opis:__ Ręcznie wykonane ikony SVG.   <br/>
 __Link:__ [Heroicons](https://heroicons.com/)
 
-### **Coolors**
+### Coolors
 > __Opis:__ Generator schematów kolorów.   <br/>
 __Link:__ [Coolors](https://coolors.co/)
 
-### **The __OpisNoun Project**
+### The __OpisNoun Project
 > __Opis:__ Ponad 3 miliony ikon napisanych przez społeczność wraz z dostosowywaniem ikon i interfejsem API.  <br/>
 __Link:__ [The Noun Project](https://thenounproject.com/)
 
-### **Adobe Color**
+### Adobe Color
 > __Opis:__ Kreator motywów kolorystycznych z łącznością między produktami Adobe.  <br/>
 __Link:__ [Adobe Color](https://color.adobe.com/)
 
-### **Open Color**
+### Open Color
 > __Opis:__ Schemat kolorów i biblioteka typu open source zoptymalizowana pod kątem interfejsów użytkownika.  <br/>
 __Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
 __Podziękowania:__ @github:yeun
 
-### **Teeny Icons**
+### Teeny Icons
 > __Opis:__ Zestaw minimalnych ikon 1px.  <br/>
 __Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
 __Podziękowania:__ @github:teenyicons
 
-### **Streamline**
+### Streamline
 > __Opis:__ Ponad 100 000 ikon, ilustracji i emotikonów.  <br/>
 __Link:__ [Streamline](https://streamlinehq.com/)  
 
-### **Feather Icons**
+### Feather Icons
 > __Opis:__ Proste ikony o otwartym kodzie źródłowym.  <br/>
 __Link:__ [Feather Icons](https://feathericons.com/)  <br/>
 __Podziękowania:__ @github:feathericons
 
-### **Spectrum**
+### Spectrum
 > __Opis:__ Minimalne, spójne ikony interfejsu użytkownika.  <br/>
 __Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
 
-### **Font Awesome**
+### Font Awesome
 > __Opis:__ Wektorowe ikony i loga społeczne.  <br/>
 __Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
 __Podziękowania:__ @github:FortAwesome
 
-### **ICONS8**
+### ICONS8
 > __Opis:__ Ikony, ilustracje, zdjęcia, muzyka i narzędzia do projektowania.  <br/>
 __Link:__ [ICONS8](https://icons8.com/)  
 
-### **unDraw**
+### unDraw
 > __Opis:__ Darmowe ilustracje typu open source.  <br/>
 __Link:__ [Feather Icons](https://undraw.co/)  
 
-### **tldraw**
+### tldraw
 > __Opis:__ Prosta aplikacja do rysowania.  <br/>
 __Link:__ [tldraw](https://www.tldraw.com/)
 
-### **Freepik**
+### Freepik
 > __Opis:__ Darmowe wektory, zdjęcia stockowe i pliki PSD.  <br/>
 __Link:__ [Freepik](https://freepik.com/) 
