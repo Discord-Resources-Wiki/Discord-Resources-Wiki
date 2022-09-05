@@ -6,17 +6,17 @@ description: Phishing and Security tools
 
 # Phishing Related
 
-## **Discord Nitro Scams**
+## Discord Nitro Scams
 
 > **Description:** This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
 **Link:** [Discord Nitro Information](https://dicsord.gq/)
 
-## **Virus Total**
+## Virus Total
 
 > **Description:** Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
 **Link:** [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-## **CleanURLs**
+## CleanURLs
 
 > **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
 **Link(s):**  <br/>
@@ -24,7 +24,7 @@ description: Phishing and Security tools
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
 **Credit:** @github:KevinRoebert
 
-## **Gits of Scam Links**
+## Gits of Scam Links
 
 > **Description:** GitHub repositories full of scam links.   <br/>
 **Link(s):**  
@@ -36,12 +36,12 @@ description: Phishing and Security tools
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-## **Database full of malicious links**
+## Database full of malicious links
 
 > **Description:** Self explanatory. 🔢   <br/>
 **Link:** [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
-## **Phishing Recognizing Tools**
+## Phishing Recognizing Tools
 
 > **Description:** Many tools to help you recognize phishing and compromised sites.  <br/>
 **Link(s):** <br/>
@@ -76,7 +76,7 @@ description: Phishing and Security tools
 [Azrael Phish API](https://phish.azrael.gg/) (credit: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
-## **Phisherman**
+## Phisherman
 
 > **Description:**   <br/>
 Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
@@ -84,14 +84,14 @@ Phisherman is a centralized database of phishing and scam links. It is designed 
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
-## **The Vaccinator**
+## The Vaccinator
 
 > **Description:** A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
 **Note:** This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
 **Link:** [Website](https://sketchy.tel/)  <br/>
 **Credit:** The Vaccinator Team (contact: @204414611578028034)
 
-## **Intezer Analyse**
+## Intezer Analyse
 
 > **Description:** Advanced security researching tool to help determine if a file is malicious and much more. (Not entirely free) <br/>
 **Link:** [Intezer Analyse](https://analyze.intezer.com/)
