@@ -6,54 +6,54 @@ description: Programming related tools
 
 # Programming Related
 
-## Autocode
+## **Autocode**
 
 > **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
 **Link:** [Autocode](https://autocode.com/)  <br/>
 **Credit:** @746460957651501196
 
-## Stack Overflow
+## **Stack Overflow**
 
 > **Description:** A place to find solutions and discuss coding related problems.  <br/>
 **Link:** [Stack Overflow](https://stackoverflow.com/)
 
-## RapidAPI
+## **RapidAPI**
 
 > **Description:** Find APIs to all purposes.  <br/>
 **Link:** [RapidAPI](https://rapidapi.com/)
 
-## Some Random API
+## **Some Random API**
 
 > **Description:** Variety of fun endpoints for devs to use.  <br/>
 **Link:** [Some Random API](https://some-random-api.ml/)  <br/>
 **Credit:** @423675224395874314
 
-## Choose A License
+## **Choose A License**
 
 > **Description:** Choose a license for your open source project.   <br/>
 **Link:** [Choose A License](https://choosealicense.com/)
 
-## Docker
+## **Docker**
 
 > **Description:** Simplifies development processes.   <br/>
 **Link:** [Docker](https://www.docker.com/)
 
-## Visual Studio Code
+## **Visual Studio Code**
 
 > **Description:** Free and biggest code editing tool. <br/>
 **Link:** [Visual studio code](https://code.visualstudio.com)  
 
-## Docusaurus
+## **Docusaurus**
 
 > **Description:** An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
 **Link:** [Docusaurus](https://docusaurus.io/)
 
-## GitBook
+## **GitBook**
 
 > **Description:** Create docs full of utilities and design options.  <br/>
 **Link:** [GitBook](https://www.gitbook.com/)
 
-## GitHub’s Guides and Documentation
+## **GitHub’s Guides and Documentation**
 
 > **Description:** Self explanatory.   <br/>
 **Link(s):**
@@ -61,81 +61,81 @@ description: Programming related tools
 [Guides](https://guides.github.com/)   <br/>
 [Community Help](https://github.community/)
 
-## GitHub Education Pack
+## **GitHub Education Pack**
 
 > **Description:** Free Developer Tools provided by GitHub Education Pack   <br/>
 **Link:** [GitHub Education Pack](https://education.github.com/)
 
-## Public APIs
+## **Public APIs**
 
 > **Description:** Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
 **Link:** [Public APIs](https://github.com/public-apis/public-apis)
 
-## HTTPS Statuses
+## **HTTPS Statuses**
 
 > **Description:** A list of HTTP status codes.   <br/>
 **Link:** [HTTPS Statuses](https://httpstatuses.com/)
 
-## Does My Site Need HTTPS?
+## **Does My Site Need HTTPS?**
 
 > **Description:** An informative page explaining the importance of HTTPS.  <br/>
 **Link:** [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
 
-## HTTP Toolkit
+## **HTTP Toolkit**
 
 > **Description:** Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
 **Link:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 **Credit:** github:@pimterry
 
-## Markdown Guide
+## **Markdown Guide**
 
 > **Description:** The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
 **Link:** [Markdown Guide](https://www.markdownguide.org/)
 
-## Qwerty.dev
+## **Qwerty.dev**
 
 > **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
 **Link:** [Qwerty.dev](https://qwerty.dev/)
 
-## replit
+## **replit**
 
 > **Description:** An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
 **Link:** [replit](https://replit.com/)
 
-## Regex101
+## **Regex101**
 
 > **Description:** Build, test, and debug regex.   <br/>
 **Link:** [Regex101](https://regex101.com/)
 
-## RegExp Generator
+## **RegExp Generator**
 
 > **Description:** Unicode range RegExp generator.   <br/>
 **Link:** [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
-## Regex Crossword
+## **Regex Crossword**
 
 > **Description:** Learn regex through puzzles and challenges.   <br/>
 **Link:** [Regex Crossword](https://regexcrossword.com/)
 
-## Guide(s) to contributing on Open Source Software
+## **Guide(s) to contributing on Open Source Software**
 
 > **Description:** A list of various resources to help OSS contributors. <br/>
 **Link:** [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 **Credit:** @github:freeCodeCamp
 
-## Big List of Naughty Strings
+## **Big List of Naughty Strings**
 
 > **Description:** A list of strings to help test for edge cases <br/>
 **Link:** [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Credit:** @github:minimaxir
 
-## Free for developers
+## **Free for developers**
 
 > **Description:** List of free offerings for developers <br/>
 **Link:** [Free for developers](https://free-for.dev/#/) <br/>
 **Credit:** @github:ripienaar
 
-## Paginated discord.js messages
+## **Paginated discord.js messages**
 
 > **Description:** A package that helps make paginated messages easier in discord.js <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
