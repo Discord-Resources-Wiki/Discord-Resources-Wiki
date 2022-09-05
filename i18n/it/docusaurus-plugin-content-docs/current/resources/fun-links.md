@@ -4,7 +4,7 @@ sidebar_position: 12
 description: Fun links
 ---
 
-# Fun Links
+# Links Divertenti
 
 https://tryitands.ee/ | Try and see video   <br/>
 https://shutplea.se/ | Shut bird   <br/>
