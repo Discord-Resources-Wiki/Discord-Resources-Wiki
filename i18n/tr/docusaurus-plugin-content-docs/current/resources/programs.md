@@ -20,10 +20,10 @@ __Bağlantı:__ [Discord Partner Program](https://dis.gd/partners)
 > __Tanım:__ HypeSquad Events programı için bilgi bulabileceğiniz ve başvurabileceğiniz yer.   <br/>
 __Bağlantı:__ [HypeSquad Events](https://dis.gd/hypesquad)
 
-### $1 $2
+### Doğrulama Programı
 > __Tanım:__ Doğrulama programı için bilgi bulabileceğiniz ve başvurabileceğiniz yer.   <br/>
 __Bağlantı:__ [Doğrulama Programı](https://dis.gd/verification)
 
-### $1 $2
+### Öğrenci Merkezleri
 > __Tanım:__ Okulunuzdan sınıf arkadaşlarınızla tanışmanızı, Discord'daki topluluklarını keşfetmenizi ve sınıf arkadaşlarınızın katılması için kendi sunucularınızı paylaşmanızı kolaylaştıran bir yer.   <br/>
 __Bağlantı:__ [Öğrenci Merkezleri](https://dis.gd/studenthubs)

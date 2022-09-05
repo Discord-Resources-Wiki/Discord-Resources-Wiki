@@ -257,7 +257,7 @@ Descripción: Herramientas relacionadas con Discord
 **Enlace:** [Zeppelin en Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
 **Créditos:** @255834596766253057
 
-## $1 $2 $3 $4
+## Guía de Bloques ANSI
 
 > **Descripción:** Una rápida descomposición de como usar códigos de color ANSI para añadir color a tus bloques.  <br/>
 **Enlace(s):**  <br/>

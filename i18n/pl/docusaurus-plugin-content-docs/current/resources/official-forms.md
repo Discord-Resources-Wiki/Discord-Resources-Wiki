@@ -6,7 +6,7 @@ description: Oficjalne formularze od Discorda.
 
 # Oficjalne formularze
 
-## $1 $2 
+## Formularz zgłoszeniowy 
 > __Opis:__ Zgłoś problem zespołowi ds. zaufania i bezpieczeństwa Discorda.   <br/>
 __Link:__ [Formularz zgłoszeniowy Discord](https://dis.gd/report)
 

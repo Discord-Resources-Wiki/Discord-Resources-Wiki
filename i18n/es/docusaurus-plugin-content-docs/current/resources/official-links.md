@@ -10,7 +10,7 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** Imagina un lugar… donde los enlaces no fueran tan largos. <br/>
 **Enlace:** [Sitio web de Discord](https://dis.gd/)
 
-## $1 $2
+## Cómo denunciar
 
 > **Descripción:** Una guía sobre cómo informar adecuadamente los problemas al equipo de Confianza y Seguridad de Discord. <br/>
 **Enlace:** [Cómo informar](https://dis.gd/howtoreport) | [Artículo de DMA](https://dis.gd/dma104)
@@ -51,7 +51,7 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** Una página wiki de Reddit que enumera todas las bibliotecas API de Discord. <br/>
 **Enlace:** [Lista de servidores de bibliotecas de Discord](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## $1 $2 $3 $4
+## Discord de código abierto
 
 > **Descripción:** Esta es la lista de origen de las comunidades OSS que usan y viven en Discord. <br/>
 **Enlaces:**
@@ -90,7 +90,7 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** El lugar para enviar vulnerabilidades de seguridad dentro de Discord. <br/>
 **Enlace:** [Recompensas por errores de seguridad de Discord](https://discord.com/security)
 
-## $1 $2 $3 $4
+## Último informe de transparencia
 
 > **Descripción:** La actualización más reciente sobre las acciones y terminaciones del equipo de seguridad. <br/>
 **Enlace:** [Informe de transparencia más reciente](https://discord.com/blog/discord-transparency-report-q1-2022)

@@ -36,17 +36,17 @@ __Credit:__ @143419667677970434
 > __Beskrivning:__ Ett annat användbart verktyg för att skapa inbäddningar i discord. Verktyget exporterar i JSON-format.   <br/>
 __Länk:__ [Nadeko Embed Builder](https://embedbuilder.nadekobot.me/ )
 
-## $1 $2 $3
+## Förteckning över klistermärken
 > __Beskrivning:__ En lista över alla klistermärken som du får tillgång till som Nitro-prenumerant, inklusive förhandsvisningar och beskrivningar av klistermärkena.   <br/>
 __Länk:__ [Förteckning över klistermärken](https://stickers.advaith.io/)   <br/>
 __Kredit:__ @190916650143318016
 
-## $1 $2 $3 $4
+## Alla laddningsmeddelanden från Discord
 > __Beskrivning:__ En github gist med alla laddningsmeddelanden från Discord.  <br/>
 __Link:__ [Alla laddningsmeddelanden från Discord](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
 __Kredit:__ @190916650143318016
 
-## $1 $2 $3 $4
+## Skapa och utveckla samhällen
 > __Beskrivning:__ En guide gjord av Jagrosh#4824 för att hjälpa nya serverägare att skapa och utveckla sina communities.   <br/>
 __Länk:__ [Att växa upp en Discord-server](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
 __Kredit:__ @113156185389092864
@@ -67,7 +67,7 @@ __Kredit:__ @545581357812678656
 __Länk:__ [Discord Markdown-guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
 __Kredit:__ @github:matthewzring
 
-## $1 $2 $3 $4
+## Alla röstaktiviteter i Discord
 > __Beskrivning:__ En lista som innehåller alla röstaktiviteter i Discord och deras IDs.   <br/>
 __Länk:__ [Alla röstaktiviteter i Discord](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
 __Kredit:__ @712626099141476383
@@ -86,7 +86,7 @@ __Kredit:__ @354309005037797376
 __Länk:__ [Diskord-tillgångar](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
 __Kredit:__ @223518178100248576
 
-## $1 $2 $3 $4 (fläkt - gjort)
+## Grundläggande mallar för Discord (fläkt - gjort)
 > __Beskrivning:__ En lista över grundläggande mallar som skapats av fans och som täcker de flesta typer av samhällen.  <br/>
 __Länk:__ [Grundläggande mallar för Discord](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
 __Kredit:__ @242385234992037888

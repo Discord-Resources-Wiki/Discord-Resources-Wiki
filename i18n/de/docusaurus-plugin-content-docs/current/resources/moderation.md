@@ -29,7 +29,7 @@ description: Ressourcen für die Moderation
 **Link:** [Moderation Leitlinien](https://staff-guidelines.super.site/)   <br/>
 **Credit:** @366652352125599744
 
-## $1 $2 $3 $4
+## Leitfaden für respektvolle Konversationen
 
 > **Beschreibung:** Umfangreiches, aber ausgefeiltes Community-Regelwerk, das die Arbeit der Moderatoren erleichtern soll.   <br/>
 **Link:** [Leitfaden für zivile Konversation](https://conversation.guide/)   <br/>

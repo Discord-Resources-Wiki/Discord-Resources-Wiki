@@ -116,7 +116,7 @@ description: Recursos no oficiales sobre Discord.
 **Enlace:** [Discord Assets](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
 **Créditos:** @223518178100248576
 
-## $1 $2 $3 $4 (fan-made)
+## Plantillas Básicas de Discord (fan-made)
 
 > **Descripción:** Una lista de plantillas básicas hechas por fans para cubrir la mayoría de tipos de comunidades.  <br/>
 **Enlace:** [Plantillas Básicas de Discord](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>

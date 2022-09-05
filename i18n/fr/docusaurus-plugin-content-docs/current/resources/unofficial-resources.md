@@ -86,7 +86,7 @@ __Credit:__ @354309005037797376
 __Lien:__ [Atouts du discord](https://gitlab.com/derpystuff/discord-asset-datamining )   <br/>
 __Credit:__ @223518178100248576
 
-## $1 $2 $3 $4 (fan - made)
+## Modèles de base Discord (fan - made)
 > __Description:__ Une liste de modèles de base créés par des fans pour couvrir la plupart des types de communautés.  <br/>
 __Lien:__ [Modèles de base Discord](https://gist.github.com/srnyx/12922980e75cf14508990bb36a6989a9)  <br/>
 __Credit:__ @242385234992037888

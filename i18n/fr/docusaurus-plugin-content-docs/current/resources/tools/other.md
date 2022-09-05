@@ -7,7 +7,7 @@ description: D'autres outils utiles.
 # Autre
 
 
-### $1 $2
+### Caractères Invisibles
 > __Déscription:__ Une liste de caractères unicode invisibles. <br/>
 __Lien:__ [Caractères Invisibles](https://character.construction/blanks)
 

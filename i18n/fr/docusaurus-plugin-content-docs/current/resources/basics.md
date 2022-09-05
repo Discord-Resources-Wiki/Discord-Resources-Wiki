@@ -44,6 +44,6 @@ __Lien:__ [Centre d'aide de Discord](https://support.discord.com)
 > __Description:__ Une page officielle qui présente des informations relatives à la vie privée et des informations pour les parents et éducateurs sur les différentes manières de se protéger en ligne.  <br/>
 __Lien:__ [Centre de Sécurité de Discord](https://discord.com/safety)
 
-## $1 $2 $3
+## Téléchargements des Clients
 > __Description:__ Toutes les version téléchargeables de Discord. (Téléchargez Discord!)   <br/>
 __Lien:__ [Téléchargements des Clients](https://discord.com/download)

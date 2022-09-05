@@ -6,7 +6,7 @@ description: Grundläggande resurser
 
 # Grunderna
 
-## $1 $2 
+## Discord användarvillkor 
 > __Beskrivning:__ Discords användarvillkor är en policy som du måste gå med på när du använder plattformen.   <br/>
 Den innehåller information allt från immatriella rättigheter till kontoterminering.   <br/>
 __Länk:__ [Användarvillkor](https://dis.gd/terms)
@@ -36,11 +36,11 @@ __Länk:__ [Discords Twittersida](https://twitter.com/discord)
 > __Beskrivning:__  Den officiella Discordsidan på Youtube.   <br/>
 __Link:__ [Discords Youtubekanal](https://www.youtube.com/c/discord)
 
-## $1 $2
+## Discord Hjälpcenter
 > __Beskrivning:__ En officiell Discord navigeringssida full med användbara supportartiklar om varje ämne.   <br/>
 __Länk:__ [Discord Hjälpcenter](https://support.discord.com)
 
-## $1 $2
+## Discord säkerhetscenter
 > __Beskrivning:__ En sida som förser dig med information om internetsäkerhet & information för föräldrar och lärare om hur man kan skydda sig själv/sina barn på nätet.  <br/>
 __Länk:__ [Discord säkerhetscenter](https://discord.com/safety)
 

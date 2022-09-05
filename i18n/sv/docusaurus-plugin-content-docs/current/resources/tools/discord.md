@@ -11,7 +11,7 @@ description: Discordrelaterade verktyg
 __Länk:__ [Alternativ till MEE6](https://www.alternativestomee6.com/)   <br/>
 __Tack till:__ @99787644430475264
 
-### $1 $2
+### Alla Discordbehörigheter
 > __Beskrivning:__ En lista på alla behörigheter som finns tillgängliga för användare.   <br/>
 __Länk:__ [Alla Discordbehörigheter](https://discordapi.com/permissions)
 
@@ -20,12 +20,12 @@ __Länk:__ [Alla Discordbehörigheter](https://discordapi.com/permissions)
 __Länk:__ [Discordverktyg](https://discordtools.io/)   <br/>
 __Tack till:__ @276544649148235776
 
-### $1 $2
+### Discord verktygslåda
 > __Beskrivning:__ Discordverktyg som till exempel Discords statusuppdateringar, experimentinfo och servrar/snöflingesökning.   <br/>
 __Länk:__ [Discordverktygslåda](https://distools.app/)   <br/>
 __Tack till:__ @386861188891279362
 
-### $1
+### Discordsökning
 > __Description:__ Ett enkelt verktyg för att söka efter användare, grupper, inbjudningar och få information om din grupplista med statistik, serverexperimentlanseringar, funktioner och behörighetsvy.  <br/>
 __Länk:__ [Discordsökning](https://discordlookup.com/)  <br/>
 __Tack till:__ @231091710195662848
@@ -45,12 +45,12 @@ __Tack till:__ @github:christian-reichart
 __Länk:__ [Discord emojinedladdare](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
 __Tack till:__ @152164749868662784
 
-### $1 $2
+### Discord vändiagramskapare
 > __Beskrivning:__ Gör ett diagram av dina vänner och deras relationer.  <br/>
 __Länk:__ [Discord vändiagramskapare](https://github.com/Maanex/discord-friends-graph)  <br/>
 __Tack till:__ @137258778092503042
 
-### $1 $2
+### Discord serverjämförning
 > __Beskrivning:__ Jämför statistik mellan Discord servrar.  <br/>
 __Länk:__ [Discord serverjämförning](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
 __Tack till:__ @152164749868662784
@@ -103,7 +103,7 @@ __Tack till:__ @190916650143318016
 > __Beskrivning:__ Hitta en grupp genom att använda dess ID, genom att byta ut ‘GUILD_ID’ (förutsatt att den har widgets på).   <br/>
 __Länk:__ [Hitta en grupp](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
 
-### $1 $2
+### Hitta gruppinnehåll
 > __Beskrivning:__ Se en grupps innehåll med en omedelbar inbjudningskod.   <br/>
 __Länk:__ [Hitta gruppinnehåll](https://discord.com/api/invite/[invitecode])
 

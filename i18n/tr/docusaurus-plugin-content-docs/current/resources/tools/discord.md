@@ -15,7 +15,7 @@ __Oluşturucu:__ @99787644430475264
 > __Tanım:__ Kullanıcılar için mevcut tüm izinlerin listesi.   <br/>
 __Bağlantı:__ [All Discord Permissions](https://discordapi.com/permissions)
 
-### $1 $2
+### Discord Araçları
 > __Tanım:__ Uzman kullanıcıların sunucularınızı analiz etmeleri, snowflake hakkında bilgi almaları ve hatta Discord'un mevcut durumunu görmeleri için bir Discord araçları koleksiyonu. Hesabınızın bulunduğu sunucu sayısını öğrenin, sahip olduğunuz, yönettiğiniz ve partner olduğunuz sunucu sayısını görün ve yukarıdaki kategorilerdeki tüm sunucuların listesini ve tüm sunucuların listesini görüntüleyin.   <br/>
 __Bağlantı:__ [Discord Tools](https://discordtools.io/)   <br/>
 __Oluşturucu:__ @276544649148235776
@@ -78,7 +78,7 @@ __Oluşturucu:__ @github:geisterfurz007
 __Bağlantı:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
 __Oluşturucu:__  @209769851651227648
 
-### $1 $2
+### Discord Bayrakları
 > __Tanım:__ Tüm Discord bayrakları ve anlamları ile dolu bir belge.   <br/>
 __Bağlantı:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
 __Oluşturucu:__ @96269247411400704

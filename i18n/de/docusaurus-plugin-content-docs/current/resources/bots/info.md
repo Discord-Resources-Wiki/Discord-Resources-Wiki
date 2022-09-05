@@ -47,7 +47,7 @@ description: Bot-Informationen und -Listen
 (siehe auch: [Discord API Inoffiziell](https://discordapi.com/unofficial/) für Dokumentationen und Bibliotheken)   <br/>
 **Link:** [Vergleiche der Rest- und WS-Abdeckung der Bibliotheken](https://discordapi.com/unofficial/comparison.html) 
 
-## $1 $2 $3 $4
+## Discord Gateway Intents Erklärer
 
 > **Beschreibung:** Informationen über Discord-Bot-Intents.  <br/>
 **Link:** [Discord Gateway Intents Erklärer](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>

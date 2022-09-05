@@ -110,7 +110,7 @@ __Podziękowania:__ @github:kyb3r
 __Link:__ [Support Bot](https://github.com/Gideon-foxo/support-bot)   <br/>
 __Podziękowania:__ @524371727812263948
 
-## $1 $2
+## Boty użytkowe
 ### OpenDiscordBots
 > __Opis:__ Kolekcja samowystarczalnych, z otwartym kodem źródłowym prostych botów na Discordzie.  <br/>
 __Link(i):__   <br/>

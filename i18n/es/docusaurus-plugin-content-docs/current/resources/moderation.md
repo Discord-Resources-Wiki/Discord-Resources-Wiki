@@ -29,7 +29,7 @@ description: Recursos de moderación.
 **Enlace:** [Plantillas y herramientas de moderación de NaviKing](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
 **Créditos:** @200987752794292224
 
-## $1 $2 $3
+## Directrices de moderación
 
 > **Descripción:** Una plantilla para ayudar al nuevo personal a incorporarse y comprender las prácticas de moderación del servidor.   <br/>
 **Enlace:** [Directrices de moderación](https://staff-guidelines.super.site/)   <br/>

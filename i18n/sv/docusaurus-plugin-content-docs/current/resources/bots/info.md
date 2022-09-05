@@ -25,12 +25,12 @@ __Kredit:__ @261674810914897931
 __Länk:__ [Alla officiella Discord-bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
 __Kredit:__ @712626099141476383
 
-## $1 $2 $3
+## Förteckning över bibliotek
 > __Beskrivning:__ Lista över alla Discord API-bibliotek och deras funktioner.   <br/>
 __Länk:__ [Förteckning över bibliotek](https://libs.advaith.io/)   <br/>
 __Kredit:__ @190916650143318016
 
-## $1 $2 $3 $4
+## Libs för Discord API
 > __Beskrivning:__ En lista över alla bibliotek för Discord API.  <br/>
 __Länk:__ [Libs för Discord API](https://github.com/apacheli/discord-api-libs)  <br/>
 __Kredit:__ @460612586061430806
@@ -45,7 +45,7 @@ __Länk:__ [Jämförelser av bibliotekets vila och WS-täckning](https://discord
 __Länk:__ [Förklaring av Discord Gateway Intents](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
 __Kredit:__ @190916650143318016
 
-## $1 $2 $3 $4
+## Bästa praxis för botar
 > __Beskrivning:__ Bästa praxis för Discord-robotar.   <br/>
 __Länk:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
 __Kredit:__ @66237334693085184
@@ -55,7 +55,7 @@ __Kredit:__ @66237334693085184
 __Länk:__ [Discord-botar](https://discord.bots.gg/)   <br/>
 __Kredit:__ Discord Bots' webbplatsgrupp @66237334693085184
 
-## $1 $2 $3 (BotBlocks)
+## Förteckning över botlistor (BotBlocks)
 > __Beskrivning:__ En centraliserad lista över Discord-botlistor.   <br/>
 __Länk:__ [Listor över botar Lista](https://botblock.org/lists) 
 

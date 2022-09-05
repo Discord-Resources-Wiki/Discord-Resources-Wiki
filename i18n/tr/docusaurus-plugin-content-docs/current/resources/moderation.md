@@ -20,7 +20,7 @@ __Bağlantı:__ [Discord Moderatör Ekosistemi](https://discord.com/blog/announc
 __Bağlantı:__ [Naviking'in Denetleme Şablonları ve Araçları Belgeleri](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
 __Oluşturucu:__ @200987752794292224
 
-### $1 $2
+### Moderasyon Yönergeleri
 > __Tanım:__ Yeni personelin sunucunun denetleme uygulamalarını benimsemesine ve anlamasına yardımcı olacak bir şablon.   <br/>
 __Bağlantı:__ [Moderasyon Yönergeleri](https://staff-guidelines.super.site/)   <br/>
 __Oluşturucu:__ @366652352125599744

@@ -245,7 +245,7 @@ description: Discord-bezogene Tools
 **Link:** [Embeddable Links](https://url.wtf) <br/>
 **Credit:** @386861188891279362
 
-## $1 $2 $3
+## Scratch Für Discord
 
 > **Beschreibung:** Erstelle einen Discord-Bot mit Blöcken, ohne dass du programmieren musst.  <br/>
 **Link:** [Scratch Für Discord](https://scratch-for-discord.netlify.app/)  <br/>

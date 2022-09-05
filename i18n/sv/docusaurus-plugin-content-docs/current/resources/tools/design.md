@@ -19,7 +19,7 @@ __Medverkande:__ @github:google
 > __Beskrivning:__ En samling med olika företags varumärken, inklusive Discords.   <br/>
 __Länk:__ [Guider för varumärkesstil](https://brandingstyleguides.com/)
 
-### $1 $2
+### Evernote Designbokmärken
 > __Beskrivning:__ En lista på bokmärken för allting om designresurser.  <br/>
 __Länk:__ [Evernote Design](https://www.evernote.design/)  <br/>
 

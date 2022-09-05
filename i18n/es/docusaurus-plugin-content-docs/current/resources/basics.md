@@ -12,7 +12,7 @@ description: Recursos básicos.
 Incluye información que va desde los derechos de propiedad intelectual hasta la terminación de la cuenta.   <br/>
 **Enlace:** [Términos de servicio](https://dis.gd/terms)
 
-## $1 $2 $3
+## Política de privacidad
 
 > **Descripción:** Política de privacidad de Discord con respecto a la información de los usuarios.  <br/>
 **Enlace:** [Política de privacidad de Discord](https://discord.com/privacy)

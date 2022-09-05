@@ -25,7 +25,7 @@ description: Programas de Discord como Moderación, Partner, HSE y Verificación
 > **Descripción:** El lugar para encontrar información y aplicar para el programa de Eventos de Hypesquad.   <br/>
 **Enlace:** [Eventos de HypeSquad](https://dis.gd/hypesquad)
 
-## $1 $2 $3
+## Programa de Verificación
 
 > **Descripción:** El lugar para encontrar información y aplicar para el programa de Verificación.   <br/>
 **Enlace:** [Programa de Verificación](https://dis.gd/verification)

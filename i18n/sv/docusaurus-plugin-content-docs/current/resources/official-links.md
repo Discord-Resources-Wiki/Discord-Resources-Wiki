@@ -6,7 +6,7 @@ description: Officiella länkar från discord.
 
 # Officiella Discord-länkar
 
-## $1 $2 $3
+## Webbplats för Discord
 > __Beskrivning:__ Föreställ dig en plats... där länkarna inte var så långa.   <br/>
 __Länk:__ [Webbplats för Discord](https://dis.gd/)
 
@@ -27,7 +27,7 @@ __Länk:__ [Fel i Discord](https://bugs.discord.com/)
 __Länk:__ [Testare Bug Tool](https://dis.gd/bug-tool)
 __Kredit:__ @53905483156684800
 
-## $1 $2 $3
+## Testklienter för Discord
 > __Beskrivning:__ En guide för nedladdning och användning av testklienter för Discord för alla plattformar.   <br/>
 __Länk:__ [Testklienter](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
@@ -39,13 +39,13 @@ __Länk:__ [Discord Moderator Academy](https://dis.gd/moderation)
 > __Beskrivning:__ En wikisida på Reddit som listar alla Discord API:er.   <br/>
 __Länk:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## $1 $2 $3
+## Discord öppen källkod
 > __Beskrivning:__ Detta är källförteckningen över OSS-grupper som använder och lever på Discord.   <br/>
 __Länk(s):__
 [Discord öppen källkod](https://discord.com/open-source)   <br/>
 [Discord öppen källkod Github](https://github.com/discord/discord-open-source)
 
-## $1 $2 $3  
+## Varumärke för Discord  
 > __Beskrivning:__ Discords varumärkestillgångar och riktlinjer.   <br/>
 __Länk:__ [Varumärke för Discord](https://discord.com/branding)
 

@@ -22,30 +22,30 @@ __Bağlantı:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 > __Tanım:__  Bildirilen ve onaylanan hataları aramak için resmi araç.   <br/>
 __Bağlantı:__ [Discord Bugs](https://bugs.discord.com/)
 
-## $1 $2 $3 $4
+## Discord Testers Bug Aracı
 > __Tanım:__  DBug'ın !submit komutu için metin oluşturmaya yönelik resmi araç. Form, sonunda sizin için otomatik olarak bir komut oluşturmak için her girişte size adım adım rehberlik eder.   <br/>
 __Bağlantı:__ [Testers Bug Aracı](https://dis.gd/bug-tool)<br/>
 __Oluşturucu:__ @53905483156684800 <br/>
 
-## $1 $2 $3
+## Discord Deneme İstemcisi
 > __Tanım:__ Tüm platformlar için Discord test istemcilerini indirme ve kullanma kılavuzu.   <br/>
 __Bağlantı:__ [Deneme İstemcisi](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
-## $1 $2 $3 
+## Discord Moderatör Akademi 
 > __Tanım:__ Moderatörler tarafından yazılmış, moderatörler için Discord'un resmi kaynakları.   <br/>
 __Bağlantı:__ [Discord Moderator Academy](https://dis.gd/moderation)
 
-## $1 $2 $3 $4
+## Discord Kütüphaneler Sunucu Listesi
 > __Tanım:__ Tüm Discord API kitaplıklarını listeleyen bir Reddit wiki sayfası.  <br/>
 __Bağlantı:__ [Discord Kütüphaneler Sunucu Listesi](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## $1 $2 $3
+## Discord Açık Kaynak
 > __Tanım:__ Bu, Discord'u kullanan ve yaşayan OSS topluluklarının kaynak listesidir.   <br/>
 __Bağlantı(lar):__
 [Discord Açık Kaynak](https://discord.com/open-source)   <br/>
 [Discord Açık Kaynak Github](https://github.com/discord/discord-open-source)
 
-## $1 $2  
+## Discord Markası  
 > __Tanım:__ Discord'un marka varlıkları ve yönergeleri.   <br/>
 __Bağlantı:__ [Discord Markası](https://discord.com/branding)
 
@@ -53,7 +53,7 @@ __Bağlantı:__ [Discord Markası](https://discord.com/branding)
 > __Tanım:__  Nitro Boost ve Nitro Classic abonelikleri hakkında bilgi.   <br/>
 __Bağlantılar:__ [Discord Nitro](https://dis.gd/nitro)
 
-## $1 $2 $3
+## Discord Durum Sayfası
 > __Tanım:__ Discord hizmetlerinin mevcut durumu hakkında bilgi sağlar.   <br/>
 __Bağlantı:__ [Durum Sayfası](https://dis.gd/status)
 
@@ -65,11 +65,11 @@ __Bağlantı:__ [Discord Developer Portal](https://discord.com/developers/)
 > __Tanım:__ Her tür etkileşimin nasıl ele alındığını ayrıntılandıran belgeler ve bot geliştiricileri için bir kaynak.   <br/>
 __Bağlantı:__ [Discord Developer Docs](https://discord.dev/)
 
-## $1 $2 $3 $4
+## Discord Güvenlik Hatası Ödülleri
 > __Tanım:__ Discord içinde güvenlik açıklarının gönderileceği yer.   <br/>
 __Bağlantı:__ [Discord Güvenlik Hatası Ödülleri](https://discord.com/security)
 
-## $1 $2 $3 $4 
+## En Son Şeffaflık Raporu 
 > __Tanım:__ Güvenlik ekibinin eylemleri ve sonlandırmaları hakkında en son güncelleme.   <br/>
 __Bağlantı:__ [En Son Şeffalık Raporu](https://discord.com/blog/discord-transparency-report-h1-2021)
 

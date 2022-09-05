@@ -44,6 +44,6 @@ Het zorgt ervoor dat iedereen een positieve ervaring heeft en dat gebruikers zic
 > **Beschrijving:** Pagina met informatie over internetprivacy en informatie voor ouders en opvoeders over hoe ze zichzelf/hun kinderen online kunnen beschermen  <br/>
 **Link:** [Discord Safety Center](https://discord.com/safety)
 
-## $1
+## Cliëntdownloads
 > **Beschrijving:** Alle officiële downloadbare Discord-clients. (Download Discord!)   <br/>
 **Link:** [Discord Cliënten](https://discord.com/download)

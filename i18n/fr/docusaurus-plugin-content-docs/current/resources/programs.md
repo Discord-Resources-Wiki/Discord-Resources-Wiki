@@ -25,12 +25,12 @@ description: Programmes Discord tels que Discord Moderator Academy, Discord Part
 > **Description:** L'endroit où trouver des informations et postuler pour le programme HypeSquad Events.   <br/>
 **Link:** [HypeSquad Events](https://dis.gd/hypesquad)
 
-## $1 $2 $3
+## Programme de vérification
 
 > **Description:** L'endroit pour trouver des informations et postuler pour le programme de vérification.   <br/>
 **Link:** [Programme de vérification](https://dis.gd/verification)
 
-## $1 $2
+## Pôles étudiants
 
 > **Description:** Un endroit qui permet de rencontrer facilement des camarades de classe de votre école, de découvrir leurs communautés sur Discord et de partager vos propres serveurs pour que vos camarades de classe les rejoignent.   <br/>
 **Link:** [Pôles étudiants](https://dis.gd/studenthubs)

@@ -31,7 +31,7 @@ __Link:__ [Laboratorium Gier Discord](https://discord.gg/discordgameslab)
 
 @gg/discordgameslab
 
-## $1 $2
+## Bezpieczeństwo Discorda
 > __Opis:__ Obecnie w trakcie realizacji.  <br/>
 __Link:__ [Bezpieczeństwo Discorda](https://discord.gg/safety)
 

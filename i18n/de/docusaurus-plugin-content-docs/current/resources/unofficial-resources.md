@@ -12,7 +12,7 @@ description: Inoffizielle Ressourcen für Discord.
 **Link:** [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
 **Credit:** @142242854167642122
 
-## $1 $2 $3
+## Discord Für Designer
 
 > **Beschreibung:**  Eine Website mit nützlichen Ressourcen für Designer wie Mockups, Icons und UI-Kits.  <br/>
 **Link:** [Discord Für Designer](https://dfd.muatex.uk/)  <br/>

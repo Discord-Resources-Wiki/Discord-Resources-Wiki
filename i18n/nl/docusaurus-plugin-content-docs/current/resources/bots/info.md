@@ -6,7 +6,7 @@ description: Bot informatie en lijsten
 
 # Information & Lists
 
-## $1 $2 $3 $4
+## Onofficiële Discord API Documentatie
 > **Beschrijving:** Onofficiële documentatie van de ongedocumenteerde Discord APIs. Bevat ook een overzicht van de infrastructuur van Discord.  <br/>
 **Link:** [Onofficiële Discord API Documentatie](https://luna.gitlab.io/discord-unofficial-docs/)
 
@@ -20,7 +20,7 @@ description: Bot informatie en lijsten
 **Links:** Krijg de haste ID [hier](https://unbelievaboat.com/api/botlist), en plak het dan [hier](https://haste.unbelievaboat.com/ID) in plaats van "ID".  <br/>
 **Credit:** @261674810914897931
 
-## $1 $2 $3 $4
+## Alle Officiële Discord Bots
 > **Beschrijving:** Een lijst die alle officiele bots bevat die door Discord gemaakt zijn.   <br/>
 **Link:** [Alle officiële Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
 **Credit:** @712626099141476383

@@ -20,7 +20,7 @@ __Oluşturucu:__ Discord Linux Takımı (sahip @86201442112671744)
 
 @gg/discord-linux
 
-## $1 $2
+## Discord Botları
 > __Tanım:__ Discord API'sine bağlı, Discord'daki en eski bot listesi için Discord sunucusu.   <br/>
 __Bağlantı:__ [Discord Botları](https://discord.gg/dbots)   <br/>
 __Oluşturucu:__ Discord Botları Sunucu Takımı (sahip @66237334693085184)

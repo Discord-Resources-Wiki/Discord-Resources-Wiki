@@ -11,11 +11,11 @@ description: Podstawowe zasoby
 Zawierają one informacje od praw własności intelektualnej po likwidację konta.   <br/>
 __Link:__ [Warunki korzystania z serwisu](https://dis.gd/terms)
 
-## $1 $2 $3
+## Polityka prywatności Discorda
 > __Opis:__ Polityka prywatności Discorda dotycząca informacji o użytkownikach.  <br/>
 __Link:__ [Polityka prywatności Discorda](https://discord.com/privacy)
 
-## $1 $2 $3 $4
+## Wytyczne dla społeczności Discorda
 > __Opis:__ W zasadach dla społeczności Discorda wyjaśniono ograniczenia i restrykcje dotyczące tej platformy.   <br/>
 Dzięki temu wszyscy mają pozytywne doświadczenia, a użytkownicy zachowują się w sposób zdyscyplinowany i dobrze wychowany.   <br/>
 __Link:__ [Wytyczne dla społeczności](https://dis.gd/guidelines)
@@ -40,10 +40,10 @@ __Link:__ [Strona Youtube Discorda](https://www.youtube.com/c/discord)
 > __Opis:__ Oficjalna strona nawigacyjna Discorda pełna przydatnych artykułów pomocniczych na każdy temat.   <br/>
 __Link:__ [Centrum pomocy Discorda](https://support.discord.com)
 
-## $1 $2 $3
+## Centrum Bezpieczeństwa Discorda
 > __Opis:__ Strona zawierająca informacje o ochronie prywatności w Internecie oraz informacje dla rodziców i wychowawców o tym, jak chronić siebie i swoje dzieci w sieci.  <br/>
 __Link:__ [Centrum Bezpieczeństwa Discorda](https://discord.com/safety)
 
-## $1 $2 $3
+## Pobrania dla klientów
 > __Opis:__ Wszystkie oficjalne klienty Discorda do pobrania. (Pobierz Discord!)   <br/>
 __Link:__ [Klienty Discorda](https://discord.com/download)

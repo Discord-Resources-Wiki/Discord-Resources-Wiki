@@ -7,7 +7,7 @@ description: Andra användbara verktyg
 # Annat
 
 
-### $1 $2
+### Blanka karaktärer
 > __Beskrivning:__ En lista på blanka Unicode karaktärer. <br/>
 __Länk:__ [Blanka karaktärer](https://character.construction/blanks)
 
@@ -68,7 +68,7 @@ __Länk:__ [TimezoneWizard](https://timezonewizard.com/)
 > __Beskrivning:__ Städa upp din onlinesäkerhet, steg för steg.   <br/>
 __Länk:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 
-### $1 $2
+### Tomma karaktärer
 > __Beskrivning:__ Lista och metoder för att göra tomma karaktärer med Unicode.   <br/>
 __Länk:__ [Tomma karaktärer](https://emptycharacter.com)
 
@@ -105,7 +105,7 @@ __Länk:__ [Tina](https://tina.io/)
 > __Beskrivning:__ En färgpalett med arktiskinspirerat tema och temasamling för olika sidor och applikationer.   <br/>
 __Länk:__ [Nord Theme](https://www.nordtheme.com/)
 
-### $1
+### Pronomenön
 > __Beskrivning:__ En hemsida för exempel på personliga pronomen.   <br/>
 __Länk:__ [Pronomenön](https://pronoun.is/)
 
@@ -126,7 +126,7 @@ __Länk:__ [Flaticon](https://www.flaticon.com/)
 > __Beskrivning:__ Gratis online fotoredigerare.   <br/>
 __Länk:__ [Photopea](https://www.photopea.com/)
 
-### $1 $2
+### Slumpmässiga sidor
 > __Beskrivning:__ Genererar en liten lista med slumpmässiga länkar till olika hemsidor.   <br/>
 __Länk:__ [Random Sites](https://www.randomlists.com/websites)
 

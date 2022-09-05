@@ -59,7 +59,7 @@ description: Herramientas de diseño
 **Enlace:** [Color abierto](https://yeun.github.io/open-color/) <br/>
 **Créditos:** @github:yeun
 
-## $1 $2
+## Iconos pequeños
 
 > **Descripción:** Un conjunto de iconos mínimos de 1px. <br/>
 **Enlace:** [Iconos pequeños](https://teenyicons.com/) <br/>

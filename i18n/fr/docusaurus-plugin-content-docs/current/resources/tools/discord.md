@@ -6,7 +6,7 @@ description: Outils relatifs à Discord
 
 # Relatifs à Discord
 
-## $1 $2 $3
+## Alternatives à MEE6
 
 > **Description:** Une liste de bots discord qui peuvent être utilisés pour remplacer MEE6.   <br/>
 **Lien:** [Alternatives à MEE6](https://www.alternativestomee6.com/)   <br/>
@@ -23,7 +23,7 @@ description: Outils relatifs à Discord
 **Lien:** [Outils Discord](https://discordtools.io/)   <br/>
 **Crédit:** @276544649148235776
 
-## $1 $2 $3 $4
+## Boite à outil Discord
 
 > **Description:** Des outils pour Discord tels que le status Discord, les informations d'experiments et lookup pour les serveurs et snowflakes.   <br/>
 **Lien:** [Boite à outil Discord](https://distools.app/)   <br/>

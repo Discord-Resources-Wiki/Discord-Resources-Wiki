@@ -10,19 +10,19 @@ description: Oficjalne linki od Discorda.
 > __Opis:__ Wyobraź sobie miejsce... gdzie linki nie są tak długie.   <br/>
 __Link:__ [Strona internetowa Discord](https://dis.gd/)
 
-## $1 $2
+## Jak zgłaszać
 > __Opis:__ Poradnik, jak prawidłowo zgłaszać problemy zespołowi ds. zaufania i bezpieczeństwa Discorda.   <br/>
 __Link:__  [Jak zgłaszać](https://dis.gd/howtoreport) | [Artykuł DMA](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## $1 $2 $3 $4 
+## Jak uzyskać identyfikatory użytkowników 
 > __Opis:__ Poradnik, jak znaleźć identyfikatory.   <br/>
 __Link:__  [Jak uzyskać identyfikatory użytkownika/serwera/wiadomości](https://dis.gd/findmyid)
 
-## $1 $2 $3
+## Błędy na Discordzie
 > __Opis:__  Oficjalne narzędzie do wyszukiwania zgłoszonych i zatwierdzonych błędów.   <br/>
 __Link:__ [Błędy na Discordzie](https://bugs.discord.com/)
 
-## $1 $2 $3 $4
+## Narzędzie dla testerów Discorda
 > __Opis:__ Oficjalne narzędzie do generowania tekstu dla polecenia !submit DBuga. Formularz prowadzi Cię krok po kroku przez każde dane do wprowadzenia, aby na końcu automatycznie wygenerować dla Ciebie polecenie.   <br/>
 __Link:__ [Narzędzie dla testerów](https://dis.gd/bug-tool)
 __Uznanie:__ @53905483156684800
@@ -31,15 +31,15 @@ __Uznanie:__ @53905483156684800
 > __Opis:__ Przewodnik po pobieraniu i używaniu klientów testowych Discord dla wszystkich platform.   <br/>
 __Link:__ [Klienty do testowania](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
-## $1 $2 $3 
+## Akademia Moderatorów Discorda 
 > __Opis:__ Oficjalne zasoby Discorda dla moderatorów, napisane przez moderatorów.   <br/>
 __Link:__ [Akademia Moderatorów Discorda](https://dis.gd/moderation)
 
-## $1 $2 $3 $4
+## Lista serwerów bibliotek Discorda
 > __Opis:__ Strona wiki Reddita, która wymienia wszystkie biblioteki API Discorda.   <br/>
 __Link:__ [Lista serwerów bibliotek Discorda](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## $1 $2 $3 $4
+## Otwarty kod źródłowy Discord
 > __Opis:__ To jest lista społeczności OSS, które używają Discorda.   <br/>
 __Link(i):__
 [Otwarty kod źródłowy Discorda](https://discord.com/open-source)   <br/>
@@ -57,7 +57,7 @@ __Link:__ [Nitro Discord](https://dis.gd/nitro)
 > __Opis:__ Udostępnia informacje o aktualnym stanie usług Discorda.   <br/>
 __Link:__ [Strona statusu](https://dis.gd/status)
 
-## $1 $2 $3 $4
+## Portal dla deweloperów Discorda
 > __Opis:__ Główna strona internetowa dla programistów do zarządzania swoimi aplikacjami, zespołami, zakresami OAuth2 i innymi.    <br/>
 __Link:__ [Portal dla deweloperów](https://discord.com/developers/)
 
@@ -69,7 +69,7 @@ __Link:__ [Dokumenty dla programistów](https://discord.dev/)
 > __Opis:__ Miejsce, w którym można zgłaszać luki w zabezpieczeniach Discorda.   <br/>
 __Link:__ [Nagrody za błędy w bezpieczeństwie Discorda](https://discord.com/security)
 
-## $1 $2 $3 $4 
+## Najnowszy raport o bezpieczeństwie 
 > __Opis:__ Najnowsza aktualizacja działań i wypowiedzeń zespołu bezpieczeństwa.   <br/>
 __Link:__ [Najnowszy raport o bezpieczeństwie](https://discord.com/blog/discord-transparency-report-h1-2021)
 

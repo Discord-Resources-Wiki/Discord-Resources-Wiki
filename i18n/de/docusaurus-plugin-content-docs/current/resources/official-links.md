@@ -16,7 +16,7 @@ description: Offizielle Links von Discord.
 > **Beschreibung:** Ein Leitfaden, wie man Probleme richtig an das Team für Vertrauen und Sicherheit von Discord meldet.   <br/>
 **Link:**  [Wie Reporte ich](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## $1 $2 $3 $4 
+## Wie man IDs erhält 
 > **Beschreibung:** Ein Leitfaden für die Suche nach einer ID.   <br/>
 **Link:**  [Wie man User/Server/Message IDs bekommt](https://dis.gd/findmyid)
 

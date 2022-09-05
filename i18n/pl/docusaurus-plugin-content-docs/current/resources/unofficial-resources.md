@@ -32,7 +32,7 @@ __Link:__ [Wiki Discorda](https://discord.fandom.com/wiki/Discord)
 __Link:__ [Discohook](https://discohook.org/)   <br/>
 __Podziękowania:__ @143419667677970434
 
-## $1 $2 $3
+## Tworzyciel embedów Nadeko
 > __Opis:__ Kolejne przydatne narzędzie do generowania embedów discorda. To narzędzie eksportuje w formacie JSON.   <br/>
 __Link:__ [Tworzyciel embedów Nadeko](https://embedbuilder.nadekobot.me/ )
 
@@ -41,23 +41,23 @@ __Link:__ [Tworzyciel embedów Nadeko](https://embedbuilder.nadekobot.me/ )
 __Link:__ [Lista naklejek](https://stickers.advaith.io/)   <br/>
 __Podziękowania:__ @190916650143318016
 
-## $1 $2 $3 $4
+## Wszystkie komunikaty ładowania Discorda
 > __Opis:__ Strona Github pełen ze wszystkimi komunikatami o ładowaniu Discorda.  <br/>
 __Link:__ [Wszystkie komunikaty ładowania Discorda](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
 __Podziękowania:__ @190916650143318016
 
-## $1 $2 $3 $4
+## Tworzenie i rozwój społeczności
 > __Opis:__ Poradnik wykonany przez Jagrosh#4824, mający na celu pomoc nowym właścicielom serwerów w tworzeniu i rozwijaniu ich społeczności.   <br/>
 __Link:__ [Rozwijanie serwera Discord](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)   <br/>
 __Podziękowania:__ @113156185389092864
 
-## $1 $2 $3
+## Linki protokołów Discorda
 > __Opis:__ Lista wszystkich łączy protokołu Discorda.   <br/>
 *Uwaga: Linki protokołu Discord mogą być używane w przyciskach! Sprawdź [tę dyskusję](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) aby uzyskać więcej informacji. Łącza protokołów nie działają na Androidzie, nie jestem pewien co do iOS. (tylko <tel://numer> działa na iOS)*   <br/>
 __Link:__ [Linki protokołów Discorda](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 __Podziękowania:__ @github:ghostrider-05
 
-## $1 $2 $3 $4
+## Historia wersji klientów Discorda
 > __Opis:__ Strona, która rejestruje wszystkie wersje z discorda.   <br/>
 __Link:__ [Historia wersji klientów Discorda](https://discord.sale/)  
 __Podziękowania:__ @545581357812678656
@@ -67,12 +67,12 @@ __Podziękowania:__ @545581357812678656
 __Link:__ [Przewodnik po edycji tekstu na Discordzie](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)  <br/>
 __Podziękowania:__ @github:matthewzring
 
-## $1 $2 $3 $4
+## Wszystkie działania głosowe Discorda
 > __Opis:__ Lista zawierająca wszystkie aktywności głosowe Discorda i ich identyfikatory.   <br/>
 __Link:__ [Wszystkie działania głosowe Discorda](https://gist.github.com/GeneralSadaf/42d91a2b6a93a7db7a39208f2d8b53ad)   <br/>
 __Podziękowania:__ @712626099141476383
  
-## $1 $2 $3 $4
+## Statystyki najlepszych serwerów Discorda
 > __Opis:__ Arkusz kalkulacyjny z godzinnymi statystykami członków największych serwerów na Discordzie.   <br/>
 __Link:__ [Statystyki najlepszych serwerów Discorda](https://docs.google.com/spreadsheets/d/1gRQ44Goa8x_M714pSmPXLHW3BAK5LzWzRn1MVXPeVn4/edit#gid=0)
 
@@ -96,7 +96,7 @@ __Podziękowania:__ @242385234992037888
 __Link:__ [Makieta interfejsu Discorda](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)   <br/>
 __Podziękowania:__ @354309005037797376
 
-## $1 $2 $3
+## Ładunki płatnicze Discorda
 > __Opis:__ Wszystkie ładunki płatnicze Discorda.   <br/>
 __Link:__ [Ładunki płatnicze Discorda](https://github.com/discord-payloads/discord-payloads)   <br/>
 __Podziękowania:__ @184040656761651200

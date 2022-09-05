@@ -157,7 +157,7 @@ __Oluşturucu:__ @255834596766253057
 __Bağlantı:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
 [Now Live Website](https://nowlivebot.com/)  <br/>
 
-## $1 $2
+## Eğlence Botları
 
 ### Truth Or Dare
 > __Tanım:__ Doğruluk mu Cesaret mi, Hiç Sahip Olmadım ve Tercih Edermiydin oynamak için bir bot.  <br/>

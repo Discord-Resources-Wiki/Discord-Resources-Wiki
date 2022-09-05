@@ -19,6 +19,6 @@ __Bağlantı:__  [Discord Detsek Formu](https://dis.gd/contact)
 __Bağlantı:__  [Discord Geri bildirim formu](https://dis.gd/feedback)
 
 
-## $1 $2 $3 $4 
+## Discord Güven ve Güvenlik 
 > __Tanım:__ Discord'un Güven ve Güvenlik ekibine bir bilet gönderin.  <br/>
 __Bağlantı:__ [Discord TnS](https://dis.gd/request)

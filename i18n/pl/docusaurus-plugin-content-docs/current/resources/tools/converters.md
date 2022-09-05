@@ -51,7 +51,7 @@ __Link:__ [Narzędzia do formatowania tekstu](http://www.unit-conversion.info/te
 > __Opis:__ Służy do przeglądania plików .txt, które zostały przesłane do Discorda.   <br/>
 __Link:__ [Discord Txt](https://txt.discord.website/)
 
-### $1 $2
+### Konwerter plików
 > __Opis:__ Konwersja typów plików na inne.   <br/>
 __Link:__ [Konwerter plików](https://github.com/Tichau/FileConverter)   <br/>
 __Credit:__ @Tichau

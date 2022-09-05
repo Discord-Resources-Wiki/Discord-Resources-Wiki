@@ -87,7 +87,7 @@ description: Herramientas de programación.
 **Enlace:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 **Créditos:** github: @pimterry
 
-## $1 $2 $3
+## Guía de Markdown
 
 > **Descripción:** La Guía de Markdown es una guía de referencia gratuita y de código abierto que explica cómo utilizar Markdown, el lenguaje de marcado simple y fácil de usar que puede utilizar para dar formato a prácticamente cualquier documento.   <br/>
 **Enlace:** [Markdown Guide](https://www.markdownguide.org/)

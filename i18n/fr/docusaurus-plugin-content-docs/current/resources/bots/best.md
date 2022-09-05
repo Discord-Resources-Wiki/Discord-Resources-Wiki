@@ -5,7 +5,7 @@ description: Recommendation de bots Discord
 ---
 
 # Meilleurs bots Discord
-## $1
+## Modération
 ### Zeppelin
 > __Description:__ Zeppelin est un bot de modération privé pour Discord, conçu pour de larges serveurs.   <br/>
 __Lien(s):__   <br/>

@@ -129,7 +129,7 @@ description: Werkzeuge für die Programmierung
 **Link:** [Große Liste von Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Credit:** @github:minimaxir
 
-## $1 $2 $3
+## Kostenfrei für Developer
 
 > **Beschreibung:** Liste der kostenlosen Angebote für Entwickler <br/>
 **Link:** [Kostenfrei für Developer](https://free-for.dev/#/) <br/>

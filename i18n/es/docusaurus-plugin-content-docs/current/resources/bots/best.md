@@ -6,7 +6,7 @@ description: Recomendaciones de bots Discord
 
 # Mejores bots Discord
 
-## $1
+## Moderación
 
 ### Zeppelin
 
@@ -308,7 +308,7 @@ Vortex es un bot diseñado para mantener tu servidor seguro y tu equipo de perso
 __Enlaces:__ [Invitar a Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
 [Pagina web](https://nowlivebot.com/)  <br/>
 
-## $1 $2 $3
+## Bots de Diversión
 
 ### Truth Or Dare
 
