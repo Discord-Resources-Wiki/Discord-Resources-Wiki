@@ -1,7 +1,7 @@
 ---
-title: Basics
+title: Basi
 sidebar_position: 1
-description: Basic resources
+description: Risorse base
 ---
 
 # Le basi
