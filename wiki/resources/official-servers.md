@@ -6,13 +6,6 @@ description: Official servers owned by Discord.
 
 # Official Servers
 
-## **Discord Testers**
-
-> **Description:** The official place to report Discord bugs! Help find bugs, chat with others and be a part of the testers community!   <br/>
-**Link:** [Discord Testers](https://discord.gg/discord-testers)
-
-@gg/discord-testers
-
 ## **Discord Developers**
 
 > **Description:** The official place to discuss Discord's API and SDKs with community developers and Discord staff alike!   <br/>
