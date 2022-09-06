@@ -19,6 +19,6 @@ __Link:__  [Discord Support Form](https://dis.gd/contact)
 __Link:__  [Discord Feedback Form](https://dis.gd/feedback)
 
 
-## **Discord Trust & Safety** 
+## **Team di Sicurezza di Discord** 
 > __Descrizione:__ Invia una richiesta al team Trust & Safety di Discord.   <br/>
 __Link:__ [Discord TnS](https://dis.gd/request)
