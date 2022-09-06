@@ -1,10 +1,10 @@
 ---
-title: Official Discord Servers
+title: Server Ufficiali di Discord
 sidebar_position: 2
-description: Official servers owned by discord.
+description: Server ufficiali di proprietà di Discord.
 ---
 
-# Official Servers
+# Server Ufficiali
 
 ## **Discord Developers**
 > __Description:__ Il server ufficiale per discutere degli API ed SDK con community developers e membri dello staff di Discord!   <br/>
