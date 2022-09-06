@@ -1,7 +1,7 @@
 ---
-title: Official Forms
+title: Moduli ufficiali
 sidebar_position: 3
-description: Official forms from discord.
+description: Moduli ufficiali di Discord.
 ---
 
 # Moduli ufficiali
