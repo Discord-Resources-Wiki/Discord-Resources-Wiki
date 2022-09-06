@@ -14,7 +14,7 @@ __Link:__ [Discord Website](https://dis.gd/)
 > __Description:__ Una guida su come segnalare correttamente dei problemi al Team di Sicurezza di Discord.   <br/>
 __Link:__  [Come segnalare](https://dis.gd/howtoreport) | [Articolo DMA](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
 
-## **Come ottenere gli user IDs* 
+## **Come ottenere gli user IDs** 
 > __Description:__ Una guida su come trovare gli user IDs.   <br/>
 __Link:__  [Come ottenere User/Server/Message IDs](https://dis.gd/findmyid)
 
