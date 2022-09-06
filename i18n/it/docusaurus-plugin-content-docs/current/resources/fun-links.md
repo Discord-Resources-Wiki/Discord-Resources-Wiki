@@ -1,7 +1,7 @@
 ---
-title: Fun Links
+title: Link divertenti
 sidebar_position: 12
-description: Fun links
+description: Link divertenti
 ---
 
 # Links Divertenti
