@@ -40,7 +40,7 @@ __Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
 __Link:__ [Lista di Server Discord Libraries](https://www.reddit.com/r/discordapp/wiki/developers)
 
 ## **Discord Open Source**
-> __Description:__ This is the source list of OSS communities that use and live on Discord.   <br/>
+> __Description:__ Questo è l'elenco delle comunità OSS che usano e vivono su Discord.   <br/>
 __Link(s):__
 [Discord Open Source](https://discord.com/open-source)   <br/>
 [Discord Open Source Github](https://github.com/discord/discord-open-source)
