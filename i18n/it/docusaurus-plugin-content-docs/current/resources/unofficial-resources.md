@@ -1,13 +1,13 @@
 ---
-title: Unofficial Resources
+title: Risorse non ufficiali
 sidebar_position: 9
-description: Unofficial resources for discord.
+description: Risorse non ufficiali di Discord
 ---
 
-# Unofficial Resources
+# Risorse non ufficiali
 
 ## **Discord Lists**
-> __Description:__ A giant list of various Discord things, ranging from the domains currently used by Discord, to undocumented user flags, to known activity application ids, to lists of known partner & verified server invites.   <br/>
+> __Descrizione:__ Una gigantesca lista di varie utilities di Discord, da domain usati da Discord, a user flags non documentate, ad application ids conosciuti, a liste di partner conosciuti & inviti a server verificati.   <br/>
 __Link:__ [Discord Lists](https://github.com/Delitefully/DiscordLists)   <br/>
 __Credit:__ @142242854167642122
 
