@@ -202,7 +202,7 @@ description: Other useful tools
 > **Description:** Explore web pages saved over time.  <br/>
 **Links:**   
 [Web Archives](https://web.archive.org/)  <br/>
-[Arvhive.is](https://archive.is/)
+[Archive.is](https://archive.is/)
 
 ## AlternativeTo
 
