@@ -117,12 +117,6 @@ description: Discord related tools
 **Link:** [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/)   <br/>
 **Credit:**  @106391128718245888
 
-## Disgradient
-
-> **Description:** An easy to use tool to help create a gradient for your Discord folders, roles and more.   <br/>
-**Link:** [Disgradient](https://disgradient.netlify.app/)   <br/>
-**Credit:** @267025484028706816
-
 ## DeepResearch
 
 > **Description:** Discord status that provides visualisations, analytics, and tools for chat-based communities.   <br/>
