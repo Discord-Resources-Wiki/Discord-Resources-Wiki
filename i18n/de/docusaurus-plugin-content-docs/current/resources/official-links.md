@@ -25,12 +25,6 @@ description: Offizielle Links von Discord.
 > **Beschreibung:**  Das offizielle Tool zum Auffinden gemeldeter und genehmigter Fehler.   <br/>
 **Link:** [Discord Bugs](https://bugs.discord.com/)
 
-## Discord Testers Bug Tool
-
-> **Beschreibung:** Das offizielle Tool zum Generieren von Text für den !submit-Befehl von DBug. Das Formular führt dich Schritt für Schritt durch jede Eingabe, um am Ende automatisch einen Befehl für dich zu generieren.   <br/>
-**Link:** [Testers Bug Tool](https://dis.gd/bug-tool)
-**Credit:** @53905483156684800
-
 ## Discord Test Clients
 
 > **Beschreibung:** Eine Anleitung zum Herunterladen und Verwenden von Discord-Testclients für alle Plattformen.   <br/>
