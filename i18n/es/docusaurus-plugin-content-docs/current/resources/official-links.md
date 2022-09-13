@@ -25,12 +25,6 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** La herramienta oficial para buscar errores informados y aprobados. <br/>
 **Enlace:** [Errores de discord](https://bugs.discord.com/)
 
-## Herramienta de errores de probadores de Discord
-
-> **Descripción:** La herramienta oficial para generar texto para el comando !submit de DBug. El formulario lo guía paso a paso a través de cada entrada para generar automáticamente un comando para usted al final. <br/>
-**Enlace:** [Herramienta de errores de probadores](https://dis.gd/bug-tool) <br/>
-**Créditos:** @53905483156684800
-
 ## Clientes de prueba de Discord
 
 > **Descripción:** Una guía sobre cómo descargar y usar los clientes de prueba de Discord para todas las plataformas. <br/>
