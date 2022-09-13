@@ -22,11 +22,6 @@ __Bağlantı:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 > __Tanım:__  Bildirilen ve onaylanan hataları aramak için resmi araç.   <br/>
 __Bağlantı:__ [Discord Bugs](https://bugs.discord.com/)
 
-## Discord Testers Bug Aracı
-> __Tanım:__  DBug'ın !submit komutu için metin oluşturmaya yönelik resmi araç. Form, sonunda sizin için otomatik olarak bir komut oluşturmak için her girişte size adım adım rehberlik eder.   <br/>
-__Bağlantı:__ [Testers Bug Aracı](https://dis.gd/bug-tool)<br/>
-__Oluşturucu:__ @53905483156684800 <br/>
-
 ## Discord Deneme İstemcisi
 > __Tanım:__ Tüm platformlar için Discord test istemcilerini indirme ve kullanma kılavuzu.   <br/>
 __Bağlantı:__ [Deneme İstemcisi](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
