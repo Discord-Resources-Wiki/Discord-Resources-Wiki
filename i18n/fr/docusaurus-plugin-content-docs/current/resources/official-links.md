@@ -22,11 +22,6 @@ __Link:__  [Comment obtenir les IDs des utilisateurs, des serveurs et des messag
 > __Description:__  L'outil officiel pour rechercher les bugs signalés et approuvés.   <br/>
 __Link:__ [Discord Bugs](https://bugs.discord.com/)
 
-## Outil pour les testeurs de Bug Discord
-> __Description:__ L'outil officiel pour générer du texte pour la commande !submit de DBug. Le formulaire vous guide pas à pas à travers chaque entrée pour générer automatiquement une commande à la fin.   <br/>
-__Link:__ [Outil pour les testeurs de bugs](https://dis.gd/bug-tool)
-__Credit:__ @53905483156684800
-
 ## Clients de test Discord
 > __Description:__ Un guide sur le téléchargement et l'utilisation des clients de test Discord pour toutes les plateformes.   <br/>
 __Link:__ [Clients de test](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
