@@ -22,11 +22,6 @@ description: Officiële links van Discord.
 > **Beschrijving:** De officiële tool om gemelde en geaccepteerde bugs te bekijken. <br/>
 **Link:** [Discord Bugs](https://bugs.discord.com/)
 
-## Discord Testers Bug Tool
-> **Beschrijving:** De officiële tool voor het genereren van tekst voor het !submit-commando van DBug. Het formulier leidt u stap voor stap door elke invoer om aan het einde automatisch een opdracht voor u te genereren.   <br/>
-**Link:** [Testers Bug Tool](https://dis.gd/bug-tool)
-**Credit:** @53905483156684800
-
 ## Discord-testclients
 > **Beschrijving:** Een handleiding voor het downloaden en gebruiken van Discord-testclients voor alle platformen.   <br/>
 **Link:** [Testclients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
