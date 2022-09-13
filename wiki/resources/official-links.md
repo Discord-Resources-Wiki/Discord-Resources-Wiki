@@ -26,12 +26,6 @@ description: Official links from Discord.
 > **Description:**  The official tool to look up reported and approved bugs.   <br/>
 **Link:** [Discord Bugs](https://bugs.discord.com/)
 
-## Discord Testers Bug Tool
-
-> **Description:** The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-**Link:** [Testers Bug Tool](https://dis.gd/bug-tool)   <br/>
-**Credit:** @53905483156684800
-
 ## Discord Testing Clients
 
 > **Description:** A guide on downloading and using Discord testing clients for all platforms.   <br/>
