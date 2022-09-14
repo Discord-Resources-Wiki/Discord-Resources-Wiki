@@ -91,12 +91,6 @@ description: Discord-bezogene Tools
 **Link:** [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
 **Credit:** @github:geisterfurz007
 
-## Discord Bug Report Command Generator
-
-> **Beschreibung:** Ein schnelles und einfaches Werkzeug für alle Fehlerberichte. Enthält die Berichterstellung, kann/kann nicht reproduziert werden, die Bearbeitung von Berichten, das Anhängen und Abtrennen sowie das Genehmigen, Verweigern und Widerrufen von Fehlerberichten.   <br/>
-**Link:** [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-**Credit:**  @209769851651227648
-
 ## Discord Flags
 
 > **Beschreibung:** Ein Dokument mit allen Discord-Flags und ihrer Bedeutung.   <br/>

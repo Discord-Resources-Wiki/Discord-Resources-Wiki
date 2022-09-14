@@ -65,11 +65,6 @@ __Credit:__ @422820341791064085
 __Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
 __Credit:__ @github:geisterfurz007
 
-### Discord Bug Report Command Generator
-> __Description:__ A quick and easy tool for everything bug reporting. Contains report generation, can/can't reproduce, editing reports, attach and detachment, and approving, denying, and revoking bug reports.   <br/>
-__Link:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-__Credit:__  @209769851651227648
-
 ### Discord Flags
 > __Description:__ A document full with all Discord flags and their meanings.   <br/>
 __Link:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>

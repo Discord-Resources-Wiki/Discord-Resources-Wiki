@@ -93,12 +93,6 @@ description: Outils relatifs à Discord
 **Lien:** [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
 **Crédit:** @github:geisterfurz007
 
-## Discord Bug Report Command Generator
-
-> **Description:** Une outil rapide et facile pour tout ce qui concerne le report de bugs. Contient la génération du report, peux/peux pas reproduire, editer les reports, attacher et détacher, approuver, décliner, révoquer des reports.   <br/>
-**Lien:** [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-**Crédit:**  @209769851651227648
-
 ## Discord Flags
 
 > **Description:** Un document remplis des différents Flags Discord et leurs significations.   <br/>
