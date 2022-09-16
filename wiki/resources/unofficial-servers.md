@@ -41,7 +41,7 @@ description: Unofficial servers related to Discord
 
 ## Community Architects
 
-> **Description:** We are committed to bringing together community moderators, admins, designers and more to share and collaborate on building communities.   <br/>
+> **Description:** We are committed to bringing together community moderators, admins, designers, and more to share and collaborate on building communities.   <br/>
 **Link(s):** [Community Architects Discord](https://discord.gg/communityarchitects) | [Community Architects Website](https://communityarchitects.net)   <br/>
 **Credit:** Community Architects team (owned by @354309005037797376)
 
@@ -82,7 +82,7 @@ description: Unofficial servers related to Discord
 
 ## The Programmers Hangout
 
-> **Description:** The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
+> **Description:** The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open-source projects, education, learning, career progression, and programming help.  <br/>
 **Link(s):** [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
 **Credit:** The Programmers Hangout team (owned by @335628039302021121)
 

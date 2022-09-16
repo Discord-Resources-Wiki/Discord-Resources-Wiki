@@ -14,7 +14,7 @@ description: Unofficial resources for Discord.
 
 ## Discord For Designers
 
-> **Description:** A site filled with useful resources for designers such as mockups, icons and UI kits.  <br/>
+> **Description:** A site filled with useful resources for designers such as mockups, icons, and UI kits.  <br/>
 **Link:** [Discord For Designers](https://dfd.muatex.uk/)  <br/>
 **Credit:** @530408906686726144
 
@@ -40,7 +40,7 @@ description: Unofficial resources for Discord.
 
 ## Discord Wiki (fandom)
 
-> **Description:** The unofficial Discord wiki, done in typical wiki style.   <br/>
+> **Description:** The unofficial Discord wiki, is done in typical wiki style.   <br/>
 **Link:** [Discord Wiki](https://discord.fandom.com/wiki/Discord)
 
 ## Discohook
@@ -64,7 +64,7 @@ description: Unofficial resources for Discord.
 
 ## All Discord Loading Messages
 
-> **Description:** A github gist full with all Discord loading messages.  <br/>
+> **Description:** A github gist full of all Discord loading messages.  <br/>
 **Link:** [All Discord Loading Messages](https://gist.github.com/advaith1/540543d6a2b7fd66abdb0eb02c002f88)  <br/>
 **Credit:** @190916650143318016
 
@@ -83,7 +83,7 @@ description: Unofficial resources for Discord.
 
 ## Discord Build Logger
 
-> **Description:** Site that logs all Discord builds.   <br/>
+> **Description:** A Site that logs all Discord builds.   <br/>
 **Link:** [Discord Build Logger](https://discord.sale/)  
 **Credit:** @545581357812678656
 
@@ -106,7 +106,7 @@ description: Unofficial resources for Discord.
 
 ## Discord Library
 
-> **Description:** A collection of Discord assets, icons, characters, colors and more.   <br/>
+> **Description:** A collection of Discord assets, icons, characters, colors, and more.   <br/>
 **Link:** [Discord Library](https://www.figma.com/community/file/1114896965920105129)   <br/>
 **Credit:** @354309005037797376
 

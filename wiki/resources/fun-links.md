@@ -33,10 +33,10 @@ description: Fun links
 <https://www.whosampled.com/> | who sampled   <br/>
 <https://wungus.com/> | church of wungus   <br/>
 <https://http.cat/> | HTTP cats   <br/>
-https://http.capy.pics/ | HTTP capybaras <br/>
+<https://http.capy.pics/> | HTTP capybaras <br/>
 <https://http.dog/> |  HTTP dogs <br/>
 <https://thispersondoesnotexist.com/> | this person does not exist   <br/>
-https://thisponydoesnotexist.net/ | this pony does not exist <br/>
+<https://thisponydoesnotexist.net/> | this pony does not exist <br/>
 <https://thisfursonadoesnotexist.com/> | this fursona does not exist  <br/>
 <https://wungus.guru/robots.txt> | wungus the guru   <br/>
 <https://fish-is.me/> | Im a fish....?  <br/>
@@ -77,6 +77,6 @@ https://thisponydoesnotexist.net/ | this pony does not exist <br/>
 <https://cat-bounce.com/> |  cat bounce <br />
 <https://txnor.com/mathchallenge> | math challenge <br />
 <https://shouldiblamecaching.com/> | should I blame caching?  <br/>
-https://emoji.supply/kitchen/ | emoji merger <br/>
-https://touch.grass.lol/ | do it  <br/>
-https://cuberule.com/ | is it a sandwich?
+<https://emoji.supply/kitchen/> | emoji merger <br/>
+<https://touch.grass.lol/> | do it  <br/>
+<https://cuberule.com/> | is it a sandwich?

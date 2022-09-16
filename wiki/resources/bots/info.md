@@ -79,6 +79,6 @@ description: Bot informations and lists
 
 ### An Idiot's Guide
 
-> **Description:**  The unofficial Discord.js beginner's guide, written by idiots for beginners.<br/>
+> **Description:**  The unofficial Discord.js beginner's guide, written by idiots for beginners.   <br/>
 **Link:** [An Idiot's Guide](https://anidiots.guide/) <br/>
 **Credit:** @github:AnIdiotsGuide

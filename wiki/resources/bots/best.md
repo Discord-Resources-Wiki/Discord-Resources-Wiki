@@ -29,8 +29,7 @@ description: Discord bot recommendations
 
 ### Vortex
 
-> **Description:**  
-Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
+> **Description:** Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keeps track of your members and keeps your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behaviour without the need for human intervention, lightening the load of the staff team. Finally, Vortex is designed to be fast and easy to use.   <br/>
 **Link:** [Vortex](https://github.com/jagrosh/Vortex)   <br/>
 **Credit:** @113156185389092864
 
@@ -59,11 +58,11 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 > **Description:** General auto-moderation bot, with buttons and dropdowns.   <br/>
 **Link:** [AutoModerator Website](https://automoderator.app/)   <br/>
-**Credit:** @223703707118731264 @104425482757357568
+**Credit(s):** @223703707118731264 @104425482757357568
 
 ### Sapphire
 
-> **Description:** Multi - purpose bot with many regulary updated features. <br/>
+> **Description:** Multi - purpose bot with many regularly updated features. <br/>
 **Link(s):**  <br/>
 [Sapphire Website](https://sapph.xyz/)  <br/>
 [Invite Sapphire](https://discord.com/oauth2/authorize?scope=bot+applications.commands&response_type=code&redirect_uri=https://sapph.xyz/dashboard&permissions=1945627743&client_id=678344927997853742)  <br/>
@@ -98,9 +97,9 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### Safelink
 
-> **Description:** A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
+> **Description:**  A bot that can detect a variety of scams (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
 **Link:** [Safelink](https://safelink.gg/)   <br/>
-**Credit:** @282565295351136256 @684155404078415890
+**Credit(s):** @282565295351136256 @684155404078415890
 
 ### Fish
 
@@ -112,9 +111,9 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### OterluBot
 
-> **Description:** A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
+> **Description:** A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content, and profanity. Offers some statistics on the health of your servers based on the logs.  <br/>
 **Link:** [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
-**Credit:** @111891236792598528 @352832514819227655
+**Credit(s):** @111891236792598528 @352832514819227655
 
 ## ModMail
 
@@ -150,7 +149,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### RTS Bot
 
-> **Description:** Bot with mental health & wellness resources.   <br/>
+> **Description:** A Bot with mental health & wellness resources.   <br/>
 **Link:** [RTS Bot](http://rts.guardiansmh.org/bot)   <br/>
 **Credit:**  @177886618714243073
 
@@ -168,7 +167,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### Reaction
 
-> **Description:** Easy-to-use bot to have buttons and dropdowns based reaction roles in your server.  <br/>
+> **Description:** Easy-to-use bot to have buttons and dropdowns based on reaction roles in your server.  <br/>
 **Link(s):** <br/>
 [Reaction Docs](https://rr.auttaja.io/)  <br/>
 [Invite Reaction](https://discord.com/oauth2/authorize?client_id=700070794444669039&scope=bot%20applications.commands%20identify&permissions=268451840&response_type=code)  <br/>
@@ -176,7 +175,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### R.Danny
 
-> **Description:** One of the first bots on Discord, with dozenz of utility commands. <br/>
+> **Description:** One of the first bots on Discord, with dozens of utility commands. <br/>
 **Link(s):**  <br/>
 [Invite R.Danny](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)  <br/>
 [R.Danny Source](https://github.com/Rapptz/RoboDanny)  <br/>
@@ -195,11 +194,11 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
 [Datamining Website](https://datamining.otter.university/)  <br/>
-**Credit:** @172557961133162496 @562415519454461962
+**Credit(s):** @172557961133162496 @562415519454461962
 
 ### Jagrosh's Music Bot (self-host)
 
-> **Description:** A music bot with step to step guide on self hosting.  <br/>
+> **Description:** A music bot with step to step guide on self-hosting.  <br/>
 **Link:** [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot/wiki/Setup)  <br/>
 **Credit:** @113156185389092864
 
@@ -262,7 +261,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 ### Wumplus
 
-> **Description:** Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
+> **Description:** Utility bot for stuff users can't do, like opening activities, locking emotes, and finding games.  <br/>
 **Link:** [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
 **Credit:** @305647182198079489 @852608147554172928
 
@@ -304,10 +303,10 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 **Link(s):**  <br/>
 [Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
-**Credit:** @537875750955778058 @305647182198079489
+**Credit(s):** @537875750955778058 @305647182198079489
 
 ### Now Live
-> __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently it supports Twitch, YouTube, Trovo! <br/>
+> __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently, it supports Twitch, YouTube, Trovo! <br/>
 __Link:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
 [Now Live Website](https://nowlivebot.com/)  <br/>
 **Credit:** @148336120936005632
