@@ -145,7 +145,7 @@ description: Discord bot recommendations
 **Link(s):**   <br/>
 [OpenDiscordBots](https://opendiscordbots.com/)  <br/>
 [GitHub Org](https://github.com/OpenDiscordBots)  <br/>
-**Credit:** @297045071457681409 @192060404501839872
+**Credit(s):** @297045071457681409 @192060404501839872
 
 ### RTS Bot
 
@@ -212,14 +212,14 @@ description: Discord bot recommendations
 
 > **Description:** Assists with helping host and manage AMA's on Discord.   <br/>
 **Link:** [AMA Bot](https://automoderator.app/ama/)   <br/>
-**Credit:** @223703707118731264 @104425482757357568
+**Credit(s):** @223703707118731264 @104425482757357568
 
 ### Suggester
 
 > **Description:** Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
 **Link(s):** [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
 [Suggester Docs](https://suggester.js.org/)  <br/>
-**Credit:** @327887845270487041 @255834596766253057
+**Credit(s):** @327887845270487041 @255834596766253057
 
 ### NSFW-Toggle
 
@@ -263,7 +263,7 @@ description: Discord bot recommendations
 
 > **Description:** Utility bot for stuff users can't do, like opening activities, locking emotes, and finding games.  <br/>
 **Link:** [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
-**Credit:** @305647182198079489 @852608147554172928
+**Credit(s):** @305647182198079489 @852608147554172928
 
 ### Antouto
 
@@ -277,7 +277,7 @@ description: Discord bot recommendations
 **Link(s):**  <br/>
 [Craig Website](https://craig.chat/)  <br/>
 [Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&permissions=68159488&scope=bot%20applications.commands)  <br/>
-**Credit:** @158049329150427136 @135923847147945985
+**Credit(s):** @158049329150427136 @135923847147945985
 
 ### Tunes Ninja
 
