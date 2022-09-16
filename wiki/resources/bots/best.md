@@ -100,7 +100,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 > **Description:** A bot that can detect a variety of scam (Nitro scams, Steam scams, and many others), explicit links, and more with a custom internal API that uses AI to constantly improve detection.   <br/>
 **Link:** [Safelink](https://safelink.gg/)   <br/>
-**Credit:** @282565295351136256 @684155404078415890
+**Credit(s):** @282565295351136256 @684155404078415890
 
 ### Fish
 
@@ -114,7 +114,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 > **Description:** A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content and profanity. Offers some statistics on your servers health based on the logs.  <br/>
 **Link:** [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
-**Credit:** @111891236792598528 @352832514819227655
+**Credit(s):** @111891236792598528 @352832514819227655
 
 ## ModMail
 
@@ -146,7 +146,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 **Link(s):**   <br/>
 [OpenDiscordBots](https://opendiscordbots.com/)  <br/>
 [GitHub Org](https://github.com/OpenDiscordBots)  <br/>
-**Credit:** @297045071457681409 @192060404501839872
+**Credit(s):** @297045071457681409 @192060404501839872
 
 ### RTS Bot
 
@@ -195,7 +195,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 [GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
 [Datamining Website](https://datamining.otter.university/)  <br/>
-**Credit:** @172557961133162496 @562415519454461962
+**Credit(s):** @172557961133162496 @562415519454461962
 
 ### Jagrosh's Music Bot (self-host)
 
@@ -213,14 +213,14 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 > **Description:** Assists with helping host and manage AMA's on Discord.   <br/>
 **Link:** [AMA Bot](https://automoderator.app/ama/)   <br/>
-**Credit:** @223703707118731264 @104425482757357568
+**Credit(s):** @223703707118731264 @104425482757357568
 
 ### Suggester
 
 > **Description:** Suggester is a suggestion-focused Discord bot whose main purpose is to allow server managers to receive feedback from their members.  <br/>
 **Link(s):** [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
 [Suggester Docs](https://suggester.js.org/)  <br/>
-**Credit:** @327887845270487041 @255834596766253057
+**Credit(s):** @327887845270487041 @255834596766253057
 
 ### NSFW-Toggle
 
@@ -264,7 +264,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 
 > **Description:** Utility bot for stuff users can't do, like opening activites, locking emotes and finding games.  <br/>
 **Link:** [Invite Wumplus](https://discord.com/oauth2/authorize?client_id=871380815353880577&permissions=1073761297&redirect_uri=https://discord.gg/sH4BN7rnaq&scope=bot%20applications.commands)  <br/>
-**Credit:** @305647182198079489 @852608147554172928
+**Credit(s):** @305647182198079489 @852608147554172928
 
 ### Antouto
 
@@ -278,7 +278,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 **Link(s):**  <br/>
 [Craig Website](https://craig.chat/)  <br/>
 [Invite Craig](https://discord.com/oauth2/authorize?client_id=272937604339466240&permissions=68159488&scope=bot%20applications.commands)  <br/>
-**Credit:** @158049329150427136 @135923847147945985
+**Credit(s):** @158049329150427136 @135923847147945985
 
 ### Tunes Ninja
 
@@ -304,7 +304,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
 **Link(s):**  <br/>
 [Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
-**Credit:** @537875750955778058 @305647182198079489
+**Credit(s):** @537875750955778058 @305647182198079489
 
 ### Now Live
 > __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently it supports Twitch, YouTube, Trovo! <br/>
