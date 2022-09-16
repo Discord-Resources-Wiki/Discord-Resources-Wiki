@@ -78,7 +78,7 @@ description: Phishing and Security tools
 
 ## Phisherman
 
-> **Description:**   <br/>
+> **Description:**   <br/> 
 Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
 **Link(s):**   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
@@ -93,5 +93,5 @@ Phisherman is a centralized database of phishing and scam links. It is designed 
 
 ## Intezer Analyse
 
-> **Description:** Advanced security researching tool to help determine if a file is malicious and much more. (Not entirely free) <br/>
+> **Description:** Advanced security researching tools to help determine if a file is malicious and much more. (Not entirely free) <br/>
 **Link:** [Intezer Analyse](https://analyze.intezer.com/)

@@ -39,7 +39,7 @@ description: Official links from Discord.
 
 ## Discord Community Resources
 
-> **Description:** Resources for setting up and maintaining a community server <br/>
+> **Description:** Resources for setting up and maintaining a community server. <br/>
 **Link:** [Community Resources](https://discord.com/community) <br/>
 
 ## Discord Moderator Academy

@@ -14,13 +14,13 @@ description: Design tools
 
 ## Google Fonts Icons
 
-> **Description:** A collection of common icons based around web actions, provided by Google. <br/>
+> **Description:** A collection of common icons based on web actions, provided by Google. <br/>
 **Link:** [Google Fonts Icons](https://fonts.google.com/icons) <br/>
 **Credit:** @github:google
 
 ## Branding Style Guides
 
-> **Description:** A collection of different company's branding, including Discords.   <br/>
+> **Description:** A collection of different companies branding, including Discords.   <br/>
 **Link:** [Branding Style Guides](https://brandingstyleguides.com/)
 
 ## Evernote Design Bookmarks

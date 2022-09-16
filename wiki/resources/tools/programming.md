@@ -8,7 +8,7 @@ description: Programming related tools
 
 ## Autocode
 
-> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
+> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, with no configuration required.   <br/>
 **Link:** [Autocode](https://autocode.com/)  <br/>
 **Credit:** @746460957651501196
 
@@ -63,7 +63,7 @@ description: Programming related tools
 
 ## GitHub Education Pack
 
-> **Description:** Free Developer Tools provided by GitHub Education Pack   <br/>
+> **Description:** Free Developer Tools provided by GitHub Education Pack.   <br/>
 **Link:** [GitHub Education Pack](https://education.github.com/)
 
 ## Public APIs
@@ -94,7 +94,7 @@ description: Programming related tools
 
 ## Qwerty.dev
 
-> **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
+> **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of Unicode tools to help you stand out online.   <br/>
 **Link:** [Qwerty.dev](https://qwerty.dev/)
 
 ## replit
@@ -125,18 +125,18 @@ description: Programming related tools
 
 ## Big List of Naughty Strings
 
-> **Description:** A list of strings to help test for edge cases <br/>
+> **Description:** A list of strings to help test for edge cases. <br/>
 **Link:** [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Credit:** @github:minimaxir
 
 ## Free for developers
 
-> **Description:** List of free offerings for developers <br/>
+> **Description:** List of free offerings for developers. <br/>
 **Link:** [Free for developers](https://free-for.dev/#/) <br/>
 **Credit:** @github:ripienaar
 
 ## Paginated discord.js messages
 
-> **Description:** A package that helps make paginated messages easier in discord.js <br/>
+> **Description:** A package that helps make paginated messages easier in discord.js. <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev

@@ -17,7 +17,7 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 
 ## Partner Program
 
-> **Description:** As role models to all of Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
+> **Description:** As role models to all of the Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
 **Link:** [Discord Partner Program](https://dis.gd/partners)
 
 ## Hypesquad Events
@@ -37,5 +37,5 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 
 ## Discord Admin Community
 
-> **Description:** Official server for server admins of all kind to assemble and exchange about community related subjects. <br/>
+> **Description:** Official server for server admins of all kinds to assemble and exchange about community related subjects. <br/>
 **Link:** [Discord Admin Community](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)

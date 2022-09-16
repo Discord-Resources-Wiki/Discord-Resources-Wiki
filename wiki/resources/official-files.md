@@ -16,7 +16,7 @@ description: Official files from Discord.
 [Audio Presentation](https://cdn.discordapp.com/attachments/960960145800704030/982392876254232667/DAC_AuditingYourServer_ExperimentalContent.mp3)
 
 ### All-Things Accessibility
-> **Description:** A Discord interview (audio and transcript) about accessibility with a Discord employee from the accessbility team.  <br/>
+> **Description:** A Discord interview (audio and transcript) about accessibility with a Discord employee from the accessibility team.  <br/>
 **Link(s):** <br/>
 [Audio](https://dis.gd/RadioDiscord_Accessibility )  <br/>
 [Transcript](https://dis.gd/RadioDiscordAccessibilityTranscript)

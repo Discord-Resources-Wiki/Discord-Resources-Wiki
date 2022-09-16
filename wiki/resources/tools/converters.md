@@ -70,12 +70,12 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 ### Color Replacer
 
-> **Description:** Replace a specfic colour of an image.  <br/>
+> **Description:** Replace a specific colour of an image.  <br/>
 **Link:** [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
 
 ### SVG Converters
 
-> **Description:** High quality SVG converter.  <br/>
+> **Description:** High-quality SVG converter.  <br/>
 **Link:** [SVG Converters](https://picsvg.com/)
 
 ### SVG Viewer
@@ -116,12 +116,12 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 ### Erase.bg
 
-> **Description:** Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
+> **Description:** Remove background from images of humans, animals, or objects, and download high-resolution images for free.   <br/>
 **Link:** [Erase.bg](https://www.erase.bg/)
 
 ### Cleanup.pictures
 
-> **Description:** Remove any object, people, text or defects from your pictures.   <br/>
+> **Description:** Remove any objects, people, text, or defects from your pictures.   <br/>
 **Link:** [Cleanup.pictures](https://cleanup.pictures/)
 
 ### Video Compressor
