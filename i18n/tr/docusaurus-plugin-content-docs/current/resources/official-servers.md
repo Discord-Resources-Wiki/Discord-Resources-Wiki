@@ -7,8 +7,6 @@ description: Official servers owned by discord.
 # Resmi Sunucular
 
 ## Discord Developers
-=======
-## Discord Developers
 > __Tanım:__ Topluluk geliştiricileri ve Discord çalışanları ile Discord'un API ve SDK'larını tartışmak için resmi yer!   <br/>
 __Bağlantı:__ [Discord Developers](https://discord.gg/discord-developers)
 
