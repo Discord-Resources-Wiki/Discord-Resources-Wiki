@@ -1,5 +1,5 @@
 ---
-title: Official Rəsmi Discord linkləri
+title: Rəsmi Discord linkləri
 sidebar_position: 4
 description: Official links from discord.
 ---
