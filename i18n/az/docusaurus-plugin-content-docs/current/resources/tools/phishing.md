@@ -1,29 +1,29 @@
 ---
-title: Phishing Related 
+title: Saxtakarlığa qarşı 
 sidebar_position: 4
 description: Phishing and Security tools
 ---
 
-# Phishing Related
+# Saxtakarlığa qarşı
 
-### **Discord Nitro Scams**
-> __Description:__ This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-__Link:__ [Discord Nitro Information](https://dicsord.gq/)
+### **Discord Nitro Dələduzluğu**
+> __Description:__ Bu **təhlükəsiz** sayt (*dələduz saytı deyil*) doğurçu Discord hədiyyələrinin necə görsəndiyini göstərir. Diqqətli ol!   <br/>
+__Link:__ [Discord Nitro Dələduzluğu](https://dicsord.gq/)
 
 ### **Virus Total**
-> __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
+> __Description:__ Virus Totala faylları və linkləri əlavə edərək, virus olub olmadığını görəbilərsən.   <br/>
 __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ### **CleanURLs**
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+> __Description:__ ClearURL linklərdən "tracking" -ləri çıxardır və reklam şirkətlərinin sizi izləməsinə icazə vermir.  <br/>
 __Link(s):__  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
 [CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
 __Credit:__ @github:KevinRoebert
 
 
-### **Gits of Scam Links**
-> __Description:__ GitHub repositories full of scam links.   <br/>
+### **Dələduz Linklərinin Siyahısı**
+> __Description:__ Dələduz linklərinin siyahısı.   <br/>
 __Link(s):__  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
@@ -33,12 +33,12 @@ __Link(s):__
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-### **Database full of malicious links**
-> __Description:__ Self explanatory. 🔢   <br/>
+### **Bütün bilinən dələduz linklərinin siyahısı**
+> __Description:__ Diqqətli ol. 🔢   <br/>
 __Link:__ [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
 
-### **Phishing Recognizing Tools**
-> __Description:__ Many tools to help you recognize phishing and compromised sites.  <br/>
+### **Dələduzluğu başa düşmək üçün saytlar**
+> __Description:__ Bir çox sayt dələduzluğu tapmaq üçün sizə kömək edəbilər.  <br/>
 __Link(s):__ <br/>
 [Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
@@ -54,7 +54,7 @@ __Link(s):__ <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ### Phishing APIs 
-> __Description:__ These are APIs and tools to handle phishing attempts.   <br/>
+> __Description:__ Dələduzluğa qarşı bir çox API var.   <br/>
 __Link(s):__ <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
@@ -71,13 +71,13 @@ __Link(s):__ <br/>
 
 ### **Phisherman** 
 > __Description:__   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
+Phisherman dələduzluq və fırıldaqçılıq mərkəzləşdirilmiş bazasıdır. Discord botları ilə birlikdə istifadə edilmək üçün nəzərdə tutulmuşdur.   <br/>
 __Link(s):__   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
 [PhishermanDocs](https://docs.phisherman.gg/)
 
 ### **The Vaccinator**
-> __Description:__ A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-__Note:__ This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
+> __Description:__ Discord token oğurlayan programların web hookunu tapmaq və silmək üçün program. <br/>
+__Note:__ Bu bir antivirus saytı deyil. <br/>
 __Link:__ [Website](https://sketchy.tel/)  <br/>
 __Credit:__ The Vaccinator Team (contact: @204414611578028034)
