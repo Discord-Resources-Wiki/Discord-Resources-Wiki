@@ -6,7 +6,7 @@ slug: /
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
-# About
+# Haqqında
 
 ## Discord Resources Viki -yə xoşgəldiniz
 
