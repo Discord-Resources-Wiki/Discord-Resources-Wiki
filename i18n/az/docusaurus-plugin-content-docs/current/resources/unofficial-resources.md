@@ -1,10 +1,10 @@
 ---
-title: Unofficial Resources
+title: Rəsmi Olmayan Resurslar
 sidebar_position: 9
 description: Unofficial resources for discord.
 ---
 
-# Unofficial Resources
+# Rəsmi Olmayan Resurslar
 
 ## **Discord Siyahıları**
 > __Description:__ Bir çox çeşid Discord siyahıları.   <br/>
