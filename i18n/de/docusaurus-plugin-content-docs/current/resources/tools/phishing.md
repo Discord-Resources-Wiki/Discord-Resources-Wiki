@@ -16,15 +16,6 @@ description: Phishing- und Sicherheitstools
 > **Beschreibung:** Virus Total analysiert verdächtige Dateien und URLs, um Arten von Malware zu erkennen.   <br/>
 **Link:** [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-## CleanURLs
-
-> **Beschreibung:** ClearURLs ist ein Add-on, das auf der neuen Webextensions-Technologie basiert und automatisch Tracking-Elemente aus URLs entfernt, um Ihre Privatsphäre zu schützen.  <br/>
-**Link(s):**  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Dokumentation](https://docs.clearurls.xyz/latest/)  <br/>
-**Credit:** @github:KevinRoebert
-
-
 ## Gits mit Scam Links
 
 > **Beschreibung:** GitHub-Repositories voller betrügerischer Links.   <br/>
