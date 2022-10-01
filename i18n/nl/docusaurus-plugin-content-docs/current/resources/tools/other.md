@@ -24,6 +24,13 @@ description: Andere handige tools
 > **Beschrijving:** URL testing lijsten bedoeld voor het helpen om URL censorship te testen, verdeeld op landcode.   <br/>
 **Link:** [CitizenLab](https://github.com/citizenlab/test-lists) 
 
+### CleanURLs
+> **Beschrijving:** ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologieën en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
+**Link(s):**  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+**Credit:** @github:KevinRoebert
+
 ### Polywork
 > **Beschrijving:** Polywork is een professioneel sociaal netwerk dat gebruikers toestaat een gratis persoonlijke webpagina te maken, te delen waar ze mee bezig zijn (persoonlijk en profesioneel) en samenwerkingsverzoeken te versturen naar andere gebruikers.  <br/>
 **Link:** [Polywork](https://www.polywork.com/)
