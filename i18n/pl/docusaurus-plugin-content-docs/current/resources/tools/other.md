@@ -6,6 +6,12 @@ description: Inne przydatne narzędzia
 
 # Inne
 
+### CleanURLs
+> __Opis:__ ClearURLs to dodatek oparty na nowej technologii WebExtensions, który automatycznie usuwa elementy śledzące z adresów URL, aby chronić Twoją prywatność.  <br/>
+__Linki:__  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+__Podziękowanie:__ @github:KevinRoebert
 
 ### Puste znaki
 > __Opis:__ Lista pustych znaków Unicode. <br/>
