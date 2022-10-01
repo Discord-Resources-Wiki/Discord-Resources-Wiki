@@ -14,14 +14,6 @@ description: Phishing en veiligheid tools
 > **Beschrijving:** VirusTotal analyseert verdachte bestanden en URL's tegen verschillende type malware.   <br/>
 **Link:** [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
-> **Beschrijving:** ClearURLs is een addon gebaseerd op nieuwe WebExtensies technologieën en verwijderd automatisch tracking elementen uit URL's om je privacy te waarborgen.  <br/>
-**Link(s):**  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-**Credit:** @github:KevinRoebert
-
-
 ### Gits met Scam Links
 > **Beschrijving:** GitHub repositories vol met scam links.   <br/>
 **Link(s):**  
