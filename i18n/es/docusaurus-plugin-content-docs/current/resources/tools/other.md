@@ -6,6 +6,13 @@ description: Otras herramientas útiles.
 
 # Otros
 
+## CleanURLs
+
+> **Descripción:** ClearURLs es un complemento basado en la nueva tecnología de WebExtensions y eliminará automáticamente los elementos de seguimiento de las URL para ayudar a proteger su privacidad.  <br/>
+**Enlaces:**  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[Documentaciòn](https://docs.clearurls.xyz/latest/)  <br/>
+**Créditos:** @github: KevinRoebert
 
 ### Caracteres en blanco
 > __Descripción:__ Una lista de caracteres unicode en blanco. <br/>

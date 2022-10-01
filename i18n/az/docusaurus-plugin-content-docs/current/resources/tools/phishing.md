@@ -14,14 +14,6 @@ __Link:__ [Discord Nitro Information](https://dicsord.gq/)
 > __Description:__ Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
 __Link:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
-__Link(s):__  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Credit:__ @github:KevinRoebert
-
-
 ### Gits of Scam Links
 > __Description:__ GitHub repositories full of scam links.   <br/>
 __Link(s):__  

@@ -6,6 +6,12 @@ description: D'autres outils utiles.
 
 # Autre
 
+### CleanURLs
+> __Déscription:__ CleanURLs est un add-on basé sur la nouvelle technologie WebExtensions qui permet de supprimer les éléments de traceurs des URLs pour mieux protéger votre vie privée.  <br/>
+__Liens:__  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+__Crédit:__ @github:KevinRoebert
 
 ### Caractères Invisibles
 > __Déscription:__ Une liste de caractères unicode invisibles. <br/>

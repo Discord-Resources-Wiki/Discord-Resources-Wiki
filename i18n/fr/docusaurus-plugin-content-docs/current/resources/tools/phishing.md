@@ -14,14 +14,6 @@ __Lien:__ [Discord Nitro Information](https://dicsord.gq/)
 > __Déscription:__ Virus Total analyse des fichiers et URLs suspecieux pour detecter des virus en tout genre.   <br/>
 __Lien:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
-> __Déscription:__ CleanURLs est un add-on basé sur la nouvelle technologie WebExtensions qui permet de supprimer les éléments de traceurs des URLs pour mieux protéger votre vie privée.  <br/>
-__Liens:__  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Crédit:__ @github:KevinRoebert
-
-
 ### Dépots de liens d'arnaque
 > __Déscription:__ Dépots GitHub remplis de liens d'arnaques.   <br/>
 __Liens:__  
