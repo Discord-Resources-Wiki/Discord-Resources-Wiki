@@ -27,6 +27,15 @@ description: Other useful tools
 > **Description:** URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
 **Link:** [CitizenLab](https://github.com/citizenlab/test-lists)
 
+## CleanURLs
+
+> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+**Link(s):**  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+**Credit:** @github:KevinRoebert
+
+
 ## Polywork
 
 > **Description:** Polywork is a professional social network that lets users create a free personal webpage, share what they're up to both personally and professionally, and send collaboration requests to others.  <br/>
