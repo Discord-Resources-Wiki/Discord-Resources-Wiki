@@ -6,6 +6,12 @@ description: Other useful tools
 
 # Other
 
+### CleanURLs
+> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+__Link(s):__  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+__Credit:__ @github:KevinRoebert
 
 ### Blank Characters
 > __Description:__ A list of blank Unicode characters. <br/>

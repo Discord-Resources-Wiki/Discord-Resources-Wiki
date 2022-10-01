@@ -16,14 +16,6 @@ description: Phishing and Security tools
 > **Description:** VirusTotal analyses suspicious files and URLs to detect types of malware.   <br/>
 **Link:** [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
-## CleanURLs
-
-> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
-**Link(s):**  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-**Credit:** @github:KevinRoebert
-
 ## Gits of Scam Links
 
 > **Description:** GitHub repositories full of scam links.   <br/>
@@ -78,7 +70,7 @@ description: Phishing and Security tools
 
 ## Phisherman
 
-> **Description:**   <br/>
+> **Description:**   <br/> 
 Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
 **Link(s):**   <br/>
 [Phisherman Website](https://phisherman.gg/)   <br/>
@@ -93,5 +85,5 @@ Phisherman is a centralized database of phishing and scam links. It is designed 
 
 ## Intezer Analyse
 
-> **Description:** Advanced security researching tool to help determine if a file is malicious and much more. (Not entirely free) <br/>
+> **Description:** Advanced security researching tools to help determine if a file is malicious and much more. (Not entirely free) <br/>
 **Link:** [Intezer Analyse](https://analyze.intezer.com/)

@@ -6,6 +6,12 @@ description: Other useful tools
 
 # Diğer
 
+### CleanURLs
+> __Tanım:__ ClearURLs, yeni WebExtensions teknolojisine dayalı bir eklentidir ve gizliliğinizin korunmasına yardımcı olmak için izleme öğelerini URL'lerden otomatik olarak kaldırır.  <br/>
+__Bağlantı(lar):__  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+__Credit:__ @github:KevinRoebert
 
 ### Blank Characters
 > __Tanım:__ Boş Unicode karakterlerinin listesi. <br/>

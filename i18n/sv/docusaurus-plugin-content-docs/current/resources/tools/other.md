@@ -6,6 +6,12 @@ description: Andra användbara verktyg
 
 # Annat
 
+### CleanURLs
+> __Beskrivning:__ ClearURLs är ett tillägg som bygger på den nya WebExtensions-tekniken och tar automatiskt bort spårningselement från webbadresser för att skydda din integritet.  <br/>
+__Länk(s):__  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+__Kredit:__ @github:KevinRoebert
 
 ### Blanka karaktärer
 > __Beskrivning:__ En lista på blanka Unicode karaktärer. <br/>

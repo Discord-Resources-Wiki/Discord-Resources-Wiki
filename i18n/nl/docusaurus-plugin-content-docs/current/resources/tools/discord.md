@@ -93,12 +93,6 @@ description: Discord gerelateerde gereedschappen
 **Link:** [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
 **Credit:** @github:geisterfurz007
 
-## Discord Bug Report Command Generator
-
-> **Beschrijving:** Een snel en gemakkelijk hulpmiddel voor alles wat met bugrapportage te maken heeft. Bevat rapportgeneratie, kan/kan niet reproduceren, bugrapporten bewerken, vastmaken en losmaken, en bugrapporten goedkeuren, ontkennen en intrekken.   <br/>
-**Link:** [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>
-**Credit:**  @209769851651227648
-
 ## Discord Flags
 
 > **Beschrijving:** Een docuement vol met alle Discord flags en betekenissen.   <br/>

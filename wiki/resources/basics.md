@@ -50,7 +50,7 @@ It ensures everyone has a positive experience and that users act in a well-behav
 
 ## Discord Safety Center
 
-> **Description:** Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
+> **Description:** A page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
 **Link:** [Discord Safety Center](https://discord.com/safety)
 
 ## Client Downloads

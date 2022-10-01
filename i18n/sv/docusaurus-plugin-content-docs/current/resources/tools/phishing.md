@@ -14,14 +14,6 @@ __Länk:__ [Discord Nitro Information](https://dicsord.gq/)
 > __Beskrivning:__ Virus Total analyserar misstänkta filer och webbadresser för att upptäcka typer av skadlig kod.   <br/>
 __Länk:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
-> __Beskrivning:__ ClearURLs är ett tillägg som bygger på den nya WebExtensions-tekniken och tar automatiskt bort spårningselement från webbadresser för att skydda din integritet.  <br/>
-__Länk(s):__  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Kredit:__ @github:KevinRoebert
-
-
 ### Gits of Scam Links
 > __Beskrivning:__ GitHub-arkiv fulla av blufflänkar.   <br/>
 __Länk(s):__  

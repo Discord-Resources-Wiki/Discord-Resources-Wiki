@@ -27,9 +27,18 @@ description: Other useful tools
 > **Description:** URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
 **Link:** [CitizenLab](https://github.com/citizenlab/test-lists)
 
+## CleanURLs
+
+> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+**Link(s):**  <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
+[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+**Credit:** @github:KevinRoebert
+
+
 ## Polywork
 
-> **Description:** Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
+> **Description:** Polywork is a professional social network that lets users create a free personal webpage, share what they're up to both personally and professionally, and send collaboration requests to others.  <br/>
 **Link:** [Polywork](https://www.polywork.com/)
 
 ## Rize
@@ -64,7 +73,7 @@ description: Other useful tools
 
 ## Dehashed
 
-> **Description:** Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
+> **Description:** Tool to find data breaches that contain the username, email, IP, address, phone, vin, etc.  <br/>
 **Link:** [Dehashed](https://dehashed.com)
 
 ## Terms Of Service ; Didn't Read
@@ -100,7 +109,7 @@ description: Other useful tools
 
 ## Invited
 
-> **Description:** Watch movies, YouTube or even listen to music together through a shared virtual browser.   <br/>
+> **Description:** Watch movies, YouTube, or even listen to music together through a shared virtual browser.   <br/>
 **Link:** [Invited](https://invited.tv/)
 
 ## Obsidian
@@ -161,7 +170,7 @@ description: Other useful tools
 
 ## ShareX
 
-> **Description:** Screen capture, file sharing and productivity tool. <br/>
+> **Description:** Screen capture, file sharing, and productivity tool. <br/>
 **Link:** [ShareX](https://getsharex.com/)   <br/>
 **Credit:** @95576568025329664
 
@@ -202,7 +211,7 @@ description: Other useful tools
 > **Description:** Explore web pages saved over time.  <br/>
 **Links:**   
 [Web Archives](https://web.archive.org/)  <br/>
-[Arvhive.is](https://archive.is/)
+[Archive.is](https://archive.is/)
 
 ## AlternativeTo
 
@@ -211,7 +220,7 @@ description: Other useful tools
 
 ## Internet Download Manager
 
-> **Description:** Tool that makes downloading videos and files through the browser easy.  <br/>
+> **Description:** A Tool that makes downloading videos and files through the browser easy.  <br/>
 **Link:** [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 
 ## Whois Lookup
@@ -257,7 +266,7 @@ description: Other useful tools
 
 ## Lightmode is Necessary
 
-> **Description:** An article explaining why lightmode is an important to software. <br/>
+> **Description:** An article explaining why light mode is an important to software. <br/>
 **Link:** [Article](https://lightmode.glitch.me) <br/>
 
 ## ProtonMail
@@ -278,7 +287,7 @@ description: Other useful tools
 
 ## Skill Icons
 
-> **Description:** Showcase languages, frameworks and tools used on a GitHub profile. <br/>
+> **Description:** Showcase languages, frameworks, and tools used on a GitHub profile. <br/>
 **Link:** [Skill Icons](https://skillicons.dev/) <br/>
 **Credit:** @276544649148235776
 
@@ -289,6 +298,6 @@ description: Other useful tools
 
 ## Tixte
 
-> **Description:** Tixte is a content sharing platform that makes it easy to share files with anyone through personalized links and pages.  <br/>
+> **Description:** Tixte is a content-sharing platform that makes it easy to share files with anyone through personalized links and pages.  <br/>
 **Link:** [Tixte](https://tixte.com/)<br/>
 **Credit:** @684155404078415890

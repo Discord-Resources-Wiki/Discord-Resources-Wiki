@@ -14,14 +14,6 @@ __Bağlantı:__ [Discord Nitro Information](https://dicsord.gq/)
 > __Tanım:__ Virustotal, kötü amaçlı yazılım türlerini tespit etmek için şüpheli dosyaları ve URL'leri analiz eder.   <br/>
 __Bağlantı:__ [Virus Total](https://www.virustotal.com/gui/home/upload)
 
-### CleanURLs
-> __Tanım:__ ClearURLs, yeni WebExtensions teknolojisine dayalı bir eklentidir ve gizliliğinizin korunmasına yardımcı olmak için izleme öğelerini URL'lerden otomatik olarak kaldırır.  <br/>
-__Bağlantı(lar):__  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Credit:__ @github:KevinRoebert
-
-
 ### Gits of Scam Links
 > __Tanım:__ Dolandırıcılık bağlantılarıyla dolu GitHub Dökümanları.   <br/>
 __Bağlantı(lar):__  
