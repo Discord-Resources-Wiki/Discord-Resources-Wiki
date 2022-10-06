@@ -25,3 +25,8 @@ description: Official forms from Discord.
 
 > **Description:** Submit a request to Discord’s Trust & Safety team.   <br/>
 **Link:** [Discord TnS](https://dis.gd/request)
+
+## Discord Bug Report
+
+> **Description:** Report a bug to Discord.   <br/>
+**Link:** [Discord Bug Report](https://dis.gd/bugreport)
