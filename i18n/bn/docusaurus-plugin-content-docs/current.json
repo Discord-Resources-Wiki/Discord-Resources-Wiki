@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "পরবর্তী",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Resources": {
+    "message": "সম্পদ",
+    "description": "The label for category Resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bots": {
+    "message": "বট",
+    "description": "The label for category Bots in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tools": {
+    "message": "টুলস",
+    "description": "The label for category Tools in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "ডিসকর্ড রিসোর্স",
+    "description": "The title in the navbar"
+  },
+  "item.label.Wiki": {
+    "message": "উইকি",
+    "description": "Navbar item with label Wiki"
+  },
+  "item.label.Blog": {
+    "message": "ব্লগ",
+    "description": "Navbar item with label Blog"
+  }
+}
