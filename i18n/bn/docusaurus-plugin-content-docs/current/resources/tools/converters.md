@@ -1,106 +1,130 @@
 ---
-title: Converters
+title: রূপান্তরকারী
 sidebar_position: 6
-description: Converter tools
+description: কনভার্টার টুল
 ---
 
-# Converters
-## Timestamp Converters 
-### HammerTime
-> __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
-__Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-__Credit:__ @140360880079503362
+# রূপান্তরকারী
 
-### Snow-Stamp (Snowflake to Timestamp Converter) 
-> __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
-__Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
-__Credit:__ @86913608335773696
+## টাইমস্ট্যাম্প রূপান্তরকারী
 
-### DateTimeCord 
-> __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
-__Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
-__Credit:__ @172557961133162496
+### হাতুড়ি সময়
 
-### Alfred time converters plugins
-> __Description:__ Alfred plugins to convert time to timestamps and vice versa.   <br/>
-__Link(s):__   <br/>
-[Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
-[Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
-__Credit:__ @213023662066892800
+> **বিবরণ:** একটি তারিখ চয়ন করুন, চ্যাট সিনট্যাক্স কলাম থেকে পছন্দসই টাইমস্ট্যাম্পটি অনুলিপি করুন, তারপর এটি একটি চ্যাট বার্তার যে কোনও জায়গায় আটকান৷ <br/>
+ফলাফলটি একটি গতিশীল টাইমস্ট্যাম্প হবে যা তাদের নিজস্ব টাইমজোনের উপর ভিত্তি করে প্রত্যেকের জন্য আলাদাভাবে প্রদর্শন করে। <br/>
+**লিঙ্ক:** [হ্যামারটাইম](https://hammertime.djdavid98.art/) <br/>
+**ক্রেডিট:** @140360880079503362
 
-### Epoch Converter (Epoch & Unix timestamp conversion tools)
-> __Description:__ Converts a given time into a Unix timestamp.   <br/>
-__Link:__ [Epoch Converter](https://www.epochconverter.com/) 
+### স্নো-স্ট্যাম্প (স্নোফ্লেক থেকে টাইমস্ট্যাম্প কনভার্টার)
 
-### Unix Timestamps Decoder
-> __Description:__ Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
-__Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
+> **বিবরণ:** ব্যবহারকারীর স্নোফ্লেককে অ্যাকাউন্টটি তৈরি করা টাইমস্ট্যাম্পে রূপান্তর করে। <br/>
+**লিঙ্ক:** [স্নো-স্ট্যাম্প](https://snowsta.mp/) <br/>
+**ক্রেডিট:** @86913608335773696
 
-## File Converters 
+### ডেটটাইমকর্ড
+
+> **বিবরণ:** ডিসকর্ডের জন্য তারিখ এবং সময় বিন্যাস মার্কডাউন তৈরি করার জন্য একটি দরকারী ওয়েবসাইট। ডিসকর্ড যে সমস্ত ফর্ম্যাটিং বিকল্পগুলিকে সমর্থন করে, সেইসাথে এটি ডিসকর্ডে কেমন দেখাবে তার একটি পূর্বরূপ দেখায়। <br/>
+**লিঙ্ক:** [DateTimeCord](https://datetimecord.rauf.wtf/) <br/>
+**ক্রেডিট:** @172557961133162496
+
+### আলফ্রেড টাইম কনভার্টার প্লাগইন
+
+> **বিবরণ:** সময়কে টাইমস্ট্যাম্পে রূপান্তর করতে আলফ্রেড প্লাগইন এবং এর বিপরীতে। <br/>
+**লিঙ্ক(গুলি):** <br/>
+[আলফ্রেড-হোনকর্ড](https://github.com/HilbertGilbertson/alfred-whencord) <br/>
+[আলফ্রেড-স্নোকর্ড](https://github.com/HilbertGilbertson/alfred-snowcord) <br/>
+**ক্রেডিট:** @213023662066892800
+
+### Epoch Converter (Epoch & Unix টাইমস্ট্যাম্প রূপান্তর সরঞ্জাম)
+
+> **বিবরণ:** একটি নির্দিষ্ট সময়কে ইউনিক্স টাইমস্ট্যাম্পে রূপান্তর করে। <br/>
+**লিঙ্ক:** [ইপোচ কনভার্টার](https://www.epochconverter.com/)
+
+### ইউনিক্স টাইমস্ট্যাম্প ডিকোডার
+
+> **বিবরণ:** একটি ইউনিক্স টাইমস্ট্যাম্পকে একটি স্ট্যান্ডার্ড MM/DD/YYYY ফর্ম্যাটে ডিকোড করে। <br/>
+**লিঙ্ক:** [ইউনিক্স টাইমস্ট্যাম্প ডিকোডার](https://www.unixtimestamp.com/)
+
+## ফাইল কনভার্টার
 
 ### EzGif
-> __Description:__ EzGif is An online tool full with media-related utilities.  <br/>
-__Link:__ [EzGif](https://ezgif.com)
 
-### Text Formatting Tools
-> __Description:__ A website for converting various text formats.   <br/>
-__Link:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
+> **বিবরণ:** EzGif হল মিডিয়া-সম্পর্কিত ইউটিলিটি সহ একটি অনলাইন টুল। <br/>
+**লিঙ্ক:** [EzGif](https://ezgif.com)
 
-### Discord Txt
-> __Description:__ Used to view .txt files that have been uploaded to Discord.   <br/>
-__Link:__ [Discord Txt](https://txt.discord.website/)
+### টেক্সট ফরম্যাটিং টুল
 
-### File Converter
-> __Description:__ Convert file types to others.   <br/>
-__Link:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-__Credit:__ @Tichau
+> **বিবরণ:** বিভিন্ন টেক্সট ফরম্যাট রূপান্তর করার জন্য একটি ওয়েবসাইট। <br/>
+**লিঙ্ক:** [টেক্সট ফরম্যাটিং টুলস](http://www.unit-conversion.info/texttools/)
 
-### Color Replacer
-> __Description:__ Replace a specfic colour of an image.  <br/>
-__Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
+### ডিসকর্ড টেক্সট
 
-### SVG Converters
-> __Description:__ High quality SVG converter.  <br/>
-__Link:__ [SVG Converters](https://picsvg.com/)
+> **বিবরণ:** ডিসকর্ডে আপলোড করা .txt ফাইল দেখতে ব্যবহৃত হয়। <br/>
+**লিঙ্ক:** [ডিসকর্ড টেক্সট](https://txt.discord.website/)
 
-### SVG Viewer
-> __Description:__ View SVG files.   <br/>
-__Link:__ [SVG Viewer](https://www.svgviewer.dev/)
+### ফাইল কনভার্টার
 
-### Youtube Downloader
-> __Description:__ Download a Youtube video as a file using its URL (either audio only or video). <br/>
-__Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
-__Credit:__ @141065743197405184
+> **বিবরণ:** ফাইলের ধরনকে অন্যদের কাছে রূপান্তর করুন। <br/>
+**লিঙ্ক:** [ফাইল কনভার্টার](https://github.com/Tichau/FileConverter) <br/>
+**ক্রেডিট:** @টিচাউ
 
-### Lottie Image Resizer
-> __Description:__ Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-__Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
+### কালার রিপ্লেসার
 
-### .gif to .apng
-> __Description:__ Converts .gif files to .apng files.   <br/>
-__Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
+> **বিবরণ:** একটি চিত্রের একটি নির্দিষ্ট রঙ প্রতিস্থাপন করুন। <br/>
+**লিঙ্ক:** [কালার রিপ্লেসার](https://www2.lunapic.com/editor/?action=replace-color)
 
-### HTML Color Codes
-> __Description:__ A site that converts a color into hex code and vice versa.   <br/>
-__Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
+### SVG রূপান্তরকারী
 
-### Image Color Picker
-> __Description:__ Upload an image and get a specific hex code for a color in the picture.   <br/>
-__Link:__ [Image Color Picker](https://imagecolorpicker.com/)
+> **বর্ণনা:** উচ্চ-মানের SVG রূপান্তরকারী। <br/>
+**লিঙ্ক:** [এসভিজি রূপান্তরকারী](https://picsvg.com/)
+
+### SVG ভিউয়ার
+
+> **বিবরণ:** SVG ফাইল দেখুন। <br/>
+**লিঙ্ক:** [এসভিজি ভিউয়ার](https://www.svgviewer.dev/)
+
+### ইউটিউব ডাউনলোডার
+
+> **বিবরণ:** একটি ইউটিউব ভিডিও এর URL ব্যবহার করে একটি ফাইল হিসাবে ডাউনলোড করুন (হয় শুধুমাত্র অডিও বা ভিডিও)। <br/>
+**লিঙ্ক:** [ইউটিউব ডাউনলোডার](http://youtube.tpcstld.me/) <br/>
+**ক্রেডিট:** @141065743197405184
+
+### লটি ইমেজ রিসাইজার
+
+> **বিবরণ:** Lottie ছবির আকার পরিবর্তন করুন যাতে আপনি আপনার Lottie ফাইল ≤320px পেতে পারেন। <br/>
+**লিঙ্ক:** [লটি ইমেজ রিসাইজার](https://lottieresizer.tech/)
+
+### .gif থেকে .apng
+
+> **বিবরণ:** .gif ফাইলকে .apng ফাইলে রূপান্তর করে। <br/>
+**লিঙ্ক:** [.gif থেকে .apng](https://www.freeconvert.com/convert/gif-to-apng)
+
+### HTML কালার কোড
+
+> **বিবরণ:** একটি সাইট যা একটি রঙকে হেক্স কোডে রূপান্তর করে এবং এর বিপরীতে। <br/>
+**লিঙ্ক:** [HTML কালার কোড](https://htmlcolorcodes.com/)
+
+### ইমেজ কালার পিকার
+
+> **বিবরণ:** একটি ছবি আপলোড করুন এবং ছবির একটি রঙের জন্য একটি নির্দিষ্ট হেক্স কোড পান৷ <br/>
+**লিঙ্ক:** [ইমেজ কালার পিকার](https://imagecolorpicker.com/)
 
 ### Removebg
- > __Description:__ Remove any background from an image.   <br/>
- __Link:__ [Removebg](https://www.remove.bg/upload)
 
-### Erase.bg
-> __Description:__ Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
-__Link:__ [Erase.bg](https://www.erase.bg/)
+ > **বিবরণ:** একটি ছবি থেকে যেকোনো ব্যাকগ্রাউন্ড সরান। <br/>
+ **লিঙ্ক:** [Removebg](https://www.remove.bg/upload)
 
-### Cleanup.pictures
-> __Description:__ Remove any object, people, text or defects from your pictures.   <br/>
-__Link:__ [Cleanup.pictures](https://cleanup.pictures/)
+### ইরেজ.বিজি
 
-### Video Compressor
-> __Description:__ A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
-__Link:__ [Video Compressor](https://8mb.video/)
+> **বিবরণ:** মানুষ, প্রাণী বা বস্তুর ছবি থেকে পটভূমি সরান এবং বিনামূল্যে উচ্চ-রেজোলিউশনের ছবি ডাউনলোড করুন। <br/>
+**লিঙ্ক:** [Erase.bg](https://www.erase.bg/)
+
+### ক্লিনআপ.ছবি
+
+> **বিবরণ:** আপনার ছবি থেকে যেকোনো বস্তু, মানুষ, পাঠ্য বা ত্রুটি দূর করুন। <br/>
+**লিঙ্ক:** [ক্লিনআপ.পিকচার](https://cleanup.pictures/)
+
+### ভিডিও কম্প্রেসার
+
+> **বিবরণ:** একটি ভিডিও কম্প্রেসার যা আপনার ভিডিওগুলিকে ডিসকর্ড আপলোডের জন্য নিখুঁত আকারে সংকুচিত করার জন্য ডিজাইন করা হয়েছে৷ এটি তিনটি বিকল্পের সাথে আসে যা 8MB, 50MB এবং 100MB, যা বিভিন্ন আপলোড বিধিনিষেধের সাথে মানানসই। <br/>
+**লিঙ্ক:** [ভিডিও কম্প্রেসার](https://8mb.video/)

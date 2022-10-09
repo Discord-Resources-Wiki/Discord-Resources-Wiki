@@ -1,88 +1,108 @@
 ---
-title: Design
+title: ডিজাইন
 sidebar_position: 5
-description: Design tools
+description: ডিজাইন টুল
 ---
 
-# Design
-### Material Design Icons
-> __Description:__ A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
-__Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
-__Credit:__ @github:Templarian
+# ডিজাইন
 
-### Google Fonts Icons
-> __Description:__ A collection of common icons based around web actions, provided by Google. <br/>
-__Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
-__Credit:__ @github:google
+## মেটেরিয়াল ডিজাইন আইকন
 
-### Branding Style Guides
-> __Description:__ A collection of different company's branding, including Discords.   <br/>
-__Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
+> **বিবরণ:** আইকনগুলির একটি সংগ্রহ যা উপাদান নকশাকে কেন্দ্র করে, কাস্টম বিন্যাস, আকার এবং রঙের জন্য অনুমতি দেয়। <br/>
+**লিঙ্ক:** [মেটেরিয়াল ডিজাইন আইকন](https://materialdesignicons.com/) <br/>
+**ক্রেডিট:** @গিথুব:টেম্পলারিয়ান
 
-### Evernote Design Bookmarks
-> __Description:__ A list of bookmarks for everything design-resources.  <br/>
-__Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
+## গুগল ফন্ট আইকন
 
-### Simpleicons
-> __Description:__ A list of simple icons, including brand icons.   <br/>
-__Link:__ [Simpleicons](https://simpleicons.org/)
+> **বিবরণ:** Google দ্বারা প্রদত্ত ওয়েব অ্যাকশনের উপর ভিত্তি করে সাধারণ আইকনগুলির একটি সংগ্রহ৷ <br/>
+**লিঙ্ক:** [গুগল ফন্ট আইকন](https://fonts.google.com/icons) <br/>
+**ক্রেডিট:** @github:google
 
-### Heroicons
-> __Description:__ Hand-crafted SVG icons.   <br/>
-__Link:__ [Heroicons](https://heroicons.com/)
+## ব্র্যান্ডিং স্টাইল গাইড
 
-### Coolors
-> __Description:__ Color schemes generator.   <br/>
-__Link:__ [Coolors](https://coolors.co/)
+> **বিবরণ:** ডিসকর্ড সহ বিভিন্ন কোম্পানির ব্র্যান্ডিংয়ের একটি সংগ্রহ। <br/>
+**লিঙ্ক:** [ব্র্যান্ডিং স্টাইল গাইড](https://brandingstyleguides.com/)
 
-### The Noun Project
-> __Description:__ Over 3 million community-contributed icons along with icon customization and an API.  <br/>
-__Link:__ [The Noun Project](https://thenounproject.com/)
+## এভারনোট ডিজাইন বুকমার্ক
 
-### Adobe Color
-> __Description:__ A color theme creator with connectivity across Adobe products.  <br/>
-__Link:__ [Adobe Color](https://color.adobe.com/)
+> **বিবরণ:** ডিজাইন-সম্পদ সবকিছুর জন্য বুকমার্কের একটি তালিকা। <br/>
+**লিঙ্ক:** [এভারনোট ডিজাইন](https://www.evernote.design/) <br/>
 
-### Open Color
-> __Description:__ An open-source color scheme and library set optimized for user interfaces.  <br/>
-__Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
-__Credit:__ @github:yeun
+## সরল আইকন
 
-### Teeny Icons
-> __Description:__ A set of minimal 1px icons.  <br/>
-__Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
-__CREDIT:__ @github:teenyicons
+> **বিবরণ:** ব্র্যান্ড আইকন সহ সাধারণ আইকনগুলির একটি তালিকা৷ <br/>
+**লিঙ্ক:** [সিম্পলিকনস](https://simpleicons.org/)
 
-### Streamline
-> __Description:__ Over 100k icons, illustrations, and emojis.  <br/>
-__Link:__ [Streamline](https://streamlinehq.com/)  
+## হিরোইকন
 
-### Feather Icons
-> __Description:__ Simple, open-source icons.  <br/>
-__Link:__ [Feather Icons](https://feathericons.com/)  <br/>
-__Credit:__ @github:feathericons
+> **বিবরণ:** হাতে তৈরি SVG আইকন। <br/>
+**লিঙ্ক:** [হিরোইকনস](https://heroicons.com/)
 
-### Spectrum
-> __Description:__ Minimal, consistent UI icons.  <br/>
-__Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
+## রং
 
-### Font Awesome
-> __Description:__ Vector icons and social logos.  <br/>
-__Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
-__Credit:__ @github:FortAwesome
+> **বিবরণ:** কালার স্কিম জেনারেটর। <br/>
+**লিঙ্ক:** [কলার](https://coolors.co/)
 
-### ICONS8
-> __Description:__ Icons, illustrations, photos, music, and design tools.  <br/>
-__Link:__ [ICONS8](https://icons8.com/)  
+## বিশেষ্য প্রকল্প
 
-### unDraw
-> __Description:__ Free, open-source illustrations.  <br/>
-__Link:__ [Feather Icons](https://undraw.co/)  
+> **বিবরণ:** আইকন কাস্টমাইজেশন এবং একটি API সহ 3 মিলিয়নেরও বেশি সম্প্রদায়ের অবদান আইকন৷ <br/>
+**লিঙ্ক:** [বিশেষ্য প্রকল্প](https://thenounproject.com/)
 
-### tldraw
-> __Description:__ A simple drawing app.  <br/>
-__Link:__ [tldraw](https://www.tldraw.com/)
+## অ্যাডোব কালার
 
-### Freepik
-> __Description:__ Free vectors, stock photos, and PSD.  <br/>
-__Link:__ [Freepik](https://freepik.com/) 
+> **বিবরণ:** Adobe পণ্য জুড়ে সংযোগ সহ একটি রঙের থিম নির্মাতা। <br/>
+**লিংক:** [অ্যাডোবি কালার](https://color.adobe.com/)
+
+## রঙ খুলুন
+
+> **বিবরণ:** একটি ওপেন-সোর্স রঙের স্কিম এবং লাইব্রেরি সেট ব্যবহারকারী ইন্টারফেসের জন্য অপ্টিমাইজ করা হয়েছে। <br/>
+**লিঙ্ক:** [ওপেন কালার](https://yeun.github.io/open-color/) <br/>
+**ক্রেডিট:** @github:yeun
+
+## টিনি আইকন
+
+> **বিবরণ:** সর্বনিম্ন 1px আইকনগুলির একটি সেট৷ <br/>
+**লিঙ্ক:** [টিনি আইকন](https://teenyicons.com/) <br/>
+**ক্রেডিট:** @github:teenyicons
+
+## স্ট্রীমলাইন
+
+> **বিবরণ:** 100 হাজারের বেশি আইকন, ইলাস্ট্রেশন এবং ইমোজি। <br/>
+**লিঙ্ক:** [স্ট্রীমলাইন](https://streamlinehq.com/)
+
+## পালক আইকন
+
+> **বিবরণ:** সহজ, ওপেন সোর্স আইকন। <br/>
+**লিঙ্ক:** [ফেদার আইকন](https://feathericons.com/) <br/>
+**ক্রেডিট:** @github:feathericons
+
+## বর্ণালী
+
+> **বিবরণ:** ন্যূনতম, সামঞ্জস্যপূর্ণ UI আইকন। <br/>
+**লিঙ্ক:** [স্পেকট্রাম](https://spectrum.adobe.com/page/icons/)
+
+## অসাধারন ফন্ট
+
+> **বিবরণ:** ভেক্টর আইকন এবং সামাজিক লোগো। <br/>
+**লিঙ্ক:** [ফন্ট অসাধারণ](https://fontawesome.com/) <br/>
+**ক্রেডিট:** @github:FortAwesome
+
+## ICONS8
+
+> **বিবরণ:** আইকন, চিত্র, ফটো, সঙ্গীত এবং ডিজাইন টুল। <br/>
+**লিঙ্ক:** [ICONS8](https://icons8.com/)
+
+## আঁকুন
+
+> **বিবরণ:** বিনামূল্যে, ওপেন সোর্স ইলাস্ট্রেশন। <br/>
+**লিঙ্ক:** [ফেদার আইকন](https://undraw.co/)
+
+## tldraw
+
+> **বিবরণ:** একটি সাধারণ অঙ্কন অ্যাপ। <br/>
+**লিঙ্ক:** [tldraw](https://www.tldraw.com/)
+
+## ফ্রিপিক
+
+> **বিবরণ:** বিনামূল্যে ভেক্টর, স্টক ফটো, এবং PSD. <br/>
+**লিঙ্ক:** [ফ্রিপিক](https://freepik.com/)

@@ -4,208 +4,283 @@ sidebar_position: 1
 description: Discord related tools
 ---
 
-# Discord Related
+# বিরোধ সম্পর্কিত
 
-### Alternatives to MEE6
-> __Description:__ A list of Discord bots that can be used in place of MEE6.   <br/>
-__Link:__ [Alternatives To MEE6](https://www.alternativestomee6.com/)   <br/>
-__Credit:__ @99787644430475264
+## MEE6 এর বিকল্প
 
-### All Discord Permissions
-> __Description:__ A list of all the permissions available for users.   <br/>
-__Link:__ [All Discord Permissions](https://discordapi.com/permissions)
+> **বিবরণ:** ডিসকর্ড বটগুলির একটি তালিকা যা MEE6 এর জায়গায় ব্যবহার করা যেতে পারে। <br/>
+**লিঙ্ক:** [MEE6 এর বিকল্প](https://www.alternativestomee6.com/) <br/>
+**ক্রেডিট:** @99787644430475264
 
-### Discord Tools
-> __Description:__ A collection of Discord tools for power users to analyse your guilds, get information on snowflakes, or even see the current status of Discord. Get the number of guilds your account is in, see how many servers you own, moderate, and are partnered, and show lists of all servers in the categories above as well as a list of all servers.   <br/>
-__Link:__ [Discord Tools](https://discordtools.io/)   <br/>
-__Credit:__ @276544649148235776
+## সমস্ত ডিসকর্ড অনুমতি
 
-### Discord Toolbox
-> __Description:__ Discord tools such as Discord status updates, experiments info and servers/snowflakes lookup.   <br/>
-__Link:__ [Discord Toolbox](https://distools.app/)   <br/>
-__Credit:__ @386861188891279362
+> **বিবরণ:** ব্যবহারকারীদের জন্য উপলব্ধ সমস্ত অনুমতিগুলির একটি তালিকা৷ <br/>
+**লিঙ্ক:** [সমস্ত ডিসকর্ড অনুমতি](https://discordapi.com/permissions)
 
-### Discord Lookup
-> __Description:__ Easy to use tool to lookup users, guilds, invites and get information about your guild list with stats, server experiment rollouts, features and permissions view.  <br/>
-__Link:__ [Discord Lookup](https://discordlookup.com/)  <br/>
-__Credit:__ @231091710195662848
+## ডিসকর্ড টুল
 
-### Discord Data Package Explorer
-> __Description:__ Explore your Discord data easily.   <br/>
-__Link:__ [Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)   <br/>
-__Credit:__ @github:Androz2091
+> **বিবরণ:** আপনার গিল্ডগুলি বিশ্লেষণ করতে, স্নোফ্লেক্স সম্পর্কে তথ্য পেতে বা এমনকি ডিসকর্ডের বর্তমান অবস্থা দেখতে পাওয়ার ব্যবহারকারীদের জন্য ডিসকর্ড সরঞ্জামগুলির একটি সংগ্রহ৷ আপনার অ্যাকাউন্টে থাকা গিল্ডের সংখ্যা পান, দেখুন আপনি কতগুলি সার্ভারের মালিক, পরিমিত, এবং এর সাথে অংশীদারিত্ব করছেন এবং উপরের বিভাগে সমস্ত সার্ভারের তালিকার পাশাপাশি সমস্ত সার্ভারের তালিকা দেখান৷ <br/>
+**লিঙ্ক:** [ডিসকর্ড টুলস](https://discordtools.io/) <br/>
+**ক্রেডিট:** @276544649148235776
 
-### Discord Simple Avatar Maker
-> __Description:__ A site to make simple Discord avatars.   <br/>
-__Link:__ [Discord Simple Avatar Maker](https://discord-avatar-maker.app/)   <br/>
-__Credit:__ @github:christian-reichart
+## ডিসকর্ড টুলবক্স
 
-### Discord Emoji Downloader
-> __Description:__ This little tool will allow you to download a ZIP archive with all emojis from a Discord server.   <br/>
-__Link:__ [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)   <br/>
-__Credit:__ @152164749868662784
+> **বিবরণ:** ডিসকর্ড টুল যেমন ডিসকর্ড স্ট্যাটাস আপডেট, পরীক্ষার তথ্য এবং সার্ভার/স্নোফ্লেক্স লুকআপ। <br/>
+**লিঙ্ক:** [ডিসকর্ড টুলবক্স](https://distools.app/) <br/>
+**ক্রেডিট:** @386861188891279362
 
-### Discord Friends Graph Maker
-> __Description:__ Make a graph out of your friends and their relations.  <br/>
-__Link:__ [Discord Friends Graph Maker](https://github.com/Maanex/discord-friends-graph)  <br/>
-__Credit:__ @137258778092503042
+## ডিসকর্ড লুকআপ
 
-### Discord Servers Comparations
-> __Description:__ Compare stats between Discord servers.  <br/>
-__Link:__ [Discord Servers Comparations](https://thatiemsz.github.io/Discord-Comparison/)  <br/>
-__Credit:__ @152164749868662784
+> **বিবরণ:** ব্যবহারকারী, গিল্ড, আমন্ত্রণ, এবং পরিসংখ্যান, সার্ভার পরীক্ষা রোলআউট, বৈশিষ্ট্য এবং অনুমতি দৃশ্য সহ আপনার গিল্ড তালিকা সম্পর্কে তথ্য পেতে টুল ব্যবহার করা সহজ। <br/>
+**লিঙ্ক:** [ডিসকর্ড লুকআপ](https://discordlookup.com/) <br/>
+**ক্রেডিট:** @231091710195662848
 
-### Slash Commands GUI
-> __Description:__ Graphical User Interface to explore Slash Commands of your bot, built on Vue 3 and TailwindCSS.  <br/>
-__Link:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
-__Credit:__ @422820341791064085
+## ডিসকর্ড রিক্যাপ
 
-### Discord Server Card Generator
-> __Description:__ Generate a server card you can copy for your email signatures.   <br/>
-__Link:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Credit:__ @github:geisterfurz007
+> **বিবরণ:** আপনার Discord ডেটা প্যাকেজ অন্বেষণ করার একটি টুল - মূলত Androz2091 এর Discord ডেটা প্যাকেজ এক্সপ্লোরার দ্বারা অনুপ্রাণিত, কিন্তু আরও অনেক বিশদ সহ৷ <br/>
+**লিঙ্ক:** [ডিসকর্ড রিক্যাপ](https://discord-recap.com) <br/>
+**ক্রেডিট:** @github:davidbmaier
 
-### Discord Flags
-> __Description:__ A document full with all Discord flags and their meanings.   <br/>
-__Link:__ [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
-__Credit:__ @96269247411400704
+## ডিসকর্ড ডেটা প্যাকেজ এক্সপ্লোরার
 
-### Dragory's Avatar Preview
-> __Description:__ This is an avatar preview tool used to optimise your avatar between both light and dark themes.   <br/>
-__Link:__ [Dragory’s Avatar Preview](https://dragory.net/avatar-preview/)   <br/>
-__Credit:__  @106391128718245888
+> **বিবরণ:** সহজেই আপনার ডিসকর্ড ডেটা এক্সপ্লোর করুন। <br/>
+**লিঙ্ক(গুলি):** <br/>
+[ডিসকর্ড ডেটা প্যাকেজ এক্সপ্লোরার](https://github.com/Androz2091/discord-data-package-explorer) <br/>
+[ডিসকর্ড ডেটা প্যাকেজ এক্সপ্লোরার V2](https://github.com/peterhanania/Discord-Package) <br/>
+**ক্রেডিট:** @422820341791064085 @github:peterhanania
 
-### Dragory's Role Colour Preview
-> __Description:__ This is a role colour preview tool used to optimise your role colours between both light and dark themes.   <br/>
-__Link:__ [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/)   <br/>
-__Credit:__  @106391128718245888
+## ডিসকর্ড সিম্পল অবতার মেকার
 
-### Disgradient
-> __Description:__ An easy to use tool to help create a gradient for your Discord folders, roles and more.   <br/>
-__Link:__ [Disgradient](https://disgradient.vanished.rocks/)   <br/>
-__Credit:__ @267025484028706816
+> **বিবরণ:** সাধারণ ডিসকর্ড অবতার তৈরি করার জন্য একটি সাইট। <br/>
+**লিঙ্ক:** [ডিসকর্ড সিম্পল অ্যাভাটার মেকার](https://discord-avatar-maker.app/) <br/>
+**ক্রেডিট:** @গিথুব:ক্রিস্টিয়ান-রিচার্ট
 
-### DeepResearch
-> __Description:__ Discord status that provides visualisations, analytics, and tools for chat-based communities.   <br/>
-__Link:__ [DeepResearch](https://www.altr.fyi/)
+## ডিসকর্ড ইমোজি ডাউনলোডার
 
-### Experiments Rollouts
-> __Description:__ Shows the current discord experiments and their rollout percentage.   <br/>
-__Link:__ [Experiments Rollouts](https://rollouts.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+> **বিবরণ:** এই ছোট্ট টুলটি আপনাকে ডিসকর্ড সার্ভার থেকে সমস্ত ইমোজি সহ একটি জিপ সংরক্ষণাগার ডাউনলোড করতে দেবে। <br/>
+**লিঙ্ক:** [ডিসকর্ড ইমোজি ডাউনলোডার](https://thatiemsz.github.io/Discord-Emoji-Downloader/) <br/>
+**ক্রেডিট:** @152164749868662784
 
-### Find a Guild
-> __Description:__ Find a guild using it’s ID, through replacing ‘GUILD_ID’ (provided it has widgets on).   <br/>
-__Link:__ [Find a Guild](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
+## ডিসকর্ড এম্বেড প্রিভিউয়ার
 
-### Find Guild Features
-> __Description:__ Check the features of a guild via an instant invite code.   <br/>
-__Link:__ [Find Guild Features](https://discord.com/api/invite/[invitecode])
+> **বিবরণ:** একটি ক্রোম-অনলি এক্সটেনশন যা আপনার ওয়েবসাইটের এম্বেডগুলিকে ওপেন-গ্রাফ ট্যাগ দ্বারা উত্পন্ন প্রিভিউ করার জন্য বা ডিসকর্ডের ক্যাশের সাথে ডিল না করেই। <br/>
+**লিঙ্ক:** [ডিসকর্ড এম্বেড প্রিভিউয়ার](https://github.com/JohnyTheCarrot/discord-embed-previewer) <br/>
+**ক্রেডিট:** @132819036282159104
 
-### Jagrosh's GitHub -> Discord Webhook Guide
-> __Description:__ A guide to integrate your GitHub projects to a Discord channel.    <br/>
-__Link:__ [Jagrosh'S GitHub -> Discord Webhook Guide](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)   <br/>
-__Credit:__ @113156185389092864
+## ডিসকর্ড ফ্রেন্ডস গ্রাফ মেকার
 
+> **বর্ণনা:** আপনার বন্ধুদের এবং তাদের সম্পর্কের একটি গ্রাফ তৈরি করুন। <br/>
+**লিঙ্ক(গুলি):** <br/>
+[ডিসকর্ড ফ্রেন্ডস গ্রাফ মেকার](https://github.com/Maanex/discord-friends-graph) <br/>
+[ডিসকর্ড ফ্রেন্ডস গ্রাফ মেকার **ক্লায়েন্ট সংস্করণ**](https://github.com/arHSM/discord-friends-graph) <br/>
+**ক্রেডিট:** @137258778092503042 @841509053422632990
 
-### Mozzy's Log Sorter 
-> __Description:__ An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
-__Link:__ [Mozzy’s Log Sorter](https://logsorter.net/)   <br/>
-__Credit:__ @99182302885588992
+## ডিসকর্ড সার্ভারের তুলনা
 
-### Webence
-> __Description:__ A tool that allows you to embed your Discord profile in an iframe.   <br/>
-__Link:__ [Webence](https://panleyent.com/webence/)   <br/>
-__Credit:__  @249287049482338305
+> **বিবরণ:** ডিসকর্ড সার্ভারের মধ্যে পরিসংখ্যান তুলনা করুন। <br/>
+**লিঙ্ক:** [ডিসকর্ড সার্ভার তুলনা](https://thatiemsz.github.io/Discord-Comparison/) <br/>
+**ক্রেডিট:** @152164749868662784
 
-### Discordstatus
-> __Description:__ A tool to create a unique status/about me page using colores squares.  <br/>
-__Link:__ [Discordstatus](https://warze.org/discordstatus)  <br/>
-__Credit:__ @345103284463206400
+## স্ল্যাশ কমান্ড GUI
 
-### PreMiD
-> __Description:__ PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord "now playing status".    <br/>
-__Link:__ [PreMiD](https://premid.app/)
+> **বিবরণ:** Vue 3 এবং TailwindCSS-এ নির্মিত আপনার বটের স্ল্যাশ কমান্ডগুলি অন্বেষণ করতে গ্রাফিকাল ইউজার ইন্টারফেস। <br/>
+**লিঙ্ক:** [স্ল্যাশ কমান্ড GUI](https://slash-commands-gui.androz2091.fr/settings) <br/>
+**ক্রেডিট:** @422820341791064085
 
-### Powercord
-> __Description:__ Powercord is a lightweight client mod focused on simplicity and performance.   <br/>
-__Link:__ [Powercord](https://powercord.dev/)  <br/>
-[Powercord is against Discord TOS - Read More](https://dat.place/client-mods/)
+## ডিসকর্ড সার্ভার কার্ড জেনারেটর
 
-### Presence Maker
-> __Description:__ Create Discord rich presence with this tool.   <br/>
-__Link:__ [Presence Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)  <br/>
-__Credit:__ @454847501787463680
+> **বিবরণ:** একটি সার্ভার কার্ড তৈরি করুন যা আপনি আপনার ইমেল স্বাক্ষরের জন্য অনুলিপি করতে পারেন৷ <br/>
+**লিঙ্ক:** [ডিসকর্ড সার্ভার কার্ড জেনারেটর](https://geisterfurz007.github.io/discord-server-card-generator/) <br/>
+**ক্রেডিট:** @github:geisterfurz007
 
-### Rauf's Guild Count
-> __Description:__ Counts the number of guilds you’re in.   <br/>
-__Link:__ [Rauf's Guild Count](https://rauf.wtf/guildcount)   <br/>
-__Credit:__ @172557961133162496
+## ডিসকর্ড পতাকা
 
-### Rauf's Slash Command Generator
-> __Description:__ An easy to use slash command tool which allows bot developers to create slash commands quickly.  <br/>
-__Link:__ [Rauf's Slash Command Generator](https://rauf.wtf/slash)  <br/>
-__Credit:__ @172557961133162496
+> **বিবরণ:** সমস্ত ডিসকর্ড পতাকা এবং তাদের অর্থ সহ পূর্ণ একটি নথি। <br/>
+**লিঙ্ক:** [ডিসকর্ড ফ্ল্যাগ](https://flags.lewistehminerz.dev/) <br/>
+**ক্রেডিট:** @96269247411400704
 
-### Status
-> __Description:__ A server that has a collection of announcement channels you can follow for many status pages (including Discord, Cloudflare, GitHub, Hypixel & more) so you can be one of the first to know when one of your favourite service(s) have issues.   <br/>
-__Link(s):__ 
-[Server Invite](https://inv.wtf/statuspages)   <br/>
-__Credit:__ @287698408855044097
+## Dragory এর অবতার প্রিভিউ
 
-### Sylveon's Ban Appeal Website (self-host)
-> __Description:__ Sample ban appeals page with OAuth2 integration.   <br/>
-__Link:__ [Sylveon’s Ban Appeal Website](https://github.com/sylveon/discord-ban-appeals)   <br/>
-__Credit:__  @207123748120166400
+> **বিবরণ:** এটি একটি অবতার প্রিভিউ টুল যা হালকা এবং অন্ধকার উভয় থিমের মধ্যে আপনার অবতারকে অপ্টিমাইজ করতে ব্যবহৃত হয়। <br/>
+**লিঙ্ক:** [ড্র্যাগরির অবতারের প্রিভিউ](https://dragory.net/avatar-preview/) <br/>
+**ক্রেডিট:** @106391128718245888
 
-### Rauf's Embeds Generator
-> __Description:__ Generate embeds using this site.   <br/>
-__Link:__ [Rauf's Embeds Generator](https://embed.rauf.wtf/)   <br/>
-__Credit:__ @172557961133162496
+## Dragory এর ভূমিকা রঙের পূর্বরূপ
 
-### Webhooks Creator 
-> __Description:__ A site to create webhooks with.   <br/>
-__Link:__ [Webhooks Creator](https://webhook.site/)
+> **বিবরণ:** এটি একটি রোল কালার প্রিভিউ টুল যা হালকা এবং গাঢ় উভয় থিমের মধ্যে আপনার রোল কালার অপ্টিমাইজ করতে ব্যবহৃত হয়। <br/>
+**লিঙ্ক:** [ড্র্যাগোরির রোল কালার প্রিভিউ](https://dragory.github.io/role-preview-for-discord/) <br/>
+**ক্রেডিট:** @106391128718245888
 
-### Google forms -> Discord Webhook
-> __Description:__ Sends a Google Form response to a Discord channel using webhooks.  <br/>
-__Link__ [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
-__Credit:__ @87599455892692992
+## অসম্মানজনক
 
-### Crosslink's Utility Links
-> __Description:__ Easy to use links to lookup users and domains. Replace "ID" with User ID and "Domain" with the domain name.  <br/>
-__Link(s):__ [User Info](https://crss.link/u/ID) <br/>
-[Domain Info](https://crss.link/d/Domain)  <br/>
-__Credit:__ @249287049482338305
+> **বিবরণ:** আপনার ডিসকর্ড ফোল্ডার, ভূমিকা এবং আরও অনেক কিছুর জন্য গ্রেডিয়েন্ট তৈরি করতে সাহায্য করার জন্য একটি সহজ ব্যবহারযোগ্য টুল। <br/>
+**লিঙ্ক:** [ডিসগ্রেডিয়েন্ট](https://disgradient.netlify.app/) <br/>
+**ক্রেডিট:** @267025484028706816
 
-### Merlin's Embed Links
-> __Description:__ Easy to use links to embed users, servers, and invites.<br/>
-__Link:__ [Embeddable Links](https://url.wtf) <br/>
-__Credit:__ @386861188891279362
+## গভীর গবেষণা
 
-### Scratch For Discord
-> __Description:__ Make a Discord bot using blocks with no coding required.  <br/>
-__Link:__ [Scratch For Discord](https://scratch-for-discord.netlify.app/)  <br/>
-__Credit:__ @422820341791064085
+> **বিবরণ:** ডিসকর্ড স্ট্যাটাস যা চ্যাট-ভিত্তিক সম্প্রদায়ের জন্য ভিজ্যুয়ালাইজেশন, বিশ্লেষণ এবং টুল প্রদান করে। <br/>
+**লিঙ্ক:** [গভীর গবেষণা](https://www.altr.fyi/)
 
-### Zeppelin in Docker
-> __Description:__ Easy setup to self-host the moderation bot Zeppelin in docker.   <br/>
-__Link:__ [Zeppelin In Docker](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker)   <br/>
-__Credit:__ @255834596766253057
+## পরীক্ষা-নিরীক্ষা রোলআউট
 
-### ANSI Code Block Guide
-> __Description:__ A quick breakdown of how to use ANSI color codes to add color to your code blocks. <br/>
-__Link(s):__  <br/>
-[ANSI Code Block Guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
-[ANSI Code Block Guide (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors)  <br/>
-__Credit:__ @github:kkrypt0nn @github:fnky
+> **বিবরণ:** বর্তমান ডিসকর্ড পরীক্ষা এবং তাদের রোলআউট শতাংশ দেখায়। <br/>
+**লিঙ্ক:** [পরীক্ষা রোলআউট](https://rollouts.advaith.io/) | [পরীক্ষার তালিকা](https://gist.github.com/XYZenix/95de40ff80091c0ff7b0cfd610bd10d7) <br/>
+**ক্রেডিট:** @190916650143318016 @211270674482724864
 
-### Simple Discord Cache Cleaner
-> __Description:__ A simple to the point Discord cache manager written in java.   <br/>
-__Link:__ [Simple Discord Cache Cleaner](https://github.com/Aninoss/simple-discord-cache-cleaner)   <br/>
-__Credit:__ @272037078919938058
+## একটি গিল্ড খুঁজুন
 
-### Discord Role Icon Creator
-> __Description:__ Website that allows users to make simple looking role icons for their servers.   <br/>
-__Link:__ [Discord Icon](https://discordicon.com)   <br/>
-__Credit:__ @github:enzostvs
+> **বিবরণ:** 'GUILD_ID' প্রতিস্থাপন করে তার আইডি ব্যবহার করে একটি গিল্ড খুঁজুন (উইজেট চালু থাকলে)। <br/>
+**লিঙ্ক:** [একটি গিল্ড খুঁজুন](https://canary.discord.com/api/guilds/GUILD_ID/widget.json)
+
+## গিল্ড বৈশিষ্ট্য খুঁজুন
+
+> **বিবরণ:** একটি তাত্ক্ষণিক আমন্ত্রণ কোডের মাধ্যমে একটি গিল্ডের বৈশিষ্ট্যগুলি পরীক্ষা করুন৷ <br/>
+**লিঙ্ক:** [গিল্ড বৈশিষ্ট্য খুঁজুন](https://discord.com/api/invite/[invitecode])
+
+## জাগ্রোশের গিটহাব -> ডিসকর্ড ওয়েবহুক গাইড
+
+> **বিবরণ:** আপনার গিটহাব প্রকল্পগুলিকে একটি ডিসকর্ড চ্যানেলে সংহত করার জন্য একটি নির্দেশিকা৷ <br/>
+**লিঙ্ক:** [জাগ্রোশ'স গিটহাব -> ডিসকর্ড ওয়েবহুক গাইড](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22) <br/>
+**ক্রেডিট:** @113156185389092864
+
+## জাগ্রোশের টুইটার -> ডিসকর্ড ওয়েবহুক গাইড
+
+> **বিবরণ:** একটি ডিসকর্ড চ্যানেলে আপনার টুইটার পোস্টগুলিকে সংহত করার জন্য একটি নির্দেশিকা৷ <br/>
+**লিঙ্ক:** [জাগ্রোশ'স গিটহাব -> ডিসকর্ড ওয়েবহুক গাইড](https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960) <br/>
+**ক্রেডিট:** @113156185389092864
+
+## মোজির লগ সর্টার
+
+> **বিবরণ:** একটি সহজ লগ পার্সার যা একাধিক ভিন্ন বট লগ সমর্থন করে যা আপনাকে লগের বড় অংশ থেকে ব্যবহারকারীর আইডি পেতে দেয়। <br/>
+**লিঙ্ক:** [মোজির লগ সর্টার](https://logsorter.net/) <br/>
+**ক্রেডিট:** @99182302885588992
+
+## ওয়েবেন্স
+
+> **বিবরণ:** একটি টুল যা আপনাকে একটি আইফ্রেমে আপনার ডিসকর্ড প্রোফাইল এম্বেড করতে দেয়। <br/>
+**লিঙ্ক:** [ওয়েবেন্স](https://panleyent.com/webence/) <br/>
+**ক্রেডিট:** @249287049482338305
+
+## ডিসকর্ড স্ট্যাটাস
+
+> **বিবরণ:** রঙের স্কোয়ার ব্যবহার করে একটি অনন্য স্ট্যাটাস/আমার সম্পর্কে পৃষ্ঠা তৈরি করার একটি টুল। <br/>
+**লিঙ্ক:** [Discordstatus](https://warze.org/discordstatus) <br/>
+**ক্রেডিট:** @345103284463206400
+## PreMiD
+
+> **বিবরণ:** PreMiD হল একটি সহজ, কনফিগারযোগ্য ইউটিলিটি যা আপনাকে আপনার Discord "এখন প্লে স্ট্যাটাস"-এ আপনি ওয়েবে কী করছেন তা দেখানোর অনুমতি দেয়। <br/>
+**লিঙ্ক:** [PreMiD](https://premid.app/)
+
+## উপস্থিতি নির্মাতা
+
+> **বিবরণ:** এই টুলের সাহায্যে ডিসকর্ড সমৃদ্ধ উপস্থিতি তৈরি করুন। <br/>
+**লিঙ্ক:** [প্রেজেন্স মেকার](https://github.com/ThatOneCalculator/DiscordRPCMaker) <br/>
+**ক্রেডিট:** @454847501787463680
+
+## রউফের গিল্ড কাউন্ট
+
+> **বিবরণ:** আপনি যে গিল্ডে আছেন তার সংখ্যা গণনা করে। <br/>
+**লিঙ্ক:** [রউফের গিল্ড কাউন্ট](https://rauf.wtf/guildcount) <br/>
+**ক্রেডিট:** @172557961133162496
+
+## রউফের স্ল্যাশ কমান্ড জেনারেটর
+
+> **বিবরণ:** স্ল্যাশ কমান্ড টুল ব্যবহার করা সহজ যা বট ডেভেলপারদের দ্রুত স্ল্যাশ কমান্ড তৈরি করতে দেয়। <br/>
+**লিঙ্ক:** [রউফের স্ল্যাশ কমান্ড জেনারেটর](https://rauf.wtf/slash) <br/>
+**ক্রেডিট:** @172557961133162496
+
+## স্ট্যাটাস
+
+> **বিবরণ:** এমন একটি সার্ভার যেখানে ঘোষণার চ্যানেলের একটি সংগ্রহ রয়েছে যা আপনি অনেক স্ট্যাটাস পৃষ্ঠার জন্য অনুসরণ করতে পারেন (ডিসকর্ড, ক্লাউডফ্লেয়ার, গিটহাব, হাইপিক্সেল এবং আরও অনেক কিছু সহ) যাতে আপনি আপনার পছন্দের একটি কখন জানতে পারেন পরিষেবা(গুলি) সমস্যা আছে. <br/>
+**লিংক:**
+[সার্ভার আমন্ত্রণ](https://inv.wtf/statuspages) <br/>
+**ক্রেডিট:** @287698408855044097
+
+## আইকন
+
+> **বিবরণ:** ইমোট ব্যবহার করার জন্য বিনামূল্যের একটি গিল্ড। <br/>
+**লিংক:**
+[সার্ভার আমন্ত্রণ](https://discord.gg/tbzP3XaUF7) <br/>
+**ক্রেডিট:** @537875750955778058
+
+## সিলভিয়নের ব্যান আপিল ওয়েবসাইট (স্ব-হোস্ট)
+
+> **বিবরণ:** OAuth2 ইন্টিগ্রেশন সহ নমুনা নিষেধাজ্ঞার আবেদন পৃষ্ঠা। <br/>
+**লিঙ্ক:** [সিলভেনের ব্যান আপিল ওয়েবসাইট](https://github.com/sylveon/discord-ban-appeals) <br/>
+**ক্রেডিট:** @207123748120166400
+
+## রউফের এমবেডস জেনারেটর
+
+> **বিবরণ:** এই সাইটটি ব্যবহার করে এম্বেড তৈরি করুন। <br/>
+**লিঙ্ক:** [রউফের এম্বেড জেনারেটর](https://embed.rauf.wtf/) <br/>
+**ক্রেডিট:** @172557961133162496
+
+## ওয়েবহুক সৃষ্টিকর্তা
+
+> **বিবরণ:** ওয়েবহুক তৈরি করার জন্য একটি সাইট। <br/>
+**লিঙ্ক:** [ওয়েবহুকস ক্রিয়েটর](https://webhook.site/)
+
+## গুগল ফর্ম -> ডিসকর্ড ওয়েবহুক
+
+> **বিবরণ:** ওয়েবহুক ব্যবহার করে একটি Discord চ্যানেলে Google ফর্মের প্রতিক্রিয়া পাঠায়। <br/>
+**লিঙ্ক** [গুগল ফর্ম -> ডিসকর্ড ওয়েবহুক](https://github.com/Iku/Google-Forms-to-Discord) <br/>
+**ক্রেডিট:** @87599455892692992
+
+## ক্রসলিংকের ইউটিলিটি লিঙ্ক
+
+> **বিবরণ:** ব্যবহারকারী এবং ডোমেন খুঁজতে লিঙ্ক ব্যবহার করা সহজ। একটি ব্যবহারকারী আইডি দিয়ে "আইডি" এবং ডোমেন নামের সাথে "ডোমেন" প্রতিস্থাপন করুন। <br/>
+**লিঙ্ক(গুলি):** <br />
+[ব্যবহারকারীর তথ্য](https://crss.link/u/ID) <br/>
+[ডোমেন তথ্য](https://crss.link/d/Domain) <br/>
+**ক্রেডিট:** @249287049482338305
+
+## মার্লিনের এম্বেড লিঙ্ক
+
+> **বিবরণ:** এম্বেড ব্যবহারকারী, সার্ভার এবং আমন্ত্রণগুলির লিঙ্কগুলি ব্যবহার করা সহজ৷ <br/>
+**লিঙ্ক:** [এম্বেডযোগ্য লিঙ্কগুলি](https://url.wtf) <br/>
+**ক্রেডিট:** @386861188891279362
+
+## স্ক্র্যাচ ফর ডিসকর্ড
+
+> **বিবরণ:** কোন কোডিং প্রয়োজন ছাড়া ব্লক ব্যবহার করে একটি ডিসকর্ড বট তৈরি করুন। <br/>
+**লিঙ্ক:** [স্ক্র্যাচ ফর ডিসকর্ড](https://scratch-for-discord.com/) <br/>
+**ক্রেডিট:** @422820341791064085
+
+## ডকারে জেপেলিন
+
+> **বিবরণ:** ডকারে মডারেশন বট জেপেলিনকে স্ব-হোস্ট করার জন্য সহজ সেটআপ। <br/>
+**লিঙ্ক:** [ডকারে জেপেলিন](https://github.com/Benricheson101/ZeppelinBot#running-the-bot-with-docker) <br/>
+**ক্রেডিট:** @255834596766253057
+
+## ANSI কোড ব্লক গাইড
+
+> **বিবরণ:** আপনার কোড ব্লকগুলিতে রঙ যোগ করতে ANSI রঙের কোডগুলি কীভাবে ব্যবহার করবেন তার একটি দ্রুত ব্রেকডাউন। <br/>
+**লিঙ্ক(গুলি):** <br/>
+[ANSI কোড ব্লক গাইড](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) <br/>
+[ANSI কোড ব্লক গাইড (2)](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#8-16-colors) <br/>
+**ক্রেডিট:** @github:kkrypt0nn @github:fnky
+
+## ডিসকর্ড রঙিন টেক্সট জেনারেটর
+
+> **বিবরণ:** ডিসকর্ডের জন্য রঙিন ANSI পাঠ্য তৈরি করুন। <br/>
+**লিঙ্ক:** [ডিসকর্ড রঙিন পাঠ্য জেনারেটর](https://rebane2001.com/discord-colored-text-generator/) <br/>
+**ক্রেডিট:** @80622917083205632
+
+## রেবনের ডিসকর্ড পিন কম্প্রেসার
+
+> **বিবরণ:** একটি সাধারণ অ্যাপ যা ডিসকর্ড পিনকে ডিসকর্ড মেসেজে রূপান্তর করে। <br/>
+**লিঙ্ক:** [ডিসকর্ড পিন কম্প্রেসার](https://rebane2001.com/discord-pin-compressor/) <br/>
+**ক্রেডিট:** @80622917083205632
+
+## সাধারণ ডিসকর্ড ক্যাশে ক্লিনার
+
+> **বিবরণ:** জাভাতে লেখা একটি সহজ বিন্দু ডিসকর্ড ক্যাশে ম্যানেজার। <br/>
+**লিঙ্ক:** [সিম্পল ডিসকর্ড ক্যাশে ক্লিনার](https://github.com/Aninoss/simple-discord-cache-cleaner) <br/>
+**ক্রেডিট:** @272037078919938058
+
+## ডিসকর্ড রোল আইকন ক্রিয়েটর
+
+> **বিবরণ:** একটি ওয়েবসাইট যা ব্যবহারকারীদের তাদের সার্ভারের জন্য সাধারণ চেহারার ভূমিকা আইকন তৈরি করতে দেয়। <br/>
+**লিঙ্ক:** [ডিসকর্ড আইকন](https://discordicon.com) <br/>
+**ক্রেডিট:** @github:enzostvs

@@ -1,81 +1,108 @@
 ---
-title: Official Discord Links
+title: অফিসিয়াল ডিসকর্ড লিঙ্ক
 sidebar_position: 4
-description: Official links from discord.
+description: ডিসকর্ড থেকে অফিসিয়াল লিঙ্ক.
 ---
 
-# Official Discord Links
+# অফিসিয়াল ডিসকর্ড লিঙ্ক
 
-## Discord Website
-> __Description:__ Imagine a place… where links were not so long.   <br/>
-__Link:__ [Discord Website](https://dis.gd/)
+## ডিসকর্ড ওয়েবসাইট
 
-## How to Report
-> __Description:__ A guide on how to properly report issues to Discord’s Trust and Safety  team.   <br/>
-__Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://discord.com/moderation/360058643194-104:-How-to-Report-Content-to-Discord)
+> **বর্ণনা:** একটি জায়গা কল্পনা করুন… যেখানে লিঙ্ক এত দীর্ঘ ছিল না.   <br/>
+**লিঙ্ক:** [ডিসকর্ড ওয়েবসাইট](https://dis.gd/)
 
-## How to get user IDs 
-> __Description:__ A guide on how to find IDs.   <br/>
-__Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
+## কিভাবে রিপোর্ট করবেন
 
-## Discord Bugs
-> __Description:__  The official tool to look up reported and approved bugs.   <br/>
-__Link:__ [Discord Bugs](https://bugs.discord.com/)
+> **বর্ণনা:** ডিসকর্ডের ট্রাস্ট এবং সেফটি টিমের কাছে কীভাবে সঠিকভাবে সমস্যাগুলি রিপোর্ট করবেন তার একটি নির্দেশিকা।   <br/>
+**লিঙ্ক:**  [কিভাবে রিপোর্ট করবেন](https://dis.gd/howtoreport) | [ডিএমএ  আর্টিকেল](https://dis.gd/dma104)
 
-## Discord Testers Bug Tool
-> __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
-__Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)
-__Credit:__ @53905483156684800
+## কিভাবে ইউজার আইডি পাবেন
 
-## Discord Testing Clients
-> __Description:__ A guide on downloading and using Discord testing clients for all platforms.   <br/>
-__Link:__ [Testing Clients](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
+> **বর্ণনা:** আইডিগুলি কীভাবে সন্ধান করবেন তার একটি নির্দেশিকা।   <br/>
+**লিঙ্ক:**  [কিভাবে ব্যবহারকারী/সার্ভার/মেসেজ আইডি পাবেন](https://dis.gd/findmyid)
 
-## Discord Moderator Academy 
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)
+## ডিসকর্ড বাগ
 
-## Discord Libraries Servers List
-> __Description:__ A Reddit wiki page that lists all of the Discord API libraries.   <br/>
-__Link:__ [Discord Libraries Servers List](https://www.reddit.com/r/discordapp/wiki/developers)
+> **বর্ণনা:**  রিপোর্ট করা এবং অনুমোদিত বাগগুলি দেখার জন্য অফিসিয়াল টুল।   <br/>
+**লিঙ্ক:** [Discord Bugs](https://bugs.discord.com/)
 
-## Discord Open Source
-> __Description:__ This is the source list of OSS communities that use and live on Discord.   <br/>
-__Link(s):__
-[Discord Open Source](https://discord.com/open-source)   <br/>
-[Discord Open Source Github](https://github.com/discord/discord-open-source)
+## ডিসকর্ড টেস্টিং ক্লায়েন্ট
 
-## Discord Branding  
-> __Description:__ Discord’s branding assets and guidelines.   <br/>
-__Link:__ [Discord Branding](https://discord.com/branding)
+> **বর্ণনা:** সমস্ত প্ল্যাটফর্মের জন্য ডিসকর্ড টেস্টিং ক্লায়েন্ট ডাউনলোড এবং ব্যবহার করার জন্য একটি নির্দেশিকা।   <br/>
+**লিঙ্ক:** [টেস্টিং ক্লায়েন্](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients)
 
-## Discord Nitro
-> __Description:__  Information on Nitro & Nitro Classic subscriptions.   <br/>
-__Link:__ [Discord Nitro](https://dis.gd/nitro)
+## ডিসকর্ড কমিউনিটি রিসোর্স
 
-## Discord Status Page
-> __Description:__ Provides information on the current status of the Discord services.   <br/>
-__Link:__ [Status Page](https://dis.gd/status)
+> **বর্ণনা:** কমিউনিটি সার্ভার সেট আপ এবং রক্ষণাবেক্ষণের জন্য সম্পদ <br/>
+**লিঙ্ক:** [কমিউনিটি রিসোর্স](https://discord.com/community) <br/>
 
-## Discord Developer Portal
-> __Description:__ The main website for developers to manage their apps, teams, OAuth2 scopes and more.    <br/>
-__Link:__ [Discord Developer Portal](https://discord.com/developers/)
+## ডিসকর্ড মডারেটর একাডেমী
 
-## Discord Developer Docs
-> __Description:__ The documents detailing how all types of interactions are handled, and a resource for bot developers.   <br/>
-__Link:__ [Discord Developer Docs](https://discord.dev/)
+> **বর্ণনা:** মডারেটরদের জন্য ডিসকর্ড-এর অফিসিয়াল রিসোর্স, মডারেটরদের লেখা।   <br/>
+**লিঙ্ক:** [ডিসকর্ড মডারেটর একাডেম](https://dis.gd/moderation)
 
-## Discord Security Bug Bounties
-> __Description:__ The place to submit security vulnerabilities within Discord.   <br/>
-__Link:__ [Discord Security Bug Bounties](https://discord.com/security)
+## ডিসকর্ড লাইব্রেরি সার্ভার তালিকা
 
-## Latest Transparency Report 
-> __Description:__ The most recent update on the security team’s actions and terminations.   <br/>
-__Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+> **বর্ণনা:** একটি রেড্ডিট উইকি পৃষ্ঠা যা সমস্ত ডিসকর্ড এপিআই লাইব্রেরি তালিকাভুক্ত করে।   <br/>
+**লিঙ্ক:** [ডিসকর্ড লাইব্রেরি সার্ভার তালিকা](https://www.reddit.com/r/discordapp/wiki/developers)
 
-## Discord’s (new) Media Kit
-> __Description:__ Discord’s official assets.   <br/>
-__Link:__ <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
+## ডিসকর্ড ওপেন সোর্স
 
+> **বর্ণনা:** এটি হল ওপেন সোর্স সম্প্রদায়ের উৎস তালিকা যা ডিসকর্ড ব্যবহার করে এবং বাস করে।   <br/>
+**লিঙ্ক:**
+[ডিসকর্ড ওপেন সোর্স](https://discord.com/open-source)   <br/>
+[ডিসকর্ড ওপেন সোর্স গিটহাব](https://github.com/discord/discord-open-source)
+
+## ডিসকর্ড ব্র্যান্ডিং
+
+> **বর্ণনা:** ডিসকর্ডের ব্র্যান্ডিং সম্পদ এবং নির্দেশিকা।   <br/>
+**লিঙ্ক:**  <br/>
+[ডিসকর্ড ব্র্যান্ডিং](https://discord.com/branding)  <br/>
+[ডিসকর্ড ড্রিবল পৃষ্ঠা](https://discord.design/)
+
+## ডিসকর্ড নাইট্রো
+
+> **বর্ণনা:**  নাইট্রো এবং নাইট্রো ক্লাসিক সদস্যতার তথ্য।  <br/>
+**লিঙ্ক:** [ডিসকর্ড নাইট্রো](https://dis.gd/nitro)
+
+## ডিসকর্ড স্ট্যাটাস পেজ
+
+> **বর্ণনা:** ডিসকর্ড পরিষেবাগুলির বর্তমান অবস্থা সম্পর্কে তথ্য প্রদান করে।   <br/>
+**লিঙ্ক:** [স্ট্যাটাস পেজ](https://dis.gd/status)
+
+## ডিসকর্ড ডেভেলপার পোর্টাল
+
+> **বর্ণনা:** বিকাশকারীদের তাদের অ্যাপ, দল, স্কোপ এবং আরও অনেক কিছু পরিচালনা করার জন্য প্রধান ওয়েবসাইট।    <br/>
+**লিঙ্ক:** [ডিসকর্ড ডেভেলপার পোর্টাল](https://discord.com/developers/)
+
+## ডিসকর্ড ডেভেলপার ডক্স
+
+> **বর্ণনা:** সমস্ত ধরনের মিথস্ক্রিয়া কিভাবে পরিচালনা করা হয় তার বিবরণ এবং বট বিকাশকারীদের জন্য একটি সম্পদ।   <br/>
+**লিঙ্ক:** [ডিসকর্ড ডেভেলপার ডক্স](https://discord.dev/)
+
+## ডিসকর্ড সিকিউরিটি বাগ বাউন্টি
+
+> **বর্ণনা:** ডিসকর্ডের মধ্যে নিরাপত্তা দুর্বলতা জমা দেওয়ার জায়গা।   <br/>
+**লিঙ্ক:** [ডিসকর্ড সিকিউরিটি বাগ বাউন্টি](https://discord.com/security)
+
+## সর্বশেষ স্বচ্ছতা প্রতিবেদন
+
+> **বর্ণনা:** নিরাপত্তা দলের ক্রিয়াকলাপ এবং সমাপ্তির সাম্প্রতিকতম আপডেট৷   <br/>
+**লিঙ্ক:** [সর্বশেষ স্বচ্ছতা প্রতিবেদন](https://discord.com/blog/discord-transparency-report-q1-2022)
+
+## ডিসকর্ডের (নতুন) মিডিয়া কিট
+
+> **বর্ণনা:** ডিসকর্ডের অফিসিয়াল সম্পদ।   <br/>
+**লিঙ্ক:** <br/>
+[ডিসকর্ড (নতুন) মিডিয়া কিট - সরাসরি ডাউনলোড](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
+[ডিসকর্ড ব্র্যান্ডিং পৃষ্ঠা](https://discord.com/branding)
+
+## ডিসকর্ড ডেভেলপার সহায়তা কেন্দ্র
+
+> **বর্ণনা:** ডেভেলপারদের জন্য সহায়ক নিবন্ধ সহ একটি অফিসিয়াল ডিসকর্ড নেভিগেশন পৃষ্ঠা। <br/>
+**লিঙ্ক:** [ডেভেলপার সহায়তা কেন্দ্র](https://support-dev.discord.com)
+
+## ডিসকর্ড ব্লগ আরএসএস ফিড
+
+> **বর্ণনা:** ডিসকর্ডস ব্লগের অফিসিয়াল আরএসএস ফিড। <br/>
+**লিঙ্ক:** [ব্লগ আরএসএস ফিড](https://discord.com/blog/rss.xml)

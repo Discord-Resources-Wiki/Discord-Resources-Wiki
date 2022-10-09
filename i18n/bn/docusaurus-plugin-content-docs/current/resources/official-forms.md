@@ -1,24 +1,27 @@
 ---
-title: Official Forms
+title: অফিসিয়াল ফর্ম
 sidebar_position: 3
-description: Official forms from discord.
+description: ডিসকর্ড থেকে অফিসিয়াল ফর্ম।
 ---
 
-# Official Forms
+# অফিসিয়াল ফর্ম
 
-## Report Form 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
-__Link:__ [Discord Report Form](https://dis.gd/report)
+## রিপোর্ট ফর্ম
 
-## Support Form 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
-__Link:__  [Discord Support Form](https://dis.gd/contact)
+> **বর্ণনা:** ডিসকর্ডের ট্রাস্ট এবং সেফটি টিমের কাছে একটি সমস্যা রিপোর্ট করুন।   <br/>
+**লিঙ্ক:** [রিপোর্ট ফর্ম](https://dis.gd/report)
 
-## Feedback 
-> __Description:__ Submit feedback to the Discord team.   <br/>
-__Link:__  [Discord Feedback Form](https://dis.gd/feedback)
+## সাপোর্ট ফর্ম
 
+> **বর্ণনা:** সাহায্য দরকার? ডিসকর্ড টিমের কাছে একটি অনুরোধ জমা দিন।   <br/>
+**লিঙ্ক:**  [সাপোর্ট ফর্ম](https://dis.gd/contact)
 
-## Discord Trust & Safety 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
-__Link:__ [Discord TnS](https://dis.gd/request)
+## প্রতিক্রিয়া
+
+> **বর্ণনা:** ডিসকর্ড টিমের কাছে প্রতিক্রিয়া জমা দিন।   <br/>
+**লিঙ্ক:**  [ডিসকর্ড ফিডব্যাক ফর্ম](https://dis.gd/feedback)
+
+## ডিসকর্ড ট্রাস্ট এবং নিরাপত্তা
+
+> **বর্ণনা:** ডিসকর্ড ট্রাস্ট এবং নিরাপত্তা টিমের কাছে একটি অনুরোধ জমা দিন।   <br/>
+**লিঙ্:** [ডিসকর্ড ট্রাস্ট এবং নিরাপত্তা](https://dis.gd/request)

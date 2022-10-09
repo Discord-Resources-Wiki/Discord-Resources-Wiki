@@ -6,35 +6,34 @@ slug: /
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
-# About
+# সম্পর্কিত তথ্য
 
-## Welcome to Discord Resources Wiki
+## ডিসকর্ড রিসোর্সেস উইকিতে স্বাগতম
 
-## So what is this thing?
+## এই জিনিসটা কি?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+এই প্রকল্পের প্রতিষ্ঠাতা, @755792681313108018, ডিসকর্ড রিসোর্সেস এর একটি ভাল এবং সহজ তালিকা খুঁজছিল যা প্রাথমিক জ্ঞান থেকে উন্নত ইউটিলিটিগুলির বিষয়গুলিকে কভার করবে; একটি তালিকা যা সমস্ত ডিসকর্ড ব্যবহারকারী, নতুন থেকে দক্ষ, সহায়ক বলে মনে করবে৷. কিন্তু এমন কোনো তালিকা পাওয়া যায়নি.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+এবং তাই, একটি ধারণা আঘাত করেছিল তাকে!
+কয়েকজন বন্ধুর সাহায্যে যারা ডিসকর্ডে দক্ষ, একসাথে **ডিসকর্ড রিসোর্সেস উইকি** তৈরি করা হয়েছে. প্রকল্পটি আজ যা হয়ে উঠেছে তা হয়ে উঠতে কয়েক মাস গবেষণা, সংগঠন এবং ডিজাইনের কাজ শেষ করেছে এবং আমরা আশা করি আপনি এটিকে কাজে লাগাবেন।
 
-## What am I seeing here?
+## আমি এখানে কি দেখছি?
 
-We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
+আমরা সাধারণ বিভাগ এবং বিষয়গুলির অধীনে একই ধরনের সংস্থানগুলিকে একত্রিত করি, ডেস্কটপে বামে বা মোবাইলে মেনু আইকন সহ অ্যাক্সেসযোগ্য৷ প্রতিটি সম্পদের একটি সংক্ষিপ্ত বিবরণ রয়েছে এটি কী, এর পরে যেখানে এটি অ্যাক্সেস করা যেতে পারে তার লিঙ্ক এবং সেইসাথে নির্মাতাদের ক্রেডিট.
 
-This site will be continuously and frequently updated as we come across more resources that would be of help to Discord users across the platform!
+এই সাইটটি ক্রমাগত এবং ঘন ঘন আপডেট করা হবে যদি আমরা আরও সংস্থান পাই যা ডিসকর্ড ব্যবহারকারীদের জন্য সহায়ক হবে!
 
-## Disclaimer
+## দাবিত্যাগ
 
-**We are not affiliated with Discord in any way.**
+**আমরা কোনোভাবেই ডিসকর্ডের সাথে জড়িত নই.**
 
-This site is an aggregate of most resources we could come across and is not a fully exhaustive list by all means. We do not claim rights or ownership to any of the resources listed here, unless explicitly mentioned otherwise. All credits to resource creators are listed in the “credits” section of each link.
+এই সাইটটি বেশিরভাগ সংস্থানগুলির একটি সমষ্টি যা আমরা দেখতে পারি এবং এটি কোনওভাবেই সম্পূর্ণ তালিকা নয়. আমরা এখানে তালিকাভুক্ত কোনো সম্পদের অধিকার বা মালিকানা দাবি করি না, যদি না স্পষ্টভাবে অন্যথায় উল্লেখ করা হয়. সম্পদ নির্মাতাদের সমস্ত ক্রেডিট প্রতিটি লিঙ্কের "ক্রেডিট" বিভাগে তালিকাভুক্ত করা হয়.
 
-We try our best to credit users wherever possible, however, we recognise that some resources may have incorrect or incomplete credits. If you find any such resource, please get in touch so that we may rectify the issue.
+আমরা যেখানেই সম্ভব ব্যবহারকারীদের ক্রেডিট করার জন্য যথাসাধ্য চেষ্টা করি, যাইহোক, আমরা স্বীকার করি যে কিছু সম্পদে ভুল বা অসম্পূর্ণ ক্রেডিট থাকতে পারে. আপনি যদি এই ধরনের কোনো সম্পদ খুঁজে পান, তাহলে অনুগ্রহ করে যোগাযোগ করুন যাতে আমরা সমস্যাটি সংশোধন করতে পারি.
 
-All of our branding and assets are owned by us and are created by @192060404501839872. You may not use our branding for your own personal use or projects without our explicit permission.
+আমাদের ব্র্যান্ডিং এবং শিল্প সব @192060404501839872 এর মালিকানাধীন এবং তার দ্বারা নির্মিত হয়. আপনি আমাদের অনুমতি ছাড়া আপনার নিজের ব্যক্তিগত ব্যবহার বা প্রকল্পের জন্য আমাদের ব্র্যান্ডিং ব্যবহার করতে পারবেন না.
 
-## Personal Note
+## ব্যক্তিগত নোট
 
-Although optional, we would really appreciate being credited if we were of help to you. We try our best to research links, organise resources and curate them on the website, and what you see is a culmination of months of our effort.
-
-**Help your friends, mutuals, community members and more by sharing this project with them too!**
+যদিও ঐচ্ছিক, আপনি যদি আমাদের সহায়ক বলে মনে করেন তবে আপনি আমাদের ক্রেডিট করলে আমরা কৃতজ্ঞ হব. আমরা লিঙ্কগুলি গবেষণা করার জন্য আমাদের যথাসাধ্য চেষ্টা করি, সংস্থানগুলি সংগঠিত করতে এবং সেগুলিকে ওয়েবসাইটে কিউরেট করি এবং আপনি যা দেখতে পান তা আমাদের কয়েক মাসের প্রচেষ্টার চূড়ান্ত পরিণতি৷
+**আপনার বন্ধু, মিউচুয়াল, সম্প্রদায়ের সদস্য এবং আরও অনেক এর সাথে এই প্রকল্পটি ছড়িয়ে সাহায্য করুন৷!**

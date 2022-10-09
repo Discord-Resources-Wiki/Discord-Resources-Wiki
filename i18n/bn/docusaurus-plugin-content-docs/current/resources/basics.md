@@ -4,46 +4,56 @@ sidebar_position: 1
 description: Basic resources
 ---
 
-# The Basics
+# সাধারণ জ্ঞান
 
-## Discord Terms of Service 
-> __Description:__ Discord’s Terms of Service is a policy you must agree to when using its platform.   <br/>
-It includes information ranging from intellectual property rights to account termination.   <br/>
-__Link:__ [Terms Of Service](https://dis.gd/terms)
+## **ডিসকর্ড পরিষেবার শর্তাবলী**
 
-## Discord Privacy Policy
-> __Description:__ Discord's privacy policy regarding users' information.  <br/>
-__Link:__ [Discord Privacy Policy](https://discord.com/privacy)
+> **বর্ণনা:** ডিসকর্ড পরিষেবার শর্তাবলী হল একটি নীতি যার প্ল্যাটফর্ম ব্যবহার করার সময় আপনাকে অবশ্যই সম্মত হতে হবে।   <br/>
+এতে মেধা সম্পত্তির অধিকার থেকে শুরু করে অ্যাকাউন্ট বন্ধ করা পর্যন্ত তথ্য অন্তর্ভুক্ত রয়েছে।   <br/>
+**লিঙ্ক:** [পরিষেবার শর্তাবলী](https://dis.gd/terms)
 
-## Discord Community Guidelines
-> __Description:__ Discord’s Community Guidelines clarify restrictions and limitations within its platform.   <br/>
-It ensures everyone has a positive experience and that users act in a well-behaved, disciplined manner.   <br/>
-__Link:__ [Community Guidelines](https://dis.gd/guidelines)
+## **ডিসকর্ডের গোপনীয়তা নীতি**
 
-## Discord Blog
-> __Description:__ Discord’s Blog features announcements, updates, tutorials, and resources; all Discord related.   <br/>
-__Link:__ [Discord Blog](https://discord.com/blog)
- 
-## Discord Subreddit
-> __Description:__ The unofficial Discord Subreddit.   <br/>
-__Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
+> **বর্ণনা:** ব্যবহারকারীদের তথ্য সম্পর্কিত ডিসকর্ডের গোপনীয়তা নীতি।  <br/>
+**লিঙ্ক:** [ডিসকর্ডের গোপনীয়তা নীতি](https://discord.com/privacy)
 
-## Discord Twitter Page
-> __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+## **ডিসকর্ডের সম্প্রদায় নির্দেশিকা**
 
-## Discord Youtube Page
-> __Description:__  The official Discord page on Youtube.   <br/>
-__Link:__ [Discord Youtube Page](https://www.youtube.com/c/discord)
+> **বর্ণনা:** ডিসকর্ডের সম্প্রদায় নির্দেশিকাগুলি এর প্ল্যাটফর্মের মধ্যে সীমাবদ্ধতা এবং সীমাবদ্ধতাগুলিকে স্পষ্ট করে৷   <br/>
+এটি নিশ্চিত করে যে প্রত্যেকের একটি ইতিবাচক অভিজ্ঞতা রয়েছে এবং ব্যবহারকারীরা একটি ভাল আচরণ, শৃঙ্খলাবদ্ধ পদ্ধতিতে কাজ করে.   <br/>
+**লিঙ্ক:** [সম্প্রদায় নির্দেশিকা](https://dis.gd/guidelines)
 
-## Discord Help Center
-> __Description:__ An official Discord navigation page full with useful support articles on every topic.   <br/>
-__Link:__ [Discord Help Center](https://support.discord.com)
+## **ডিসকর্ড ব্লগ**
 
-## Discord Safety Center
-> __Description:__ Page that provides information about internet privacy & information for parents and educators about how to protect themselves/their children online.  <br/>
-__Link:__ [Discord Safety Center](https://discord.com/safety)
+> **বর্ণনা:** ডিসকর্ডের ব্লগে ঘোষণা, আপডেট, টিউটোরিয়াল এবং সংস্থান রয়েছে।   <br/>
+**লিঙ্ক:** [ডিসকর্ড ব্লগ](https://discord.com/blog)
 
-## Client Downloads
-> __Description:__ All official downloadable Discord clients. (Download Discord!)   <br/>
-__Link:__ [Discord Clients](https://discord.com/download)
+## **ডিসকর্ড সাবরেডিট**
+
+> **বর্ণনা:** The unofficial Discord Subreddit.   <br/>
+**লিঙ্ক:** [ডিসকর্ড সাবরেডিট](https://www.reddit.com/r/discordapp/)
+
+## **ডিসকর্ড টুইটার পেজ**
+
+> **বর্ণনা:** টুইটারে ডিসকর্ডের অফিসিয়াল পেজ।   <br/>
+**লিঙ্ক:** [ডিসকর্ড টুইটার পেজ](https://twitter.com/discord)
+
+## **ডিসকর্ডের ইউটিউব চ্যানেল**
+
+> **বর্ণনা:**  ইউটিউবে ডিসকর্ডের অফিসিয়াল পেজ।   <br/>
+**লিঙ্ক:** [িসকর্ডের ইউটিউব চ্যানেল](https://www.youtube.com/c/discord)
+
+## **ডিসকর্ড হেল্প সেন্টার**
+
+> **বর্ণনা:** একটি অফিসিয়াল ডিসকর্ড নেভিগেশন পৃষ্ঠা যা প্রতিটি বিষয়ে দরকারী সহায়তা নিবন্ধে পূর্ণ।   <br/>
+**লিঙ্ক:** [ডিসকর্ড হেল্প সেন্টার](https://support.discord.com)
+
+## **ডিসকর্ড সেফটি সেন্টার**
+
+> **বর্ণনা:** পৃষ্ঠা যা ইন্টারনেট গোপনীয়তা সম্পর্কে তথ্য প্রদান করে এবং পিতামাতা এবং শিক্ষাবিদদের কীভাবে অনলাইনে নিজেদের/তাদের সন্তানদের রক্ষা করতে হয় সে সম্পর্কে তথ্য প্রদান করে।  <br/>
+**লিঙ্ক:** [ডিসকর্ড সেফটি সেন্টার](https://discord.com/safety)
+
+## **ক্লায়েন্ট ডাউনলোড**
+
+> **বর্ণনা:** সমস্ত অফিসিয়াল ডাউনলোডযোগ্য ডিসকর্ড ক্লায়েন্ট। (ডিসকর্ড ডাউনলোড করুন!)   <br/>
+**লিঙ্ক:** [ডিসকর্ড ক্লায়েন্ট](https://discord.com/download)

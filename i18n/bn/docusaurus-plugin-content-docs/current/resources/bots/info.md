@@ -4,62 +4,81 @@ sidebar_position: 1
 description: Bot informations and lists
 ---
 
-# Information & Lists
+# তথ্য ও তালিকা
 
-## Unofficial Discord API Docs
-> __Description:__ Unofficial documentation for Undocumented Discord APIs. Also contains an outline of Discord's infrastructure.  <br/>
-__Link:__ [Unofficial Discord API Docs](https://luna.gitlab.io/discord-unofficial-docs/)
+## অনানুষ্ঠানিক ডিসকর্ড API ডক্স
 
-## Largest Discord Bots
-> __Description:__ An easy-to-read list of the top 25 Discord bots by server count.   <br/>
-__Link:__ [Largest Discord Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0)   <br/>
-__Credit:__ @190916650143318016
+> **বিবরণ:** নথিবিহীন ডিসকর্ড API-এর জন্য অনানুষ্ঠানিক ডকুমেন্টেশন। এছাড়াও ডিসকর্ডের পরিকাঠামোর একটি রূপরেখা রয়েছে। <br/>
+**লিঙ্ক:** [অনফিসিয়াল ডিসকর্ড API ডক্স](https://luna.gitlab.io/discord-unofficial-docs/) <br/>
+**ক্রেডিট:** @github:lun-4
 
-## Largest Discord Bots (extended version)
-> __Description:__ A haste link with the 600 biggest bots on Discord, including growth stats.  <br/>
-__Links:__ Get the haste ID from [here](https://unbelievaboat.com/api/botlist), then paste it [here](https://haste.unbelievaboat.com/ID) instead of "ID".  <br/>
-__Credit:__ @261674810914897931
+## সবচেয়ে বড় ডিসকর্ড বট
 
-## All Official Discord Bots
-> __Description:__ A list that contains all the bots that were made officially by Discord.   <br/>
-__Link:__ [All Official Bots](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327)   <br/>
-__Credit:__ @712626099141476383
+> **বিবরণ:** সার্ভারের সংখ্যা অনুসারে শীর্ষ 25টি ডিসকর্ড বটগুলির একটি সহজে পড়ার তালিকা৷ <br/>
+**লিঙ্ক:** [সবচেয়ে বড় ডিসকর্ড বট](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0) <br/>
+**ক্রেডিট:** @190916650143318016
 
-## List of Libraries
-> __Description:__ List of all Discord API libraries and their features.   <br/>
-__Link:__ [List Of Libraries](https://libs.advaith.io/)   <br/>
-__Credit:__ @190916650143318016
+## বৃহত্তম ডিসকর্ড বট (বর্ধিত সংস্করণ)
 
-## Discord API Libs
-> __Description:__ A list of all the Discord API libraries.  <br/>
-__Link:__ [Discord API Libs](https://github.com/apacheli/discord-api-libs)  <br/>
-__Credit:__ @460612586061430806
+> **বিবরণ:** বৃদ্ধির পরিসংখ্যান সহ ডিসকর্ডে 600টি বৃহত্তম বটের সাথে একটি দ্রুত লিঙ্ক। <br/>
+**লিঙ্ক:** দ্রুত আইডিটি [এখানে](https://unbelievaboat.com/api/botlist) থেকে পান, তারপর "এর পরিবর্তে [এখানে](https://haste.unbelievaboat.com/ID) পেস্ট করুন আইডি"। <br/>
+**ক্রেডিট:** @261674810914897931
 
-### Library Rest & WS Coverage Comparisons
-> __Description:__ A giant feature comparison for what various discord API libraries do both over REST and WS.   <br/>
-(also check [Discord API unofficial](https://discordapi.com/unofficial/) for docs and libraries)   <br/>
-__Link:__ [Library Rest & WS Coverage Comparisons](https://discordapi.com/unofficial/comparison.html) 
+## সমস্ত অফিসিয়াল ডিসকর্ড বট
 
-## Discord Gateway Intents Explainer
-> __Description:__ Info about Discord bot intents.  <br/>
-__Link:__ [Discord Gateway Intents Explainer](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f)  <br/>
-__Credit:__ @190916650143318016
+> **বিবরণ:** একটি তালিকা যাতে সমস্ত বট রয়েছে যা ডিসকর্ড দ্বারা আনুষ্ঠানিকভাবে তৈরি করা হয়েছিল। <br/>
+**লিঙ্ক:** [সমস্ত অফিসিয়াল বট](https://gist.github.com/GeneralSadaf/e58edfb8158df2680aa90ae897c2e327) <br/>
+**ক্রেডিট:** @712626099141476383
 
-## Best Bot Practices
-> __Description:__ Best practices for Discord bots.   <br/>
-__Link:__ [Best Discord Bot Practices](https://github.com/meew0/discord-bot-best-practices)   <br/>
-__Credit:__ @66237334693085184
+## গ্রন্থাগারের তালিকা
 
-## Discord Bots
-> __Description:__ A list of publicly available Discord bots.   <br/>
-__Link:__ [Discord Bots](https://discord.bots.gg/)   <br/>
-__Credit:__ Discord Bots’ site team @66237334693085184
+> **বিবরণ:** সমস্ত ডিসকর্ড API লাইব্রেরির তালিকা এবং তাদের বৈশিষ্ট্য। <br/>
+**লিঙ্ক:** [লাইব্রেরির তালিকা](https://libs.advaith.io/) <br/>
+**ক্রেডিট:** @190916650143318016
 
-## List of Bot Lists (BotBlocks)
-> __Description:__ A centralized list of Discord bot lists.   <br/>
-__Link:__ [Bots Lists List](https://botblock.org/lists) 
+## ডিসকর্ড এপিআই লিবস
 
-## DStat
-> __Description:__ Get statistics about your Discord bot.   <br/>
-__Link:__ [DStat](https://github.com/benricheson101/dstat) <br/>
-__Credit:__ @255834596766253057
+> **বিবরণ:** সমস্ত ডিসকর্ড এপিআই লাইব্রেরির একটি তালিকা। <br/>
+**লিঙ্ক:** [Discord API Libs](https://github.com/apacheli/discord-api-libs) <br/>
+**ক্রেডিট:** @460612586061430806
+
+### লাইব্রেরি বিশ্রাম এবং WS কভারেজ তুলনা
+
+> **বিবরণ:** REST এবং WS উভয় ক্ষেত্রেই বিভিন্ন Discord API লাইব্রেরি যা করে তার জন্য একটি বিশাল বৈশিষ্ট্যের তুলনা। <br/>
+(এছাড়াও ডক্স এবং লাইব্রেরির জন্য [Discord API আনঅফিসিয়াল](https://discordapi.com/unofficial/) চেক করুন) <br/>
+**লিঙ্ক:** [লাইব্রেরি বিশ্রাম এবং WS কভারেজ তুলনা](https://discordapi.com/unofficial/comparison.html)
+
+## ডিসকর্ড গেটওয়ে ইনটেন্টস ব্যাখ্যাকারী
+
+> **বিবরণ:** ডিসকর্ড বট অভিপ্রায় সম্পর্কে তথ্য। <br/>
+**লিঙ্ক:** [ডিসকর্ড গেটওয়ে ইনটেন্টস এক্সপ্লেনার](https://gist.github.com/advaith1/e69bcc1cdd6d0087322734451f15aa2f) <br/>
+**ক্রেডিট:** @190916650143318016
+
+## সেরা বট অনুশীলন
+
+> **বিবরণ:** ডিসকর্ড বটগুলির জন্য সর্বোত্তম অনুশীলন। <br/>
+**লিঙ্ক:** [সেরা ডিসকর্ড বট অনুশীলন](https://github.com/meew0/discord-bot-best-practices) <br/>
+**ক্রেডিট:** @66237334693085184
+
+## ডিসকর্ড বট
+
+> **বিবরণ:** সর্বজনীনভাবে উপলব্ধ ডিসকর্ড বটগুলির একটি তালিকা৷ <br/>
+**লিঙ্ক:** [ডিসকর্ড বট](https://discord.bots.gg/) <br/>
+**ক্রেডিট:** ডিসকর্ড বটস সাইট টিম @66237334693085184
+
+## বট তালিকার তালিকা (বটব্লক)
+
+> **বিবরণ:** ডিসকর্ড বট তালিকার একটি কেন্দ্রীভূত তালিকা। <br/>
+**লিঙ্ক:** [বট তালিকার তালিকা](https://botblock.org/lists)
+
+## ডিস্ট্যাট
+
+> **বিবরণ:** আপনার ডিসকর্ড বট সম্পর্কে পরিসংখ্যান পান। <br/>
+**লিঙ্ক:** [DStat](https://github.com/benricheson101/dstat) <br/>
+**ক্রেডিট:** @255834596766253057
+
+### একজন ইডিয়টস গাইড
+
+> **বিবরণ:** অনানুষ্ঠানিক Discord.js শিক্ষানবিস গাইড, নতুনদের জন্য ইডিয়টস দ্বারা লেখা। <br/>
+**লিঙ্ক:** [একজন ইডিয়টস গাইড](https://anidiots.guide/) <br/>
+**ক্রেডিট:** @github:AnIdiotsGuide

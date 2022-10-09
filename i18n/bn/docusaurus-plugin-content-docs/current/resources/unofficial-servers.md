@@ -1,72 +1,89 @@
 ---
-title: Unofficial Servers
+title: অনানুষ্ঠানিক সার্ভার
 sidebar_position: 8
-description: Unofficial servers related to discord.
+description: ডিসকর্ড সম্পর্কিত অনানুষ্ঠানিক সার্ভার
 ---
 
-# Unofficial Servers
+# অনানুষ্ঠানিক সার্ভার
 
-## Discord API
-> __Description:__ A server dedicated to information and assistance with the Discord API.   <br/>
-__Link:__ [Discord API](https://discord.gg/discord-api)   <br/>
-__Credit:__ Discord API team (owned by @80088516616269824)
+## ডিসকর্ড এপিআই
+
+> **বর্ণনা:** ডিসকর্ড এপিআই এর সাথে তথ্য এবং সহায়তার জন্য নিবেদিত একটি সার্ভার.   <br/>
+**লিঙ্ক:** [ডিসকর্ড এপিআই](https://discord.gg/discord-api)   <br/>
+**ক্রেডিট:** ডিসকর্ড এপিআই দল (@80088516616269824 মালিকানাধীন)
 
 @gg/discord-api
 
-## Discord Linux
-> __Description:__ A server dedicated to information and assistance with the Linux version of Discord.   <br/>
-__Link:__ [Discord Linux](https://discord.gg/discord-linux)   <br/>
-__Credit:__ Discord Linux team (owned by @86201442112671744)
+## ডিসকর্ড লিনাক্স
+
+> **বর্ণনা:** ডিসকর্ডের লিনাক্স সংস্করণের সাথে তথ্য এবং সহায়তার জন্য নিবেদিত একটি সার্ভার।   <br/>
+**লিঙ্ক:** [ডিসকর্ড লিনাক্স](https://discord.gg/discord-linux)   <br/>
+**ক্রেডিট:** ডিসকর্ড লিনাক্স দল (মালিকানাধীন @86201442112671744)
 
 @gg/discord-linux
 
-## Discord Bots
-> __Description:__ The Discord server for the oldest bots list on Discord, affiliated with Discord API.   <br/>
-__Link:__ [Discord Bots](https://discord.gg/dbots)   <br/>
-__Credit:__ Discord Bots’ server team (owned by @66237334693085184)
 
-@gg/dbots
+## ডিসকর্ড নেটওয়ার্কিং
 
-## Discord Networking
-> __Description:__ A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships.   <br/>
-__Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required)   <br/>
-__Credit:__ Discord Networking team (owned by @200987752794292224)
+> **বর্ণনা:** এমন একটি জায়গা যেখানে যে কেউ ডিসকর্ড সার্ভারের ক্রিয়াকলাপে সহায়তা করে তারা একে অপরকে জানতে, পরামর্শ বিনিময় করতে এবং দীর্ঘস্থায়ী অংশীদারিত্ব তৈরি করতে পারে।   <br/>
+**লিঙ্ক:** [ডিসকর্ড নেটওয়ার্কিং](https://discord.gg/BcXExxeGVG)   <br/>
+**ক্রেডিট:** ডিসকর্ড নেটওয়ার্কিং দল (মালিকানাধীন @200987752794292224)
 
 @gg/BcXExxeGVG
 
+## ডিসপ্লেস
 
-## Displace 
-> __Description:__ The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-__Link(s):__ [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
-__Credit:__ The Displace team (owned by @249287049482338305)
+> **বর্ণনা:** সবচেয়ে বড় ডিসকর্ড মেটা সম্প্রদায়। আপনার সম্প্রদায়ের জন্য আপনার সমস্ত ডিসকর্ড সংবাদ, সহায়তা এবং সংস্থান পান।   <br/>
+**লিঙ্ক):** [ডিসপ্লেস সার্ভার](https://discord.gg/displace) | [ডিসপ্লেস ওয়েবসাইট](https://dat.place/)   <br/>
+**ক্রেডিট:** ডিসপ্লেস দল (মালিকানাধীন @249287049482338305)
 
 @gg/displace
 
-## The Coding Den
-> __Description:__  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
-__Link:__ [The Coding Den](https://discord.gg/code)   <br/>
-__Credit:__ The Coding Den team (owned by @229334929614438400)
+## কমিউনিটি আর্কিটেক্টস
+
+> **বর্ণনা:** আমরা কমিউনিটি মডারেটর, প্রশাসক, ডিজাইনার এবং আরও অনেক কিছুকে একত্রিত করতে এবং কমিউনিটি তৈরিতে সহযোগিতা করতে প্রতিশ্রুতিবদ্ধ।   <br/>
+**লিঙ্ক:** [কমিউনিটি আর্কিটেক্টস ডিসকর্ড](https://discord.gg/communityarchitects) | [কমিউনিটি আর্কিটেক্টস ওয়েবসাইট](https://communityarchitects.net)   <br/>
+**ক্রেডিট:** কমিউনিটি আর্কিটেক্টস দল (মালিকানাধীন @354309005037797376)
+
+@gg/communityarchitects
+
+## মোডেরেটরেন এইচকিউ 
+> **বর্ণনা:** মোডেরেটরেন এইচকিউ  (মোড এইচকিউ) একটি জার্মান সম্প্রদায় যেখানে মডারেটর এবং অ্যাডমিনিস্ট্রেটররা একটি ডিসকর্ড সার্ভারকে নিয়ন্ত্রণ করার বিষয়গুলিকে সংযুক্ত করে এবং আলোচনা করে৷ মোড এইচকিউ একটি জ্ঞানী এবং সহায়ক মোড টিমের সাথে একটি নিরাপদ এবং অন্তর্ভুক্তিমূলক সম্প্রদায় গড়ে তোলার জন্য বিভিন্ন বিষয়ে ওয়ার্কশপের আকারে গভীর ডাইভগুলিতে বিশেষজ্ঞ। ইংরেজি স্পিকার এছাড়াও স্বাগত জানাই!  <br/>
+**লিঙ্ক:** [মোডেরেটরেন এইচকিউ](https://discord.gg/modhq)  <br/>
+**ক্রেডিট:** মোড এইচকিউ দল (মালিকানাধীন @160462182344032256)
+
+@gg/modhq
+
+## কোডিং ডেন
+
+> **বর্ণনা:** কোডিং ডেন হল কোডারদের একটি বন্ধুত্বপূর্ণ সম্প্রদায় যারা নতুন এবং অভিজ্ঞ প্রোগ্রামারদের একইভাবে সাহায্য করার দিকে মনোনিবেশ করে৷   <br/>
+**লিঙ্ক:** [কোডিং ডেন](https://discord.gg/code)   <br/>
+**ক্রেডিট:** কোডিং ডেন দল (মালিকানাধীন @229334929614438400)
 
 @gg/code
 
-## Discord Hotline
-> __Description:__ A community for moderators to discuss moderation and Discord meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Discord Hotline team (owned by @108432868149035008)
+## ডিসকর্ড হটলাইন
 
-## The Fish Project
-> __Description:__ Providing early detection of new phishing attacks before they can be used to harm users.   <br/>
-__Link:__ (only by referral) (access request required)   <br/>
-__Credit:__ The Fish Project team (owned by @459235187469975572)
+> **বর্ণনা:** মডারেশন এবং ডিসকর্ড মেটা নিয়ে আলোচনা করার জন্য মডারেটরদের জন্য একটি সম্প্রদায়।   <br/>
+**লিঙ্ক:** (শুধুমাত্র রেফারেল দ্বারা)   <br/>
+**ক্রেডিট:** ডিসকর্ড হটলাইন দল (মালিকানাধীন @108432868149035008)
 
-## Dev Hub
-> __Description:__ A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Dev Hub team (owned by @386861188891279362)
+## ফিশ প্রকল্প
 
-## The Programmers Hangout 
-> __Description:__ The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
-__Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
-__Credit:__ The Programmers Hangout team (owned by @335628039302021121)
+> **বর্ণনা:** ব্যবহারকারীদের ক্ষতি করতে ব্যবহার করার আগে নতুন ফিশিং আক্রমণের প্রাথমিক সনাক্তকরণ প্রদান করা।   <br/>
+**লিঙ্ক:** (শুধুমাত্র রেফারেল দ্বারা) (অ্যাক্সেস অনুরোধ প্রয়োজন)   <br/>
+**ক্রেডিট:** ফিশ প্রকল্প দল (মালিকানাধীন @459235187469975572)
+
+## দেব হাব
+
+> **বর্ণনা:** ধারনা শেয়ার করতে এবং (ডিসকর্ড) মেটা শেয়ার করার জন্য ডেভেলপার এবং দক্ষ ব্যক্তিদের একত্রিত করার জন্য একটি সম্প্রদায়।   <br/>
+**লিঙ্ক:** (শুধুমাত্র রেফারেল দ্বারা)   <br/>
+**ক্রেডিট:** দেব হাব দল (মালিকানাধীন @386861188891279362)
+
+## প্রোগ্রামার হ্যাংআউট
+
+> **বর্ণনা:** প্রোগ্রামার হ্যাঙ্গআউট হল একটি সাধারণ-উদ্দেশ্যের প্রোগ্রামিং সম্প্রদায় যেখানে হ্যাঙ্গআউটের উপর জোর দেওয়া হয়, যা সমস্ত অভিজ্ঞতার স্তরগুলি পূরণ করে৷ ওপেন সোর্স প্রকল্প, শিক্ষা, শিক্ষা, ক্যারিয়ারের অগ্রগতি এবং প্রোগ্রামিং সহায়তার উপর ফোকাস সহ।  <br/>
+**লিঙ্ক:** [প্রোগ্রামার হ্যাংআউট](https://discord.gg/programming) | [প্রোগ্রামার হ্যাঙ্গআউট ওয়েবসাইট](https://theprogrammershangout.com/)   <br/>
+**ক্রেডিট:** প্রোগ্রামার হ্যাংআউট টিম ( @335628039302021121 এর মালিকানাধীন)
 
 @gg/programming

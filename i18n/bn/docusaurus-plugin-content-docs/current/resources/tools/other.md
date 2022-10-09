@@ -4,238 +4,300 @@ sidebar_position: 3
 description: Other useful tools
 ---
 
-# Other
+# অন্য
 
-### CleanURLs
-> __Description:__ ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
-__Link(s):__  <br/>
-[CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
-__Credit:__ @github:KevinRoebert
+## ফাঁকা অক্ষর
 
-### Blank Characters
-> __Description:__ A list of blank Unicode characters. <br/>
-__Link:__ [Blank Charcaters](https://character.construction/blanks)
+> **বিবরণ:** ফাঁকা ইউনিকোড অক্ষরগুলির একটি তালিকা৷ <br/>
+**লিঙ্ক:** [খালি অক্ষর](https://character.construction/blanks)
 
-### Bitwarden
-> __Description:__ Open source password manager.   <br/>
-__Link:__ [Bitwarden](https://bitwarden.com/)
+## বিটওয়ার্ডেন
 
-### Blobs
-> __Description:__ A server list of blob emojis. <br/>
-__Link:__ [Blobs](https://blobs.gg/) <br/>
-__Credit:__ @69198249432449024
+> **বিবরণ:** ওপেন সোর্স পাসওয়ার্ড ম্যানেজার। <br/>
+**লিঙ্ক:** [বিটওয়ার্ডেন](https://bitwarden.com/)
 
-### CitizenLab
-> __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
-__Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
+## ব্লবস
 
-### Polywork
-> __Description:__ Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
-__Link:__ [Polywork](https://www.polywork.com/)
+> **বিবরণ:** ব্লব ইমোজির একটি সার্ভার তালিকা। <br/>
+**লিঙ্ক:** [ব্লবস](https://blobs.gg/) <br/>
+**ক্রেডিট:** @69198249432449024
 
-### Rize
-> __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
-__Link:__ [Rize](https://rize.io)
+## সিটিজেনল্যাব
 
-### Files
-> __Description:__ File manager for Windows, focused on design.  <br/>
-__Link:__ [Files](https://files.community/)
+> **বিবরণ:** দেশের কোড দ্বারা বিভক্ত ইউআরএল সেন্সরশিপ পরীক্ষা করতে সাহায্য করার উদ্দেশ্যে ইউআরএল পরীক্ষার তালিকা। <br/>
+**লিঙ্ক:** [সিটিজেনল্যাব](https://github.com/citizenlab/test-lists)
 
-### One Commander
-> __Description:__ File manager for Windows, focused on productivity.  <br/>
-__Link:__ [One Commander](https://www.onecommander.com/)
+## CleanURLs
 
-### Carrd
-> __Description:__ Build one-page websites.   <br/>
-__Link:__ [Carrd](https://carrd.co/)
+> **বিবরণ:** ClearURLs হল একটি অ্যাড-অন যা নতুন WebExtensions প্রযুক্তির উপর ভিত্তি করে এবং স্বয়ংক্রিয়ভাবে আপনার গোপনীয়তা রক্ষা করতে ইউআরএল থেকে ট্র্যাকিং উপাদানগুলি সরিয়ে দেবে। <br/>
+**লিঙ্ক(গুলি):** <br/>
+[CleanUrls](https://github.com/ClearURLs/Addon) <br/>
+[CleanUrls ডক্স](https://docs.clearurls.xyz/latest/) <br/>
+**ক্রেডিট:** @গিথুব:কেভিনরোবার্ট
 
-### Down for Everyone or Just Me
-> __Description:__ A site that checks if a domain is up.   <br/>
-__Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
-### KeyCDN Tools
-> __Description:__ Many tools related to web, networking and security checkings.  <br/>
-__Link:__ [KeyCDN Tools](https://tools.keycdn.com/)
+## পলিওয়ার্ক
 
-### Dehashed
-> __Description:__ Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
-__Link:__ [Dehashed](https://dehashed.com)
+> **বিবরণ:** পলিওয়ার্ক হল একটি পেশাদার সামাজিক নেটওয়ার্ক যা ব্যবহারকারীদের একটি বিনামূল্যের ব্যক্তিগত ওয়েবপেজ তৈরি করতে দেয়, ব্যক্তিগতভাবে এবং পেশাগতভাবে তারা যা করতে চায় তা শেয়ার করতে এবং অন্যদের সহযোগিতার অনুরোধ পাঠাতে দেয়। <br/>
+**লিঙ্ক:** [পলিওয়ার্ক](https://www.polywork.com/)
 
-### Terms Of Service ; Didn't Read
-> __Description:__ Summarized terms of service for all known companies.  <br/>
-__Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
+## রিজ
 
-### TimezoneWizard
-> __Description:__ Easy to use tool for finding timezones all across the globe.  <br/>
-__Link:__ [TimezoneWizard](https://timezonewizard.com/)
+> **বিবরণ:** Rize হল একটি বুদ্ধিমান সময় ট্র্যাকার যা আপনার ফোকাস উন্নত করে এবং আপনাকে আরও ভাল কাজের অভ্যাস গড়ে তুলতে সাহায্য করে। <br/>
+**লিঙ্ক:** [Rize](https://rize.io)
 
-### C.O.A.C.H
-> __Description:__ Tidying up your online security, step by step.   <br/>
-__Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
+## নথি পত্র
 
-### Empty Characters
-> __Description:__ List and methods to Unicode empty characters.   <br/>
-__Link:__ [Empty Characters](https://emptycharacter.com)
+> **বিবরণ:** উইন্ডোজের জন্য ফাইল ম্যানেজার, ডিজাইনের উপর দৃষ্টি নিবদ্ধ করে। <br/>
+**লিঙ্ক:** [ফাইলস](https://files.community/)
 
-### Awesome
-> __Description:__ Collection of lists about various topics.   <br/>
-__Link:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
-__Credit:__ @github:sindresorhus
+## একজন কমান্ডার
 
-### Internet Slang
-> __Description:__ A list of slang used across the internet.   <br/>
-__Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
+> **বিবরণ:** উইন্ডোজের জন্য ফাইল ম্যানেজার, উৎপাদনশীলতার উপর দৃষ্টি নিবদ্ধ করে। <br/>
+**লিঙ্ক:** [একজন কমান্ডার](https://www.onecommander.com/)
 
-### Invited 
-> __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
-__Link:__ [Invited](https://invited.tv/)
+## কার্ড
 
-### Obsidian
-> __Description:__ An advanced note-taking app.  <br/>
-__Link:__ [Obsidian](https://obsidian.md/)
+> **বিবরণ:** এক-পৃষ্ঠার ওয়েবসাইট তৈরি করুন। <br/>
+**লিঙ্ক:** [কার্ড](https://carrd.co/)
 
-### Trello
-> __Description:__ Manage collaborative projects easily.  <br/>
-__Link:__ [Trello](https://trello.com/)
+## ডাউন ফর এভরিওয়ান বা শুধু আমার
 
-### Notion
-> __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
-__Link:__ [Notion](https://www.notion.so/)
+> **বিবরণ:** একটি সাইট যা পরীক্ষা করে যে একটি ডোমেন আপ আছে কিনা। <br/>
+**লিঙ্ক:** [Down for everyone or Just Me](https://downforeveryoneorjustme.com/)
 
-### Tina
-> __Description:__ Open-source content management tool.  <br/>
-__Link:__ [Tina](https://tina.io/)
+## কীসিডিএন টুলস
 
-### Nord Theme
-> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
-__Link:__ [Nord Theme](https://www.nordtheme.com/)
+> **বিবরণ:** ওয়েব, নেটওয়ার্কিং এবং নিরাপত্তা পরীক্ষা সংক্রান্ত অনেক টুল। <br/>
+**লিঙ্ক:** [কিসিডিএন টুলস](https://tools.keycdn.com/)
 
-### Pronoun Island
-> __Description:__ A website for personal pronoun usage examples.   <br/>
-__Link:__ [Pronoun Island](https://pronoun.is/)
+## হাতছাড়া
 
-### PronounDB
-> __Description:__ Pronouns intergration for websites and apps.  <br/>
-__Link:__ [ProunounDB](https://pronoundb.org/)  <br/>
-__Credit:__ @94762492923748352
+> **বিবরণ:** ব্যবহারকারীর নাম, ইমেল, আইপি, ঠিকানা, ফোন, ভিন, ইত্যাদি তথ্য লঙ্ঘন খুঁজে বের করার টুল৷ <br/>
+**লিঙ্ক:** [দেহশেড](https://dehashed.com)
 
-### Pronouns.page
-> __Description:__ Information about nonbinary and gender neutral language.  <br/>
-__Link:__ [Pronouns.page](https://en.pronouns.page/)
+## সেবা পাবার শর্ত ; পড়িনি
 
-### Flaticon
-> __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
-__Link:__ [Flaticon](https://www.flaticon.com/)
+> **বিবরণ:** সমস্ত পরিচিত কোম্পানির জন্য সংক্ষিপ্ত পরিষেবার শর্তাবলী। <br/>
+**লিঙ্ক:** [পরিষেবার শর্তাবলী; পড়া হয়নি](https://tosdr.org/)
 
-### Photopea
-> __Description:__ Free online image editor.   <br/>
-__Link:__ [Photopea](https://www.photopea.com/)
+## টাইমজোন উইজার্ড
 
-### Random Sites
-> __Description:__ Generates a small list of random website URLs.   <br/>
-__Link:__ [Random Sites](https://www.randomlists.com/websites)
+> **বিবরণ:** সারা বিশ্ব জুড়ে টাইমজোন খোঁজার জন্য টুল ব্যবহার করা সহজ। <br/>
+**লিঙ্ক:** [TimezoneWizard](https://timezonewizard.com/)
 
-### ShareX
-> __Description:__ Best sharing app.  
-__Link:__ [ShareX](https://getsharex.com/)   <br/>
-__Credit:__ @95576568025329664
+## C.O.A.C.H
 
-### pfp.lgbt
-> __Description:__ A tool to "LGBTQ+fy" your images.  <br/>
-__Link:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
-__Credit:__ @109710323094683648 @139836912335716352 
+> **বিবরণ:** ধাপে ধাপে আপনার অনলাইন নিরাপত্তা পরিপাটি করা। <br/>
+**লিঙ্ক:** [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 
-### Statista
-> __Description:__ Statistics and business data platform for over 170 industries.   <br/>
-__Link:__ [Statista](https://statista.com)
+## খালি অক্ষর
 
-### Semantic Scholar
-> __Description:__ Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
-__Link:__ [Semantic Scholar](https://www.semanticscholar.org/) 
+> **বিবরণ:** ইউনিকোড খালি অক্ষরের তালিকা এবং পদ্ধতি। <br/>
+**লিঙ্ক:** [খালি অক্ষর](https://emptycharacter.com)
 
-### Simple Analytics
-> __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
-__Link:__ [Simple Analytics](https://simpleanalytics.com/)
+## অসাধারণ
 
-### Grafana
-> __Description:__ Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
-__Link:__ [Grafana](https://grafana.com/)
+> **বিবরণ:** বিভিন্ন বিষয়ের তালিকার সংগ্রহ। <br/>
+**লিঙ্ক:** [অসাধারণ](https://github.com/sindresorhus/awesome) <br/>
+**ক্রেডিট:** @github:sindresorhus
 
-### The LaTeX Project
-> __Description:__ LaTeX is a document preparation system, useful for scientific or technical documents. <br/>
-__Link:__ [The LaTeX Project](https://latex-project.org) <br/>
-__Credit:__ @github:latex3 
+## ইন্টারনেট স্ল্যাং
 
-### Web Archives
-> __Description:__ Explore web pages saved over time.  <br/>
-__Link:__ <br/>  
-[Web Archives](https://web.archive.org/)  <br/>
-[Arvhive.is](https://archive.is/)
+> **বিবরণ:** ইন্টারনেট জুড়ে ব্যবহৃত অপবাদের একটি তালিকা। <br/>
+**লিঙ্ক:** [ইন্টারনেট স্ল্যাং](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
-### AlternativeTo
-> __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
-__Link:__ [AlternativeTo](https://alternativeto.net/)
+## আমন্ত্রিত
 
-### Internet Download Manager
-> __Description:__ Tool that makes downloading videos and files through the browser easy.  <br/>
-__Link:__ [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
+> **বিবরণ:** একটি শেয়ার্ড ভার্চুয়াল ব্রাউজারের মাধ্যমে সিনেমা, ইউটিউব দেখুন বা এমনকি গান শুনুন। <br/>
+**লিঙ্ক:** [আমন্ত্রিত](https://invited.tv/)
 
-### Whois Lookup
-> __Description:__ Lookup information about domains or IP addresses.  <br/>
-__Link:__ [Whois Lookup](https://whois.domaintools.com/)
+## অবসিডিয়ান
 
-### Status Page
-> __Description:__ Communicate real-time status to your members.   <br/>
-__Link:__ [Status Page](https://statuspage.io)
+> **বিবরণ:** একটি উন্নত নোট নেওয়ার অ্যাপ। <br/>
+**লিঙ্ক:** [অবসিডিয়ান](https://obsidian.md/)
 
-### Tone Indicators Website
-> __Description:__ Find and understand text tone indicators.   <br/>
-__Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
+## ট্রেলো
 
-### URL Scanner
-> __Description:__ Scans URLs and gives details about them.   <br/>
-__Link:__ [URL Scan](https://urlscan.io/)
+> **বিবরণ:** সহজেই সহযোগী প্রকল্প পরিচালনা করুন। <br/>
+**লিঙ্ক:** [Trello](https://trello.com/)
 
-### URL Expander
-> __Description:__ Expand short URLs.   <br/>
-__Link:__ [URL Expander](https://urlex.org/)
+## ধারণা
 
-### Waifu2x
-> __Description:__ Image scaling and noise reduction for anime-style art.   <br/>
-__Link:__ [waifu2x](http://waifu2x.udp.jp/)
+> **বিবরণ:** কর্মপ্রবাহ এবং ওয়েবসাইট তৈরি করার জন্য একটি পণ্য, আপনার প্রয়োজনের জন্য সম্পূর্ণরূপে কাস্টমাইজযোগ্য। <br/>
+**লিঙ্ক:** [ধারণা](https://www.notion.so/)
 
-### True Size
-> __Description:__ A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
-__Link:__ [True Size](https://thetruesize.com/) 
+## টিনা
 
-### Visual Center
-> __Description:__ Find the visual center of your images.  <br/>
-__Link:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
-__Credit:__ @github:javierbyte
+> **বিবরণ:** ওপেন সোর্স কন্টেন্ট ম্যানেজমেন্ট টুল। <br/>
+**লিঙ্ক:** [টিনা](https://tina.io/)
 
-### Lightmode is Necessary
-> __Description:__ An article explaining why lightmode is an important to software. <br/>
-__Link:__ [Article](https://lightmode.glitch.me) <br/>
+## নর্ড থিম
 
-### ProtonMail
-> __Description:__ Open Source E2E encrypted Email Service. <br/>
-__Link:__ [ProtonMail](https://protonmail.com) <br/>
+> **বিবরণ:** একটি আর্কটিক-অনুপ্রাণিত রঙ প্যালেট এবং বিভিন্ন সাইট এবং অ্যাপ্লিকেশনের জন্য থিম সংগ্রহ। <br/>
+**লিঙ্ক:** [নর্ড থিম](https://www.nordtheme.com/)
 
-### dCode
-> __Description:__ dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
-__Link:__ [dCode Website](https://dcode.fr/en)  <br/>
-__Credit:__ @273906785788624907
+## সর্বনাম দ্বীপ
 
-### Computer Hope
-> __Description:__ Free computer help and support. <br/>
-__Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
+> **বিবরণ:** ব্যক্তিগত সর্বনাম ব্যবহারের উদাহরণের জন্য একটি ওয়েবসাইট। <br/>
+**লিঙ্ক:** [সর্বনাম দ্বীপ](https://pronoun.is/)
 
-### Skill Icons
-> __Description:__ Showcase languages, frameworks and tools used on a GitHub profile. <br/>
-__Link:__ [Skill Icons](https://skillicons.dev/) <br/>
-__Credit:__ @276544649148235776
+## সর্বনাম ডিবি
 
-### Savefrom
-> __Description:__ Download any content from popular sites.  <br/>
-__Link:__ [Savefrom](https://savefrom.net/)
+> **বিবরণ:** ওয়েবসাইট এবং অ্যাপের জন্য সর্বনাম একত্রীকরণ। <br/>
+**লিঙ্ক:** [ProunounDB](https://pronoundb.org/) <br/>
+**ক্রেডিট:** @94762492923748352
+
+## সর্বনাম.পৃষ্ঠা
+
+> **বিবরণ:** অবাইনারি এবং লিঙ্গ নিরপেক্ষ ভাষা সম্পর্কে তথ্য। <br/>
+**লিঙ্ক:** [সর্বনাম.পৃষ্ঠা](https://en.pronouns.page/)
+
+## ফ্ল্যাটিকন
+
+> **বিবরণ:** আপনার প্রকল্পের জন্য বিনামূল্যে ভেক্টর আইকন এবং স্টিকার। ডিজাইনারদের দ্বারা এবং তাদের জন্য তৈরি সম্পদ। <br/>
+**লিঙ্ক:** [ফ্ল্যাটিকন](https://www.flaticon.com/)
+
+## ফটোপিয়া
+
+> **বিবরণ:** বিনামূল্যে অনলাইন চিত্র সম্পাদক। <br/>
+**লিঙ্ক:** [ফটোপিয়া](https://www.photopea.com/)
+
+## এলোমেলো সাইট
+
+> **বিবরণ:** এলোমেলো ওয়েবসাইট URL-এর একটি ছোট তালিকা তৈরি করে। <br/>
+**লিঙ্ক:** [এলোমেলো সাইট](https://www.randomlists.com/websites)
+
+## শেয়ারএক্স
+
+> **বিবরণ:** স্ক্রিন ক্যাপচার, ফাইল শেয়ারিং এবং উৎপাদনশীলতা টুল। <br/>
+**লিঙ্ক:** [শেয়ারএক্স](https://getsharex.com/) <br/>
+**ক্রেডিট:** @95576568025329664
+
+## pfp.lgbt
+
+> **বিবরণ:** আপনার ছবি "LGBTQ+fy" করার একটি টুল। <br/>
+**লিঙ্ক:** [pfp.lgbt](https://pfp.lgbt/) <br/>
+**ক্রেডিট:** @109710323094683648 @139836912335716352
+
+## পরিসংখ্যান
+
+> **বিবরণ:** 170 টিরও বেশি শিল্পের জন্য পরিসংখ্যান এবং ব্যবসা ডেটা প্ল্যাটফর্ম। <br/>
+**লিঙ্ক:** [Statista](https://statista.com)
+
+## শব্দার্থিক স্কলার
+
+> **বিবরণ:** তথ্য ওভারলোড সহ্য না করেই আপনাকে বৈজ্ঞানিক নিবন্ধ খুঁজে পেতে সাহায্য করার জন্য শব্দার্থিক স্কলার AI ব্যবহার করে। <br/>
+**লিঙ্ক:** [অর্থবোধক স্কলার](https://www.semanticscholar.org/)
+
+## সহজ বিশ্লেষণ
+
+> **বিবরণ:** সাইটের জন্য সহজ, পরিষ্কার এবং বন্ধুত্বপূর্ণ বিশ্লেষণ। <br/>
+**লিঙ্ক:** [সরল বিশ্লেষণ](https://simpleanalytics.com/)
+
+##গ্রাফনা
+
+> **বিবরণ:** নান্দনিক ড্যাশবোর্ডের সাহায্যে আপনার ডেটা ক্যোয়ারী করুন, ভিজ্যুয়ালাইজ করুন, সতর্ক করুন এবং বুঝুন। <br/>
+**লিঙ্ক:** [গ্রাফনা](https://grafana.com/)
+
+## ল্যাটেক্স প্রকল্প
+
+> **বিবরণ:** LaTeX হল একটি নথি তৈরির ব্যবস্থা, যা বৈজ্ঞানিক বা প্রযুক্তিগত নথির জন্য উপযোগী। <br/>
+**লিঙ্ক:** [The LaTeX প্রজেক্ট](https://latex-project.org) <br/>
+**ক্রেডিট:** @github:latex3
+
+## ওয়েব আর্কাইভস
+
+> **বিবরণ:** সময়ের সাথে সংরক্ষিত ওয়েব পৃষ্ঠাগুলি অন্বেষণ করুন৷ <br/>
+**লিংক:**
+[ওয়েব আর্কাইভস](https://web.archive.org/) <br/>
+[Archive.is](https://archive.is/)
+
+## বিকল্প
+
+> **বিবরণ:** AlternativeTo হল একটি ক্রাউড-সোর্স ওয়েবসাইট যা বিভিন্ন উদ্দেশ্যে বিকল্প সফ্টওয়্যার খুঁজতে চায়। <br/>
+**লিঙ্ক:** [AlternativeTo](https://alternativeto.net/)
+
+## ইন্টারনেট ডাউনলোড ম্যানেজার
+
+> **বিবরণ:** একটি টুল যা ব্রাউজারের মাধ্যমে ভিডিও এবং ফাইল ডাউনলোড করা সহজ করে তোলে। <br/>
+**লিঙ্ক:** [ইন্টারনেট ডাউনলোড ম্যানেজার ডাউনলোড করুন](https://www.internetdownloadmanager.com/download.html)
+
+## হুইস লুকআপ
+
+> **বিবরণ:** ডোমেন বা আইপি ঠিকানা সম্পর্কে তথ্য সন্ধান করুন। <br/>
+**লিঙ্ক:** [হুইস লুকআপ](https://whois.domaintools.com/)
+
+## স্ট্যাটাস পেজ
+
+> **বিবরণ:** আপনার সদস্যদের রিয়েল-টাইম স্ট্যাটাস যোগাযোগ করুন। <br/>
+**লিঙ্ক:** [স্থিতি পৃষ্ঠা](https://statuspage.io)
+
+## টোন ইন্ডিকেটর ওয়েবসাইট
+
+> **বিবরণ:** টেক্সট টোন সূচক খুঁজুন এবং বুঝুন। <br/>
+**লিঙ্ক:** [টোন ইন্ডিকেটর](https://toneindicators.carrd.co/)
+
+## ইউআরএল স্ক্যানার
+
+> **বিবরণ:** ইউআরএল স্ক্যান করে এবং তাদের সম্পর্কে বিশদ বিবরণ দেয়। <br/>
+**লিঙ্ক:** [URL স্ক্যান](https://urlscan.io/)
+
+## ইউআরএল এক্সপান্ডার
+
+> **বিবরণ:** ছোট ইউআরএল প্রসারিত করুন। <br/>
+**লিঙ্ক:** [ইউআরএল এক্সপান্ডার](https://urlex.org/)
+
+## ওয়াইফু২এক্স
+
+> **বিবরণ:** এনিমে-শৈলী শিল্পের জন্য চিত্র স্কেলিং এবং শব্দ হ্রাস। <br/>
+**লিঙ্ক:** [waifu2x](http://waifu2x.udp.jp/)
+
+## সত্যিকারের আকার
+
+> **বিবরণ:** একটি বৈশ্বিক মানচিত্র যেখানে আপনি আকারের আরও ভাল তুলনা দেখতে ল্যান্ডমাসগুলিকে টেনে আনতে এবং ফেলে দিতে পারেন৷ <br/>
+**লিঙ্ক:** [ট্রু সাইজ](https://thetruesize.com/)
+
+## ভিজ্যুয়াল সেন্টার
+
+> **বিবরণ:** আপনার ছবির ভিজ্যুয়াল কেন্দ্র খুঁজুন। <br/>
+**লিঙ্ক:** [ভিজ্যুয়াল সেন্টার](https://javier.xyz/visual-center/) <br/>
+**ক্রেডিট:** @github:javierbyte
+
+## লাইটমোড প্রয়োজনীয়
+
+> **বিবরণ:** সফ্টওয়্যারের জন্য হালকা মোড কেন গুরুত্বপূর্ণ তা ব্যাখ্যা করে একটি নিবন্ধ। <br/>
+**লিঙ্ক:** [নিবন্ধ](https://lightmode.glitch.me) <br/>
+
+## প্রোটনমেইল
+
+> **বিবরণ:** ওপেন সোর্স E2E এনক্রিপ্ট করা ইমেল পরিষেবা। <br/>
+**লিঙ্ক:** [প্রোটনমেইল](https://protonmail.com) <br/>
+
+## ডিকোড
+
+> **বিবরণ:** dCode হল একটি সার্বজনীন ওয়েবসাইট যা বার্তা এনকোডিং এবং ডিকোড করার জন্য ব্যবহৃত হয়। এছাড়াও সম্পর্কিত সরঞ্জাম একটি গুচ্ছ প্রস্তাব. <br/>
+**লিঙ্ক:** [dCode ওয়েবসাইট](https://dcode.fr/en) <br/>
+**ক্রেডিট:** @273906785788624907
+
+## কম্পিউটার আশা
+
+> **বিবরণ:** বিনামূল্যে কম্পিউটার সহায়তা এবং সহায়তা। <br/>
+**লিঙ্ক:** [কম্পিউটারহোপ](https://www.computerhope.com/) <br/>
+
+## দক্ষতার আইকন
+
+> **বিবরণ:** একটি GitHub প্রোফাইলে ব্যবহৃত ভাষা, ফ্রেমওয়ার্ক এবং সরঞ্জামগুলি প্রদর্শন করুন৷ <br/>
+**লিঙ্ক:** [স্কিল আইকন](https://skillicons.dev/) <br/>
+**ক্রেডিট:** @276544649148235776
+
+## থেকে সংরক্ষণ
+
+> **বিবরণ:** জনপ্রিয় সাইট থেকে যেকোনো সামগ্রী ডাউনলোড করুন। <br/>
+**লিঙ্ক:** [সেভফ্রম](https://savefrom.net/)
+
+## Tixte
+
+> **বিবরণ:** Tixte হল একটি বিষয়বস্তু-ভাগ করার প্ল্যাটফর্ম যা ব্যক্তিগতকৃত লিঙ্ক এবং পৃষ্ঠাগুলির মাধ্যমে যেকোন ব্যক্তির সাথে ফাইলগুলি ভাগ করা সহজ করে তোলে৷ <br/>
+**লিঙ্ক:** [Tixte](https://tixte.com/)<br/>
+**ক্রেডিট:** @684155404078415890

@@ -1,36 +1,36 @@
 ---
-title: Moderation
+title: ব্যবস্থাপনা
 sidebar_position: 6
-description: Moderation resources
+description: ব্যবস্থাপনা সম্পদ
 ---
 
-# Moderation
+# ব্যবস্থাপনা
 
-### Modcast Podcast (recently affiliated)
-> __Description:__ A podcast by moderators for moderators.   <br/>
-__Link:__ [Modcast Podcast](https://modcast.network/)   <br/>
-__Credit:__ [ModPod team](https://modcast.network/meet-the-team/) 
+## **ডিসকর্ড মডারেটর একাডেমী**
 
-### Discord Moderator Academy
-> __Description:__ Discord’s official resources for moderators, written by moderators.   <br/>
-__Link:__ [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-__Credit:__ Multiple Authors (Discord Moderator Ecosystem)
+> **বর্ণনা:** মডারেটরদের জন্য ডিসকর্ড-এর অফিসিয়াল রিসোর্স, মডারেটরদের লেখা.   <br/>
+**লিঙ্ক:** [ডিসকর্ড মডারেটর একাডেমী](https://dis.gd/moderation)   <br/>
+**ক্রেডিট:** একাধিক লেখক (ডিসকর্ড মডারেটর ইকোসিস্টেম)
 
-### Discord Moderator Ecosystem 
-> __Description:__ Official ecosystem for moderators to discuss moderation.   <br/>
-__Link:__ [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+## **ডিসকর্ড মডারেটর ইকোসিস্টেম**
 
-### Naviking’s Moderation Templates & Tools Documentation
-> __Description:__ A drive file full of moderation resources.   <br/>
-__Link:__ [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-__Credit:__ @200987752794292224
+> **বর্ণনা:** মডারেশন নিয়ে আলোচনা করার জন্য মডারেটরদের জন্য অফিসিয়াল ইকোসিস্টেম.   <br/>
+**লিঙ্ক:** [ডিসকর্ড মডারেটর ইকোসিস্টেম](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-### Moderation Guidelines
-> __Description:__ A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
-__Link:__ [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-__Credit:__ @366652352125599744
+## **নেভিকিং এর মডারেশন টেমপ্লেট এবং টুল ডকুমেন্টেশন**
 
-### A Guide To Civil Conversation
-> __Description:__ Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
-__Link:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-__Credit:__ @102102717165506560
+> **বর্ণনা:** সংযম সম্পদ পূর্ণ একটি ড্রাইভ ফাইল.   <br/>
+**লিঙ্ক:** [নেভিকিং এর মডারেশন টেমপ্লেট এবং টুল ডকুমেন্টেশন](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+**ক্রেডিট:** @200987752794292224
+
+## **মডারেটর নির্দেশিকা**
+
+> **বর্ণনা:**একটি টেমপ্লেট নতুন কর্মীদের অনবোর্ডিং এবং সার্ভারের সংযম অনুশীলনগুলি বুঝতে সাহায্য করার জন্য.   <br/>
+**লিঙ্ক:** [মডারেটর নির্দেশিকা](https://staff-guidelines.super.site/)   <br/>
+**ক্রেডিট:** @366652352125599744
+
+## **সভ্য কথোপকথনের জন্য একটি গাইড**
+
+> **বর্ণনা:** মডারেটরদের কাজ কমানোর লক্ষ্যে বিস্তৃত, এখনও পালিশ সম্প্রদায়ের নিয়মকানুন.   <br/>
+**লিঙ্ক:** [সভ্য কথোপকথনের জন্য একটি গাইড](https://conversation.guide/)   <br/>
+**ক্রেডিট:** @102102717165506560

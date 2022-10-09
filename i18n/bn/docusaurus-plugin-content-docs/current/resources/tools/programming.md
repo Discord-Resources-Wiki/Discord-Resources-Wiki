@@ -1,107 +1,142 @@
 ---
-title: Programming Related 
+title: প্রোগ্রামিং সম্পর্কিত
 sidebar_position: 2
-description: Programming related tools
+description: প্রোগ্রামিং সম্পর্কিত সরঞ্জাম
 ---
 
-# Programming Related
+# প্রোগ্রামিং সম্পর্কিত
 
-### Autocode
-> __Description:__ Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
-__Link:__ [Autocode](https://autocode.com/)  <br/>
-__Credit:__ @746460957651501196
+## অটোকোড
 
-### Stack Overflow
-> __Description:__ A place to find solutions and discuss coding related problems.  <br/>
-__Link:__ [Stack Overflow](https://stackoverflow.com/)
+> **বিবরণ:** অটোকোড জাভাস্ক্রিপ্ট (Node.js) ফাংশনগুলিকে তাত্ক্ষণিকভাবে পরিমাপযোগ্য ওয়েব পরিষেবাগুলিতে পরিণত করে, কোন কনফিগারেশনের প্রয়োজন নেই৷ <br/>
+**লিঙ্ক:** [অটোকোড](https://autocode.com/) <br/>
+**ক্রেডিট:** @746460957651501196
 
-### RapidAPI
-> __Description:__ Find APIs to all purposes.  <br/>
-__Link:__ [RapidAPI](https://rapidapi.com/)
+## স্ট্যাক ওভারফ্লো
 
-### Some Random API
-> __Description:__ Variety of fun endpoints for devs to use.  <br/>
-__Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
-__Credit:__ @423675224395874314 
+> **বিবরণ:** সমাধান খোঁজার এবং কোডিং সংক্রান্ত সমস্যা নিয়ে আলোচনা করার জায়গা। <br/>
+**লিঙ্ক:** [স্ট্যাক ওভারফ্লো](https://stackoverflow.com/)
 
-### Choose A License
-> __Description:__ Choose a license for your open source project.   <br/>
-__Link:__ [Choose A License](https://choosealicense.com/)
+## RapidAPI
 
-### Docker
-> __Description:__ Simplifies development processes.   <br/>
-__Link:__ [Docker](https://www.docker.com/)
+> **বিবরণ:** সকল উদ্দেশ্যে APIs খুঁজুন। <br/>
+**লিঙ্ক:** [RapidAPI](https://rapidapi.com/)
 
-### Visual Studio Code
-> __Description:__ Free and biggest code editing tool. <br/>
-__Link:__ [Visual studio code](https://code.visualstudio.com)  
+## কিছু র্যান্ডম API
 
-### Docusaurus
-> __Description:__ An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
-__Link:__ [Docusaurus](https://docusaurus.io/)
+> **বিবরণ:** devs ব্যবহার করার জন্য মজার শেষ পয়েন্ট বিভিন্ন. <br/>
+**লিঙ্ক:** [কিছু র্যান্ডম API](https://some-random-api.ml/) <br/>
+**ক্রেডিট:** @423675224395874314
 
-### GitBook
-> __Description:__ Create docs full of utilities and design options.  <br/>
-__Link:__ [GitBook](https://www.gitbook.com/)
+## একটি লাইসেন্স চয়ন করুন
 
-### GitHub’s Guides and Documentation
-> __Description:__ Self explanatory.   <br/>
-__Link(s):__ 
-[Docs](https://docs.github.com/en)   <br/>
-[Guides](https://guides.github.com/)   <br/>
-[Community Help](https://github.community/)
+> **বিবরণ:** আপনার ওপেন সোর্স প্রকল্পের জন্য একটি লাইসেন্স চয়ন করুন৷ <br/>
+**লিঙ্ক:** [একটি লাইসেন্স চয়ন করুন](https://choosealicense.com/)
 
-### Github Education Pack
-> __Description:__ Free Developer Tools provided by Github Education Pack   <br/>
-__Link:__ [Github Education Pack](https://education.github.com/)
+## ডকার
 
-### Public APIs
-> __Description:__ Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
-__Link:__ [Public APIs](https://github.com/public-apis/public-apis)
+> **বিবরণ:** উন্নয়ন প্রক্রিয়া সহজ করে। <br/>
+**লিঙ্ক:** [ডকার](https://www.docker.com/)
 
-### HTTPS Statuses
-> __Description:__ A list of HTTP status codes.   <br/>
-__Link:__ [HTTPS Statuses](https://httpstatuses.com/)
+## ভিজ্যুয়াল স্টুডিও কোড
 
-### Does My Site Need HTTPS?
-> __Description:__ An informative page explaining the importance of HTTPS.  <br/>
-__Link:__ [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+> **বিবরণ:** বিনামূল্যে এবং সবচেয়ে বড় কোড এডিটিং টুল। <br/>
+**লিঙ্ক:** [ভিজ্যুয়াল স্টুডিও কোড](https://code.visualstudio.com)
 
-### HTTP Toolkit
-> __Description:__ Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
-__Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-__Credit:__ github:@pimterry
+## ডকুসৌরাস
 
-### Markdown Guide
-> __Description:__ The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
-__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+> **বিবরণ:** প্রতিক্রিয়াতে একটি অপ্টিমাইজ করা সাইট জেনারেটর। Docusaurus আপনাকে দ্রুত সরাতে এবং বিষয়বস্তু লিখতে সাহায্য করে। <br/>
+**লিঙ্ক:** [ডকুসারাস](https://docusaurus.io/)
 
-### Qwerty.dev
-> __Description:__ Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
-__Link:__ [Qwerty.dev](https://qwerty.dev/)
+## গিটবুক
 
-### replit
-> __Description:__ An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
-__Link:__ [replit](https://replit.com/)
+> **বিবরণ:** ইউটিলিটি এবং ডিজাইনের বিকল্পে পূর্ণ ডক্স তৈরি করুন। <br/>
+**লিঙ্ক:** [গিটবুক](https://www.gitbook.com/)
 
-### Regex101
-> __Description:__ Build, test, and debug regex.   <br/>
-__Link:__ [Regex101](https://regex101.com/)
+## গিটহাবের গাইড এবং ডকুমেন্টেশন
 
-### RegExp Generator
-> __Description:__ Unicode range RegExp generator.   <br/>
-__Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
+> **বর্ণনা:** স্ব-ব্যাখ্যামূলক। <br/>
+**লিংক(গুলি):**
+[ডক্স](https://docs.github.com/en) <br/>
+[গাইড](https://guides.github.com/) <br/>
+[কমিউনিটি হেল্প](https://github.community/)
 
-### Regex Crossword
-> __Description:__ Learn regex through puzzles and challenges.   <br/>
-__Link:__ [Regex Crossword](https://regexcrossword.com/)
+## গিটহাব শিক্ষা প্যাক
 
-### Guide(s) to contributing on Open Source Software
-> __Description:__ A list of various resources to help OSS contributors. <br/>
-__Link:__ [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-__Credit:__ @github:freeCodeCamp
+> **বিবরণ:** গিটহাব এডুকেশন প্যাক দ্বারা প্রদত্ত ফ্রি ডেভেলপার টুল। <br/>
+**লিঙ্ক:** [গিটহাব এডুকেশন প্যাক](https://education.github.com/)
 
-### Big List of Nasty Strings
-> __Description:__ A list of strings to help test for edge cases <br/>
-__Link:__ [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-__Credit:__ @github:minimaxir
+## পাবলিক API
+
+> **বিবরণ:** সর্বজনীন APIগুলি হল আপনার প্রকল্পগুলিতে ব্যবহার করার জন্য APIগুলির একটি ভালভাবে রক্ষণাবেক্ষণ করা তালিকা, যেখানে প্রতিটি API শ্রেণীবদ্ধ এবং নথিভুক্ত করা হয়। <br/>
+**লিঙ্ক:** [পাবলিক APIs](https://github.com/public-apis/public-apis)
+
+## HTTPS স্ট্যাটাস
+
+> **বিবরণ:** HTTP স্ট্যাটাস কোডের একটি তালিকা। <br/>
+**লিঙ্ক:** [HTTPS স্ট্যাটাস](https://httpstatuses.com/)
+
+## আমার সাইটের কি HTTPS দরকার?
+
+> **বিবরণ:** HTTPS এর গুরুত্ব ব্যাখ্যা করে একটি তথ্যপূর্ণ পৃষ্ঠা। <br/>
+**লিঙ্ক:** [আমার সাইটের কি HTTPS দরকার?](https://doesmysiteneedhttps.com/)
+
+## HTTP টুলকিট
+
+> **বিবরণ:** আপনার সমস্ত HTTP(S) মক এন্ডপয়েন্ট বা সম্পূর্ণ সার্ভারগুলিকে আটকান এবং দেখুন ত্রুটিগুলি পুনঃলিখন, পুনঃনির্দেশ বা ইনজেক্ট করুন৷ <br/>
+**লিঙ্ক:** [HTTP টুলকিট](https://httptoolkit.tech/) <br/>
+**ক্রেডিট:** github:@pimterry
+
+## মার্কডাউন গাইড
+
+> **বিবরণ:** মার্কডাউন গাইড হল একটি বিনামূল্যের এবং ওপেন সোর্স রেফারেন্স গাইড যেটি ব্যাখ্যা করে কিভাবে মার্কডাউন ব্যবহার করতে হয়, যে সহজ এবং সহজে ব্যবহারযোগ্য মার্কআপ ভাষা আপনি কার্যত যেকোনো নথি ফর্ম্যাট করতে ব্যবহার করতে পারেন। <br/>
+**লিঙ্ক:** [মার্কডাউন গাইড](https://www.markdownguide.org/)
+
+## Qwerty.dev
+
+> **বিবরণ:** Qwerty.dev (পূর্বে beautifuldingbats.com) হল ইউনিকোড টুলের একটি সংগ্রহ যা আপনাকে অনলাইনে আলাদা হতে সাহায্য করবে। <br/>
+**লিঙ্ক:** [Qwerty.dev](https://qwerty.dev/)
+
+## রিপ্লিট
+
+> **বিবরণ:** একটি ইন-ব্রাউজার IDE, কম্পাইলার এবং দোভাষী 50+ ভাষা সমর্থন করে। <br/>
+**লিঙ্ক:** [রিপ্লিট](https://replit.com/)
+
+## Regex101
+
+> **বিবরণ:** রেজেক্স তৈরি করুন, পরীক্ষা করুন এবং ডিবাগ করুন। <br/>
+**লিঙ্ক:** [Regex101](https://regex101.com/)
+
+## RegExp জেনারেটর
+
+> **বিবরণ:** ইউনিকোড পরিসর RegExp জেনারেটর। <br/>
+**লিঙ্ক:** [RegExp জেনারেটর](https://apps.timwhitlock.info/js/regex#)
+
+## রেজেক্স ক্রসওয়ার্ড
+
+> **বিবরণ:** পাজল এবং চ্যালেঞ্জের মাধ্যমে রেজেক্স শিখুন। <br/>
+**লিঙ্ক:** [রেজেক্স ক্রসওয়ার্ড](https://regexcrossword.com/)
+
+## ওপেন সোর্স সফ্টওয়্যারে অবদান রাখার জন্য নির্দেশিকা(গুলি)
+
+> **বিবরণ:** OSS অবদানকারীদের সাহায্য করার জন্য বিভিন্ন সম্পদের একটি তালিকা। <br/>
+**লিঙ্ক:** [কিভাবে ওপেন সোর্সে অবদান রাখবেন](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+**ক্রেডিট:** @github:freeCodeCamp
+
+## দুষ্টু স্ট্রিং এর বড় তালিকা
+
+> **বিবরণ:** প্রান্তের ক্ষেত্রে পরীক্ষা করতে সাহায্য করার জন্য স্ট্রিংয়ের একটি তালিকা। <br/>
+**লিঙ্ক:** [দুষ্টু স্ট্রিংগুলির বড় তালিকা](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+**ক্রেডিট:** @github:minimaxir
+
+## বিকাশকারীদের জন্য বিনামূল্যে
+
+> **বিবরণ:** বিকাশকারীদের জন্য বিনামূল্যের অফারগুলির তালিকা৷ <br/>
+**লিঙ্ক:** [ডেভেলপারদের জন্য বিনামূল্যে](https://free-for.dev/#/) <br/>
+**ক্রেডিট:** @github:ripienaar
+
+## পৃষ্ঠাযুক্ত discord.js বার্তা
+
+> **বিবরণ:** একটি প্যাকেজ যা discord.js-এ পৃষ্ঠাযুক্ত বার্তাগুলিকে সহজ করতে সাহায্য করে। <br/>
+**লিঙ্ক:** [প্যাজিনেটেড ডিসকর্ড মেসেজ](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
+**ক্রেডিট:** @github:sapphiredev
