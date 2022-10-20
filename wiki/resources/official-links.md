@@ -112,3 +112,6 @@ description: Official links from Discord.
 
 > **Description:** Official RSS Feed of Discords Blog. <br/>
 **Link:** [Blog RSS Feed](https://discord.com/blog/rss.xml)
+
+> **Description:** Build anything on Discord <br/>
+**Link:** [Discord Build](https://discord.com/build)
