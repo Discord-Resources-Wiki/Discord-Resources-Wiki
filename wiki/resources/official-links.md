@@ -68,7 +68,7 @@ description: Official links from Discord.
 
 ## Discord Nitro
 
-> **Description:**  Information on Nitro & Nitro Classic subscriptions.   <br/>
+> **Description:**  Information about Nitro subscriptions. <br/>
 **Link:** [Discord Nitro](https://dis.gd/nitro)
 
 ## Discord Status Page
