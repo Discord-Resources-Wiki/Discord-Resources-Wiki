@@ -1,10 +1,10 @@
 ---
-title: Official Rəsmi Formlar
+title: Rəsmi Formlar
 sidebar_position: 3
 description: Rəsmi Discord formları.
 ---
 
-# Official Forms
+# Rəsmi Formlar
 
 ## **Report Form** 
 > __Məzmun:__ Discordun təhlükəsizlik komandasına şikayət göndərmək.   <br/>
