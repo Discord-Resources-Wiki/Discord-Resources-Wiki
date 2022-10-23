@@ -1,7 +1,7 @@
 ---
-title: Basics
+title: Əsas Resurslar
 sidebar_position: 1
-description: Basic resources
+description: Əsaslar
 ---
 
 # Əsaslar
