@@ -1,7 +1,7 @@
 ---
 title: Qeyri-rəsmi serverlər
 sidebar_position: 8
-Məzmun: Rəsmi olmayan amma Discord ilə əlaqəli olan serverlər.
+description: Rəsmi olmayan amma Discord ilə əlaqəli olan serverlər.
 ---
 
 # Qeyri-rəsmi serverlər
