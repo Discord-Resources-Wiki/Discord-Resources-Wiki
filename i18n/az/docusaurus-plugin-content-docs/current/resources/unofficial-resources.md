@@ -1,7 +1,7 @@
 ---
 title: Rəsmi Olmayan Resurslar
 sidebar_position: 9
-Məzmun: Discord üçün qeyri-rəsmi resurslar.
+description: Discord üçün qeyri-rəsmi resurslar.
 ---
 
 # Rəsmi Olmayan Resurslar
