@@ -1,7 +1,7 @@
 ---
 title: Moderasiya
 sidebar_position: 6
-description: Moderation resources
+description: Moderasiya resursları
 ---
 
 # Moderasiya
