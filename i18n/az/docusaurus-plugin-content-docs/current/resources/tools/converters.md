@@ -1,106 +1,102 @@
 ---
-title: Converters
+title: Dəyişdiricilər
 sidebar_position: 6
 description: Converter tools
 ---
 
-# Converters
-## Timestamp Converters 
-### HammerTime
-> __Description:__ Pick a date, copy the desired timestamp from the Chat syntax column, then paste it anywhere in a chat message.   <br/>
-The result will be a dynamic timestamp that displays differently for everyone based on their own timezone.   <br/>
+# Dəyişdiricilər
+## Timestamp Dəyişdiriciləri 
+### **HammerTime**
+> __Məzmun:__ Bir vaxt seç və kopyala daha sonra isə onu söhbət yerinə at.   <br/>
+Bir vaxt görsənəcəq və hamının öz vaxtında ayrı görsənəcək.   <br/>
 __Link:__ [HammerTime](https://hammertime.djdavid98.art/)   <br/>
-__Credit:__ @140360880079503362
+__Təşəkkürlər:__ @140360880079503362
 
-### Snow-Stamp (Snowflake to Timestamp Converter) 
-> __Description:__ Converts a user’s snowflake into the timestamp the account was created.   <br/>
+### **Snow-Stamp (Snowflake to Timestamp Converter)** 
+> __Məzmun:__ İstifadəçinin snowflakesini timestampa çevirən əşya.   <br/>
 __Link:__ [Snow-Stamp](https://snowsta.mp/)   <br/>
-__Credit:__ @86913608335773696
+__Təşəkkürlər:__ @86913608335773696
 
-### DateTimeCord 
-> __Description:__ A useful website to generate date and time formatting Markdown for discord. Supports all the formatting options that Discord does, as well as shows a preview of how it would look in Discord.   <br/>
+### **DateTimeCord** 
+> __Məzmun:__ Vaxt düzəltmək üçün yaxşı bir əşya, markdown ilə işləyir və Discordun bütün yazı çeşidlərini də dəstəkləyir.   <br/>
 __Link:__ [DateTimeCord](https://datetimecord.rauf.wtf/)  <br/>
-__Credit:__ @172557961133162496
+__Təşəkkürlər:__ @172557961133162496
 
-### Alfred time converters plugins
-> __Description:__ Alfred plugins to convert time to timestamps and vice versa.   <br/>
-__Link(s):__   <br/>
+### **Alfred time converters plugins**
+> __Məzmun:__ Timestampa çevirmək üçün Alfred pluginləri.   <br/>
+__Link:__   <br/>
 [Alfred-Whencord](https://github.com/HilbertGilbertson/alfred-whencord)   <br/>
 [Alfred-Snowcord](https://github.com/HilbertGilbertson/alfred-snowcord)   <br/>
-__Credit:__ @213023662066892800
+__Təşəkkürlər:__ @213023662066892800
 
-### Epoch Converter (Epoch & Unix timestamp conversion tools)
-> __Description:__ Converts a given time into a Unix timestamp.   <br/>
+### **Epoch Converter (Epoch & Unix timestamp conversion tools)**
+> __Məzmun:__ Vaxtı yazılmış timestampa çevirər.   <br/>
 __Link:__ [Epoch Converter](https://www.epochconverter.com/) 
 
-### Unix Timestamps Decoder
-> __Description:__ Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
+### **Unix Timestamps Decoder**
+> __Məzmun:__ Unix timestampını deşifrə edən sayt.   <br/>
 __Link:__ [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
-## File Converters 
+## Fayl Dəyişdiriciləri 
 
-### EzGif
-> __Description:__ EzGif is An online tool full with media-related utilities.  <br/>
+### **EzGif**
+> __Məzmun:__ EzGif onlayn faylların uzantısını dəyişdirmək üçün olan saytdır.  <br/>
 __Link:__ [EzGif](https://ezgif.com)
 
-### Text Formatting Tools
-> __Description:__ A website for converting various text formats.   <br/>
+### **Text Formatting Tools**
+> __Məzmun:__ Yazı formalarını dəyişdirmək üçün olan sayt.   <br/>
 __Link:__ [Text Formatting Tools](http://www.unit-conversion.info/texttools/)
 
-### Discord Txt
-> __Description:__ Used to view .txt files that have been uploaded to Discord.   <br/>
-__Link:__ [Discord Txt](https://txt.discord.website/)
-
-### File Converter
-> __Description:__ Convert file types to others.   <br/>
+### **File Converter**
+> __Məzmun:__ Fayl tiplərini digər fayllara dəyişdirmək üçün olan sayt.   <br/>
 __Link:__ [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-__Credit:__ @Tichau
+__Təşəkkürlər:__ @Tichau
 
-### Color Replacer
-> __Description:__ Replace a specfic colour of an image.  <br/>
+### **Color Replacer**
+> __Məzmun:__ Replace a specfic colour of an image.  <br/>
 __Link:__ [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
 
-### SVG Converters
-> __Description:__ High quality SVG converter.  <br/>
+### **SVG Converters**
+> __Məzmun:__ High quality SVG converter.  <br/>
 __Link:__ [SVG Converters](https://picsvg.com/)
 
-### SVG Viewer
-> __Description:__ View SVG files.   <br/>
+### **SVG Viewer**
+> __Məzmun:__ SVG fayllarını onlayn görmək üçün olan sayt.   <br/>
 __Link:__ [SVG Viewer](https://www.svgviewer.dev/)
 
-### Youtube Downloader
-> __Description:__ Download a Youtube video as a file using its URL (either audio only or video). <br/>
+### **Youtube Downloader**
+> __Məzmun:__ Youtube videosunu linki ilə yükləməyinizə kömək olan sayt. <br/>
 __Link:__ [Youtube Downloader](http://youtube.tpcstld.me/) <br/>
-__Credit:__ @141065743197405184
+__Təşəkkürlər:__ @141065743197405184
 
-### Lottie Image Resizer
-> __Description:__ Lottie image resize so you can get your Lottie files ≤320px.   <br/>
+### **Lottie Image Resizer**
+> __Məzmun:__ Lottie image lottie fayllarınızı 320px -dən az etməniz üçün olan saytdır.   <br/>
 __Link:__ [Lottie Image Resizer](https://lottieresizer.tech/)
 
-### .gif to .apng
-> __Description:__ Converts .gif files to .apng files.   <br/>
+### **.gif to .apng**
+> __Məzmun:__ .gif fayllarını .apng -ya çevirmək üçün olan sayt.   <br/>
 __Link:__ [.gif To .apng](https://www.freeconvert.com/convert/gif-to-apng)
 
-### HTML Color Codes
-> __Description:__ A site that converts a color into hex code and vice versa.   <br/>
+### **HTML Color Codes**
+> __Məzmun:__ Rəngləri HTML hex rəng kodlarına çevirən sayt.   <br/>
 __Link:__ [HTML Color Codes](https://htmlcolorcodes.com/)
 
-### Image Color Picker
-> __Description:__ Upload an image and get a specific hex code for a color in the picture.   <br/>
+### **Image Color Picker**
+> __Məzmun:__ Yüklədiyiniz şəkildə seçdiyiniz yerin hex kodunu sizə deyər.   <br/>
 __Link:__ [Image Color Picker](https://imagecolorpicker.com/)
 
-### Removebg
- > __Description:__ Remove any background from an image.   <br/>
+### **Removebg**
+ > __Məzmun:__ Arxaplanı şəffaf etmək üçün olan sayt.   <br/>
  __Link:__ [Removebg](https://www.remove.bg/upload)
 
-### Erase.bg
-> __Description:__ Remove background from images of humans, animals or objects and download high-resolution images for free.   <br/>
+### **Erase.bg**
+> __Məzmun:__ Arxaplanı şəffaf etmək üçün olan sayt amma sadəcə insanlar və heyvanlar olanda olur.   <br/>
 __Link:__ [Erase.bg](https://www.erase.bg/)
 
-### Cleanup.pictures
-> __Description:__ Remove any object, people, text or defects from your pictures.   <br/>
+### **Cleanup.pictures**
+> __Məzmun:__ Şəkildən hər hansı bir obyekti, yazıyı, insanı vs. silmək üçün olan sayt.   <br/>
 __Link:__ [Cleanup.pictures](https://cleanup.pictures/)
 
-### Video Compressor
-> __Description:__ A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
+### **Video Compressor**
+> __Məzmun:__ Discordda nitrosu olmayan istifadəçilər 8MB üstü video atabilmir, bu saytdan videonu 8MB altına endirəbilərsiniz.   <br/>
 __Link:__ [Video Compressor](https://8mb.video/)

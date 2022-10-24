@@ -1,10 +1,10 @@
 ---
-title: Fun Links
+title: Əyləncə Linkləri
 sidebar_position: 12
 description: Fun links
 ---
 
-# Fun Links
+# Əyləncə Linkləri
 
 https://tryitands.ee/ | Try and see video   <br/>
 https://shutplea.se/ | Shut bird   <br/>

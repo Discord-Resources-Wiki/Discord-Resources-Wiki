@@ -1,24 +1,24 @@
 ---
-title: Official Forms
+title: Rəsmi Formlar
 sidebar_position: 3
-description: Official forms from discord.
+description: Rəsmi Discord formları.
 ---
 
-# Official Forms
+# Rəsmi Formlar
 
-## Report Form 
-> __Description:__ Report an issue to Discord’s Trust and Safety team.   <br/>
+## **Report Form** 
+> __Məzmun:__ Discordun təhlükəsizlik komandasına şikayət göndərmək.   <br/>
 __Link:__ [Discord Report Form](https://dis.gd/report)
 
-## Support Form 
-> __Description:__ Need help? Submit a request to the Discord team.   <br/>
+## **Support Form** 
+> __Məzmun:__ Köməyə ehtiyac? Discorda bir yazı göndərin.   <br/>
 __Link:__  [Discord Support Form](https://dis.gd/contact)
 
-## Feedback 
-> __Description:__ Submit feedback to the Discord team.   <br/>
+## **Feedback** 
+> __Məzmun:__ Discorda geri bildirim göndərin.   <br/>
 __Link:__  [Discord Feedback Form](https://dis.gd/feedback)
 
 
-## Discord Trust & Safety 
-> __Description:__ Submit a request to Discord’s Trust & Safety team.   <br/>
+## **Discord Trust & Safety** 
+> __Məzmun:__ Discordun təhlükəsizlik komandasına istək göndərmək.   <br/>
 __Link:__ [Discord TnS](https://dis.gd/request)
