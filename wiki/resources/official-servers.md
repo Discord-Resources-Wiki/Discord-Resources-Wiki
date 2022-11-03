@@ -24,6 +24,7 @@ description: Official servers owned by Discord.
 
 > **Description:** The official server for Discord's Games Lab. Come play Poker Night, Chess, or Watch Together with your friends!   <br/>
 **Link:** [Discord Games Lab](https://discord.gg/discordgameslab)
+_Invites to this server are currently paused_.
 
 @gg/discordgameslab
 
