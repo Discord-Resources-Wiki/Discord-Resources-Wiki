@@ -109,11 +109,6 @@ description: Discord bot recommendations
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 **Credit:** @255834596766253057
 
-### OterluBot
-
-> **Description:** A moderation bot that uses AI to detect and log toxicity towards another user, nsfw content, and profanity. Offers some statistics on the health of your servers based on the logs.  <br/>
-**Link:** [OterluBot](https://www.oterlu.com/discord-bot)  <br/>
-**Credit(s):** @111891236792598528 @352832514819227655
 
 ## ModMail
 
