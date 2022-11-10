@@ -39,7 +39,7 @@ Nous voudrions remercier:<br/>
 @755792681313108018 - *J'ai eu cette idée et fait tout ça*  <br/>
 @480495309491798037 - Propriétaire du domaine <http://discord.wiki/> <br/>
 @421991668556759042 - Créateur de la [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) <br/>
-@582211583938134028 - Traducteur français <br/>
+@582211583938134028 - Rechercheur de ressources / Traducteur français <br/>
 @242843345196548097 - Traducteur français <br/>
 
 ## Comment tester des changements localement
