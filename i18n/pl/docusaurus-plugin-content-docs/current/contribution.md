@@ -16,8 +16,8 @@ Możesz także dołączyć do naszego [oficjalnego serwera](https://discord.gg/y
 Ten projekt wymagał więcej niż jednego zestawu rąk i jesteśmy dumni, że mamy zespół współpracowników, którzy pomogli nam w tym projekcie!<br/>
 Chcemy podziękować:<br/>
 @856780995629154305 - Opiekun strony internetowej <br/>
-@347727875266576395 - Architekt Wiki <br/>
-@391660873409888277 - Naprawiacz wiki <br/>
+@347727875266576395 - Architekt Wiki<br/>
+@391660873409888277 - Wiki fixer<br/>
 @363481883369013259 - GitHub Manager / Organizator dokumentacji<br/>
 @337654195526303746 - Badacz/konserwator zasobów<br/>
 @337104786593939456 - Organizator dokumentacji<br/>
@@ -28,10 +28,11 @@ Chcemy podziękować:<br/>
 @192060404501839872 - Grafik<br/>
 @386861188891279362 - Architekt strony internetowej / Organizator dokumentacji<br/>
 @102102717165506560 - Doradca ds. przyrostu & kurator zasobów<br/>
-@755792681313108018 - *Miałem taki pomysł i zrobiłem wszystko*<br/>
-@975494496852795412 - Tłumacz<br/>
-@937438695429144656 - Tłumacz<br/>
+@755792681313108018 - *Miałem taki pomysł i zrobiłem wszystko wyżej*<br/>
+@556377520266674196 - Tłumacz, dowódca<br/>
 @648666977614823444 - Tłumacz
+@975494496852795412 - Tłumacz, były dowódca<br/>
+@937438695429144656 - Były Tłumacz<br/>
 
 ## Jak testować zmiany lokalnie
 
