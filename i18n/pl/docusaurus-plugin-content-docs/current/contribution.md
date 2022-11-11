@@ -30,7 +30,7 @@ Chcemy podziękować:<br/>
 @102102717165506560 - Doradca ds. przyrostu & kurator zasobów<br/>
 @755792681313108018 - *Miałem taki pomysł i zrobiłem wszystko wyżej*<br/>
 @556377520266674196 - Tłumacz, dowódca<br/>
-@648666977614823444 - Tłumacz
+@648666977614823444 - Tłumacz<br/>
 @975494496852795412 - Tłumacz, były dowódca<br/>
 @937438695429144656 - Były Tłumacz<br/>
 
