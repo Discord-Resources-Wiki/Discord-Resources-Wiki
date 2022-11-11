@@ -1,6 +1,6 @@
 ---
 title: Official Discord Badges
-sidebar_position: 9
+sidebar_position: 6
 description: Official badges from Discord.
 ---
 
