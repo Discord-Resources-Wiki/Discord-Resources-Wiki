@@ -19,7 +19,7 @@ description: Official badges from Discord.
 ## HypeSquad <img src="/img/bravery.png" alt="Bravery" width="22" /> <img src="/img/balance.png" alt="Balance" width="25" /> <img src="/img/brillance.png" alt="Brillance" width="25" />
 
 > **Description:** At any time it is possible to join one of these three houses by answering the questionnaire available in the Discord settings under the category "HypeSquad" on computer. <br/> 
-> **Link:** [Hype Squad](https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown) <br/>
+> **Link:** [HypeSquad](https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown) <br/>
 
 ## Early Supporter <img src="/img/earlysupporter.png" alt="EarlySupporter" width="25" />
 
