@@ -280,11 +280,11 @@ description: Discord bot recommendations
 **Link:** [Tunes Ninja Website](https://tunes.ninja/)   <br/>
 **Credit:** @657057112593268756
 
-### StatusBot
+### Status Bot
 
-> **Description:** A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
-**Link:** [StatusBot](https://www.statusbot.gg/) <br/>
-**Credit:** @282565295351136256
+> **Description:**  A bot which automatically monitors status of your Discord and Web services. Create various incidents to notify your members about it. <br/>
+**Link:** [Status Bot](https://statusbot.us/) <br/>
+**Credit:** @797012765352001557
 
 ### Forms
 
