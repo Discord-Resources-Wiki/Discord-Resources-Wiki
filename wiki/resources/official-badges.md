@@ -36,7 +36,7 @@ description: Official badges from Discord.
 > **Description:** This badge was given to everyone who had a bot verified by Discord. It had to be on a minimum of 75 servers to be eligible. Like the previous one, this badge has become unobtainable for verifications requested after August 19, 2020, because of numerous abuses by some Discord users. <br/> 
 > **Link:** [Early Verified Bot Developer](https://support.discord.com/hc/en-us/community/posts/360049352973-Bot-Developer-Badge-New-Restrictions-TURNAROUND) <br/>
 
-## Certified Discord Moderator <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="25" />
+## Moderator Programs Alumni <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="25" />
 
 > **Description:** This badge is awarded to users who have successfully passed the DMA exam and who have been actively involved in moderation on the DMD server for at least 3 months. <br/> 
 > **Link:** [Discord Moderation](https://discord.com/moderation) <br/>
