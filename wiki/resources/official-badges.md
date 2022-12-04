@@ -31,7 +31,7 @@ description: Official badges from Discord.
 > **Description:** This badge entitles you to be declared an active Discord bot developer. <br/> 
 > **Link:** [Active Developer](https://discord.com/developers/active-developer) <br/>
 
-## Early Verified bot developer <img src="/img/earlydev.png" alt="EarlyDev" width="25" />
+## Early Verified Bot Developer <img src="/img/earlydev.png" alt="EarlyDev" width="25" />
 
 > **Description:** This badge was given to everyone who had a bot verified by Discord. It had to be on a minimum of 75 servers to be eligible. Like the previous one, this badge has become unobtainable for verifications requested after August 19, 2020, because of numerous abuses by some Discord users. <br/> 
 > **Link:** [Early Verified Bot Developer](https://support.discord.com/hc/en-us/community/posts/360049352973-Bot-Developer-Badge-New-Restrictions-TURNAROUND) <br/>
@@ -51,7 +51,7 @@ description: Official badges from Discord.
 > **Description:** This badge is reserved for HypeSquad members who attend conventions (HypeSquad Event Attendees) or who organize events such as a convention, college club, etc. (HypeSquad Event Coordinators). (HypeSquad Event Coordinators). It opens the door to a secret HypeSquad server. <br/> 
 > **Link:** [HypeSquad Events](https://discord.com/hypesquad) <br/>
 
-## Discord Partner <img src="/img/partner.png" alt="Discord Partner" width="25" />
+## Partnered Server Owner <img src="/img/partner.png" alt="Discord Partner" width="25" />
 
 > **Description:** Anyone can apply, but the server must meet certain conditions, which are accessible, like the application, directly in the server settings. <br/> 
 > **Link:** [Discord Partner](https://discord.com/partners) <br/>
