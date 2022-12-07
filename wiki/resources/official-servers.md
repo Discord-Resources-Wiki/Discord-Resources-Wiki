@@ -33,3 +33,10 @@ description: Official servers owned by Discord.
 **Link:** [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
+
+## Discord Creator Center
+
+> **Description:** Currently under construction.  <br/>
+**Link:** [Discord Creator Center](https://discord.gg/creatorcenter)
+
+@gg/creatorcenter
