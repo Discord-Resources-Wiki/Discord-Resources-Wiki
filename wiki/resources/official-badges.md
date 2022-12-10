@@ -16,7 +16,7 @@ description: Official badges from Discord.
 > **Description:** This badge is awarded to users who have Discord Nitro (10$) and boost a server. It disappears as soon as the boost ends or is cancelled. <br/> 
 > **Link:** [Server Boost](https://i.discord.fr/jZ6.png) <br/>
 
-## HypeSquad <img src="/img/bravery.png" alt="Bravery" width="22" /> <img src="/img/balance.png" alt="Balance" width="25" /> <img src="/img/brillance.png" alt="Brillance" width="25" />
+## HypeSquad House <img src="/img/bravery.png" alt="Bravery" width="22" /> <img src="/img/balance.png" alt="Balance" width="25" /> <img src="/img/brillance.png" alt="Brillance" width="25" />
 
 > **Description:** At any time it is possible to join one of these three houses by answering the questionnaire available in the Discord settings under the category "HypeSquad" on computer. <br/> 
 > **Link:** [HypeSquad](https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown) <br/>
@@ -38,7 +38,7 @@ description: Official badges from Discord.
 
 ## Moderator Programs Alumni <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="25" />
 
-> **Description:** This badge is awarded to users who have successfully passed the DMA exam and who have been actively involved in moderation on the DMD server for at least 3 months. <br/> 
+> **Description:** This badge can no longer be earned in any way. The Moderator Ecosystem Program was a former program designed to reward good moderators who passed a review with a regular presence on the Moderator Mentorship Community, Discord Moderator Discord (DMD) and Discord Moderator Program (DMP) servers from the link below. <br/> 
 > **Link:** [Discord Moderation](https://discord.com/moderation) <br/>
 
 ## Bug Hunter <img src="/img/lvl1.png" alt="Lvl1" width="25" /> <img src="/img/lvl2.png" alt="Lvl2" width="25" />
