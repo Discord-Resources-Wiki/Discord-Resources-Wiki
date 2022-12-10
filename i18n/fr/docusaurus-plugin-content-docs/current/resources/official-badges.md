@@ -16,9 +16,9 @@ description: Badges officiels de Discord.
 > **Description:** Ce badge est attribué aux utilisateurs qui ont Discord Nitro (10$) et boostent un serveur. Il disparaît dès que le boost se termine ou est annulé. <br/> 
 > **Lien:** [Boost de serveur](https://i.discord.fr/jZ6.png) <br/>
 
-## HypeSquad <img src="/img/bravery.png" alt="Bravery" width="22" /> <img src="/img/balance.png" alt="Balance" width="25" /> <img src="/img/brillance.png" alt="Brillance" width="25" />
+## HypeSquad House <img src="/img/bravery.png" alt="Bravery" width="22" /> <img src="/img/balance.png" alt="Balance" width="25" /> <img src="/img/brillance.png" alt="Brillance" width="25" />
 
-> **Description:** Il est possible à tout moment de rejoindre l'une de ces trois maisons en répondant au questionnaire disponible dans les paramètres de Discord sous la catégorie "HypeSquad" sur ordinateur. <br/> 
+> **Description:** Il est possible à tout moment de rejoindre l'une de ces trois maisons en répondant au questionnaire disponible dans les paramètres utilisateur dans la catégorie "HypeSquad" sur ordinateur. <br/> 
 > **Lien:** [Hype Squad](https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown) <br/>
 
 ## Soutien de la première heure <img src="/img/earlysupporter.png" alt="EarlySupporter" width="25" />
@@ -36,9 +36,9 @@ description: Badges officiels de Discord.
 > **Description:** Ce badge a été donné à tous ceux qui avaient un bot vérifié par Discord. Il devait être présent sur un minimum de 75 serveurs pour être éligible. Comme le précédent, ce badge est devenu inaccessible pour les vérifications demandées après le 19 août 2020, en raison des nombreux abus de certains utilisateurs de Discord. <br/> 
 > **Lien:** [Développeur de bot Discord de la première heure](https://support.discord.com/hc/en-us/community/posts/360049352973-Bot-Developer-Badge-New-Restrictions-TURNAROUND) <br/>
 
-## Modérateur certifié de Discord <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="25" />
+## Anciens des programmes de modérateurs <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="25" />
 
-> **Description:** Ce badge est attribué aux utilisateurs qui ont passé avec succès l'examen DMA et qui ont participé activement à la modération sur le serveur DMD pendant au moins 3 mois. <br/> 
+> **Description:** Ce badge ne peut plus être obtenu d'aucune manière. Le programme de l'écosystème des modérateurs était un ancien programme visant à récompenser les bons modérateurs qui ont répondu à un examen par une présence régulière sur les serveurs **Moderator Mentorship Community**, du **Discord Moderator Discord (DMD)** et du **Discord Moderator Program (DMP)** à partir du lien ci-dessous. <br/> 
 > **Lien:** [Modération de Discord](https://discord.com/moderation) <br/>
 
 ## Chasseur de Bug <img src="/img/lvl1.png" alt="Lvl1" width="25" /> <img src="/img/lvl2.png" alt="Lvl2" width="25" />
