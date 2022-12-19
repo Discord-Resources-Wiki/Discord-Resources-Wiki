@@ -140,3 +140,10 @@ description: Programming related tools
 > **Description:** A package that helps make paginated messages easier in discord.js. <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev
+
+
+## Find code errors with AI
+
+> **Description:** Find Errors or write simple code with chatGPT. <br/>
+**Link:** [Chat with an AI](https://openai.com) <br />
+**Credit:** @github:Sigmale1000
