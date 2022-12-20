@@ -140,3 +140,9 @@ description: Programming related tools
 > **Description:** A package that helps make paginated messages easier in discord.js. <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev
+
+## regex101
+
+> **Description:** Regex can be used to add, remove, isolate, and manipulate all kinds of text and data. <br/>
+**Link:** [regex101](https://regex101.com/) <br />
+**Credit:** @github:firasdib
