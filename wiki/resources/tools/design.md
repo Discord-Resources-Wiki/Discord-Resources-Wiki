@@ -106,3 +106,8 @@ description: Design tools
 
 > **Description:** Free vectors, stock photos, and PSD.  <br/>
 **Link:** [Freepik](https://freepik.com/)
+
+## ASCII
+
+> **Description:** Easily create ASCII art in a online editor. <br/>
+**Link:** [fsymbols](https://fsymbols.com/draw/)
