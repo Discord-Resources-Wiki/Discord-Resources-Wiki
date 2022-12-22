@@ -14,7 +14,7 @@ description: Official badges from Discord.
 ## Server Boost <img src="/img/boost.png" alt="ServerBoost" width="25" />
 
 > **Description:** This badge is awarded to users who have Discord Nitro (10$) and boost a server. It disappears as soon as the boost ends or is cancelled. <br/> 
-> **Link:** [Server Boost](https://i.discord.fr/jZ6.png) <br/>
+> **Link:** [Server Boost](https://cdn.discordapp.com/attachments/448243386684538901/638866725013684225/multiboosting.png) <br/>
 
 ## HypeSquad House <img src="/img/bravery.png" alt="Bravery" width="22" /> <img src="/img/balance.png" alt="Balance" width="25" /> <img src="/img/brillance.png" alt="Brillance" width="25" />
 
