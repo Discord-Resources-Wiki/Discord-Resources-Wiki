@@ -6,16 +6,6 @@ description: Badges officiels de Discord.
 
 # Badges
 
-## Staff Discord <img src="/img/staff.png" alt="Discord Staff" width="25" />
-
-> **Description:** Ce badge est réservé aux employés travaillant chez Discord. Vous ne pouvez l'obtenir que si vous travaillez chez eux. <br/> 
-> **Lien:** [Emplois chez Discord](https://discord.com/careers) <br/>
-
-## Anciens des programmes de modérateurs (MCA) <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="25" />
-
-> **Description:** Ce badge ne peut plus être obtenu d'aucune manière. Le programme de l'écosystème des modérateurs était un ancien programme visant à récompenser les bons modérateurs qui ont répondu à un examen par une présence régulière sur les serveurs **Moderator Mentorship Community** (MMC), **Discord Moderator Discord (DMD)** et **Discord Moderator Program (DMP)** à partir du lien ci-dessous. <br/> 
-> **Lien:** [Modération de Discord](https://discord.com/moderation) <br/>
-
 ## Discord Nitro <img src="/img/nitro.png" alt="DiscordNitro" width="25" />
 
 > **Description:** Ce badge indique qu'un membre s'est abonné à Discord Nitro et Nitro Basic. En passant votre souris dessus, vous pouvez voir la date de l'abonnement. Il disparaît à la fin de l'abonnement Nitro. <br/> 
@@ -60,3 +50,13 @@ description: Badges officiels de Discord.
 
 > **Description:** Tout le monde peut postuler, mais le serveur doit remplir certaines conditions, qui sont accessibles, comme la demande, directement dans les paramètres du serveur. <br/> 
 > **Lien:** [Partenaire de Discord](https://discord.com/partners) <br/>
+
+## Anciens des programmes de modérateurs (MCA) <img src="/img/mpa.png" alt="CertifiedDiscordModerator" width="30" />
+
+> **Description:** Ce badge ne peut plus être obtenu d'aucune manière. Le programme de l'écosystème des modérateurs était un ancien programme visant à récompenser les bons modérateurs qui ont répondu à un examen par une présence régulière sur les serveurs **Moderator Mentorship Community** (MMC), **Discord Moderator Discord (DMD)** et **Discord Moderator Program (DMP)** à partir du lien ci-dessous. <br/> 
+> **Lien:** [Modération de Discord](https://discord.com/moderation) <br/>
+
+## Staff Discord <img src="/img/staff.png" alt="Discord Staff" width="25" />
+
+> **Description:** Ce badge est réservé aux employés travaillant chez Discord. Vous ne pouvez l'obtenir que si vous travaillez chez eux. <br/> 
+> **Lien:** [Emplois chez Discord](https://discord.com/careers) <br/>
