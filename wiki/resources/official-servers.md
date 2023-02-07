@@ -37,6 +37,6 @@ description: Official servers owned by Discord.
 ## Discord Creator Center
 
 > **Description:** Currently under construction.  <br/>
-**Link:** [Discord Creator Center](https://discord.gg/creatorcenter)
+**Link:** [Discord Creator Center](https://discord.gg/VARhTG8PCQ)
 
-@gg/creatorcenter
+@gg/VARhTG8PCQ
