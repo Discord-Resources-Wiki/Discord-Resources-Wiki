@@ -21,6 +21,11 @@ description: Official forms from Discord.
 > **Description:** Submit feedback to the Discord team.   <br/>
 **Link:**  [Discord Feedback Form](https://dis.gd/feedback)
 
+## Discord Developer Form
+
+> **Description:** Submit a request for Discord's Developer team.   <br/>
+**Link:** [Discord Developer Form](https://dis.gd/dx)
+
 ## Discord Trust & Safety
 
 > **Description:** Submit a request to Discord’s Trust & Safety team.   <br/>
