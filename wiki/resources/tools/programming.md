@@ -140,3 +140,9 @@ description: Programming related tools
 > **Description:** A package that helps make paginated messages easier in discord.js. <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev
+
+## Necord
+
+> **Description:** A module for creating Discord bots using NestJS, based on Discord.js <br/>
+**Link:** [Necord]([https://www.npmjs.com/package/@sapphire/discord.js-utilities](https://www.npmjs.com/package/necord)) <br />
+**Credit:** @github:necordjs
