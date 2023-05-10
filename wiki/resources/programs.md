@@ -35,7 +35,7 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 > **Description:** A place that makes it easy to meet classmates from your school, discover their communities on Discord, and share your own servers for classmates to join.   <br/>
 **Link:** [Student Hubs](https://dis.gd/studenthubs)
 
-## Discord Admin Community
+## Discord Admins
 
 > **Description:** Official server for server admins of all kinds to assemble and exchange about community related subjects. <br/>
-**Link:** [Discord Admin Community](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
+**Link:** [Discord Admins](https://support.discord.com/hc/en-us/articles/5309276245271-Discord-Admin-Server-FAQ)
