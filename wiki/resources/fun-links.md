@@ -12,7 +12,7 @@ description: Fun links
 <https://i-dont-ca.re/> | About docs   <br/>
 <https://just-read.it/> | Read the error smh   <br/>
 <https://when.lol/> | When did I ask   <br/>
-<https://getsharex.com/premium> | Sharex premium   <br/>
+<https://getsharex.com/premium> | Sharex premium rickroll <br/>
 <https://nohello.com/> | Don't just say hello   <br/>
 <https://nohello.net/> | Don't just say hello 2.0 <br/>
 <https://dtesters.glitch.me/pin> | Check the pins smh   <br/>
@@ -23,7 +23,7 @@ description: Fun links
 <https://ian-my-beloved.xyz/> | Ian my beloved   <br/>
 <https://tennineeightsevensixfivefourthreetwo.one/> | Counts down rickroll   <br/>
 <https://letterh.xyz/> | the letter h   <br/>
-<https://is-discord-dead.xyz/> | is Discord dead   <br/>
+
 <https://chir.ag/projects/tip-of-my-tongue/> | tip my tongue   <br/>
 <https://wungus.guru/> | no wungus   <br/>
 <https://wungus.space/> | yes wungus   <br/>
