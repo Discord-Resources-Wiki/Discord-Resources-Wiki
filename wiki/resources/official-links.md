@@ -21,11 +21,6 @@ description: Official links from Discord.
 > **Description:** A guide on how to find IDs.   <br/>
 **Link:**  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 
-## Discord Bugs
-
-> **Description:**  The official tool to look up reported and approved bugs.   <br/>
-**Link:** [Discord Bugs](https://bugs.discord.com/)
-
 ## Discord Testers Bug Tool
 
 > **Description:** The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
