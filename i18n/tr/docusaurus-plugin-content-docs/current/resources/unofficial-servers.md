@@ -37,10 +37,10 @@ __Oluşturucu:__ Discord Networking Takımı (sahip @200987752794292224)
 
 ## Displace 
 > __Tanım:__ En büyük Discord meta topluluğu. Topluluğunuz için tüm Discord haberlerinizi, yardımlarınızı ve kaynaklarınızı alın.   <br/>
-__Bağlantı(lar):__ [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
-__Oluşturucu:__ Displace Takımı(sahip @249287049482338305)
+__Bağlantı(lar):__ [Displace server](https://discord.gg/datplace) | [Displace Website](https://dat.place/)   <br/>
+__Oluşturucu:__ Displace Takımı(sahip @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## Community Architects
 

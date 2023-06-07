@@ -33,10 +33,10 @@ description: Servidores no oficiales relacionados a Discord.
 ## Displace
 
 > **Descripción:** La mayor comunidad sobre Discord. Obtén todas las noticias de Discord, ayuda y recursos para su comunidad.   <br/>
-**Enlaces:** [Servidor de Displace](https://discord.gg/displace) | [Pagina Web de Displace](https://dat.place/)   <br/>
-**Créditos:** El equipo de Displace (propiedad de @249287049482338305)
+**Enlaces:** [Servidor de Displace](https://discord.gg/datplace) | [Pagina Web de Displace](https://dat.place/)   <br/>
+**Créditos:** El equipo de Displace (propiedad de @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## Community Architects
 

@@ -33,10 +33,10 @@ description: Inoffizielle Server mit Bezug zu Discord.
 ## Displace
 
 >**Beschreibung:** Die größte Discord-Meta-Community. Hier findest du alle Discord-News, Hilfe und Ressourcen für deine Community.   <br/>
-**Link(s):** [Displace server](https://discord.gg/displace) | [Displace Webseite](https://dat.place/)   <br/>
-**Credit:** Das Displace Team (Gründer: @249287049482338305)
+**Link(s):** [Displace server](https://discord.gg/datplace) | [Displace Webseite](https://dat.place/)   <br/>
+**Credit:** Das Displace Team (Gründer: @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## Community Architects
 
