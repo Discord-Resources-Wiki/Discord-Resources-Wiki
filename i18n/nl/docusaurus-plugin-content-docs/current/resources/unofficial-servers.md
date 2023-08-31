@@ -33,10 +33,10 @@ description: Niet-officiële servers gerelateerd aan Discord
 ## Displace
 
 > **Beschrijving:** De grootste Discord meta community. Ontvang al je Discord-nieuws, hulp en bronnen voor je community. <br/>
-> **Link(s):** [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/) <br/>
-> **Credit:** The Displace team (eigendom van @249287049482338305)
+> **Link(s):** [Displace server](https://discord.gg/datplace) | [Displace Website](https://dat.place/) <br/>
+> **Credit:** The Displace team (eigendom van @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## Community Architects
 
