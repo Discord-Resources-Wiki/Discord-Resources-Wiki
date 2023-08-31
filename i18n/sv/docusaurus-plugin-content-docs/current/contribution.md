@@ -52,5 +52,5 @@ Den behöver dock inte köras för varje ändring du gör, eftersom Docusaurus a
 
 När du har en fungerande instans av webbplatsen lokalt är du redo att börja bidra!
 Anteckningar: Använd följande ``<br/>`` för tecken för radbrytning <br/>
-Kräver Node.js-version >= ``12.13.0``
-Om du använder Yarn: Yarn-version >= ``1.5``
+Kräver Node.js-version >= ```18.12.1```
+Om du använder Yarn: Yarn-version >= ``1.22.19``

@@ -54,5 +54,5 @@ Nie trzeba jej jednak uruchamiać przy każdej dokonanej zmianie, ponieważ Docu
 
 Gdy masz już lokalnie działającą instancję strony, możesz zacząć ją współtworzyć!
 Uwagi: Używaj ``<br/>`` dla znaków przerwy w linii<br/>
-Wymaga wersji Node.js >= ``12.13.0``
-Jeżeli używasz Yarn: werja Yarn >= ``1.5``
+Wymaga wersji Node.js >= ```18.12.1```
+Jeżeli używasz Yarn: werja Yarn >= ``1.22.19``

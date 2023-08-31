@@ -50,5 +50,5 @@ It does not need to be ran for every change you make however, as Docusaurus will
 
 Once you've got a running instance of the website locally, you're ready to start contributing!
 Notes: Please use ``<br/>`` for line break characters<br/>
-Requires Node.js version >= ``12.13.0``
-If you are using Yarn: Yarn version >= ``1.5``
+Requires Node.js version >= ```18.12.1```
+If you are using Yarn: Yarn version >= ``1.22.19``

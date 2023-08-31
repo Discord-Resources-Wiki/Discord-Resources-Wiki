@@ -133,3 +133,8 @@ description: Unofficial resources for Discord.
 > **Description:** All of Discord's payloads.   <br/>
 **Link:** [Discord Payloads](https://github.com/discord-payloads/discord-payloads)   <br/>
 **Credit:** @184040656761651200
+
+## Dangercord
+
+> **Description:** Dangercord, formerly known as Dangerous Discord, was created to help protect Discord users from bad actors. <br/>
+**Link:** [Dangercord](https://dangercord.com/)   <br/>
