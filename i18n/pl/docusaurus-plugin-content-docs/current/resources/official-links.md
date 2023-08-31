@@ -18,10 +18,6 @@ __Link:__  [Jak zgłaszać](https://dis.gd/howtoreport) | [Artykuł DMA](https:/
 > __Opis:__ Poradnik, jak znaleźć identyfikatory.   <br/>
 __Link:__  [Jak uzyskać identyfikatory użytkownika/serwera/wiadomości](https://dis.gd/findmyid)
 
-## Błędy na Discordzie
-> __Opis:__  Oficjalne narzędzie do wyszukiwania zgłoszonych i zatwierdzonych błędów.   <br/>
-__Link:__ [Błędy na Discordzie](https://bugs.discord.com/)
-
 ## Narzędzie dla testerów Discorda
 > __Opis:__ Oficjalne narzędzie do generowania tekstu dla polecenia !submit DBuga. Formularz prowadzi Cię krok po kroku przez każde dane do wprowadzenia, aby na końcu automatycznie wygenerować dla Ciebie polecenie.   <br/>
 __Link:__ [Narzędzie dla testerów](https://dis.gd/bug-tool)

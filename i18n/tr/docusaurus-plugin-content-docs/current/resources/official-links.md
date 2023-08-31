@@ -18,9 +18,6 @@ __Bağlantı:__  [Nasıl Rapor Edilir?](https://dis.gd/howtoreport) | [DMA Makal
 > __Tanım:__ Kimliklerin nasıl bulunacağına dair bir kılavuz.   <br/>
 __Bağlantı:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 
-## Discord Bugs
-> __Tanım:__  Bildirilen ve onaylanan hataları aramak için resmi araç.   <br/>
-__Bağlantı:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## Discord Testers Bug Aracı
 > __Tanım:__  DBug'ın !submit komutu için metin oluşturmaya yönelik resmi araç. Form, sonunda sizin için otomatik olarak bir komut oluşturmak için her girişte size adım adım rehberlik eder.   <br/>

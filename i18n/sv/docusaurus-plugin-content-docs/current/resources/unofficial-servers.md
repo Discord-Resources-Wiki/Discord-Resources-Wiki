@@ -37,10 +37,10 @@ __Kredit:__ Discord-nätverksteam (som ägs av @200987752794292224)
 
 ## Displace 
 > __Beskrivning:__ Det största Discord-metasamhället. Få alla Discord-nyheter, hjälp och resurser för ditt samhälle.   <br/>
-__Länk(s):__ [Displace server](https://discord.gg/displace) | [Displace Webbplats](https://dat.place/)   <br/>
-__Kredit:__ Teamet från Displace (som ägs av @249287049482338305)
+__Länk(s):__ [Displace server](https://discord.gg/datplace) | [Displace Webbplats](https://dat.place/)   <br/>
+__Kredit:__ Teamet från Displace (som ägs av @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## Kodningshålan
 > __Beskrivning:__  The Coding Den är en vänlig gemenskap av programmerare som fokuserar på att hjälpa både nya och erfarna programmerare.   <br/>

@@ -37,10 +37,10 @@ __Credit:__ Discord Networking team (owned by @200987752794292224)
 
 ## Displace 
 > __Description:__ The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-__Link(s):__ [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
-__Credit:__ The Displace team (owned by @249287049482338305)
+__Link(s):__ [Displace server](https://discord.gg/datplace) | [Displace Website](https://dat.place/)   <br/>
+__Credit:__ The Displace team (owned by @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## The Coding Den
 > __Description:__  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>

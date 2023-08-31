@@ -18,10 +18,6 @@ __Link:__  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://d
 > __Description:__ A guide on how to find IDs.   <br/>
 __Link:__  [How To Get User/Server/Message IDs](https://dis.gd/findmyid)
 
-## Discord Bugs
-> __Description:__  The official tool to look up reported and approved bugs.   <br/>
-__Link:__ [Discord Bugs](https://bugs.discord.com/)
-
 ## Discord Testers Bug Tool
 > __Description:__ The official tool for generating text for DBug's !submit command. The form guides you step by step through every input to automatically generate a command for you at the end.   <br/>
 __Link:__ [Testers Bug Tool](https://dis.gd/bug-tool)

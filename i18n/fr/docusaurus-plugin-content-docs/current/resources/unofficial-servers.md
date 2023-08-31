@@ -36,10 +36,10 @@ __Credit:__ L'équipe de SlashFR (appartenant à @264320223182585858)
 
 ## Displace 
 > __Description:__ La plus grande communauté méta Discord. Obtenez toutes les nouvelles sur Discord, de l'aide et des ressources pour votre communauté.   <br/>
-__Lien(s):__ [Displace serveur](https://discord.gg/displace) | [Displace SiteWeb](https://dat.place/)   <br/>
-__Credit:__ L'équipe de Displace (appartenant à @249287049482338305)
+__Lien(s):__ [Displace serveur](https://discord.gg/datplace) | [Displace SiteWeb](https://dat.place/)   <br/>
+__Credit:__ L'équipe de Displace (appartenant à @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## Community Architects
 > __Description:__  Nous nous engageons à réunir des modérateurs de communauté, des administrateurs, des concepteurs et bien d'autres pour partager et collaborer à la création de communautés.   <br/>

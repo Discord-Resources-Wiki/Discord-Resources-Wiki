@@ -18,10 +18,6 @@ __Länk:__  [Hur man rapporterar](https://dis.gd/howtoreport) | [Artikel från D
 > __Beskrivning:__ En guide om hur man hittar IDs.   <br/>
 __Länk:__  [Hur man får fram användar-, server- och meddelande-IDs](https://dis.gd/findmyid)
 
-## Fel i Discord
-> __Beskrivning:__  Det officiella verktyget för att söka efter rapporterade och godkända fel.   <br/>
-__Länk:__ [Fel i Discord](https://bugs.discord.com/)
-
 ## Discord-testare Bug Tool
 > __Beskrivning:__ Det officiella verktyget för att generera text för DBugs !submit-kommando. Formuläret vägleder dig steg för steg genom varje inmatning för att automatiskt generera ett kommando åt dig i slutet.   <br/>
 __Länk:__ [Testare Bug Tool](https://dis.gd/bug-tool)

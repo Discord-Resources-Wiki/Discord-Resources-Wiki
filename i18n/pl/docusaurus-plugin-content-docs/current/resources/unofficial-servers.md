@@ -37,10 +37,10 @@ __Podziękowania:__ Zespół Discord Networking (właścicielem jest @2009877527
 
 ## Displace 
 > __Opis:__ Największa meta społeczność Discord. Uzyskaj wszystkie wiadomości o Discord, pomoc i zasoby dla swojej społeczności.   <br/>
-__Link(i):__ [Serwer Displace](https://discord.gg/displace) | [Strona Displace](https://dat.place/)   <br/>
-__Podziękowania:__ Zespół Displace (właścicielem jest @249287049482338305)
+__Link(i):__ [Serwer Displace](https://discord.gg/datplace) | [Strona Displace](https://dat.place/)   <br/>
+__Podziękowania:__ Zespół Displace (właścicielem jest @152177634179022848)
 
-@gg/displace
+@gg/datplace
 
 ## The Coding Den
 > __Opis:__  The Coding Den to przyjazna społeczność koderów skupiająca się na pomocy zarówno nowym jak i doświadczonym programistom.   <br/>

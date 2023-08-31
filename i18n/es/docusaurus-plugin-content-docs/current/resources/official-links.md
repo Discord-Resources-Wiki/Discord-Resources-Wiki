@@ -20,11 +20,6 @@ description: Enlaces oficiales de Discord.
 > **Descripción:** Una guía sobre cómo encontrar identificaciones. <br/>
 **Enlace:** [Cómo obtener ID de usuario/servidor/mensaje](https://dis.gd/findmyid)
 
-## Errores de Discord
-
-> **Descripción:** La herramienta oficial para buscar errores informados y aprobados. <br/>
-**Enlace:** [Errores de discord](https://bugs.discord.com/)
-
 ## Herramienta de errores de probadores de Discord
 
 > **Descripción:** La herramienta oficial para generar texto para el comando !submit de DBug. El formulario lo guía paso a paso a través de cada entrada para generar automáticamente un comando para usted al final. <br/>
