@@ -307,8 +307,7 @@ Some badges changed over time, here is a list of all the changes.
         <th>Badge</th>
         <th>Before</th>
         <th>After</th>
-        <th>Date Changed
-</th>
+        <th>Date Changed</th>
     </tr>
     <tr>
         <td>Early Verified Bot Developer</td>
