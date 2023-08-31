@@ -5,7 +5,7 @@ const {Octokit} = require('@octokit/rest');
 const fs = require('fs');
 
 const discordToken = process.env.DISCORD_TOKEN;
-const discordRest = new REST({version: '9'}).setToken(discordToken);
+const discordRest = new REST({version: '10'}).setToken(discordToken);
 const octokit = new Octokit();
 
 const users = loadUsers();

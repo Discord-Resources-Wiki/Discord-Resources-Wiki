@@ -41,16 +41,17 @@ We want to thank:<br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker <br/>
 @427146305651998721 - Maintainer <br/>
 @582211583938134028 - Maintainer <br/>
+@347077478726238228 - Maintainer <br />
 
 ## How to test changes locally
 
 Got a great PR going but don't know what it looks like? Not a problem!<br/>
 
 Requirements are:<br/>
-Node.js version >= ```16.5.0```<br/>
+Node.js version >= ```18.12.1```<br/>
 
 If you are using Yarn:<br/>
-Yarn version >= ```1.22.0```
+Yarn version >= ```1.22.19```
 
 Fork the GitHub repo and then clone it locally.
 

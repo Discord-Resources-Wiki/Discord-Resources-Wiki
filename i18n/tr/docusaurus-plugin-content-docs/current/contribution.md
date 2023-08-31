@@ -57,5 +57,5 @@ Bununla birlikte, yaptığınız her değişiklik için çalıştırılmasına g
 
 Web sitesinin yerel olarak çalışan bir örneğine sahip olduğunuzda, katkıda bulunmaya hazırsınız!
 Notlar: Lütfen satır sonu karakterleri için ``<br/>`` kullanın<br/>
-Gereken Node.js versiyonu >= ``12.13.0``
-Eğer Yarn kullanıyorsanız: Yarn versiyonu >= ``1.5``
+Gereken Node.js versiyonu >= ```18.12.1```
+Eğer Yarn kullanıyorsanız: Yarn versiyonu >= ``1.22.19``
