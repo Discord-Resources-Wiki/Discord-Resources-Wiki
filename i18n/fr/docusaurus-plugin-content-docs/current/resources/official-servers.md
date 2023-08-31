@@ -12,12 +12,6 @@ __Lien:__ [Discord Developers](https://discord.gg/discord-developers)
 
 @gg/discord-developers
 
-## Discord Creator Center
-> __Description:__ Discord Creator Center est un serveur géré par Discord. Ce serveur est destiné aux créateurs qui sont rémunérés par les utilisateurs payant un abonnement depuis un serveur.<br/>
-__Lien:__ [Discord Creator Center](https://discord.gg/creatorcenter)
-
-@gg/creatorcenter
-
 ## Discord Town Hall 
 > __Description:__ Un serveur officiel de chat général pour les personnes qui aiment Discord. Découvrez les dernières nouveautés, les événements et une communauté que vous aimez !   <br/>
 __Lien:__ [Discord Town Hall](https://discord.gg/discord-townhall)
