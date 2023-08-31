@@ -18,9 +18,6 @@ __Link:__  [Comment faire un signalement](https://dis.gd/howtoreport) | [DMA Art
 > __Description:__ Un guide sur la façon de trouver des identifiants.   <br/>
 __Link:__  [Comment obtenir les IDs des utilisateurs, des serveurs et des messages](https://dis.gd/findmyid)
 
-## Discord Bugs
-> __Description:__  L'outil officiel pour rechercher les bugs signalés et approuvés.   <br/>
-__Link:__ [Discord Bugs](https://bugs.discord.com/)
 
 ## Outil pour les testeurs de Bug Discord
 > __Description:__ L'outil officiel pour générer du texte pour la commande !submit de DBug. Le formulaire vous guide pas à pas à travers chaque entrée pour générer automatiquement une commande à la fin.   <br/>

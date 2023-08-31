@@ -20,11 +20,6 @@ description: Offizielle Links von Discord.
 > **Beschreibung:** Ein Leitfaden für die Suche nach einer ID.   <br/>
 **Link:**  [Wie man User/Server/Message IDs bekommt](https://dis.gd/findmyid)
 
-## Discord Bugs
-
-> **Beschreibung:**  Das offizielle Tool zum Auffinden gemeldeter und genehmigter Fehler.   <br/>
-**Link:** [Discord Bugs](https://bugs.discord.com/)
-
 ## Discord Testers Bug Tool
 
 > **Beschreibung:** Das offizielle Tool zum Generieren von Text für den !submit-Befehl von DBug. Das Formular führt dich Schritt für Schritt durch jede Eingabe, um am Ende automatisch einen Befehl für dich zu generieren.   <br/>

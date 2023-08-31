@@ -18,9 +18,6 @@ description: Officiële links van Discord.
 > **Beschrijving:** Een handleiding voor het vinden van ID's.   <br/>
 **Link:**  [Hoe krijg je een User/Server/Berichten ID](https://dis.gd/findmyid)
 
-## Discord Bugs
-> **Beschrijving:** De officiële tool om gemelde en geaccepteerde bugs te bekijken. <br/>
-**Link:** [Discord Bugs](https://bugs.discord.com/)
 
 ## Discord Testers Bug Tool
 > **Beschrijving:** De officiële tool voor het genereren van tekst voor het !submit-commando van DBug. Het formulier leidt u stap voor stap door elke invoer om aan het einde automatisch een opdracht voor u te genereren.   <br/>
