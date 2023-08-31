@@ -40,9 +40,9 @@ We want to thank:<br/>
 @480495309491798037 - <http://discord.wiki/> Redirect Owner <br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker <br/>
 @427146305651998721 - Maintainer <br/>
+@255553750654124032 - Maintainer <br />
 @582211583938134028 - Maintainer <br/>
 @347077478726238228 - Maintainer <br />
-@255553750654124032 - Maintainer <br />
 
 ## How to test changes locally
 
