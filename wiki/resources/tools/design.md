@@ -106,3 +106,33 @@ description: Design tools
 
 > **Description:** Free vectors, stock photos, and PSD.  <br/>
 **Link:** [Freepik](https://freepik.com/)
+
+# Stack Sorted
+
+> **Description:** Find Inspiration in Design Elements. <br/>
+**Link:** [Stack Sorted](https://stacksorted.com/)
+
+# UI Colors
+
+> **Description:** Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color. <br/>
+**Link:** [UI Colors](https://uicolors.app/)
+
+# Realtime Colors
+
+> **Description:** Visualize your color palettes on a real website. <br/>
+**Link:** [Realtime Colors](https://realtimecolors.com/)
+
+# Jitter
+
+> **Description:** Create professional animated content with Jitter. Use it to design on-brand animated UIs, videos, social media posts, websites, apps, logos and more. <br/>
+**Link:** [Jitter](https://jitter.video/)
+
+# LordIcon
+
+> **Description:** Powerful animated icon library with 8,900+ free and premium animated Lottie animations. Download icons as Lottie JSON, GIF, or static SVG files. <br/>
+**Link:** [LordIcon](https://lordicon.com/)
+
+# Fontshare
+
+> **Description:** Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. <br/>
+**Link:** [Fontshare](https://www.fontshare.com/fonts/satoshi)
