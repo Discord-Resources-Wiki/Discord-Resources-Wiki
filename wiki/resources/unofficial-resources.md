@@ -138,6 +138,8 @@ description: Unofficial resources for Discord.
 > **Description:** Dangercord, formerly known as Dangerous Discord, was created to help protect Discord users from bad actors. <br/>
 **Link:** [Dangercord](https://dangercord.com/)   <br/>
 
+## Hammertime
+
 > **Description:** Generate timestamp indicators for Discord chat messages.   <br/>
 **Link:** [Hammertime](https://hammertime.cyou/)   <br/>
 **Credit:** @140360880079503362
