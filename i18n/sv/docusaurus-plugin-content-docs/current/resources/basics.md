@@ -30,7 +30,7 @@ __Länk:__ [Discords Subreddit](https://www.reddit.com/r/discordapp/)
 
 ## Discords Twittersida
 > __Beskrivning:__ Den officiella Discordsidan på Twitter.   <br/>
-__Länk:__ [Discords Twittersida](https://twitter.com/discord)
+__Länk:__ [Discords Twittersida](https://x.com/discord)
 
 ## Discords Youtubekanal
 > __Beskrivning:__  Den officiella Discordsidan på Youtube.   <br/>

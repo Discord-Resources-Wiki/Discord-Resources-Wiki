@@ -28,9 +28,13 @@ __Link:__ [Discord Blog](https://discord.com/blog)
 > __Description:__ The unofficial Discord Subreddit.   <br/>
 __Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
-## Discord Twitter Page
+## Discord X (Twitter) Page
 > __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord Twitter Page](https://twitter.com/discord)
+__Link:__ [Discord X (Twitter) Page](https://x.com/discord)
+
+## Discord TikTok TikTok
+> __Description:__ The official Discord account on TikTok.   <br/>
+__Link:__ [Discord TikTok Page](https://tiktok.com/@discord)
 
 ## Discord Youtube Page
 > __Description:__  The official Discord page on Youtube.   <br/>

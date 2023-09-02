@@ -30,7 +30,7 @@ __Bağlantı:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
 ## Discord Twitter Sayfası
 > __Tanım:__ Resmi Discord Twitter sayfası.   <br/>
-__Bağlantı:__ [Discord Twitter Sayfası](https://twitter.com/discord)
+__Bağlantı:__ [Discord Twitter Sayfası](https://x.com/discord)
 
 ## Discord Youtube Sayfası
 > __Tanım:__  Resmi Discord Youtube sayfası.   <br/>

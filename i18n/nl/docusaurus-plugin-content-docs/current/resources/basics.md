@@ -30,7 +30,7 @@ Het zorgt ervoor dat iedereen een positieve ervaring heeft en dat gebruikers zic
 
 ## Discord Twitter Pagina
 > **Beschrijving:** De officiële Discord pagina op Twitter.   <br/>
-**Link:** [Discord Twitter Pagina](https://twitter.com/discord)
+**Link:** [Discord Twitter Pagina](https://x.com/discord)
 
 ## Discord Youtube Pagina
 > **Beschrijving:**  De officiële Discord pagina op Youtube.   <br/>

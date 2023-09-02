@@ -33,10 +33,14 @@ It ensures everyone has a positive experience and that users act in a well-behav
 > **Description:** The unofficial Discord Subreddit.   <br/>
 **Link:** [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
-## Discord Twitter Page
+## Discord X (Twitter) Page
 
 > **Description:** The official Discord page on Twitter.   <br/>
-**Link:** [Discord Twitter Page](https://twitter.com/discord)
+**Link:** [Discord X (Twitter) Page](https://x.com/discord)
+
+## Discord TikTok TikTok
+> __Description:__ The official Discord account on TikTok.   <br/>
+__Link:__ [Discord TikTok Page](https://tiktok.com/@discord)
 
 ## Discord YouTube Channel
 
