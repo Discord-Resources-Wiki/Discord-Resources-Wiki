@@ -35,8 +35,7 @@ description: Unofficial resources for Discord.
 > **Description:** A list of all the shortened Discord links.   <br/>
 **Link(s):**  <br/>
 [List Of Dis.gd URLs](https://herogamers.dev/dis.gd/)   <br/>
-[List Of Dis.gd URLs 2](https://thecutefoxxy.com/discord-shortlinks)  <br/>
-**Credit:** @179655253392621569 @641795527444529152
+**Credit:** @179655253392621569
 
 ## Discord Wiki (fandom)
 
@@ -138,3 +137,9 @@ description: Unofficial resources for Discord.
 
 > **Description:** Dangercord, formerly known as Dangerous Discord, was created to help protect Discord users from bad actors. <br/>
 **Link:** [Dangercord](https://dangercord.com/)   <br/>
+
+## Hammertime
+
+> **Description:** Generate timestamp indicators for Discord chat messages.   <br/>
+**Link:** [Hammertime](https://hammertime.cyou/)   <br/>
+**Credit:** @140360880079503362
