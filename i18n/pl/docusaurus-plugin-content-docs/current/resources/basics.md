@@ -30,7 +30,7 @@ __Link:__ [Subreddit Discorda](https://www.reddit.com/r/discordapp/)
 
 ## Strona Twitter Discorda
 > __Opis:__ Oficjalna strona Discorda na Twitterze.   <br/>
-__Link:__ [Strona Twitter Discorda](https://twitter.com/discord)
+__Link:__ [Strona Twitter Discorda](https://x.com/discord)
 
 ## Strona Youtube Discorda
 > __Opis:__  Oficjalna strona Discorda na Youtube.   <br/>

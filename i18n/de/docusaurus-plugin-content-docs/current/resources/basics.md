@@ -36,7 +36,7 @@ So wird sichergestellt, dass alle Beteiligten positive Erfahrungen machen und da
 ## Discord Twitter
 
 > **Beschreibung:** Die offizielle Discord-Seite auf Twitter.   <br/>
-**Link:** [Discord Twitter](https://twitter.com/discord)
+**Link:** [Discord Twitter](https://x.com/discord)
 
 ## Discord YouTube
 

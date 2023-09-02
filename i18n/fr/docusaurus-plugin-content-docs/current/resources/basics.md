@@ -30,7 +30,7 @@ __Lien:__ [Subreddit Discord](https://www.reddit.com/r/discordapp/)
 
 ## Page Twitter de Discord
 > __Description:__ La page Twitter officielle de Discord.   <br/>
-__Lien:__ [Page Twitter de Discord](https://twitter.com/discord)
+__Lien:__ [Page Twitter de Discord](https://x.com/discord)
 
 ## Page Youtube de Discord
 > __Description:__  La page YouTube officielle de Discord.   <br/>

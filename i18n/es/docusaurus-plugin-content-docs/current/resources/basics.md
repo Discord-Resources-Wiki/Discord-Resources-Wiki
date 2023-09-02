@@ -36,7 +36,7 @@ Garantiza que todos los usuarios tengan una experiencia positiva y actúen con d
 ## Perfil de Discord en Twitter
 
 > **Descripción:** La página oficial de Discord en Twitter.   <br/>
-**Enlace:** [Perfil de Twitter](https://twitter.com/discord)
+**Enlace:** [Perfil de Twitter](https://x.com/discord)
 
 ## Canal de YouTube de Discord
 

@@ -30,7 +30,7 @@ __Link:__ [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
 ## Discord X (Twitter) Page
 > __Description:__ The official Discord page on Twitter.   <br/>
-__Link:__ [Discord X (Twitter) Page](https://twitter.com/discord)
+__Link:__ [Discord X (Twitter) Page](https://x.com/discord)
 
 ## Discord TikTok TikTok
 > __Description:__ The official Discord account on TikTok.   <br/>
