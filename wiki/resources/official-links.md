@@ -107,3 +107,8 @@ description: Official links from Discord.
 
 > **Description:** Official RSS Feed of Discords Blog. <br/>
 **Link:** [Blog RSS Feed](https://discord.com/blog/rss.xml)
+
+## Discord Embed Debugger
+
+> **Description:** Test and debug link embeds for your website. <br/>
+**Link:** [Discord Embed Debugger](https://discord.com/developers/embeds)
