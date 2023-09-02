@@ -1,4 +1,4 @@
----
+ ---
 title: Programming Related 
 sidebar_position: 2
 description: Programming related tools
@@ -25,8 +25,8 @@ description: Programming related tools
 ## Some Random API
 
 > **Description:** Variety of fun endpoints for devs to use.  <br/>
-**Link:** [Some Random API](https://some-random-api.ml/)  <br/>
-**Credit:** @423675224395874314
+**Link:** [Some Random API](https://some-random-api.ml/) new one [Some Random API](https://some-random-api.com/) #RIPTelk <br/>
+**Credit(s):** @423675224395874314 @116930717241311236
 
 ## Choose A License
 
@@ -140,3 +140,18 @@ description: Programming related tools
 > **Description:** A package that helps make paginated messages easier in discord.js. <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev
+
+## Script Kit: Shortcut to Everything
+
+> **Description:** An open-source kit to optimize your developer workflow.   <br/>
+**Link:** [Script Kit](https://www.scriptkit.com/)
+
+## Conventional Commits
+
+> **Description:** A specification for adding human and machine readable meaning to commit messages.   <br/>
+**Link:** [Conventional Commits](https://www.conventionalcommits.org/)
+
+## Pretty Typescript (VSCode Addon)
+
+> **Description:** Make TypeScript errors prettier and human-readable in VSCode.   <br/>
+**Link:** [Pretty Typescript](https://github.com/yoavbls/pretty-ts-errors)
