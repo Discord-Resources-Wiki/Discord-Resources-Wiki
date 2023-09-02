@@ -80,7 +80,9 @@ const config = {
 				},
 			],
 			colorMode: {
-				defaultMode: 'dark'
+				defaultMode: 'dark',
+				disableSwitch: false,
+				respectPrefersColorScheme: true,
 			},
 			navbar: {
 				title: 'Discord Resources',
