@@ -44,7 +44,6 @@ We want to thank:<br/>
 @582211583938134028 - Maintainer <br/>
 @347077478726238228 - Maintainer <br />
 @340243638892101646 - Maintainer <br />
-@340243638892101646 - Maintainer <br />
 
 ## How to test changes locally
 
