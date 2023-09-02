@@ -128,3 +128,8 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 > **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
 **Link:** [Video Compressor](https://8mb.video/)
+
+> # Remove Background
+
+> **Description:** Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. <br/>
+**Link:** [Remove Background](https://www.remove.bg/)

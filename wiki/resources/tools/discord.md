@@ -279,3 +279,15 @@ description: Discord related tools
 > **Description:** A website that allows users to make simple looking role icons for their servers.   <br/>
 **Link:** [Discord Icon](https://discordicon.com)   <br/>
 **Credit:** @github:enzostvs
+
+## DiscoTools.xyz
+
+> **Description:** Create your own role icons for your Discord server. Customize your server's icon, and create your own custom roles. It's free! Try it now!   <br/>
+**Link:** [DiscoTools](https://www.discotools.xyz)   <br/>
+**Credit:** @452475691410128906
+
+## Discord AutoMod Regexes
+
+> **Description:** A collection of regex rules that can be used with Discord's AutoMod filters. This is not affiliated with Discord.   <br/>
+**Link:** [Discord AutoMod Regexes](https://www.discordregex.xyz/)   <br/>
+**Credit:** @461560462991949863

@@ -87,3 +87,28 @@ description: Unofficial servers related to Discord
 **Credit:** The Programmers Hangout team (owned by @335628039302021121)
 
 @gg/programming
+
+## Discord Creators (With verification)
+
+> **Description:** Private Community for Verified Bot Devs, ServerOwners & Creators.  <br/>
+**Link:** [Discord Creators](https://discord.gg/R3hPevRtUV)  <br/>
+**Credit:** owned by @691288534375596062
+
+@gg/R3hPevRtUV
+
+## Owners Portal (With verification)
+
+> **Description:** A community dedicated to connecting server owners, bot developers, moderators, and digital
+> artists.  <br/>
+**Link:** [Owners Portal](https://discord.gg/owner)  <br/>
+**Credit:** owned by @676867934504747008
+
+@gg/owner
+
+## Discord Bot Owners (With verification)
+
+> **Description:** Private Community for Verified Bot Devs.  <br/>
+**Link:** [Discord Bot Owners](https://discord.gg/tZNRf7WfBU)  <br/>
+**Credit:** owned by @212844004889329664
+
+@gg/tZNRf7WfBU
