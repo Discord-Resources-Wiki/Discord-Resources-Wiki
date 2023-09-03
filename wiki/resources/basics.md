@@ -38,7 +38,7 @@ It ensures everyone has a positive experience and that users act in a well-behav
 > **Description:** The official Discord page on Twitter.   <br/>
 **Link:** [Discord X (Twitter) Page](https://x.com/discord)
 
-## Discord TikTok TikTok
+## Discord TikTok Page
 > __Description:__ The official Discord account on TikTok.   <br/>
 __Link:__ [Discord TikTok Page](https://tiktok.com/@discord)
 
