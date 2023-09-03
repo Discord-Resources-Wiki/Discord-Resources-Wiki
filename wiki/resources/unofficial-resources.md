@@ -57,7 +57,7 @@ description: Unofficial resources for Discord.
 
 ## List of Stickers
 
-> **Description:** A list of all stickers you gain access to as a Nitro subscriber, including previews and descriptions of stickers.   <br/>
+> **Description:** A list of all default discord stickers, including previews and descriptions of stickers.   <br/>
 **Link:** [List Of Stickers](https://stickers.advaith.io/)   <br/>
 **Credit:** @190916650143318016
 
