@@ -12,7 +12,7 @@ export default function UserWidgetInline({data}) {
 					<span className={styles.userUsername} style={{color: isDarkTheme ? '#fff' : '#000'}}>
 						{data.name}
 					</span>
-					<span className={styles.userDiscriminator}>#{data.discriminator}</span>
+					<span className={styles.userDiscriminator}>{data.discriminator && !['0', '0000'].includes(data.discriminator) ? '#' + data.discriminator : ''}</span>
 				</>
 			);
 		} else {

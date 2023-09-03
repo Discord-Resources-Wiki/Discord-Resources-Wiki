@@ -6,7 +6,7 @@ export default function BlogAuthorWidget({data}) {
 			return (
 				<span>
 					{user.name}
-					<span style={{color: 'lightgray', fontWeight: 400}}>#{user.discriminator}</span>
+					<span style={{color: 'lightgray', fontWeight: 400}}>{user.discriminator && !['0', '0000'].includes(user.discriminator) ? '#' + user.discriminator : ''}</span>
 				</span>
 			);
 		} else {
