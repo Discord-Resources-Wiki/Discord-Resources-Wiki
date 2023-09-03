@@ -77,7 +77,7 @@ description: Bot informations and lists
 **Link:** [DStat](https://github.com/benricheson101/dstat) <br/>
 **Credit:** @255834596766253057
 
-### An Idiot's Guide
+## An Idiot's Guide
 
 > **Description:**  The unofficial Discord.js beginner's guide, written by idiots for beginners.   <br/>
 **Link:** [An Idiot's Guide](https://anidiots.guide/) <br/>
