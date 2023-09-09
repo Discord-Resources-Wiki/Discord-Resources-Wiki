@@ -19,7 +19,6 @@ description: Fun links
 <https://ur-not.pro/> | You're not pro   <br/>
 <https://annoying.name/> | annoying name   <br/>
 <https://tennineeightsevensixfivefourthreetwo.one/> | Counts down rickroll   <br/>
-<https://letterh.xyz/> | the letter h   <br/>
 <https://chir.ag/projects/tip-of-my-tongue/> | tip my tongue   <br/>
 <https://bigrat.monster/> | big rat   <br/>
 <https://oooooooooooooo.ooo/> | oooooooo   <br/>
