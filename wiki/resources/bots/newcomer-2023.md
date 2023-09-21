@@ -45,6 +45,6 @@ description: Best Newcomer Discord bot recommendations of 2023.
  
 ### #7 NotifyMe
 
-> **Description:** Get notified whenever your favorite content creators post on YouTube, or go live on Twitch and Kick! <br/>
+> **Description:** Notify your Discord Community, whenever your favorite creators post on YouTube and TikTok, or go live on Twitch and Kick.com! <br/>
 **Link:**  [NotifyMe Website](https://notifymebot.com/)  <br/>
 **Credit:** @1044032607207301160
