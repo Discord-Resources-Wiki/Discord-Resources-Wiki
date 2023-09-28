@@ -42,7 +42,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <td>(Unknown)</td>
     </tr>
     <tr>
-        <td>Originaly known as</td>
+        <td>Originally known as</td>
         <td><img src="/img/username.png"></img></td>
         <td>✅</td>
         <td>Given to people when they change to the new username system <a href="https://support.discord.com/hc/en-us/articles/12620128861463-New-Usernames-Display-Names#docs-internal-guid-0f4df147-7fff-285d-073f-5688681d6d30">(Can be hidden)</a></td>
