@@ -193,7 +193,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <td>Boost a Discord server for 1 year and 6 months straight.</td>
     </tr>
     <tr>
-        <td>Server boosting (1 Month)</td>
+        <td>Server boosting (2 Years)</td>
         <td><img src="/img/boosts/discordboost9.svg"></img></td>
         <td>Boost a Discord server for 2 years straight.</td>
     </tr>
