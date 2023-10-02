@@ -147,7 +147,7 @@ description: Discord related tools
 ## Mozzy's Log Sorter
 
 > **Description:** An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
-**Link:** [Mozzy’s Log Sorter](https://logsorter.net/)   <br/>
+**Link:** [Mozzy’s Log Sorter](https://logsorter.com/)   <br/>
 **Credit:** @99182302885588992
 
 ## Webence
