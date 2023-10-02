@@ -23,12 +23,6 @@ description: Discord related tools
 **Link:** [Discord Tools](https://discordtools.io/)   <br/>
 **Credit:** @276544649148235776
 
-## Discord Toolbox
-
-> **Description:** Discord tools such as Discord status updates, experiments info, and servers/snowflakes lookup.   <br/>
-**Link:** [Discord Toolbox](https://distools.app/)   <br/>
-**Credit:** @386861188891279362
-
 ## Discord Lookup
 
 > **Description:** Easy to use tool to lookup users, guilds, invites, and get information about your guild list with stats, server experiment rollouts, features, and permissions view.  <br/>
@@ -111,11 +105,6 @@ description: Discord related tools
 **Link:** [Dragory’s Role Colour Preview](https://dragory.github.io/role-preview-for-discord/)   <br/>
 **Credit:**  @106391128718245888
 
-## DeepResearch
-
-> **Description:** Discord status that provides visualisations, analytics, and tools for chat-based communities.   <br/>
-**Link:** [DeepResearch](https://www.altr.fyi/)
-
 ## Experiments Rollouts
 
 > **Description:** Shows the current Discord experiments and their rollout percentage.   <br/>
@@ -149,12 +138,6 @@ description: Discord related tools
 > **Description:** An easy log parser that supports multiple different bot logs that allows you to grab user IDs from big sections of logs.   <br/>
 **Link:** [Mozzy’s Log Sorter](https://logsorter.com/)   <br/>
 **Credit:** @99182302885588992
-
-## Webence
-
-> **Description:** A tool that allows you to embed your Discord profile in an iframe.   <br/>
-**Link:** [Webence](https://panleyent.com/webence/)   <br/>
-**Credit:**  @249287049482338305
 
 ## Discordstatus
 
@@ -221,20 +204,6 @@ description: Discord related tools
 > **Description:** Sends a Google Form response to a Discord channel using webhooks.  <br/>
 **Link** [Google forms -> Discord Webhook](https://github.com/Iku/Google-Forms-to-Discord)  <br/>
 **Credit:** @87599455892692992
-
-## Crosslink's Utility Links
-
-> **Description:** Easy to use links to lookup users and domains. Replace "ID" with a User ID and "Domain" with the domain name.  <br/>
-**Link(s):** <br />
-[User Info](https://crss.link/u/ID) <br/>
-[Domain Info](https://crss.link/d/Domain)  <br/>
-**Credit:** @249287049482338305
-
-## Merlin's Embed Links
-
-> **Description:** Easy to use links to embed users, servers, and invites.  <br/>
-**Link:** [Embeddable Links](https://url.wtf) <br/>
-**Credit:** @386861188891279362
 
 ## Scratch For Discord
 
