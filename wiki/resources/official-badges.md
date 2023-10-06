@@ -86,7 +86,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
     <tr>
         <td>Partnered Server Owner</td>
         <td><img src="/img/discordpartner.svg"></img></td>
-        <td>⏸️</td>
+        <td>❌</td>
         <td>Owning a server that meets Discords partner <a href="https://support.discord.com/hc/en-us/articles/115001494012">requirements</a> and got accepted for a partnership.</td>
         <td>2 (2^1)</td>
     </tr>
@@ -212,8 +212,8 @@ Discord badges are epic-looking achievements to make your profile look cool. The
     <tr>
         <td>Partnered Server</td>
         <td><img src="/img/server/Partnered.svg"></img></td>
-        <td>⏸️</td>
-        <td>Given to partnered Discord servers (Currently paused)</td>
+        <td>❌</td>
+        <td>Given to partnered Discord servers</td>
     </tr>
     <tr>
         <td>Verified Server</td>
