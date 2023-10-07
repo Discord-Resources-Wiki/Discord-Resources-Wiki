@@ -12,6 +12,7 @@
 
 ## Discord Resources Wiki
 
-This GitHub repository is the backstage of the **Discord Resources Wiki**, which can be found [here](https://discordresources.com/). <br/>
-You can join the official guild of this project [here](https://discordresources.com/discord). <br/>
-*feel free to star this repo we won't be mad*
+This GitHub repository has been depracated. Please use new GitHub repository for future.
+You can find it  [here](https://github.com/DC-Resources-Wiki/Discord-Resources-Wiki)
+
+This will stay up for a week after migration. After that, files here will be removed.
