@@ -14,5 +14,3 @@
 
 This GitHub repository has been depracated. Please use new GitHub repository for future.
 You can find it  [here](https://github.com/DC-Resources-Wiki/Discord-Resources-Wiki)
-
-This will stay up for a week after migration. After that, files here will be removed.
